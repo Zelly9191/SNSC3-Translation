@@ -294,7 +294,7 @@
   <ascii>
     But yeah, thanks to you,<end_line>
     I'm able to craft strong weapons and<end_line>
-    keep up with strong opponents now.<end_line>
+    keep up with strong opponents.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -319,7 +319,7 @@
     立ッテイルノデスネ<end_line>
   </sjis>
   <ascii>
-    Are You Trying To Say That<end_line>
+    You Are Trying To Say That<end_line>
     I Am Useful To You?<end_line>
   </ascii>
 </dialogue>
@@ -636,9 +636,8 @@
     強い相手とも戦えるようになったしね<end_line>
   </sjis>
   <ascii>
-    But yeah, thanks to you,<end_line>
-    I'm able to craft strong weapons and<end_line>
-    keep up with strong opponents now.<end_line>
+    With you, I can craft strong weapons<end_line>
+    and keep up with strong opponents.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -651,7 +650,7 @@
     そうじゃろうて<end_line>
   </sjis>
   <ascii>
-    Mhm.<end_line>
+    Mm.<end_line>
     I'm here to help.<end_line>
   </ascii>
 </dialogue>
@@ -686,7 +685,7 @@
     まかせておくがいい<end_line>
   </sjis>
   <ascii>
-    Sure thing, partner.<end_line>
+    Let's.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1128,8 +1127,8 @@
     ふざけるな！<end_line>
   </sjis>
   <ascii>
-    <three_dots>You think I'm gonna say that?<end_line>
-    In your dreams, idiot!<end_line>
+    <three_dots>Not.<end_line>
+    Idiot!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -1472,8 +1471,8 @@
   </sjis>
   <ascii>
     With you here,<end_line>
-    I can craft strong weapons, and<end_line>
-    keep up with strong opponents now.<end_line>
+    I can craft strong weapons,<end_line>
+    and keep up with strong opponents.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
