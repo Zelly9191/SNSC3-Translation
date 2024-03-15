@@ -1,18 +1,6 @@
-# SNSC3-Translation
-
-https://gbatemp.net/threads/summon-night-swordcraft-story-beginnings-stone.389972/
-
-Alternate location to private gDrive.
-
-Current Status:
-
-Main Scenario Initial Translation: 100%
-
-Main Scenario Proofreading: ~60%
-
-Side Quests, Shops, etc: 0%? (don't expect this any time soon)
-
 # ScriptValidator
+
+Written by salixa
 
 Written in Python 3.5.2. Requires 3.3.0 or greater.
 
@@ -28,45 +16,3 @@ optional arguments:
 
   -h, --help  show this help message and exit
 
-
-# Credits (as copied from gbatemp):
-
-## Translation:
-
-macaronron
-
-salixa
-
-X_Wings
-
-xswordcraftx
-
-cyan
-
-haruka-123
-
-Zynk
-
-Akiron
-
-Chronomoogle
-
-TheZu
-
-gangrelion
-
-magicalpatcher
-
-## Hacking:
-
-Ritchburn
-
-Aent
-
-TLZ
-
-Earthdarkness
-
-Ghanmi
-
-Normmatt
