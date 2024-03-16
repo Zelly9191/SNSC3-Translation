@@ -1,6 +1,7 @@
 import argparse
 import lxml.etree as ET
 from lxml import html as ETHtml
+from JEScripts_Preprocessor import Preprocess_JEScript_XML_Content
 import os
 from pathlib import Path
 import csv
@@ -12,10 +13,12 @@ parser.add_argument('-out', nargs='?', default='TranslationReport.csv', help='a 
 parser.add_argument('-v', action='store_true' , help='use if you need more debug info')
 parser.add_argument('-skip_gendered', action='store_true' , help='use if you want to skip reporting missing translations inside of <male>/<female> tags')
 parser.add_argument('-skip_locations', action='store_true' , help='use if you want to skip reporting missing translations inside <location> tags')
-parser.add_argument('-skip_dialogues', action='store_true' , help='use if you want to skip all generic dialogue tags')
+parser.add_argument('-skip_others', action='store_true' , help='use if you want to skip all other tags with untranslated text')
 
 
 args = parser.parse_args()
+#TODO: group error msg in a dictionary, for better filtering and sorting posibilities
+#EntriesByCategory = {}
 #-----
 
 def Get_file_list(aDir, aFiletype=".xml"):
@@ -38,15 +41,14 @@ def check_gendered_missing_EN_loc(fName, outer):
     msg=""
     #if the outer's next sibling is not another gendered tag or a translation, that means the whole JP text was not translated
     if nextOuterSibling is None or (nextOuterSibling.tag != "male" and nextOuterSibling.tag != "female" and nextOuterSibling.tag != "ascii"):
-        msg = resultMsg = f"file: [{fName}] :: start Line: {outer.sourceline} -> End line: {endline_num} | [Gendered Dialogue] Missing EN translation (<ascii></ascii> tags)."
+        msg = resultMsg = f"file: [{fName}] :: start Line: {outer.sourceline} -> End line: {endline_num} | [MALE/FEMALE] Missing EN translation (<ascii></ascii> tags)."
     return msg
-    pass
 #end check_gendered_missing_EN_loc(inSjisTag)
 
 def find_missing_EN_loc(xmlFile):
     missingEnList = []
     with open(xmlFile, encoding="utf-8") as fobj:
-        xml_contents = fobj.read()
+        xml_contents = Preprocess_JEScript_XML_Content(fobj.read()) #here we fixup all unclosed custom tags, to make sure our xml has a valid structure
         xml_bytes = xml_contents.encode("utf-8")
         try:
             root = ETHtml.fromstring(xml_bytes)
@@ -64,15 +66,15 @@ def find_missing_EN_loc(xmlFile):
                             continue
                         #gendered text may have a single translation <ascii></ascii> tag, right after </male> or </female> closing tags. This means both <sjis> JP text have the same EN <ascii> translation
                         resultMsg = check_gendered_missing_EN_loc(xmlFile, outer_tag)
-                    else:
-                        type = "[Dialogue]"
-                        if outer_tag_name == "location":
-                            if args.skip_locations: #check if we should skip locations
-                                continue
-                            type = "[Location]"
-                        elif args.skip_dialogues: #check if we should skip dialogues
+                    elif outer_tag_name == "location":
+                        if args.skip_locations: #check if we should skip locations
                             continue
-
+                        type = f"[{outer_tag_name.upper()}]"
+                        resultMsg = f"file: [{xmlFile}] :: start Line: {sjis_tag.sourceline} -> End line: {endline_num} | {type} Missing EN translation (<ascii></ascii> tags)."
+                    else:
+                        if args.skip_others: #check if we should skip dialogues
+                            continue
+                        type = f"[{outer_tag_name.upper()}]"
                         resultMsg = f"file: [{xmlFile}] :: start Line: {sjis_tag.sourceline} -> End line: {endline_num} | {type} Missing EN translation (<ascii></ascii> tags)."
                     #save result message
                     if resultMsg != "":
@@ -108,7 +110,6 @@ def main():
     print("Please wait...")
     for xml in XmlList:
         resultList += find_missing_EN_loc(xml)
-    
     finalList = []
     msg =f"Found {len(resultList)} missing EN translations."
     finalList.append(msg+" Below are the results:")
