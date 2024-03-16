@@ -8,3 +8,6 @@ sn3_export_story/*
 ~\$Locations\.xlsx
 
 \.~lock\.Locations\.xlsx#
+/JE Validator/IScripts/*
+/JE Validator/JE Files/*
+/JE Validator/.vscode

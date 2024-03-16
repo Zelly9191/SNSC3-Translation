@@ -1,3 +1,0 @@
-IScripts/*
-JE Files/*
-.vscode
