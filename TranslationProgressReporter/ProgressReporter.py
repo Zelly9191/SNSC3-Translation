@@ -8,7 +8,7 @@ import csv
 #-----
 #setup argparse
 parser = argparse.ArgumentParser(description='Find places in .xml scripts (JE Scripts) that are missing English translations')
-parser.add_argument('-jePath', type=str, required=True, help='path Folder(s) containing XML files to validate.')
+parser.add_argument('-dir', type=str, required=True, help='Path to folder(s) containing XML files to validate (It will be recursively scanned).')
 parser.add_argument('-out', nargs='?', default='TranslationReport.csv', help='a .csv file where the report should be written to.')
 parser.add_argument('-v', action='store_true' , help='use if you need more debug info')
 parser.add_argument('-skip_gendered', action='store_true' , help='use if you want to skip reporting missing translations inside of <male>/<female> tags')
@@ -96,12 +96,12 @@ def export_to_csv(msgList):
                     
 def main():
     #parse path that needs to be scanned
-    scanPath = Path(args.jePath) #by default let's assume it's absolute
+    scanPath = Path(args.dir) #by default let's assume it's absolute
     if not scanPath.is_absolute(): #now we check if maybe it's a relative path
-        scanPath = Path(os.getcwd(), args.jePath).resolve() #convert relative Path to absolute path for sanity
+        scanPath = Path(os.getcwd(), args.dir).resolve() #convert relative Path to absolute path for sanity
 
     #search for xml files:
-    print("Scanning dir: ["+args.jePath+"] for .xml files")
+    print("Scanning dir: ["+args.dir+"] for .xml files")
     XmlList = Get_file_list(scanPath, ".xml")
     #search through file list
     resultList = []
