@@ -14,9 +14,8 @@
     剣の達人でもある『匠』<end_line>
   </sjis>
   <ascii>
-    They are expert weaponsmiths,<end_line>
-    and at the same time,<end_line>
-    masters of the sword.<end_line>
+    Artisans of weapons.<end_line>
+    Masters of the sword.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -27,9 +26,9 @@
     特別な称号       <end_line>
   </sjis>
   <ascii>
-    It is a special title only given to<end_line>
-    those who have fully immersed their<end_line>
-    body in the fires of the forge.<end_line>
+    A special title only given to those<end_line>
+    with a body as firm as a forge,<end_line>
+    and a mind as sharp as a sword.<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -53,7 +52,7 @@
     </sjis>
     <ascii>
       <three_dots><end_line>
-      Sister Vee<three_dots><end_line>
+      Sister V.E<three_dots><end_line>
     </ascii>	
   </male>
   <female>
@@ -63,7 +62,7 @@
     </sjis>
     <ascii>
       <three_dots><end_line>
-      Sis Vee<three_dots><end_line>
+      V.E sis<three_dots><end_line>
     </ascii>	
   </female>
 </dialogue>
@@ -77,9 +76,9 @@
     本当に立派だったぞ<end_line>
   </sjis>
   <ascii>
-    You've done well to endure<end_line>
-    my training for so long.<end_line>
-    I'm impressed.<end_line>
+    You've done well on enduring<end_line>
+    the training I've given you<end_line>
+    for this long. I'm impressed.<end_line>
   </ascii>	
 </dialogue>
 <dialogue>
@@ -90,7 +89,7 @@
     ありがとうございます！<end_line>
   </sjis>
   <ascii>
-    Thank you very much!<end_line>
+    You have my utmost respect, master!<end_line>
   </ascii>	
 </dialogue>
 <dialogue>
@@ -103,7 +102,7 @@
   </sjis>
   <ascii>
     Well then,<end_line>
-    it's time for the final test<three_dots><end_line>
+    it's time for your final test<three_dots><end_line>
   </ascii>	
 </dialogue>
 <dialogue>
@@ -114,7 +113,7 @@
     <three_dots>はい<end_line>
   </sjis>
   <ascii>
-    <three_dots>Yes.<end_line>
+    <three_dots>Understood.<end_line>
   </ascii>	
 </dialogue>
 <dialogue>
@@ -127,7 +126,7 @@
   </sjis>
   <ascii>
     <player_nickname><end_line>
-    You have your hammer, right?<end_line>
+    You brought your hammer, right?<end_line>
   </ascii>	
 </dialogue>
 <dialogue>
@@ -150,9 +149,9 @@
     アンタの魂がこもってる<three_dots><end_line>
   </sjis>
   <ascii>
-    Haha<three_dots><end_line>
-    It's a good hammer.<end_line>
-    It's filled with your soul<three_dots><end_line>
+    Fufu<three_dots><end_line>
+    Not a bad hammer, I must say.<end_line>
+    Your spirit shines within it<three_dots><end_line>
   </ascii>	
 </dialogue>
 <dialogue>

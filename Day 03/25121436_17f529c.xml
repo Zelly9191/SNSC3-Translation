@@ -394,6 +394,9 @@
 	<sjis>
 		<three_dots><end_line>
 	</sjis>
+	<ascii>
+		<three_dots><end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
