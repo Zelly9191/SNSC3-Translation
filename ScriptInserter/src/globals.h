@@ -6,6 +6,7 @@
 #include <regex>
 #include <list>
 
+
 const std::string rawDumpDir = "./raw_dump/";
 const std::string untranslatedDir = "./script_untranslated/";
 const std::string JEScriptDir = "./JE_Scripts/";
