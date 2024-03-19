@@ -1,0 +1,19 @@
+SJIS,TRANSLATOR,ASCII
+<three_dots>,...,<three_dots>
+<partner>,[PRTNR],<partner>
+<player_name>,[PLYR],<player_name>
+<player_nickname>,[PLYRNCKNM],<player_nickname>
+　,[SPC],　
+<root>,[RRTT],<root>
+<hearth>,[HRTH],<hearth>
+<paw>,[PPWW],<paw>
+<weapon_type>,[WPNTP],<weapon_type>
+<break>,[BRKK],<break>
+<quote>,[QTTE],<quote>
+<music_note>,[MSCNT],<music_note>
+<option_1>,[OPT1],<option_1>
+<option_2>,[OPTN2],<option_2>
+<lesser_than>,[LSSRTN],<lesser_than>
+<greater_than>,[GRTRTN],<greater_than>
+<black_dot>,[BLKDT],<black_dot>
+<left_arrow>,[LFTRRW],<left_arrow>
