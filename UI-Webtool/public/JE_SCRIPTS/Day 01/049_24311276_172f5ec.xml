@@ -1,0 +1,21 @@
+<dialogue>
+	<info box="nobox">
+	<sjis>
+		　　　　　　　そのとき　　　　　　　<end_line>
+		　たしかにミューノは笑ったんだけど　<end_line>
+		　なぜだかさびしそうに見えたんだ　　<end_line>
+	</sjis>
+  <ascii>
+    At that, she smiled,<end_line>
+    but I could tell she was lonely<three_dots><end_line>
+  </ascii>
+</dialogue>
+<dialogue>
+	<partner name="run-dor">
+	<info box="nobox">
+	<sjis>
+		　　　　　なんとなくだけど　　　　　<end_line>
+		　　　　　今、<partner>が<end_line>
+		　　よろこんでいるように見えたんだ　<end_line>
+	</sjis>
+</dialogue>

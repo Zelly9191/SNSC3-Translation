@@ -1,0 +1,9 @@
+{
+    "routes": [
+        { "src": "/api/paco-gws", "dest": "/api/paco-gws.js" },
+        { "src": "/api/tagaytay-ext", "dest": "/api/tagaytay-ext.js" },
+        { "src": "/api/gubat-thu", "dest": "/api/gubat-thu.js" },
+        { "src": "/api/gubat-sat", "dest": "/api/gubat-sat.js" },
+        { "src": "/api/gubat-pnk", "dest": "/api/gubat-pnk.js" }
+    ]
+}
