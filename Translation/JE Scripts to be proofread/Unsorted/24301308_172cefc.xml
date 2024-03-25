@@ -7,6 +7,11 @@
 		主人公<player_name><end_line>
 		護衛獣<partner><end_line>
 	</sjis>
+	<ascii>
+		This guardian beast conversation is from episode 0.<end_line>
+		Protagonist, <player_name>.<end_line>
+		Guardian Beast, <partner>.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="special">
@@ -15,6 +20,9 @@
 	<sjis>
 		表情変更<end_line>
 	</sjis>
+	<ascii>
+		Change Expression<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="special">
@@ -23,6 +31,9 @@
 	<sjis>
 		表情変更<end_line>
 	</sjis>
+	<ascii>
+		Change Expression<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="special">
@@ -31,6 +42,9 @@
 	<sjis>
 		表情変更<end_line>
 	</sjis>
+	<ascii>
+		Change Expression<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="special">
@@ -39,6 +53,9 @@
 	<sjis>
 		表情変更<end_line>
 	</sjis>
+	<ascii>
+		Change Expression<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="special">
@@ -47,6 +64,9 @@
 	<sjis>
 		表情変更<end_line>
 	</sjis>
+	<ascii>
+		Change Expression<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="special">
@@ -55,6 +75,9 @@
 	<sjis>
 		表情変更<end_line>
 	</sjis>
+	<ascii>
+		Change Expression<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="special">
@@ -63,6 +86,9 @@
 	<sjis>
 		表情変更<end_line>
 	</sjis>
+	<ascii>
+		Change Expression<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="special">
@@ -71,6 +97,9 @@
 	<sjis>
 		表情変更<end_line>
 	</sjis>
+	<ascii>
+		Change Expression<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="special">
@@ -79,6 +108,9 @@
 	<sjis>
 		表情変更<end_line>
 	</sjis>
+	<ascii>
+		Change Expression<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="special">
@@ -87,6 +119,9 @@
 	<sjis>
 		表情変更<end_line>
 	</sjis>
+	<ascii>
+		Change Expression<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="special">
@@ -95,6 +130,9 @@
 	<sjis>
 		表情変更<end_line>
 	</sjis>
+	<ascii>
+		Change Expression<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="special">
@@ -103,6 +141,9 @@
 	<sjis>
 		表情変更<end_line>
 	</sjis>
+	<ascii>
+		Change Expression<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="special">
@@ -111,6 +152,9 @@
 	<sjis>
 		表情変更<end_line>
 	</sjis>
+	<ascii>
+		Change Expression<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="special">
@@ -119,6 +163,9 @@
 	<sjis>
 		表情変更<end_line>
 	</sjis>
+	<ascii>
+		Change Expression<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="special">
@@ -127,6 +174,9 @@
 	<sjis>
 		表情変更<end_line>
 	</sjis>
+	<ascii>
+		Change Expression<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="special">
@@ -135,4 +185,7 @@
 	<sjis>
 		表情変更<end_line>
 	</sjis>
+	<ascii>
+		Change Expression<end_line>
+	</ascii>
 </dialogue>
