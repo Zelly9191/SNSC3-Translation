@@ -2,6 +2,9 @@
 	<sjis>
 		ロブ工房　１階<end_line>
 	</sjis>
+	<ascii>
+		Rob's Workshop　1st Floor<end_line>
+	</ascii>
 </location>
 <dialogue>
 	<info box="simple">
@@ -10,10 +13,16 @@
 		<sjis>
 			ミューノを起こしに行かないと<end_line>
 		</sjis>
+		<ascii>
+			I have to wake Murno up.<end_line>
+		</ascii>
 	</male>
 	<female>
 		<sjis>
 			ミューノを起こしに行かなきゃ<end_line>
 		</sjis>
+		<ascii>
+			I need to wake up Murno.<end_line>
+		</ascii>
 	</female>
 </dialogue>
