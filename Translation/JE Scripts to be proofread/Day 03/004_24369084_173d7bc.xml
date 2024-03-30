@@ -2,6 +2,9 @@
 	<sjis>
 		ボスタフ工房　ディックル村支部<end_line>
 	</sjis>
+	<ascii>
+		Bostaph's workshop　Deckell Branch<end_line>
+	</ascii>
 </location>
 <dialogue>
 	<info box="simple">

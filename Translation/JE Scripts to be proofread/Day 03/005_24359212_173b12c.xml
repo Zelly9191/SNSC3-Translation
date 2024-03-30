@@ -2,11 +2,17 @@
 	<sjis>
 		ディックル村<end_line>
 	</sjis>
+	<ascii>
+		Deckell Village<end_line>
+	</ascii>
 </location>
 <location>
 	<sjis>
 		ディックル村　広場<end_line>
 	</sjis>
+	<ascii>
+		Deckell Village　Square<end_line>
+	</ascii>
 </location>
 <dialogue>
 	<info box="special">

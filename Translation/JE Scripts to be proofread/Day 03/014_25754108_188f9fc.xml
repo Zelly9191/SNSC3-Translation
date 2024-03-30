@@ -2,16 +2,25 @@
 	<sjis>
 		森洞<end_line>
 	</sjis>
+	<ascii>
+		Cave<end_line>
+	</ascii>
 </location>
 <location>
 	<sjis>
 		バジャンの森<end_line>
 	</sjis>
+	<ascii>
+		Bajan Forest<end_line>
+	</ascii>
 </location>
 <location>
 	<sjis>
 		バジャンの森　エリア１<end_line>
 	</sjis>
+	<ascii>
+		Bajan Forest　Area 1<end_line>
+	</ascii>
 </location>
 <dialogue>
 	<info box="simple">

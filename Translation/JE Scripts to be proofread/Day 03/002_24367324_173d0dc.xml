@@ -2,6 +2,9 @@
 	<sjis>
 		ロブ工房　１階<end_line>
 	</sjis>
+	<ascii>
+		Rob's Workshop　1st Floor<end_line>
+	</ascii>
 </location>
 <dialogue>
 	<info box="simple">

@@ -2,11 +2,17 @@
 	<sjis>
 		バジャンの森<end_line>
 	</sjis>
+	<ascii>
+		Bajan Forest<end_line>
+	</ascii>
 </location>
 <location>
 	<sjis>
 		バジャンの森　エリア５<end_line>
 	</sjis>
+	<ascii>
+		Bajan Forest　Area 5<end_line>
+	</ascii>
 </location>
 <dialogue>
 	<info box="simple">
