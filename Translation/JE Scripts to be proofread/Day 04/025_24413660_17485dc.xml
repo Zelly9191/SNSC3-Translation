@@ -2,11 +2,17 @@
   <sjis>
     プロスバンの町<end_line>
   </sjis>
+  <ascii>
+    Prosban<end_line>
+  </ascii>
 </location>
 <location>
   <sjis>
     プロスバンの町　西門<end_line>
   </sjis>
+  <ascii>
+    Prosban　West Gate<end_line>
+  </ascii>
 </location>
 <dialogue>
   <info box="simple">
