@@ -2,11 +2,17 @@
 	<sjis>
 		マーネイル宿場<end_line>
 	</sjis>
+	<ascii>
+		Marnail Station<end_line>
+	</ascii>
 </location>
 <location>
 	<sjis>
 		マーネイル宿場　ほほえみ亭前<end_line>
 	</sjis>
+	<ascii>
+		Marnail Station　Smile Inn Vicinity<end_line>
+	</ascii>
 </location>
 <dialogue>
 	<info box="simple">
