@@ -1,21 +1,24 @@
 #pragma once
 #include "globals.h"
-#include "InsertableObject.h"
+#include "JEObject.h"
 using namespace std;
 
 
 class ScriptInserter
 {
 public:
-	ScriptInserter(string filename);
+	ScriptInserter(string filename, list<JEObject> jObjs);
 	string filename;
-	list<InsertableObject> insertables;
+	list<JEObject> jObjs;
+	list<string> newFileStrings;
 
-	void makeInsertableObjects(list<IScriptObject> iScripts, list<JEObject> jeScripts);
-	void sortScriptObjects();
-	void InsertScript();
+	void readFile();
+	void replaceFile(string outFilename);
 
 private:
-	IScriptObject findMatchingIScriptObject(JEObject jObj, list<IScriptObject>& iObjs);
+	JEObject findMatchingJEObject(list<string> sjisText);
+	bool handleEdgeCases(string text, string beginTxt, string weirdTxt);
+	void insertAsciiText(string beginTxt, string sjisText);
+	void insertAsciiText(string beginTxt, list<string>& sjisText);
 };
 

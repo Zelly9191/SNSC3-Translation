@@ -1,0 +1,29 @@
+
+sometimes je script is missing weird space
+
+~ in 172a98c
+! in 17bcb2c
+B in 1780eec
+
+i - 〜,！,Ｂ
+je - ～,!,B
+
+
+188b67c sjis text completely wrong
+
+17b357c uses both ～ and 〜
+a few i scripts seem to use ～ and 〜 interchangeably, which is not reflected in je scripts
+
+1885bfc asci tag wrong at line 969
+1732aec asci tag wrong at line 2501
+
+186491c i think i script is wrong around line 90
+
+18c7d6c JE script seems to be very incomplete
+1834d0c JE script seems to be very incomplete
+18c42ac JE script seems to be very incomplete
+
+184295c missing first dialog line in jescript
+
+17d027c something is wrong, but I dont know what. stops matching around this line: 大丈夫<three_dots><end_line>
+		                                                                           ちょっと、クラっとしただけで<end_line>
