@@ -119,8 +119,13 @@ void ScriptInserter::replaceFile(string outFilename)
 }
 
 // Matches text based on sjis
-JEObject ScriptInserter::findMatchingJEObject(list<string> sjisText)
+JEObject ScriptInserter::findMatchingJEObject(list<string> &sjisText)
 {
+	for (auto & i : sjisText)
+	{
+		ST.replaceSjisOnlyTags(i);
+	}
+
 	for (auto const& i : jObjs)
 	{
 		if (i.sjisText == sjisText)
@@ -129,7 +134,7 @@ JEObject ScriptInserter::findMatchingJEObject(list<string> sjisText)
 		}
 	}
 	// In case there is no match
-	ofstream oo("nomatch.txt", ios::app);
+	ofstream oo(nomatchFile, ios::app);
 	oo << "No match for the line(s):" << "\n";
 	for (auto const& i : sjisText)
 	{

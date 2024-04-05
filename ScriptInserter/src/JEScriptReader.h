@@ -1,13 +1,11 @@
 #pragma once
 #include "globals.h"
 #include "JEObject.h"
-#include "SymbolTable.h"
 
 class JEScriptReader
 {
 public:
-	JEScriptReader(SymbolTable st, string filepath);
-	SymbolTable st;
+	JEScriptReader(string filepath);
 	string filename;
 	list<JEObject> JEObjects;
 

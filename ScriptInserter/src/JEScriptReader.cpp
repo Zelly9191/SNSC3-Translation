@@ -1,8 +1,7 @@
 #include "JEScriptReader.h"
 
-JEScriptReader::JEScriptReader(SymbolTable st, string filename)
+JEScriptReader::JEScriptReader(string filename)
 {
-    JEScriptReader::st = st;
     JEScriptReader::filename = filename;
 }
 
@@ -33,7 +32,7 @@ void JEScriptReader::readFile()
         else if (text.find("</sjis>") != string::npos)
         {
             readingSJIS = false;
-            JEObject jeObj(st, texts);
+            JEObject jeObj(texts);
             JEObjects.push_back(jeObj);
             texts.clear();
             continue;

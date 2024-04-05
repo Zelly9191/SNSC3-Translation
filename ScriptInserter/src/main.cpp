@@ -1,11 +1,13 @@
 ﻿#include "globals.h"
-#include "SymbolTable.h"
 #include "JEScriptReader.h"
 #include "ScriptInserter.h"
+#include "SymbolTable.h"
 using namespace std;
 
 void makeDirectory();
 string findMatchingFile(string filename);
+
+SymbolTable ST;
 
 int main()
 {
@@ -13,7 +15,7 @@ int main()
     makeDirectory();
 
     // Generate a table to replace tags like <three_dots>
-    SymbolTable st = SymbolTable();
+    ST = SymbolTable();
 
     // Iterate through every file in a directory for JE Scripts
     for (auto const& i : filesystem::recursive_directory_iterator(JEScriptDir))
@@ -35,7 +37,7 @@ int main()
 
         // Read JE script and extract text
         cout << "Reading JE Script" << "\n";
-        JEScriptReader jsr(st, i.path().string());
+        JEScriptReader jsr(i.path().string());
         jsr.readFile();
         jsr.formatText();
 
@@ -58,6 +60,11 @@ void makeDirectory()
     if (!filesystem::is_directory(insertedDir) || !filesystem::exists(insertedDir))
     {
         filesystem::create_directory(insertedDir);
+    }
+
+    if (filesystem::exists(nomatchFile))
+    {
+        filesystem::remove(nomatchFile);
     }
 }
 

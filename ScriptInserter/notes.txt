@@ -3,11 +3,13 @@ sometimes je script is missing weird space
 
 ~ in 172a98c
 ! in 17bcb2c
-B in 1780eec
+B in 1780eec. also missing weird space in location tag
 
 i - 〜,！,Ｂ
 je - ～,!,B
 
+
+181814c je line 523 contains a ? in sjis where i script line 365 does not
 
 188b67c sjis text completely wrong
 

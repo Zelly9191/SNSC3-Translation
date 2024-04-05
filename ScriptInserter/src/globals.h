@@ -11,4 +11,6 @@ const std::string iscriptDir = "./swordcraft3-script/";
 const std::string JEScriptDir = "./Done JE Scripts/";
 const std::string insertedDir = "./Done I Scripts/";
 
+const std::string nomatchFile = "./nomatches.txt";
+
 const std::string ENRegex = "^[a-zA-Z0-9!@#$&;:_|()\\-`.+,<>=/\"\\s]+$";

@@ -1,0 +1,965 @@
+No match for the line(s):
+鍛え抜かれ研ぎすまされた
+心と体の持ち主にのみ与えられる
+特別な称号
+in file ./swordcraft3-script/17bcb2c.txt
+
+No match for the line(s):
+ヴィーねえちゃん…
+泣いてるのか？
+in file ./swordcraft3-script/17bd14c.txt
+
+No match for the line(s):
+ヴィー姉が…
+泣いてるの？
+in file ./swordcraft3-script/17bd14c.txt
+
+No match for the line(s):
+大丈夫…
+ちょっと、クラっとしただけで
+in file ./swordcraft3-script/17d027c.txt
+
+No match for the line(s):
+ゆっくり休むのが一番だよ
+今はそっとしておいてやりな
+in file ./swordcraft3-script/17d027c.txt
+
+No match for the line(s):
+そんな感じでって…
+in file ./swordcraft3-script/17d027c.txt
+
+No match for the line(s):
+うん、わかったよ、親方
+とりあえず村長のところに行こう
+な、[NAME 1]
+in file ./swordcraft3-script/17d027c.txt
+
+No match for the line(s):
+うん、わかったよ、親方
+とりあえず村長のところに行こう
+ね、[NAME 1]
+in file ./swordcraft3-script/17d027c.txt
+
+No match for the line(s):
+…
+了解デス
+in file ./swordcraft3-script/17d027c.txt
+
+No match for the line(s):
+ゆっくり休むのが一番だよ
+今はそっとしておいてやりな
+in file ./swordcraft3-script/17d027c.txt
+
+No match for the line(s):
+そんな感じでって…
+in file ./swordcraft3-script/17d027c.txt
+
+No match for the line(s):
+しかし、本来のワガハイは
+ミューノの召喚獣で…
+in file ./swordcraft3-script/17d027c.txt
+
+No match for the line(s):
+しかし…
+体の調子の悪いミューノを
+ひとりにしておくわけには…
+in file ./swordcraft3-script/17d027c.txt
+
+No match for the line(s):
+うん、わかったよ、親方
+とりあえず村長のところに行こう
+な、[NAME 1]
+in file ./swordcraft3-script/17d027c.txt
+
+No match for the line(s):
+うん、わかったよ、親方
+とりあえず村長のところに行こう
+ね、[NAME 1]
+in file ./swordcraft3-script/17d027c.txt
+
+No match for the line(s):
+ということで、ココにいても
+アンタたちのやることはないよ
+in file ./swordcraft3-script/17d027c.txt
+
+No match for the line(s):
+そっか…
+わかった
+in file ./swordcraft3-script/17d027c.txt
+
+No match for the line(s):
+そんな感じでって…
+in file ./swordcraft3-script/17d027c.txt
+
+No match for the line(s):
+コイツの相方か…
+in file ./swordcraft3-script/17d027c.txt
+
+No match for the line(s):
+ちっ…
+好きにしろ
+in file ./swordcraft3-script/17d027c.txt
+
+No match for the line(s):
+…
+ミューノのメンドウは
+キサマひとりでみるつもりか…
+in file ./swordcraft3-script/17d027c.txt
+
+No match for the line(s):
+私は何も言ってないが…
+in file ./swordcraft3-script/17d027c.txt
+
+No match for the line(s):
+うん、わかったよ、親方
+とりあえず村長のところに行こう
+な、[NAME 1]
+in file ./swordcraft3-script/17d027c.txt
+
+No match for the line(s):
+うん、わかったよ、親方
+とりあえず村長のところに行こう
+ね、[NAME 1]
+in file ./swordcraft3-script/17d027c.txt
+
+No match for the line(s):
+ちっ…
+好きにしろ…
+in file ./swordcraft3-script/17d027c.txt
+
+No match for the line(s):
+ゆっくり休むのが一番だよ
+今はそっとしておいてやりな
+in file ./swordcraft3-script/17d027c.txt
+
+No match for the line(s):
+そんな感じでって…
+in file ./swordcraft3-script/17d027c.txt
+
+No match for the line(s):
+そんな…
+私、本当は
+ミューノ様の召喚獣で…
+in file ./swordcraft3-script/17d027c.txt
+
+No match for the line(s):
+たしかに…
+そうですわ…
+in file ./swordcraft3-script/17d027c.txt
+
+No match for the line(s):
+あの…
+ミューノ様は親方さんが
+ひとりでみているのですか？
+in file ./swordcraft3-script/17d027c.txt
+
+No match for the line(s):
+やっぱり心配ですわ…
+in file ./swordcraft3-script/17d027c.txt
+
+No match for the line(s):
+うん、わかったよ、親方
+とりあえず村長のところに行こう
+な、[NAME 1]
+in file ./swordcraft3-script/17d027c.txt
+
+No match for the line(s):
+うん、わかったよ、親方
+とりあえず村長のところに行こう
+ね、[NAME 1]
+in file ./swordcraft3-script/17d027c.txt
+
+No match for the line(s):
+仕方ありませんわ…
+わかりました…
+in file ./swordcraft3-script/17d027c.txt
+
+No match for the line(s):
+親方モデス
+in file ./swordcraft3-script/1732aec.txt
+
+No match for the line(s):
+え！？
+どうして…
+あいつらを手伝うつもりなの！？
+in file ./swordcraft3-script/181814c.txt
+
+No match for the line(s):
+仕事の内容は注文書にあるから
+たのんだぜ
+お前のウデをみせてくれ
+in file ./swordcraft3-script/18c42ac.txt
+
+No match for the line(s):
+なあ、[NAME 2]
+武器の注文、受ける気ないか？
+in file ./swordcraft3-script/18c42ac.txt
+
+No match for the line(s):
+仕事の内容は注文書にあるから
+たのんだぜ
+お前のウデをみせてくれ
+in file ./swordcraft3-script/18c42ac.txt
+
+No match for the line(s):
+おっ、注文の武器ができたのか？
+in file ./swordcraft3-script/18c42ac.txt
+
+No match for the line(s):
+たのんだぜ
+お前のウデをみせてくれよ
+in file ./swordcraft3-script/18c42ac.txt
+
+No match for the line(s):
+おいおい…
+これじゃあ受け取れねぇぞ…
+ちゃんと注文書見て作ってこいよ
+in file ./swordcraft3-script/18c42ac.txt
+
+No match for the line(s):
+ふ〜ん、しばらく見ない内に
+いい仕事するようになったじゃねぇか
+これなら文句ねぇよ
+in file ./swordcraft3-script/18c42ac.txt
+
+No match for the line(s):
+ごくろうだったな
+んじゃ、コレをやるよ
+悪いもんじゃないぜ、取っとけ
+in file ./swordcraft3-script/18c42ac.txt
+
+No match for the line(s):
+ホントにビミョーだ…
+in file ./swordcraft3-script/18c42ac.txt
+
+No match for the line(s):
+あぁ？
+in file ./swordcraft3-script/18c42ac.txt
+
+No match for the line(s):
+何でもないです
+in file ./swordcraft3-script/18c42ac.txt
+
+No match for the line(s):
+じゃあまた
+何かあったらたのむぜ
+in file ./swordcraft3-script/18c42ac.txt
+
+No match for the line(s):
+じゃあまた何か
+仕事があったらたのむぜ
+in file ./swordcraft3-script/18c42ac.txt
+
+No match for the line(s):
+お前…
+武器の注文、うける気ないか？
+in file ./swordcraft3-script/18c42ac.txt
+
+No match for the line(s):
+へ？
+どうしてお前が、オレに？
+in file ./swordcraft3-script/18c42ac.txt
+
+No match for the line(s):
+へ？
+どうしてあなたが、わたしに？
+in file ./swordcraft3-script/18c42ac.txt
+
+No match for the line(s):
+知り合いにたのまれたのがあってさ
+レミィさんにおねがいしようと
+思ってたんだけど…
+in file ./swordcraft3-script/18c42ac.txt
+
+No match for the line(s):
+レミィさん、いそがしそうだし
+まあ、このさい
+お前でもいいかなって…
+in file ./swordcraft3-script/18c42ac.txt
+
+No match for the line(s):
+お前でもって…
+なんだよ！
+in file ./swordcraft3-script/18c42ac.txt
+
+No match for the line(s):
+お前でもって…
+なによ、それ！
+in file ./swordcraft3-script/18c42ac.txt
+
+No match for the line(s):
+で、どうなんだよ？
+オイラの注文、受けるのか？
+in file ./swordcraft3-script/18c42ac.txt
+
+No match for the line(s):
+どんな武器かは注文書に
+書いてあるから
+しっかりたのむぜ！
+in file ./swordcraft3-script/18c42ac.txt
+
+No match for the line(s):
+お前…
+武器の注文、うける気ないか？
+in file ./swordcraft3-script/18c42ac.txt
+
+No match for the line(s):
+どんな武器かは注文書に
+書いてあるから
+しっかりたのむぜ！
+in file ./swordcraft3-script/18c42ac.txt
+
+No match for the line(s):
+注文の武器ができたのか？
+in file ./swordcraft3-script/18c42ac.txt
+
+No match for the line(s):
+そんなにきたいしてないけど
+しっかりたのむぜ
+in file ./swordcraft3-script/18c42ac.txt
+
+No match for the line(s):
+ちょっと！
+こんなんじゃ受け取れないよ
+ちゃんと注文書見たのか…？
+in file ./swordcraft3-script/18c42ac.txt
+
+No match for the line(s):
+は〜、いや！！
+ふ〜ん、けっこうマシな
+仕事するじゃないか
+in file ./swordcraft3-script/18c42ac.txt
+
+No match for the line(s):
+ありがと
+これ、お礼だよ
+in file ./swordcraft3-script/18c42ac.txt
+
+No match for the line(s):
+そういえば…
+今回のこと、レミィさんには
+ナイショだぜ！
+in file ./swordcraft3-script/18c42ac.txt
+
+No match for the line(s):
+はいはい、わかってるって
+in file ./swordcraft3-script/18c42ac.txt
+
+No match for the line(s):
+本当にわすれるなよ…
+in file ./swordcraft3-script/18c42ac.txt
+
+No match for the line(s):
+わすれるなよ
+オイラが武器を注文したこと
+レミィさんにはナイショだからな！
+in file ./swordcraft3-script/18c42ac.txt
+
+No match for the line(s):
+実際のところ…
+[NAME 2]って鍛冶師として
+どのくらいの腕前なワケ？
+in file ./swordcraft3-script/18c42ac.txt
+
+No match for the line(s):
+いちおうお客さんが取れるくらいは…
+in file ./swordcraft3-script/18c42ac.txt
+
+No match for the line(s):
+ふ〜ん、じゃあ試しに作ってみてよ
+はい、注文書
+in file ./swordcraft3-script/18c42ac.txt
+
+No match for the line(s):
+注文するって事は、つまり…
+in file ./swordcraft3-script/18c42ac.txt
+
+No match for the line(s):
+お礼はするわよ失礼ね！
+（お金じゃないけど…）
+in file ./swordcraft3-script/18c42ac.txt
+
+No match for the line(s):
+期待しないで待ってるから〜
+in file ./swordcraft3-script/18c42ac.txt
+
+No match for the line(s):
+ねえ、わたしの注文は
+受けてくれないわけ？
+in file ./swordcraft3-script/18c42ac.txt
+
+No match for the line(s):
+期待しないで待ってるから〜
+in file ./swordcraft3-script/18c42ac.txt
+
+No match for the line(s):
+もう、出来たの？
+in file ./swordcraft3-script/18c42ac.txt
+
+No match for the line(s):
+期待しないで待ってるから〜
+in file ./swordcraft3-script/18c42ac.txt
+
+No match for the line(s):
+ねぇ…
+ちゃんと注文書見てる？
+in file ./swordcraft3-script/18c42ac.txt
+
+No match for the line(s):
+はい、これはお礼よ
+in file ./swordcraft3-script/18c42ac.txt
+
+No match for the line(s):
+あはは…
+やっぱり代金は貰えないんだね
+in file ./swordcraft3-script/18c42ac.txt
+
+No match for the line(s):
+ちゃんとしたお礼じゃない
+対価がお金だなんて誰も言ってないわよ
+in file ./swordcraft3-script/18c42ac.txt
+
+No match for the line(s):
+まあ、機会があれば、また頼むかも
+in file ./swordcraft3-script/18c42ac.txt
+
+No match for the line(s):
+まあ、機会があれば、また頼むかも
+in file ./swordcraft3-script/18c42ac.txt
+
+No match for the line(s):
+な！
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+今度はなんだよ！？
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+今度はなに！？
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+グルルル…
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+どうしたんだ？
+マグドラド
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+気ヲツケテ下サイ
+魔晶柱カラ発セラレテイル
+波動ガ強クナッテイマス
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+まさか…
+その波動が召喚獣を
+暴れさせてしまうの…！？
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+きゃあっ！
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+ミューノっ！
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+大丈夫か！？
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+大丈夫！？
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+どうしたんだ！？
+マグドラド！？
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+召喚主ガイナイトオトナシイノデハ
+ナカッタノデスカ？
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+何やらイヤな気配がしておるの…
+ゴヴァンの魔石と共鳴しておるのか？
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+魔石と…？
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+この気配どこかで…
+そうじゃ、我らが村を出たときに
+感じた気配に似ておるぞ…
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+な！
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+今度はなんだよ！？
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+今度はなに！？
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+グルルル…
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+どうしたんだ？
+マグドラド
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+気をつけるのじゃ！
+イヤな気配が強くなっておるぞ！
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+まさか…
+それが召喚獣を
+あばれさせる原因…！？
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+きゃあっ！
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+ミューノっ！
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+大丈夫か！？
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+大丈夫！？
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+どうしたんだ！？
+マグドラド！？
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+召喚主がいなければ
+何もしないのでは
+なかったのか！
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+ちっ…
+イヤな感じだ
+ゴヴァンの魔石と共鳴してるのか？
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+魔石と…？
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+この感じ…、そうだ…
+私たちが村を出たときの感じに
+似ている…
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+な！
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+今度はなんだよ！？
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+今度はなに！？
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+グルルル…
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+どうしたんだ？
+マグドラド
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+ちっ…！
+イヤな感じが強くなった
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+まさか…
+それが召喚獣を
+あばれさせる原因…！？
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+きゃあっ！
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+ミューノっ！
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+大丈夫か！？
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+大丈夫！？
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+どうしたんだ！？
+マグドラド！？
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+召喚主がいなければ
+何もしないハズじゃ
+なかったのか！
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+なんだかイヤな感じですわ…
+これってミューノ様の
+ゴヴァンの魔石からも…
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+魔石からも…？
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+この感じ…、そうですわ…
+私たちが村を出たときの感じに
+似ているんです…
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+な！
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+今度はなんだよ！？
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+今度はなに！？
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+グルルル…
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+どうしたんだ？
+マグドラド
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+気をつけてください！
+イヤな感じが強くなってます！
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+まさか…
+それが召喚獣を
+あばれさせる原因…！？
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+きゃあっ！
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+ミューノっ！
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+大丈夫か！？
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+大丈夫！？
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+どうしたんだ！？
+マグドラド！？
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+召喚主がいなければ
+何もしないハズじゃ
+なかったんですか！？
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+ダメです…！
+言うことをきかない…！
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+ここは危険です！
+一旦戻りましょう！
+in file ./swordcraft3-script/1834d0c.txt
+
+No match for the line(s):
+…ということなんですけど
+in file ./swordcraft3-script/184295c.txt
+
+No match for the line(s):
+[NAME 6]が[NAME 5]体
+in file ./swordcraft3-script/18c7d6c.txt
+
+No match for the line(s):
+がんばって退治してきてください
+in file ./swordcraft3-script/18c7d6c.txt
+
+No match for the line(s):
+はぐれを退治してくれたんですね
+ご苦労様でした
+では、コレが報酬になります
+in file ./swordcraft3-script/18c7d6c.txt
+
+No match for the line(s):
+はぐれ退治の件なら、ごめんなさい
+今日は、特にあなたにまわせる
+仕事はありません
+in file ./swordcraft3-script/18c7d6c.txt
+
+No match for the line(s):
+ああ、君たち…
+もしかして、ヒマじゃない？
+in file ./swordcraft3-script/18c7d6c.txt
+
+No match for the line(s):
+え？
+別にそんなことは…
+in file ./swordcraft3-script/18c7d6c.txt
+
+No match for the line(s):
+僕、金の派閥にきた
+はぐれ召喚獣退治の依頼の処理を
+イアナさんからたのまれてるんだ
+in file ./swordcraft3-script/18c7d6c.txt
+
+No match for the line(s):
+でも今、強そうな人はみんな
+何かといそがしいみたいなのと
+イアナさんが予算をくれないから
+in file ./swordcraft3-script/18c7d6c.txt
+
+No match for the line(s):
+処理しきれそうもない依頼もあって
+ちょっと困ってたんだ
+in file ./swordcraft3-script/18c7d6c.txt
+
+No match for the line(s):
+だから、君たちも人助けだと思って
+はぐれ召喚獣退治の仕事を
+引き受けてくれないかな？
+in file ./swordcraft3-script/18c7d6c.txt
+
+No match for the line(s):
+人助け、ですか…
+in file ./swordcraft3-script/18c7d6c.txt
+
+No match for the line(s):
+ちゃんと仕事をこなしてくれたら
+君の武器を強化できる
+材料をあげるよ！
+in file ./swordcraft3-script/18c7d6c.txt
+
+No match for the line(s):
+鍛冶職人ならお金より欲しがるハズ
+だから大丈夫だって
+イアナさんも言ってたし
+in file ./swordcraft3-script/18c7d6c.txt
+
+No match for the line(s):
+じゃあ、仕事を受ける気になったら
+教えてよ
+in file ./swordcraft3-script/18c7d6c.txt
+
+No match for the line(s):
+あ、はぐれ退治の話なら
+今、君にやってほしい仕事は
+ないよ
+in file ./swordcraft3-script/18c7d6c.txt
+
+No match for the line(s):
+あ、はぐれ召喚獣退治の仕事
+あたらしいのがあるんだけど
+やってくれないかな？
+in file ./swordcraft3-script/18c7d6c.txt
+
+No match for the line(s):
+[NAME 6]が[NAME 5]体
+in file ./swordcraft3-script/18c7d6c.txt
+
+No match for the line(s):
+がんばって退治してきてね
+in file ./swordcraft3-script/18c7d6c.txt
+
+No match for the line(s):
+はぐれを退治してくれたんだね
+ありがとう
+じゃあこれ、報酬だよ
+in file ./swordcraft3-script/18c7d6c.txt
+
+No match for the line(s):
+あ、はぐれ退治の話なら
+今、君にやってほしい仕事は
+ないよ
+in file ./swordcraft3-script/18c7d6c.txt
+
+No match for the line(s):
+ああ、君たち…
+君たちにたのんだはぐれ退治の仕事
+忘れてるでしょ…？
+in file ./swordcraft3-script/18c7d6c.txt
+
+No match for the line(s):
+困るんだよね、そういうの…
+もう、いろいろメンドウだし
+依頼はなかったことにするからね
+in file ./swordcraft3-script/18c7d6c.txt
+
+No match for the line(s):
+ん、君はずいぶん若いが…
+仕事をさがしにきたのかい？
+in file ./swordcraft3-script/18c7d6c.txt
+
+No match for the line(s):
+ああ…、ここでは
+小物だが数が増えすぎた召喚獣に
+対応する仕事をあっせんしてるんだ
+in file ./swordcraft3-script/18c7d6c.txt
+
+No match for the line(s):
+地味だし、実入りも少ない仕事だ
+とはいえ、平穏とは、そんな
+地道な努力の元で護られているんだぞ
+in file ./swordcraft3-script/18c7d6c.txt
+
+No match for the line(s):
+どうだい？
+やる気があるのなら
+エンリョなく言ってくれ
+in file ./swordcraft3-script/18c7d6c.txt
+
+No match for the line(s):
+ん、今は、君にまわせる
+仕事は無さそうだ
+また、次の機会にたのむぞ
+in file ./swordcraft3-script/18c7d6c.txt
+
+No match for the line(s):
+ん、仕事が欲しいのかい？
+今日の仕事も厳しいが
+やっていくかい？
+in file ./swordcraft3-script/18c7d6c.txt
+
+No match for the line(s):
+[NAME 6]あと[NAME 5]体
+in file ./swordcraft3-script/18c7d6c.txt
+
+No match for the line(s):
+がんばって仕事をこなすんだ
+in file ./swordcraft3-script/18c7d6c.txt
+
+No match for the line(s):
+ん、仕事がすんだようだな
+ごくろうさん
+じゃあコレが報酬だ
+in file ./swordcraft3-script/18c7d6c.txt
+
+No match for the line(s):
+ん、今は、君たちにまわせる
+仕事は無さそうだ
+また、次の機会にたのむぞ
+in file ./swordcraft3-script/18c7d6c.txt
+
+No match for the line(s):
+ん、お前は…前回…、
+仕事を完了していないな…
+in file ./swordcraft3-script/18c7d6c.txt
+
+No match for the line(s):
+無責任なヤツに、この仕事は
+つとまらない
+in file ./swordcraft3-script/18c7d6c.txt
+
+No match for the line(s):
+しばらく、仕事は、まわせないぞ
+in file ./swordcraft3-script/18c7d6c.txt
+
+No match for the line(s):
+おまえ、実はスゲーヤツなの？
+ちょっと尊敬してる
+in file ./swordcraft3-script/18c7d6c.txt
+
+No match for the line(s):
+良い仕事してるみたいだな
+その調子でがんばれよ
+in file ./swordcraft3-script/18c7d6c.txt
+
+No match for the line(s):
+良い仕事をまわして欲しいなら、
+まずは実績をつまないとな
+せいぜいがんばれよ
+in file ./swordcraft3-script/18c7d6c.txt
+
+No match for the line(s):
+さぼりぎみ？
+in file ./swordcraft3-script/18c7d6c.txt
+
+No match for the line(s):
+やる気ある？
+むいてないんじゃないの
+in file ./swordcraft3-script/18c7d6c.txt
+
+No match for the line(s):
+やる気ないなら、
+邪魔だから帰ってよ
+in file ./swordcraft3-script/18c7d6c.txt
+
+No match for the line(s):
+ルイーズ村民家Ｂ
+in file ./swordcraft3-script/1780eec.txt
+
+No match for the line(s):
+そっか…
+わかったよ
+in file ./swordcraft3-script/186491c.txt
+
+No match for the line(s):
+そっか…
+わかったよ
+in file ./swordcraft3-script/186491c.txt
+
+No match for the line(s):
+おう
+in file ./swordcraft3-script/1885bfc.txt
+
+No match for the line(s):
+ん…
+in file ./swordcraft3-script/188b67c.txt
+

@@ -1,6 +1,7 @@
 #pragma once
 #include "globals.h"
 #include "JEObject.h"
+#include "SymbolTable.h"
 using namespace std;
 
 
@@ -16,7 +17,7 @@ public:
 	void replaceFile(string outFilename);
 
 private:
-	JEObject findMatchingJEObject(list<string> sjisText);
+	JEObject findMatchingJEObject(list<string> &sjisText);
 	bool handleEdgeCases(string text, string beginTxt, string weirdTxt);
 	void insertAsciiText(string beginTxt, string sjisText);
 	void insertAsciiText(string beginTxt, list<string>& sjisText);
