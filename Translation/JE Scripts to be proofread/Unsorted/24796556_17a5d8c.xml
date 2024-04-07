@@ -2,6 +2,9 @@
 	<sjis>
 		ベンソン工房　エントランス<end_line>
 	</sjis>
+	<ascii>
+		Benson's Workshop　Entrance<end_line>
+	</ascii>
 </location>
 <dialogue>
 	<info box="simple">
@@ -10,6 +13,9 @@
 		みんな、はやく<end_line>
 		かえってきてね<end_line>
 	</sjis>
+	<ascii>
+		Everyone, please come back soon.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -18,6 +24,11 @@
 		ベンソン親方はかなり良くなったけど<end_line>
 		まだムリはさせない方がいいよ<end_line>
 	</sjis>
+	<ascii>
+		Master Benson's condition<end_line>
+		has improved, but it's best<end_line>
+		not to push him too hard yet.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -25,6 +36,10 @@
 		武器を鍛える前に<end_line>
 		まずは己を鍛えるべし<end_line>
 	</sjis>
+	<ascii>
+		Before you forge your weapon,<end_line>
+		first you must forge yourself.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -33,4 +48,9 @@
 		つかったどうぐは、ちゃあんと<end_line>
 		もとのばしょに　もどしてね！<end_line>
 	</sjis>
+	<ascii>
+		　<lesser_than>A request from Erie<music_note><end_line>
+		Please return all tools<end_line>
+		to where they belong!<end_line>
+	</ascii>
 </dialogue>

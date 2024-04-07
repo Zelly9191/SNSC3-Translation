@@ -2,6 +2,9 @@
 	<sjis>
 		ベンソン工房　エントランス<end_line>
 	</sjis>
+	<ascii>
+		Benson's Workshop　Entrance<end_line>
+	</ascii>
 </location>
 <dialogue>
 	<info box="simple">
@@ -9,6 +12,10 @@
 		武器を鍛える前に<end_line>
 		まずは己を鍛えるべし<end_line>
 	</sjis>
+	<ascii>
+		Before you forge your weapon,<end_line>
+		first you must forge yourself.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -17,4 +24,9 @@
 		つかったどうぐは、ちゃあんと<end_line>
 		もとのばしょに　もどしてね！<end_line>
 	</sjis>
+	<ascii>
+		　<lesser_than>A request from Erie<music_note><end_line>
+		Please return all tools<end_line>
+		to where they belong!<end_line>
+	</ascii>
 </dialogue>
