@@ -404,7 +404,7 @@
     そんなことを<three_dots>！<end_line>
   </sjis>
   <ascii>
-    How do you know<three_dots>!<end_line>
+    How do you know<three_dots>!?<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -517,8 +517,8 @@
   </sjis>
   <ascii>
     How can you<three_dots><end_line>
-    You said you would protect Murno.<end_line>
-    And yet you act so irresponsibly!<end_line>
+    You said you would protect Murno,<end_line>
+    and yet you act so irresponsibly!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -908,7 +908,7 @@
   <ascii>
     "Last night"<three_dots><end_line>
     You dragged her outside last night!?<end_line>
-    She's sick! How could you!<end_line>
+    She's sick! How could you!?<end_line>
   </ascii>
 </dialogue>
 <dialogue>

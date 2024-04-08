@@ -83,7 +83,7 @@
 			聞いてみる<end_line>
 		</sjis>
 		<ascii>
-			Sure thing!<end_line>
+			Sure!<end_line>
 		</ascii>
 	</option>
 	<option>
@@ -199,8 +199,8 @@
 	</sjis>
 	<ascii>
 		Eh~ I tell you all that and <end_line>
-		then don't buy anything.<end_line>
-    Cheapskate~<end_line>
+		you don't buy anything?<end_line>
+    Cheapskate<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -213,6 +213,6 @@
 	<ascii>
     Eh~ You don't want to listen?<end_line>
     And I thought I finally had<end_line>
-    a customer~<end_line>
+    a customer<three_dots><end_line>
   </ascii>
 </dialogue>
