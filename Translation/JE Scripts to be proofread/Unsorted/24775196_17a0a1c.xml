@@ -2,11 +2,17 @@
 	<sjis>
 		村長の家　道具屋<end_line>
 	</sjis>
+	<ascii>
+		Village Chief's House　Toolshop<end_line>
+	</ascii>
 </location>
 <location>
 	<sjis>
 		村長の家　道具屋<end_line>
 	</sjis>
+	<ascii>
+		Village Chief's House　Toolshop<end_line>
+	</ascii>
 </location>
 <dialogue>
 	<info box="simple">
@@ -15,6 +21,10 @@
 		おおきくなったら<end_line>
 		おとなになるんだ<end_line>
 	</sjis>
+	<ascii>
+		When you get bigger<end_line>
+		you become an adult.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -24,4 +34,9 @@
 		げんじつてきだって<end_line>
 		わかったんだ<end_line>
 	</sjis>
+	<ascii>
+		For now, I think it's more<end_line>
+		realistic to think of it<end_line>
+		like that.<end_line>
+	</ascii>
 </dialogue>
