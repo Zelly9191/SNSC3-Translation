@@ -1,6 +1,7 @@
 import { Layout, Tabs } from 'antd';
 import React from 'react';
 import MyContent from './MyContent'
+import Charts from './Charts';
 
 const { Header, Content } = Layout;
 
@@ -52,7 +53,9 @@ const LayoutAnt = () => {
               {
                 label: `Charts`,
                 key: 2,
-                children: <></>,
+                children: <div style={{paddingBottom: '50px'}}>
+                  <Charts />
+                </div>,
               }
             ]}
           />

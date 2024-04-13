@@ -1,23 +1,25 @@
-import React, { useState, useEffect } from 'react';
-import { Button, Input, Card, Col, Row, Upload, notification, TreeSelect } from 'antd';
-import { UploadOutlined } from '@ant-design/icons';
-import { useQuill } from 'react-quilljs';
-import { configQuill } from './utils/config';
-import { findLastIndexOfTarget } from './utils/utils';
+import React, { useState, useEffect, useRef } from 'react';
+import ScriptEditor from './ScriptEditor';
+import { Button, Input, Card, Col, Row, Upload, notification, TreeSelect, Switch, Tooltip } from 'antd';
+import { UploadOutlined, DownloadOutlined, InfoCircleOutlined } from '@ant-design/icons';
 import { saveAs } from 'file-saver';
 import { xmlScript } from './sample';
 import { errorScript } from './errors';
 import { sampleTreeData } from './utils/tree';
+import { useWindowSize } from "@uidotdev/usehooks";
 
 const MyContent = () => {
+    const monacoEditorRef = useRef(null);
+    const editorRef = useRef(null);
     const [fullText, setFullText] = useState(xmlScript);
-    const { quill, quillRef } = useQuill(configQuill);
     const [lineNumbers, setLineNumbers] = useState([]);
     const [fileName, setFileName] = useState('sample');
     const [api, contextHolder] = notification.useNotification();
-    const [chosenFile, setChosenFile] = useState();
     const [treeData, setTreeData] = useState(sampleTreeData);
     const [loading, setIsLoading] = useState(false);
+    const [decorations, setDecorations] = useState([]);
+    const [isDarkTheme, setIsDarkTheme] = useState(true);
+    const [enableErrorWindow, setEnableErrorWindow] = useState(false);
 
     useEffect(() => {
         setIsLoading(true)
@@ -35,87 +37,47 @@ const MyContent = () => {
         setIsLoading(false)
     }, [])
 
-    useEffect(() => {
-        if (quill) {
-            quill.root.setAttribute("spellcheck", "false")
-            quill.setContents({
-                ops: [{ 
-                    insert: fullText
-                }]
-            })
-
-            quill.on('text-change', () => {
-                setFullText(quill.getText());
-            });
-        }
-    }, [quill]);
-
-
     const onTreeSelect = async (value, label) => {
         const location = value.split('JE_SCRIPTS')[1]
-        setChosenFile(value);
+
         try {
             const response = await fetch(`/api/readDirectoryApi?${new URLSearchParams({fileName: location}).toString()}`);
             const result = await response.json();
-            quill.setContents({
-                ops: [{ 
-                    insert: result.data
-                }]
-            })
+
             setFileName(label[0])
             setFullText(result.data)
         } catch (error) {
             api.error({
                 message: 'Something went wrong...',
                 description: error,
-                duration: 10,
+                duration: 5,
             });
         }
     };
 
     const validateXMLFile = async () => {
         try {
-            const response = await fetch(`/api/validateFileApi?${new URLSearchParams({fileName: chosenFile}).toString()}`);
-            const result = await response.json();
-            console.log(result)
-            
+            const response = await fetch(`/api/validateFileApi`);
         } catch (error) {
             api.error({
                 message: 'Something went wrong...',
                 description: error,
-                duration: 10,
+                duration: 5,
             });
         }  
     };
 
     const highlighter = () => {
         try {
-            quill.setContents({
-                ops: [{ 
-                    insert: fullText
-                }]
-            })
-            const fullTextInArray = fullText.split('\n');
-            if (lineNumbers.length > 0) {
-                lineNumbers.forEach((line) => {
-                    const realLine = line - 1;
-                    quill.formatText(
-                        findLastIndexOfTarget(fullTextInArray, fullTextInArray[realLine], line),
-                        fullTextInArray[realLine].length,
-                        {
-                            'bold': true,
-                            'background': '#FB5FFC',
-                            'color': 'white',
-                        }
-                    );
-                })
+            if (editorRef?.current) {
+                applyCss("highlight");
             }
         } catch (error) {
             api.error({
-                message: 'Error',
+                message: 'Failed to highlight Line Number.',
                 description:
-                `Failed to highlight Line Number. ${error}`,
-                duration: 10,
+                `Wrong Input...`,
+                duration: 5,
             });
         }
     }
@@ -127,7 +89,7 @@ const MyContent = () => {
                 api.error({
                     message: 'Error',
                     description: `File '${file.name}' is invalid. Please upload a valid JE Script.`,
-                    duration: 10,
+                    duration: 5,
                 });
               return isXML;
             }
@@ -137,11 +99,6 @@ const MyContent = () => {
             reader.readAsText(file);
             reader.onload = e => {
                 const fileContent = e.target.result;
-                quill.setContents({
-                    ops: [{ 
-                        insert: fileContent
-                    }]
-                })
                 setFullText(fileContent);
             };
             return false;
@@ -157,52 +114,103 @@ const MyContent = () => {
         api.warning({
             message: 'Editor is empty...',
             description: ``,
-            duration: 10,
+            duration: 5,
         });
     }
-    
-    const renderButtons = () => (
-        <div style={{ display: 'flex' }}>
-            <Input
-                style={{minWidth: '100px', maxWidth: '500px'}}
-                placeholder="Line numbers to highlight (comma separated e.g. 1, 2, 3, 4, 5)" 
-                onChange={(e) => {
-                    const val = e.target.value;
-                    try {
-                        const toArray = val.split(',').map(Number);
-                        setLineNumbers(toArray);
-                    } catch (error) {
-                        api.error({
-                            message: 'Error',
-                            description:
-                            `Wrong input. ${error}`,
-                            duration: 10,
-                        });
-                    }
-                }}
-            />
-            &nbsp;&nbsp;
+
+    const applyCss = (effect) => {
+        if (lineNumbers.length < 1) {
+            api.error({
+                message: 'Error',
+                description:
+                `Please input line numbers separated by comma`,
+                duration: 5,
+            });
+            return;
+        }
+
+        const linesToEdit = lineNumbers.map((lineNumber) => ({
+            range: {
+                startLineNumber: lineNumber,
+                endLineNumber: lineNumber,
+            },
+            options: {
+                isWholeLine: true,
+                marginClassName: effect,
+                className: effect,
+                hoverMessage: {value: 'Error here...'}
+            }
+        }))
+
+        const decors = editorRef.current.deltaDecorations(decorations, linesToEdit);
+        setDecorations(decors);
+    }
+
+    const renderButtons = () => {
+        const highlightBtn = (
             <Button 
                 type="primary" 
                 onClick={highlighter}
             >
                 Highlight
             </Button>
-            &nbsp;&nbsp;
+        )
+
+        const removeBtn = (
             <Button 
                 type="primary" 
-                onClick={validateXMLFile}
+                onClick={() => {
+                    if (editorRef?.current) {
+                        applyCss("");
+                    }
+                }}
             >
-                Validate
+                Remove
             </Button>
-        </div>
-    )
+        )
+
+        const onChangeHandler = (e) => {
+            const val = e.target.value;
+            try {
+                const toArray = val.split(',').map(Number);
+                if (val) {
+                    setLineNumbers(toArray);
+                } else {
+                    setLineNumbers([]);
+                }
+            } catch (error) {
+                api.error({
+                    message: 'Error',
+                    description:
+                    `Wrong input. ${error}`,
+                    duration: 5,
+                });
+            }
+        }
+
+        return (
+            <div style={{ display: 'flex' }}>
+                <Input
+                    style={{minWidth: '100px', maxWidth: 'auto'}}
+                    placeholder="Line numbers to highlight (comma separated e.g. 1, 2, 3, 4, 5)" 
+                    onChange={onChangeHandler}
+                />
+                &nbsp;&nbsp;
+                {highlightBtn}
+                &nbsp;&nbsp;
+                {removeBtn}
+            </div>
+        )
+    }
+
+    const size = useWindowSize();
+    const isMobile = size?.width <= 870;
 
     return (
         !loading && <>
         {contextHolder}
         <Row gutter={16}>
-            <Col className="gutter-row" span={18}>
+            <Col className="gutter-row" span={isMobile || !enableErrorWindow ? '24' : '18'}>
                 <Card
                     style={{
                         boxShadow: '0px 4px 10px rgba(0, 0, 0, 0.2)'
@@ -211,70 +219,124 @@ const MyContent = () => {
                         height: '72vh',
                         marginBottom: '55px'
                     }}
-                    title={'EDITOR'}
-                    extra={renderButtons()}
-                >
-                    <div style={{display: 'flex', justifyContent: 'space-between'}}>
-                        <div>
-                            <TreeSelect
-                                showSearch
-                                style={{width: '170px'}}
-                                dropdownStyle={{
-                                    maxHeight: 900,
-                                    overflow: 'auto',
-                                    minWidth: 300,
-                                }}
-                                treeData={treeData?.treeDirectory}
-                                placeholder="Search an XML File"
-                                treeDefaultExpandAll={false}
-                                onChange={onTreeSelect}
-                            />
-                            &nbsp;&nbsp; -- OR --&nbsp;&nbsp;
-                            <Upload 
-                                maxCount={1} 
-                                listType='picture'
-                                showUploadList={false}
-                                {...uploadAndConvert}
-                            >
-                                <Button icon={<UploadOutlined />}>Browse XML File</Button>
-                            </Upload>
+                    title={(
+                        <div style={{
+                            display: 'flex', 
+                            justifyContent: 'space-between', 
+                            paddingTop: isMobile && '15px',
+                            paddingBottom: isMobile && '15px'
+                        }}>
+                            <div style={{display: 'flex', flexDirection: isMobile ? 'column' : 'row'}}>
+                                <TreeSelect
+                                    showSearch
+                                    style={{width: '155px'}}
+                                    dropdownStyle={{
+                                        maxHeight: 900,
+                                        overflow: 'auto',
+                                        minWidth: 300,
+                                    }}
+                                    listHeight={300}
+                                    treeData={treeData?.treeDirectory}
+                                    placeholder="Search an XML File"
+                                    treeDefaultExpandAll={false}
+                                    onChange={onTreeSelect}
+                                />
+                                
+                                {!isMobile ? (<div>&nbsp;&nbsp;</div>) : <br />}
+                                {!isMobile && <p style={{marginTop: '5px'}}>-- OR --</p>}
+                                {!isMobile && (<div>&nbsp;&nbsp;</div>)}
+                                
+                                <Upload 
+                                    maxCount={1}
+                                    showUploadList={false}
+                                    {...uploadAndConvert}
+                                >
+                                    <Button icon={<UploadOutlined />}>Browse XML File</Button>
+                                </Upload>
+                            </div>
+                            <div style={{display: 'flex', flexDirection: isMobile ? 'column' : 'row'}}>
+                                <Button
+                                    icon={<DownloadOutlined />}
+                                    type="primary"
+                                    onClick={downloadXml}
+                                >
+                                    Download XML
+                                </Button>
+                            </div>
                         </div>
-                        &nbsp;&nbsp;
-                        <Button 
-                            type="primary"
-                            onClick={downloadXml}
-                        >
-                            Export File
-                        </Button>
-                    </div>
-                    <div ref={quillRef} />
-                </Card>
-            </Col>
-            <Col className="gutter-row" span={6}>
-                <Card
-                    style={{
-                        boxShadow: '0px 4px 10px rgba(0, 0, 0, 0.2)',
-                    }}
-                    bodyStyle={{
-                        height: '72vh',
-                        marginBottom: '55px',
-                        overflowY: 'scroll'
-                    }}
-                    title={'ERRORS'}
+                    )}
                 >
-                    {
-                        errorScript.split('\n').map((line, index) => (
-                            line 
-                            ? 
-                                <div key={index}>
-                                    {line}
-                                </div> 
-                            : 
-                                <br/>
-                        ))
-                    }
+                    {renderButtons()}<br />
+                    <div style={{display: 'flex', flexDirection: !isMobile ? 'row' : 'column'}}>
+                        <div style={{display: 'flex', flexDirection: 'row'}}>
+                            {<p style={{marginTop: '5px'}}>Error Window</p>}
+                            &nbsp;&nbsp;
+                            <Switch
+                                style={{marginTop: '5px', width: '30px'}}
+                                defaultChecked={false} 
+                                onChange={(checked) => setEnableErrorWindow(checked)}
+                            />
+                        </div>
+                        {!isMobile && <div>&nbsp;&nbsp;</div>}
+                        <div style={{display: 'flex', flexDirection: 'row'}}>
+                            {<p style={{marginTop: '5px'}}>Dark Mode</p>}
+                            &nbsp;&nbsp;
+                            <Switch
+                                style={{marginTop: '5px', width: '30px'}}
+                                defaultChecked 
+                                onChange={(checked) => setIsDarkTheme(checked)}
+                            />
+                        </div>
+                    </div><br />
+                    <ScriptEditor
+                        code={fullText}
+                        setCode={setFullText}
+                        editorOptions={{
+                            stopRenderingLineAfter: 1000,
+                            smoothScrolling: true
+                        }}
+                        monacoEditorRef={monacoEditorRef}
+                        editorRef={editorRef}
+                        isDarkTheme={isDarkTheme}
+                        isMobile={isMobile}
+                    />
                 </Card>
             </Col>
+            {isMobile && <div>&nbsp;&nbsp;</div>}
+            { enableErrorWindow &&
+                <Col className="gutter-row" span={isMobile ? '24' : '6'}>
+                    <Card
+                        style={{
+                            boxShadow: '0px 4px 10px rgba(0, 0, 0, 0.2)',
+                        }}
+                        bodyStyle={{
+                            height: '72vh',
+                            marginBottom: '55px',
+                            overflowY: 'scroll'
+                        }}
+                        title={(
+                            <div>
+                                <Tooltip placement="bottom" title={'You may also hover on the highlighted lines to view error description'}>
+                                    <InfoCircleOutlined />
+                                </Tooltip>
+                                &nbsp;{'ERRORS'}
+                            </div>
+                        )}
+                    >
+                        {
+                            errorScript.split('\n').map((line, index) => (
+                                line 
+                                ? 
+                                    <div key={index}>
+                                        {line}
+                                    </div> 
+                                : 
+                                    <br/>
+                            ))
+                        }
+                    </Card>
+                </Col>
+            }
         </Row><br/>
         </>
     );

@@ -1,4 +1,4 @@
-export const errorScript = `Sample ONLY
+export const errorScript = `Hover mouse pointer on highlighted items of view error here
 
 This tool should be able to detect errors from the XML file shown on the editor.
 
