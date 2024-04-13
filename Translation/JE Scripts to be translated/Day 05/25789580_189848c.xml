@@ -2,11 +2,17 @@
 	<sjis>
 		ベリートの森<end_line>
 	</sjis>
+	<ascii>
+		Beleet Forest<end_line>
+	</ascii>
 </location>
 <location>
 	<sjis>
 		ベリートの森　エリア４<end_line>
 	</sjis>
+	<ascii>
+		Beleet Forest　Area 4<end_line>
+	</ascii>
 </location>
 <dialogue>
 	<info box="simple">

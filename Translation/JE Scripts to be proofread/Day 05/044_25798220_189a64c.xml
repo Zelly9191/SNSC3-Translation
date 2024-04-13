@@ -2,11 +2,17 @@
   <sjis>
     フラード洞窟<end_line>
   </sjis>
+  <ascii>
+    Flard Grotto<end_line>
+  </ascii>
 </location>
 <location>
   <sjis>
     フラード洞窟　エリア５<end_line>
   </sjis>
+  <ascii>
+    Flard Grotto　Area 5<end_line>
+  </ascii>
 </location>
 <dialogue>
   <info box="simple">

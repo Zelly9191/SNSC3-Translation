@@ -2,11 +2,17 @@
 	<sjis>
 		プロスバンの町<end_line>
 	</sjis>
+	<ascii>
+		Prosban<end_line>
+	</ascii>
 </location>
 <location>
 	<sjis>
 		プロスバンの町　鉱業区<end_line>
 	</sjis>
+	<ascii>
+		Prosban　Mining District<end_line>
+	</ascii>
 </location>
 <dialogue>
 	<info box="simple">
