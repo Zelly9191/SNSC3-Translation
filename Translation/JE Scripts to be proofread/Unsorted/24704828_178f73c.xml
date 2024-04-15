@@ -7,4 +7,9 @@
 		主人公<player_name><end_line>
 		護衛獣<partner><end_line>
 	</sjis>
+	<ascii>
+		This conversation is from episode 10.<end_line>
+		Protagonist, <player_name>.<end_line>
+		Guardian Beast, <partner>.<end_line>
+	</ascii>
 </dialogue>
