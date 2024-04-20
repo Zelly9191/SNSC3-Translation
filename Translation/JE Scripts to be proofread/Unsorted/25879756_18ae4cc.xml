@@ -2,11 +2,17 @@
 	<sjis>
 		ゴヴァンの遺跡<end_line>
 	</sjis>
+	<ascii>
+		Govan Ruins<end_line>
+	</ascii>
 </location>
 <location>
 	<sjis>
 		ゴヴァンの遺跡　エリア１<end_line>
 	</sjis>
+	<ascii>
+		Govan Ruins　Area 1<end_line>
+	</ascii>
 </location>
 <dialogue>
 	<info box="special">
@@ -14,4 +20,9 @@
 		この扉は、武器に対応したスイッチを<end_line>
 		押すことで開く事ができます<end_line>
 	</sjis>
+	<ascii>
+		This door can be opened by<end_line>
+		pressing the corresponding<end_line>
+		switch for the weapon shown.<end_line>
+	</ascii>
 </dialogue>
