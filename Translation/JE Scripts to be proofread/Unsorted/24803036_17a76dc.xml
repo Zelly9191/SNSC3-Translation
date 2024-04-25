@@ -2,6 +2,9 @@
 	<sjis>
 		プロスバンの町　福引き屋<end_line>
 	</sjis>
+	<ascii>
+		Prosban Town　Lottery Shop<end_line>
+	</ascii>
 </location>
 <dialogue>
 	<info box="simple">
@@ -9,6 +12,9 @@
 	<sjis>
 		これは賞品じゃないのかな？<end_line>
 	</sjis>
+	<ascii>
+		This isn't a prize?<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -17,6 +23,11 @@
 		福引き券１枚につき１回の福引きが<end_line>
 		ご利用頂けます<end_line>
 	</sjis>
+	<ascii>
+		Dear valued customers:<end_line>
+		In order to play the lottery<end_line>
+		1 lucky ticket is needed.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -25,4 +36,8 @@
 		何だか町全体がイヤな<end_line>
 		空気になってる気がするんだ<end_line>
 	</sjis>
+	<ascii>
+		I feel like the whole town is<end_line>
+		covered in an unpleasant air.<end_line>
+	</ascii>
 </dialogue>
