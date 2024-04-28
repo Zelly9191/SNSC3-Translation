@@ -29,9 +29,10 @@ const LayoutAnt = () => {
           style={{
             color: 'white',
             fontSize: '25px',
+            letterSpacing: '2px',
           }}
         >
-          Web Tools
+          <i>Web Tools v1</i>
         </h1>
       </Header>
       <Layout>
@@ -46,12 +47,12 @@ const LayoutAnt = () => {
             }}
             items={[
               {
-                label: `JE Script Validator`,
+                label: <b>JE SCRIPT VALIDATOR</b>,
                 key: 1,
                 children: <MyContent />,
               },
               {
-                label: `Charts`,
+                label: <b>CHARTS</b>,
                 key: 2,
                 children: <div style={{paddingBottom: '50px'}}>
                   <Charts />

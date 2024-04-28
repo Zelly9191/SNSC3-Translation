@@ -3,9 +3,15 @@ import {
     useEffect,
 } from 'react';
 
-const ScriptEditor = (props) => {
-    const { code, setCode, editorOptions, editorRef, monacoEditorRef, isDarkTheme, isMobile } = props;
-
+const ScriptEditor = ({ 
+    code,
+    editorOptions, 
+    editorRef, 
+    monacoEditorRef, 
+    isDarkTheme, 
+    isMobile, 
+    onEditorChange
+}) => {
     useEffect(() => {
         if (monacoEditorRef?.current) {
             const model = monacoEditorRef.current.getModels();
@@ -21,7 +27,7 @@ const ScriptEditor = (props) => {
             height={isMobile ? '78%' : '93%'}
             language="xml"
             onChange={(value, _event) => {
-                setCode(value)
+                onEditorChange(value, _event)
             }}
             onMount={(editor, monaco) => {
                 monacoEditorRef.current = monaco.editor
