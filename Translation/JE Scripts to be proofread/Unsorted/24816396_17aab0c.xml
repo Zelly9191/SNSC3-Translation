@@ -2,6 +2,9 @@
 	<sjis>
 		ルイーズ村　村長の家<end_line>
 	</sjis>
+	<ascii>
+		Louise Village　Village Chief's House<end_line>
+	</ascii>
 </location>
 <dialogue>
 	<info box="simple">
@@ -10,4 +13,9 @@
 		遺跡の召喚獣がさわぎだしています<end_line>
 		何かが起きる前ぶれかも<three_dots><end_line>
 	</sjis>
+	<ascii>
+		The Summon Beast is stirring.<end_line>
+		It may be a sign that something<end_line>
+		will happen soon<three_dots><end_line>
+	</ascii>
 </dialogue>
