@@ -2,6 +2,9 @@
 	<sjis>
 		ルイーズ村　民家Ｂ<end_line>
 	</sjis>
+	<ascii>
+		Louise Village　Private House B<end_line>
+	</ascii>
 </location>
 <dialogue>
 	<info box="simple">
@@ -11,4 +14,8 @@
 		ヴォイジンという男に<end_line>
 		殺されたんじゃ<end_line>
 	</sjis>
+	<ascii>
+		Gallahan's wife and children<end_line>
+		were killed by Voijin.<end_line>
+	</ascii>
 </dialogue>
