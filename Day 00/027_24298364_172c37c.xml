@@ -32,15 +32,18 @@
     <sjis>
       生きるのが男じゃない？<end_line>
     </sjis>
+    <ascii>
+    is what makes us human, isn't it?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       生きるのが女じゃない？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     is what makes us human, isn't it?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="simple">

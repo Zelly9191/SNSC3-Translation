@@ -75,13 +75,16 @@
     <sjis>
       少しのぞいてみるか？<end_line>
     </sjis>
+    <ascii>
+    Shall we have a look?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       少しのぞいてみよっか？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Shall we have a look?<end_line>
   </ascii>
+  </female>
 </dialogue>

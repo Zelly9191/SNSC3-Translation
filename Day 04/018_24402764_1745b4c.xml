@@ -38,18 +38,23 @@
       ここがボスタフ工房の本部か<three_dots><end_line>
       今は近づかない方がいいな<end_line>
     </sjis>
+    <ascii>
+    This is Bostaph<end_line>
+    workshop's headquarters<three_dots><end_line>
+    It'd be best not to intrude.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       ここがボスタフ工房の本部か<three_dots><end_line>
       今は近づかない方がいいよね<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     This is Bostaph<end_line>
     workshop's headquarters<three_dots><end_line>
     It'd be best not to intrude.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="simple">

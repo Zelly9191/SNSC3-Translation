@@ -95,17 +95,21 @@
       なあ、<partner><end_line>
       ベルヴォレンってどんなヤツなんだ？<end_line>
     </sjis>
+    <ascii>
+    Hey, <partner>,<end_line>
+    what kind of person is Velworen?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       ねえ、<partner><end_line>
       ベルヴォレンってどんなヒトなの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Hey, <partner>,<end_line>
     what kind of person is Velworen?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">

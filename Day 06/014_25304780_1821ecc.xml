@@ -5,15 +5,18 @@
     <sjis>
       うわっ、なんだ？<end_line>
     </sjis>
+    <ascii>
+    Woah, what?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       うわっ、なによ？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Woah, what?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -33,17 +36,21 @@
       ねてる<three_dots>？<end_line>
       <three_dots>んだよな？<end_line>
     </sjis>
+    <ascii>
+    Sleeping<three_dots>?<end_line>
+    <three_dots> Right?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       ねてる<three_dots>？<end_line>
       <three_dots>んだよね？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Sleeping<three_dots>?<end_line>
     <three_dots> Right?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -63,17 +70,21 @@
       とにかく、急がなくっちゃ<end_line>
       <partner>、何やってる！？<end_line>
     </sjis>
+    <ascii>
+    Anyway, we have to hurry!<end_line>
+    <partner>, what are you doing!?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       とにかく、急がなくっちゃ<end_line>
       <partner>、何してるの！？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Anyway, we have to hurry!<end_line>
     <partner>, what are you doing!?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -138,15 +149,19 @@
       そっか、待ってろ！<end_line>
       オレが開けてやる！<end_line>
     </sjis>
+    <ascii>
+    Okay, give me a minute!<end_line>
+    I'll figure something out!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       そっか、待ってて！<end_line>
       わたしが開けるから！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Okay, give me a minute!<end_line>
     I'll figure something out!<end_line>
   </ascii>
+  </female>
 </dialogue>

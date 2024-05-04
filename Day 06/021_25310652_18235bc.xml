@@ -58,6 +58,11 @@
       見つかっちゃうか<three_dots><end_line>
       気をつけないと<end_line>
     </sjis>
+    <ascii>
+    We might get caught<end_line>
+    if we head this way<three_dots><end_line>
+    We'll have to be careful.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -65,10 +70,10 @@
       見つかっちゃうね<three_dots><end_line>
       気をつけよう<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     We might get caught<end_line>
     if we head this way<three_dots><end_line>
     We'll have to be careful.<end_line>
   </ascii>
+  </female>
 </dialogue>

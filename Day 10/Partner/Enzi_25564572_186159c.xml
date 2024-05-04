@@ -22,6 +22,11 @@
       お前の戦い方を見ていれば<end_line>
       オレにケガさせないようにって<three_dots><end_line>
     </sjis>
+    <ascii>
+    <partner><three_dots><three_dots><end_line>
+    The way you fought<three_dots><end_line>
+    You were obviously holding back.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -29,12 +34,12 @@
       あなたの戦い方を見ていれば<end_line>
       わたしにケガさせないようにって<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     <partner><three_dots><three_dots><end_line>
     The way you fought<three_dots><end_line>
     You were obviously holding back.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -72,6 +77,11 @@
       オレが勝てたのはこの武器の<three_dots><end_line>
       お前との修行のおかげだよ！<end_line>
     </sjis>
+    <ascii>
+    Ahaha! You're right!<end_line>
+    I won thanks to this weapon<three_dots><end_line>
+    And you, too!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -79,12 +89,12 @@
       わたしが勝てたのはこの武器の<three_dots><end_line>
       あなたとの修行のおかげだよ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Ahaha! You're right!<end_line>
     I won thanks to this weapon<three_dots><end_line>
     And you, too!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -119,17 +129,21 @@
       なんだよ、それ？<end_line>
       バカにしてんのか？<end_line>
     </sjis>
+    <ascii>
+    What's that supposed to mean?<end_line>
+    Are you making fun of me?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       なによ、それ？<end_line>
       バカにしてるの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     What's that supposed to mean?<end_line>
     Are you making fun of me?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -186,6 +200,11 @@
       どうして？<end_line>
       何か悪いことでもしたのかよ？<end_line>
     </sjis>
+    <ascii>
+    They hated you<three_dots>?<end_line>
+    Why?<end_line>
+    Did you do something bad to them?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -193,12 +212,12 @@
       どうして？<end_line>
       何か悪いことでもしたの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     They hated you<three_dots>?<end_line>
     Why?<end_line>
     Did you do something bad to them?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -225,6 +244,10 @@
       ことじゃないか<end_line>
       何で憎まれなきゃなんないんだ？<end_line>
     </sjis>
+    <ascii>
+    Isn't that the right thing to do?<end_line>
+    Why would they hate you for it?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -232,11 +255,11 @@
       ことじゃないの<end_line>
       何で憎まれなきゃなんないのよ？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Isn't that the right thing to do?<end_line>
     Why would they hate you for it?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -360,6 +383,11 @@
       オレだって<partner>に会えて<end_line>
       本当に良かったぜ！<end_line>
     </sjis>
+    <ascii>
+    Wha, um<three_dots><end_line>
+    I'm really happy I met<end_line>
+    you too, <partner>!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -367,12 +395,12 @@
       わたしだって<partner>に会えて<end_line>
       本当に良かったよ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Wha, um<three_dots><end_line>
     I'm really happy I met<end_line>
     you too, <partner>!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">

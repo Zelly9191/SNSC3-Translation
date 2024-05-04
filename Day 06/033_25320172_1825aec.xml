@@ -63,15 +63,18 @@
     <sjis>
       どういうことだよ？<end_line>
     </sjis>
+    <ascii>
+    Meaning?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       どういうこと？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Meaning?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -108,15 +111,18 @@
     <sjis>
       どうやって消えたんだよ？<end_line>
     </sjis>
+    <ascii>
+    How did she disappear?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       どうやって消えたの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     How did she disappear?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -170,17 +176,21 @@
       <three_dots>って、なんだよそれ！？<end_line>
       人が消えるわけないだろ？<end_line>
     </sjis>
+    <ascii>
+    <three_dots> What!?<end_line>
+    People don't just disappear, right?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       <three_dots>って、なによそれ！？<end_line>
       人が消えるわけないでしょ？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     <three_dots> What!?<end_line>
     People don't just disappear, right?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -209,6 +219,11 @@
       さっきのティエは<end_line>
       人じゃないって<three_dots><end_line>
     </sjis>
+    <ascii>
+    Wait, so does that mean<three_dots><end_line>
+    The Tier we saw just<end_line>
+    now isn't human<three_dots>?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -216,12 +231,12 @@
       さっきのティエは<end_line>
       人じゃないって<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Wait, so does that mean<three_dots><end_line>
     The Tier we saw just<end_line>
     now isn't human<three_dots>?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <bigtext>
   <partner name="enzi">
@@ -275,17 +290,21 @@
       <three_dots>って、なんだよそれ！？<end_line>
       人が消えるわけないだろ？<end_line>
     </sjis>
+    <ascii>
+    <three_dots> What!?<end_line>
+    People don't just disappear, right?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       <three_dots>って、なによそれ！？<end_line>
       人が消えるわけないでしょ？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     <three_dots> What!?<end_line>
     People don't just disappear, right?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -312,6 +331,11 @@
       さっきのティエは<end_line>
       人じゃないって<three_dots><end_line>
     </sjis>
+    <ascii>
+    Wait, so does that mean<three_dots><end_line>
+    The Tier we saw just<end_line>
+    now isn't human<three_dots>?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -319,12 +343,12 @@
       さっきのティエは<end_line>
       人じゃないって<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Wait, so does that mean<three_dots><end_line>
     The Tier we saw just<end_line>
     now isn't human<three_dots>?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <bigtext>
   <partner name="killfith">
@@ -378,17 +402,21 @@
       オレが聞いてるんだって！<end_line>
       魔法とかじゃないのかよ？<end_line>
     </sjis>
+    <ascii>
+    Don't ask me!<end_line>
+    Was it magic or something?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       わたしが聞いてるんだけど<three_dots><end_line>
       魔法とかじゃないの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Don't ask me!<end_line>
     Was it magic or something?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -416,17 +444,21 @@
       だといいけどな<three_dots><end_line>
       もしかして<three_dots><end_line>
     </sjis>
+    <ascii>
+    That'd be nice<three_dots><end_line>
+    But maybe<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       だといいけど<three_dots><end_line>
       もしかすると<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     That'd be nice<three_dots><end_line>
     But maybe<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -464,15 +496,18 @@
     <sjis>
       そ、そうだった！<end_line>
     </sjis>
+    <ascii>
+    R-right!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       そ、そうだね！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     R-right!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">

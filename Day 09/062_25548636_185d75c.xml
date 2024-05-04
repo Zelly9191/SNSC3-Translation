@@ -73,17 +73,21 @@
       <three_dots>って、お前<end_line>
       ついてくるつもりなのか？<end_line>
     </sjis>
+    <ascii>
+    <three_dots>Wait, you're<end_line>
+    coming too?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       <three_dots>って、あなた<end_line>
       ついてくるつもりなの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     <three_dots>Wait, you're<end_line>
     coming too?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -203,6 +207,11 @@
       止められてたんだぜ<end_line>
       ムリしないで家にいた方がいいって<end_line>
     </sjis>
+    <ascii>
+    Even that Lemmy was<end_line>
+    dissuaded by his mother.<end_line>
+    She told him not to push himself.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -210,12 +219,12 @@
       止められてたんだよ<end_line>
       ムリしないで家にいた方がいいって<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Even that Lemmy was<end_line>
     dissuaded by his mother.<end_line>
     She told him not to push himself.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -240,15 +249,18 @@
     <sjis>
       遊びじゃないんだ！<end_line>
     </sjis>
+    <ascii>
+    This isn't a game!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       遊びじゃないの！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     This isn't a game!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -271,6 +283,11 @@
       両親は心配してるんだろ？<end_line>
       それなのにまた勝手にそんな<three_dots><end_line>
     </sjis>
+    <ascii>
+    Your parents have been worried<end_line>
+    about you the whole time, right?<end_line>
+    Yet you keep running off<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -278,12 +295,12 @@
       ご両親は心配してるんでしょ？<end_line>
       それなのにまた勝手にそんな<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Your parents have been worried<end_line>
     about you the whole time, right?<end_line>
     Yet you keep running off<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -348,17 +365,21 @@
       そっか<end_line>
       両親もよろこぶとおもうぜ<end_line>
     </sjis>
+    <ascii>
+    Good, I'm sure your parents<end_line>
+    will be happy to see you.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       そっか<end_line>
       ご両親もよろこぶとおもうよ<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Good, I'm sure your parents<end_line>
     will be happy to see you.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -383,17 +404,21 @@
       ん～<three_dots>？<end_line>
       なんだよ？<end_line>
     </sjis>
+    <ascii>
+    Hmm<three_dots>?<end_line>
+    What is it?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       ん～<three_dots>？<end_line>
       なによ？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Hmm<three_dots>?<end_line>
     What is it?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -417,6 +442,11 @@
       オレひとりでいいのか？<end_line>
       みんなでアイサツに行った方が<three_dots><end_line>
     </sjis>
+    <ascii>
+    Eh<three_dots>?<end_line>
+    Just me?<end_line>
+    It'd be better if everyone<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -424,12 +454,12 @@
       わたしひとりでいいの？<end_line>
       みんなでアイサツに行った方が<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Eh<three_dots>?<end_line>
     Just me?<end_line>
     It'd be better if everyone<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">

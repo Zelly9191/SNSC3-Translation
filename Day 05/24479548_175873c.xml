@@ -4,21 +4,25 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			ミューノがねらわれてるんだ<end_line>
 			ジッとしててもはじまらないぜ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			ミューノがねらわれてるんだから<end_line>
-			ジッとしててもはじまらないよ！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Those three are after Murno.<end_line>
     We have to do something!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			ミューノがねらわれてるんだから<end_line>
+			ジッとしててもはじまらないよ！<end_line>
+		</sjis>
+    <ascii>
+    Those three are after Murno.<end_line>
+    We have to do something!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -42,24 +46,29 @@
 	<portrait_l entry="player" eye="happy" mouth="tense">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			賛成したいけど<end_line>
 			ここベンソンさんの工房だぜ<end_line>
 			勝手にワナはマズイだろ？<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			賛成したいけど<end_line>
-			ここベンソンさんの工房だよ<end_line>
-			勝手にワナはマズイって？<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     I'd like to agree,<end_line>
     but this is Benson's Workshop.<end_line>
     We can't do whatever we want.<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			賛成したいけど<end_line>
+			ここベンソンさんの工房だよ<end_line>
+			勝手にワナはマズイって？<end_line>
+		</sjis>
+    <ascii>
+    I'd like to agree,<end_line>
+    but this is Benson's Workshop.<end_line>
+    We can't do whatever we want.<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -67,21 +76,25 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			ミューノがねらわれてるんだ<end_line>
 			ジッとしててもはじまらないぜ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			ミューノがねらわれてるんだから<end_line>
-			ジッとしててもはじまらないよ！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Those three are after Murno.<end_line>
     We have to do something!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			ミューノがねらわれてるんだから<end_line>
+			ジッとしててもはじまらないよ！<end_line>
+		</sjis>
+    <ascii>
+    Those three are after Murno.<end_line>
+    We have to do something!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -105,21 +118,25 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="partner" eye="decided" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			なんとなくバカにされたような<end_line>
 			気がしたぞ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			なんとなくバカにされたような<end_line>
-			気がしたよ！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Um, is that directed<end_line>
     towards me?<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			なんとなくバカにされたような<end_line>
+			気がしたよ！<end_line>
+		</sjis>
+    <ascii>
+    Um, is that directed<end_line>
+    towards me?<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -127,21 +144,25 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			ミューノがねらわれてるんだ<end_line>
 			ジッとしててもはじまらないぜ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			ミューノがねらわれてるんだから<end_line>
-			ジッとしててもはじまらないよ！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Those three are after Murno.<end_line>
     We have to do something!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			ミューノがねらわれてるんだから<end_line>
+			ジッとしててもはじまらないよ！<end_line>
+		</sjis>
+    <ascii>
+    Those three are after Murno.<end_line>
+    We have to do something!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -165,21 +186,25 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			やっぱり<partner>も<end_line>
 			ミューノのことが心配なんだな<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			やっぱり<partner>も<end_line>
-			ミューノのことが心配なんだね<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     <partner><three_dots><end_line>
     I knew you were worried about her.<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			やっぱり<partner>も<end_line>
+			ミューノのことが心配なんだね<end_line>
+		</sjis>
+    <ascii>
+    <partner><three_dots><end_line>
+    I knew you were worried about her.<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -200,21 +225,25 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-		<sjis>
+    <sjis>
 			ミューノがねらわれてるんだ<end_line>
 			ジッとしててもはじまらないぜ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			ミューノがねらわれてるんだから<end_line>
-			ジッとしててもはじまらないよ！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Those three are after Murno.<end_line>
     We have to do something!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			ミューノがねらわれてるんだから<end_line>
+			ジッとしててもはじまらないよ！<end_line>
+		</sjis>
+    <ascii>
+    Those three are after Murno.<end_line>
+    We have to do something!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -234,18 +263,21 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-		<sjis>
+    <sjis>
 			そうだな<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			そうだね<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Right.<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			そうだね<end_line>
+		</sjis>
+    <ascii>
+    Right.<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -283,24 +315,29 @@
 	<portrait_l entry="player" eye="serious" mouth="tense">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			走らず急げって言われてもな<three_dots><end_line>
 			ま、走ると商品がキズつきそうだし<end_line>
 			道具屋さんも待ってるから仕方ないか<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			走らず急げって言われてもね<three_dots><end_line>
-			ま、走ると商品がキズつきそうだし<end_line>
-			道具屋さんも待ってるから仕方ないか<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Or risk damaging the goods<three_dots><end_line>
     And they're waiting for us<three_dots><end_line>
     We'll just have to do what we can.<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			走らず急げって言われてもね<three_dots><end_line>
+			ま、走ると商品がキズつきそうだし<end_line>
+			道具屋さんも待ってるから仕方ないか<end_line>
+		</sjis>
+    <ascii>
+    Or risk damaging the goods<three_dots><end_line>
+    And they're waiting for us<three_dots><end_line>
+    We'll just have to do what we can.<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -348,24 +385,29 @@
 	<portrait_l entry="player" eye="serious" mouth="tense">
 	<portrait_r entry="partner" eye="serious" mouth="tense">
 	<male>
-		<sjis>
+    <sjis>
 			走るとキズつきそうな商品みたいだし<end_line>
 			道具屋さんも待ってるらしいからな<end_line>
 			走らず道具屋さんに行けばいいんだろ<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			走るとキズつきそうな商品みたいだし<end_line>
-			道具屋さんも待ってるらしいからね<end_line>
-			走らず道具屋さんに行けばいいのよね<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Or risk damaging the goods<three_dots><end_line>
     And they're waiting for us<three_dots><end_line>
     Well, just don't run and its fine.<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			走るとキズつきそうな商品みたいだし<end_line>
+			道具屋さんも待ってるらしいからね<end_line>
+			走らず道具屋さんに行けばいいのよね<end_line>
+		</sjis>
+    <ascii>
+    Or risk damaging the goods<three_dots><end_line>
+    And they're waiting for us<three_dots><end_line>
+    Well, just don't run and its fine.<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -415,24 +457,29 @@
 	<portrait_l entry="player" eye="serious" mouth="tense">
 	<portrait_r entry="partner" eye="serious" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			走るとキズつきそうな商品みたいだし<end_line>
 			道具屋さんも待ってるらしいからな<end_line>
 			走らず道具屋さんに行けばいいんだろ<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			走るとキズつきそうな商品みたいだし<end_line>
-			道具屋さんも待ってるらしいからね<end_line>
-			走らず道具屋さんに行けばいいのよね<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Or risk damaging the goods<three_dots><end_line>
     And they're waiting for us<three_dots><end_line>
     Well, just don't run and its fine.<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			走るとキズつきそうな商品みたいだし<end_line>
+			道具屋さんも待ってるらしいからね<end_line>
+			走らず道具屋さんに行けばいいのよね<end_line>
+		</sjis>
+    <ascii>
+    Or risk damaging the goods<three_dots><end_line>
+    And they're waiting for us<three_dots><end_line>
+    Well, just don't run and its fine.<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -477,24 +524,29 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-		<sjis>
+    <sjis>
 			走るとキズつきそうな商品みたいだし<end_line>
 			道具屋さんも待ってるらしいからな<end_line>
 			走らず道具屋さんに行けばいいんだろ<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			走るとキズつきそうな商品みたいだし<end_line>
-			道具屋さんも待ってるらしいからね<end_line>
-			走らず道具屋さんに行けばいいのよね<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Or risk damaging the goods<three_dots><end_line>
     And they're waiting for us<three_dots><end_line>
     Well, just don't run and its fine.<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			走るとキズつきそうな商品みたいだし<end_line>
+			道具屋さんも待ってるらしいからね<end_line>
+			走らず道具屋さんに行けばいいのよね<end_line>
+		</sjis>
+    <ascii>
+    Or risk damaging the goods<three_dots><end_line>
+    And they're waiting for us<three_dots><end_line>
+    Well, just don't run and its fine.<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -617,21 +669,25 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			ミューノが心配だ<end_line>
 			工房に戻ろう！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			ミューノが心配だよ<end_line>
-			工房に戻ろう！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     I'm worried about Murno.<end_line>
     To the workshop!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			ミューノが心配だよ<end_line>
+			工房に戻ろう！<end_line>
+		</sjis>
+    <ascii>
+    I'm worried about Murno.<end_line>
+    To the workshop!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -653,18 +709,21 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			お、おう！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			う、うん！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Y-yeah!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			う、うん！<end_line>
+		</sjis>
+    <ascii>
+    Y-yeah!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -672,21 +731,25 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			ミューノが心配だ<end_line>
 			工房に戻ろう！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			ミューノが心配だよ<end_line>
-			工房に戻ろう！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     I'm worried about Murno.<end_line>
     To the workshop!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			ミューノが心配だよ<end_line>
+			工房に戻ろう！<end_line>
+		</sjis>
+    <ascii>
+    I'm worried about Murno.<end_line>
+    To the workshop!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -706,18 +769,21 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="partner" eye="decided" mouth="tense">
 	<male>
-		<sjis>
+    <sjis>
 			とにかく急ごう！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			とにかく急ごう！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Come on!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			とにかく急ごう！<end_line>
+		</sjis>
+    <ascii>
+    Come on!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -725,21 +791,25 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			ミューノが心配だ<end_line>
 			工房に戻ろう！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			ミューノが心配だよ<end_line>
-			工房に戻ろう！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     I'm worried about Murno.<end_line>
     To the workshop!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			ミューノが心配だよ<end_line>
+			工房に戻ろう！<end_line>
+		</sjis>
+    <ascii>
+    I'm worried about Murno.<end_line>
+    To the workshop!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -761,39 +831,46 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			お、おう！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			う、うん！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Y-yeah!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			う、うん！<end_line>
+		</sjis>
+    <ascii>
+    Y-yeah!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-		<sjis>
+    <sjis>
 			ミューノが心配だ<end_line>
 			工房に戻ろう！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			ミューノが心配だよ<end_line>
-			工房に戻ろう！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     I'm worried about Murno.<end_line>
     To the workshop!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			ミューノが心配だよ<end_line>
+			工房に戻ろう！<end_line>
+		</sjis>
+    <ascii>
+    I'm worried about Murno.<end_line>
+    To the workshop!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1555,24 +1632,29 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			ミューノがあの３人に追いかけられて<end_line>
 			ベリートの森の奥に行ったみたいだ<end_line>
 			急ごう！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			ミューノがあの３人に追いかけられて<end_line>
-			ベリートの森の奥に行ったみたい<end_line>
-			急ごう！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     The trio chased Murno<end_line>
     deep into Beleet Forest!<end_line>
     We have to find them!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			ミューノがあの３人に追いかけられて<end_line>
+			ベリートの森の奥に行ったみたい<end_line>
+			急ごう！<end_line>
+		</sjis>
+    <ascii>
+    The trio chased Murno<end_line>
+    deep into Beleet Forest!<end_line>
+    We have to find them!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1606,24 +1688,29 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			ゴチャゴチャ考えるのは<end_line>
 			ミューノを見つけた後だ！<end_line>
 			行くぜ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			ゴチャゴチャ考えるのは<end_line>
-			ミューノを見つけた後！<end_line>
-			行くよ！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Let's talk about that<end_line>
     after we find her!<end_line>
     Come on!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			ゴチャゴチャ考えるのは<end_line>
+			ミューノを見つけた後！<end_line>
+			行くよ！<end_line>
+		</sjis>
+    <ascii>
+    Let's talk about that<end_line>
+    after we find her!<end_line>
+    Come on!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1631,24 +1718,29 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			ミューノがあの３人に追いかけられて<end_line>
 			ベリートの森の奥に行ったみたいだ<end_line>
 			急ごう！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			ミューノがあの３人に追いかけられて<end_line>
-			ベリートの森の奥に行ったみたい<end_line>
-			急ごう！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     The trio chased Murno<end_line>
     deep into Beleet Forest!<end_line>
     We have to find them!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			ミューノがあの３人に追いかけられて<end_line>
+			ベリートの森の奥に行ったみたい<end_line>
+			急ごう！<end_line>
+		</sjis>
+    <ascii>
+    The trio chased Murno<end_line>
+    deep into Beleet Forest!<end_line>
+    We have to find them!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1684,24 +1776,29 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="partner" eye="decided" mouth="tense">
 	<male>
-		<sjis>
+    <sjis>
 			ゴチャゴチャ考えるのは<end_line>
 			ミューノを見つけた後だ！<end_line>
 			行くぜ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			ゴチャゴチャ考えるのは<end_line>
-			ミューノを見つけた後！<end_line>
-			行くよ！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Let's talk about that<end_line>
     after we find her!<end_line>
     Come on!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			ゴチャゴチャ考えるのは<end_line>
+			ミューノを見つけた後！<end_line>
+			行くよ！<end_line>
+		</sjis>
+    <ascii>
+    Let's talk about that<end_line>
+    after we find her!<end_line>
+    Come on!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1709,24 +1806,29 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			ミューノがあの３人に追いかけられて<end_line>
 			ベリートの森の奥に行ったみたいだ<end_line>
 			急ごう！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			ミューノがあの３人に追いかけられて<end_line>
-			ベリートの森の奥に行ったみたい<end_line>
-			急ごう！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     The trio chased Murno<end_line>
     deep into Beleet Forest!<end_line>
     We have to find them!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			ミューノがあの３人に追いかけられて<end_line>
+			ベリートの森の奥に行ったみたい<end_line>
+			急ごう！<end_line>
+		</sjis>
+    <ascii>
+    The trio chased Murno<end_line>
+    deep into Beleet Forest!<end_line>
+    We have to find them!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1762,48 +1864,58 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="partner" eye="decided" mouth="tense">
 	<male>
-		<sjis>
+    <sjis>
 			ゴチャゴチャ考えるのは<end_line>
 			ミューノを見つけた後だ！<end_line>
 			行くぜ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			ゴチャゴチャ考えるのは<end_line>
-			ミューノを見つけた後！<end_line>
-			行くよ！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Let's talk about that<end_line>
     after we find her!<end_line>
     Come on!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			ゴチャゴチャ考えるのは<end_line>
+			ミューノを見つけた後！<end_line>
+			行くよ！<end_line>
+		</sjis>
+    <ascii>
+    Let's talk about that<end_line>
+    after we find her!<end_line>
+    Come on!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-		<sjis>
+    <sjis>
 			ミューノがあの３人に追いかけられて<end_line>
 			ベリートの森の奥に行ったみたいだ<end_line>
 			急ごう！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			ミューノがあの３人に追いかけられて<end_line>
-			ベリートの森の奥に行ったみたい<end_line>
-			急ごう！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     The trio chased Murno<end_line>
     deep into Beleet Forest!<end_line>
     We have to find them!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			ミューノがあの３人に追いかけられて<end_line>
+			ベリートの森の奥に行ったみたい<end_line>
+			急ごう！<end_line>
+		</sjis>
+    <ascii>
+    The trio chased Murno<end_line>
+    deep into Beleet Forest!<end_line>
+    We have to find them!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1836,24 +1948,29 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-		<sjis>
+    <sjis>
 			ゴチャゴチャ考えるのは<end_line>
 			ミューノを見つけた後だ！<end_line>
 			行くぜ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			ゴチャゴチャ考えるのは<end_line>
-			ミューノを見つけた後！<end_line>
-			行くよ！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Let's talk about that<end_line>
     after we find her!<end_line>
     Come on!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			ゴチャゴチャ考えるのは<end_line>
+			ミューノを見つけた後！<end_line>
+			行くよ！<end_line>
+		</sjis>
+    <ascii>
+    Let's talk about that<end_line>
+    after we find her!<end_line>
+    Come on!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1861,24 +1978,29 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			ティエにまでケガさせるなんて<three_dots><end_line>
 			あいつら、何をするかわからないぞ<end_line>
 			早くミューノを見つけないと！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			ティエにまでケガさせるなんて<three_dots><end_line>
-			あいつら、何をするかわからないよ<end_line>
-			早くミューノを見つけないと！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Those three even hurt Tier<three_dots><end_line>
     We can't trust them.<end_line>
     We have to find Murno!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			ティエにまでケガさせるなんて<three_dots><end_line>
+			あいつら、何をするかわからないよ<end_line>
+			早くミューノを見つけないと！<end_line>
+		</sjis>
+    <ascii>
+    Those three even hurt Tier<three_dots><end_line>
+    We can't trust them.<end_line>
+    We have to find Murno!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1900,24 +2022,29 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			ティエにまでケガさせるなんて<three_dots><end_line>
 			あいつら、何をするかわからないぞ<end_line>
 			早くミューノを見つけないと！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			ティエにまでケガさせるなんて<three_dots><end_line>
-			あいつら、何をするかわからないよ<end_line>
-			早くミューノを見つけないと！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Those three even hurt Tier<three_dots><end_line>
     We can't trust them.<end_line>
     We have to find Murno!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			ティエにまでケガさせるなんて<three_dots><end_line>
+			あいつら、何をするかわからないよ<end_line>
+			早くミューノを見つけないと！<end_line>
+		</sjis>
+    <ascii>
+    Those three even hurt Tier<three_dots><end_line>
+    We can't trust them.<end_line>
+    We have to find Murno!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1937,24 +2064,29 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			ティエにまでケガさせるなんて<three_dots><end_line>
 			あいつら、何をするかわからないぞ<end_line>
 			早くミューノを見つけないと！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			ティエにまでケガさせるなんて<three_dots><end_line>
-			あいつら、何をするかわからないよ<end_line>
-			早くミューノを見つけないと！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Those three even hurt Tier<three_dots><end_line>
     We can't trust them.<end_line>
     We have to find Murno!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			ティエにまでケガさせるなんて<three_dots><end_line>
+			あいつら、何をするかわからないよ<end_line>
+			早くミューノを見つけないと！<end_line>
+		</sjis>
+    <ascii>
+    Those three even hurt Tier<three_dots><end_line>
+    We can't trust them.<end_line>
+    We have to find Murno!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1977,24 +2109,29 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-		<sjis>
+    <sjis>
 			ティエにまでケガさせるなんて<three_dots><end_line>
 			あいつら、何をするかわからないぞ<end_line>
 			早くミューノを見つけないと！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			ティエにまでケガさせるなんて<three_dots><end_line>
-			あいつら、何をするかわからないよ<end_line>
-			早くミューノを見つけないと！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Those three even hurt Tier<three_dots><end_line>
     We can't trust them.<end_line>
     We have to find Murno!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			ティエにまでケガさせるなんて<three_dots><end_line>
+			あいつら、何をするかわからないよ<end_line>
+			早くミューノを見つけないと！<end_line>
+		</sjis>
+    <ascii>
+    Those three even hurt Tier<three_dots><end_line>
+    We can't trust them.<end_line>
+    We have to find Murno!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -2015,24 +2152,29 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			ゴヴァンの魔石さえ手に入れば<end_line>
 			ミューノはどうなってもいいだなんて<end_line>
 			あいつら<three_dots>！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			ゴヴァンの魔石さえ手に入れば<end_line>
-			ミューノはどうなってもいいだなんて<end_line>
-			あの人たち<three_dots>！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     So the trio doesn't care what<end_line>
     happens to Murno as long as<end_line>
     they can get the Demon Stone<three_dots>!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			ゴヴァンの魔石さえ手に入れば<end_line>
+			ミューノはどうなってもいいだなんて<end_line>
+			あの人たち<three_dots>！<end_line>
+		</sjis>
+    <ascii>
+    So the trio doesn't care what<end_line>
+    happens to Murno as long as<end_line>
+    they can get the Demon Stone<three_dots>!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -2110,24 +2252,29 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			ゴヴァンの魔石さえ手に入れば<end_line>
 			ミューノはどうなってもいいだなんて<end_line>
 			あいつら<three_dots>！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			ゴヴァンの魔石さえ手に入れば<end_line>
-			ミューノはどうなってもいいだなんて<end_line>
-			あの人たち<three_dots>！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     So the trio doesn't care what<end_line>
     happens to Murno as long as<end_line>
     they can get the Demon Stone<three_dots>!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			ゴヴァンの魔石さえ手に入れば<end_line>
+			ミューノはどうなってもいいだなんて<end_line>
+			あの人たち<three_dots>！<end_line>
+		</sjis>
+    <ascii>
+    So the trio doesn't care what<end_line>
+    happens to Murno as long as<end_line>
+    they can get the Demon Stone<three_dots>!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -2205,24 +2352,29 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			ゴヴァンの魔石さえ手に入れば<end_line>
 			ミューノはどうなってもいいだなんて<end_line>
 			あいつら<three_dots>！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			ゴヴァンの魔石さえ手に入れば<end_line>
-			ミューノはどうなってもいいだなんて<end_line>
-			あの人たち<three_dots>！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     So the trio doesn't care what<end_line>
     happens to Murno as long as<end_line>
     they can get the Demon Stone<three_dots>!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			ゴヴァンの魔石さえ手に入れば<end_line>
+			ミューノはどうなってもいいだなんて<end_line>
+			あの人たち<three_dots>！<end_line>
+		</sjis>
+    <ascii>
+    So the trio doesn't care what<end_line>
+    happens to Murno as long as<end_line>
+    they can get the Demon Stone<three_dots>!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -2299,24 +2451,29 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-		<sjis>
+    <sjis>
 			ゴヴァンの魔石さえ手に入れば<end_line>
 			ミューノはどうなってもいいだなんて<end_line>
 			あいつら<three_dots>！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			ゴヴァンの魔石さえ手に入れば<end_line>
-			ミューノはどうなってもいいだなんて<end_line>
-			あの人たち<three_dots>！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     So the trio doesn't care what<end_line>
     happens to Murno as long as<end_line>
     they can get the Demon Stone<three_dots>!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			ゴヴァンの魔石さえ手に入れば<end_line>
+			ミューノはどうなってもいいだなんて<end_line>
+			あの人たち<three_dots>！<end_line>
+		</sjis>
+    <ascii>
+    So the trio doesn't care what<end_line>
+    happens to Murno as long as<end_line>
+    they can get the Demon Stone<three_dots>!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">

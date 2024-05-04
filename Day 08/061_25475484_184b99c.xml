@@ -77,6 +77,11 @@
       お前が先に戦ってくれたおかげて<end_line>
       たおせたみたいなもんだからな<end_line>
     </sjis>
+    <ascii>
+    Don't worry about that.<end_line>
+    We only won because you<end_line>
+    weakened it for us.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -84,12 +89,12 @@
       あなたが先に戦ってくれたおかげで<end_line>
       たおせたみたいなもんだからさ<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Don't worry about that.<end_line>
     We only won because you<end_line>
     weakened it for us.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -174,6 +179,11 @@
       オレと、<partner>と<end_line>
       お前の<three_dots><end_line>
     </sjis>
+    <ascii>
+    So let's say we all helped<end_line>
+    defeat Red Wing.<end_line>
+    Me, <partner>, and you, together<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -181,12 +191,12 @@
       わたしと、<partner>と<end_line>
       あなたの<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     So let's say we all helped<end_line>
     defeat Red Wing.<end_line>
     Me, <partner>, and you, together<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -221,17 +231,21 @@
       おーい！<end_line>
       こっちだー！<end_line>
     </sjis>
+    <ascii>
+    Heeey!<end_line>
+    Over here!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       おーい！<end_line>
       こっちだよー！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Heeey!<end_line>
     Over here!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <bigtext>
   <info box="simple" effect="big">
@@ -713,17 +727,21 @@
       ち、ちょっと待て！<end_line>
       は、母って<three_dots>！？<end_line>
     </sjis>
+    <ascii>
+    Hey, wait!<end_line>
+    M-mother<three_dots>!?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       ち、ちょっと待って！<end_line>
       は、母って<three_dots>！？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Hey, wait!<end_line>
     M-mother<three_dots>!?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">

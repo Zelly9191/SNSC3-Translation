@@ -598,18 +598,21 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			よし、がんばるよ、オレ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			うん、がんばるわ、わたし！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Okay, I'll try my best!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			うん、がんばるわ、わたし！<end_line>
+		</sjis>
+    <ascii>
+    Okay, I'll try my best!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -714,18 +717,21 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-		<sjis>
+    <sjis>
 			そうだな<three_dots><end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			そうだね<three_dots><end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Right<three_dots><end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			そうだね<three_dots><end_line>
+		</sjis>
+    <ascii>
+    Right<three_dots><end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -835,21 +841,25 @@
 	<portrait_l entry="player" eye="serious" mouth="tense">
 	<portrait_r entry="partner" eye="sad" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			<three_dots>さっきの男たちのことが<end_line>
 			気になるのか？<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			<three_dots>さっきの男の人たちのことが<end_line>
-			気になるの？<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     <three_dots>Worried about the guys<end_line>
     we saw earlier?<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			<three_dots>さっきの男の人たちのことが<end_line>
+			気になるの？<end_line>
+		</sjis>
+    <ascii>
+    <three_dots>Worried about the guys<end_line>
+    we saw earlier?<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -977,21 +987,25 @@
 	<portrait_l entry="player" eye="serious" mouth="tense">
 	<portrait_r entry="partner" eye="sad" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			<three_dots>さっきの男たちのことが<end_line>
 			気になるのか？<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			<three_dots>さっきの男の人たちのことが<end_line>
-			気になるの？<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     <three_dots>Worried about the guys<end_line>
     we saw earlier?<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			<three_dots>さっきの男の人たちのことが<end_line>
+			気になるの？<end_line>
+		</sjis>
+    <ascii>
+    <three_dots>Worried about the guys<end_line>
+    we saw earlier?<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1121,21 +1135,25 @@
 	<portrait_l entry="player" eye="serious" mouth="tense">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			<three_dots>さっきの男たちのことが<end_line>
 			気になるのか？<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			<three_dots>さっきの男の人たちのことが<end_line>
-			気になるの？<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     <three_dots>Worried about the guys<end_line>
     we saw earlier?<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			<three_dots>さっきの男の人たちのことが<end_line>
+			気になるの？<end_line>
+		</sjis>
+    <ascii>
+    <three_dots>Worried about the guys<end_line>
+    we saw earlier?<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1262,21 +1280,25 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-		<sjis>
+    <sjis>
 			<three_dots>さっきの男たちのことが<end_line>
 			気になるのか？<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			<three_dots>さっきの男の人たちのことが<end_line>
-			気になるの？<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     <three_dots>Worried about the guys<end_line>
     we saw earlier?<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			<three_dots>さっきの男の人たちのことが<end_line>
+			気になるの？<end_line>
+		</sjis>
+    <ascii>
+    <three_dots>Worried about the guys<end_line>
+    we saw earlier?<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">

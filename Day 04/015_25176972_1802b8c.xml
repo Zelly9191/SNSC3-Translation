@@ -37,6 +37,11 @@
       迷子になってないか<end_line>
       本気で心配してたんだぜ<end_line>
     </sjis>
+    <ascii>
+    Hey<three_dots><end_line>
+    I was really worried<end_line>
+    you might get lost.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -44,12 +49,12 @@
       迷子になってないか<end_line>
       本気で心配してたんだからね<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Hey<three_dots><end_line>
     I was really worried<end_line>
     you might get lost.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -142,15 +147,18 @@
     <sjis>
       今のなんだ？<end_line>
     </sjis>
+    <ascii>
+    What is it?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       今のなに？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     What is it?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -361,15 +369,18 @@
     <sjis>
       なんだよ！<end_line>
     </sjis>
+    <ascii>
+    Hey!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       なによ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Hey!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">

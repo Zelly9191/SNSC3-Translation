@@ -1,4 +1,3 @@
-#Starts at line 77
 <dialogue>
   <info box="nobox">
   <sjis>
@@ -312,17 +311,21 @@
       とにかくそいつを元に戻せば<end_line>
       全て元通りになるのか？<end_line>
     </sjis>
+    <ascii>
+    So if we put it back,<end_line>
+    will everything return to normal?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       とにかくそいつを元に戻せば<end_line>
       全て元通りになるの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     So if we put it back,<end_line>
     will everything return to normal?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -361,17 +364,21 @@
       え？<end_line>
       帰ってもいいのか？<end_line>
     </sjis>
+    <ascii>
+    Eh?<end_line>
+    We can leave?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       え？<end_line>
       帰ってもいいの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Eh?<end_line>
     We can leave?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">

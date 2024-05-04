@@ -5,7 +5,7 @@
 		お<end_line>
 		きたきた<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Oh,<end_line>
 		there you are.<end_line>
 	</ascii>
@@ -17,7 +17,7 @@
 		何やってンだ？<end_line>
 		遅いぞ！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		What were you doing?<end_line>
 		You're late!<end_line>
 	</ascii>
@@ -27,18 +27,21 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="weido_1" eye="decided" mouth="yell">
 	<male>
-		<sjis>
+    <sjis>
 			なんだと！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			なによ、それ！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Huh!?<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			なによ、それ！<end_line>
+		</sjis>
+    <ascii>
+    Huh!?<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -48,7 +51,7 @@
 		うるせぇ<end_line>
 		行くぞ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		You're annoying.<end_line>
 		Let's get this over with.<end_line>
 	</ascii>
@@ -59,7 +62,7 @@
 	<sjis>
 		うるさいのはどっちだ！<end_line>
 	</sjis>
-	<ascii>	
+  <ascii>	
 		Who's annoying!?<end_line>
 	</ascii>
 </dialogue>
@@ -70,7 +73,7 @@
 	<sjis>
 		うわあ！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Woah!<end_line>
 	</ascii>
 </dialogue>
@@ -83,7 +86,7 @@
 		<three_dots>って<player_nickname><end_line>
 		またアンタ、ケンカ<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
     What's all the commotion?<end_line>
 		<three_dots>Oh, it's just <player_nickname>.<end_line>
     Causing trouble again<three_dots>?<end_line>
@@ -94,21 +97,25 @@
 	<portrait_l entry="player" eye="surprised" mouth="yell">
 	<portrait_r entry="vee" eye="decided" mouth="yell">
 	<male>
-		<sjis>
+    <sjis>
 			ちがうって！<end_line>
 			こいつが魔石を返しに来たんだ<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			ちがうって！<end_line>
-			この人が魔石を返しに来たの<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     No!<end_line>
     This guy came to return the stone.<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			ちがうって！<end_line>
+			この人が魔石を返しに来たの<end_line>
+		</sjis>
+    <ascii>
+    No!<end_line>
+    This guy came to return the stone.<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -119,7 +126,7 @@
 		そっか<end_line>
 		なるほどね<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Oh~<three_dots><end_line>
 		Is that all?<end_line>
 		I see<three_dots><end_line>
@@ -132,7 +139,7 @@
 		おーい！<end_line>
 		ミューノ！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Heeeeeey!<end_line>
 		Murnooo!<end_line>
 	</ascii>
@@ -143,7 +150,7 @@
 	<sjis>
 		<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -152,24 +159,29 @@
 	<portrait_l entry="murno" eye="decided" mouth="serious">
 	<portrait_r entry="player" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			大丈夫だよ<end_line>
 			こいつがミューノに直接<end_line>
 			魔石を返したいってさ<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			大丈夫<end_line>
-			この人、ミューノに直接<end_line>
-			魔石を返したいんだって<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     It's okay.<end_line>
     This guy just wants to<end_line>
     give the stone back to you.<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			大丈夫<end_line>
+			この人、ミューノに直接<end_line>
+			魔石を返したいんだって<end_line>
+		</sjis>
+    <ascii>
+    It's okay.<end_line>
+    This guy just wants to<end_line>
+    give the stone back to you.<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -178,7 +190,7 @@
 	<sjis>
 		<three_dots><end_line>
 	</sjis>
-	<ascii>	
+  <ascii>	
 		<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -190,7 +202,7 @@
 		これ<three_dots><end_line>
 		返す<end_line>
 	</sjis>
-	<ascii>	
+  <ascii>	
 		Here<three_dots><end_line>
 		You can have it back.<end_line>
 	</ascii>
@@ -203,7 +215,7 @@
 		<three_dots><end_line>
 		ありがとう<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		<three_dots><end_line>
 		Thank you.<end_line>
 	</ascii>
@@ -217,7 +229,7 @@
 		すまなかったな<three_dots><end_line>
 		それから、ケガは大丈夫か？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		No<three_dots><end_line>
 		I'm sorry<three_dots><end_line>
 		Is your wound okay?<end_line>
@@ -231,7 +243,7 @@
 		え<three_dots><end_line>
 		はい、もう<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Hm<three_dots>?<end_line>
 		Y-Yes, I'm fine<three_dots><end_line>
 	</ascii>
@@ -244,7 +256,7 @@
 		そうか、よかった<three_dots><end_line>
 		じゃ、オレはこれで<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		I see. Good for you.<end_line>
 		Alright, I guess I'll go now.<end_line>
 	</ascii>
@@ -254,20 +266,23 @@
 	<portrait_l entry="player" eye="serious" mouth="talk">
 	<portrait_r entry="weido_1" eye="neutral_blush" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			あ！<end_line>
 			ありがとな！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
+    <ascii>
+    Hey, thanks.<end_line>
+  </ascii>
+  </male>
+  <female>
+    <sjis>
 			うん<end_line>
 			ありがとね！<end_line>
 		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Hey, thanks.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -277,7 +292,7 @@
 		お前に礼を言われる<end_line>
 		筋合いはない！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		I didn't want any thanks from you!<end_line>
 	</ascii>
 </dialogue>
@@ -288,7 +303,7 @@
 	<sjis>
 		よかった<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		<three_dots>Thank goodness<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -297,21 +312,25 @@
 	<portrait_l entry="player" eye="sad" mouth="tense">
 	<portrait_r entry="murno" eye="sad_blush" mouth="talk">
 	<male>
-		<sjis>
+    <sjis>
 			ごめんな、ミューノ<end_line>
 			オレのせいでこんな目に<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			ごめんね、ミューノ<end_line>
-			わたしのせいでこんな目に<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     I'm sorry, Murno.<end_line>
     It's all my fault.<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			ごめんね、ミューノ<end_line>
+			わたしのせいでこんな目に<end_line>
+		</sjis>
+    <ascii>
+    I'm sorry, Murno.<end_line>
+    It's all my fault.<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -322,7 +341,7 @@
 		それより、私の方こそ<end_line>
 		あやまらなくっちゃ<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		No, it's okay.<end_line>
 		In fact, I should be the<end_line>
 		one apologizing to you<three_dots><end_line>
@@ -337,7 +356,7 @@
 		<player_nickname>たちには<end_line>
 		メイワクかけっぱなしで<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Since I came here, all I've<end_line>
 		done is stir up trouble<three_dots><end_line>
     I must be a burden to you<three_dots><end_line>
@@ -350,7 +369,7 @@
 	<sjis>
 		そんな、メイワクだなんて！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		No, it's not a problem!<end_line>
 	</ascii>
 </dialogue>
@@ -362,7 +381,7 @@
 	<sjis>
 		当然ノ事ヲ　シタマデデス<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		We Only Did What Was Natural.<end_line>
 	</ascii>
 </dialogue>
@@ -375,7 +394,7 @@
 		当然の事じゃ<end_line>
 		ミューノを守るのじゃからな<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		This was natural.<end_line>
 		We're sworn to protect you,<end_line>
 		after all.<end_line>
@@ -390,7 +409,7 @@
 		そうだ<end_line>
 		お前が気にすることなど無い<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		That's right.<end_line>
 		Don't worry about it.<end_line>
 	</ascii>
@@ -404,7 +423,7 @@
 		そうですわ<end_line>
 		当然の事をしたまでです<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		That's right.<end_line>
 		We're sworn to protect Lady Murno.<end_line>
 	</ascii>
@@ -417,7 +436,7 @@
 		<partner><three_dots><end_line>
 		あなた<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		<partner><three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -429,7 +448,7 @@
 		ありがとう<end_line>
 		ふたりとも<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Thank you.<end_line>
 		Both of you.<end_line>
 	</ascii>
@@ -441,7 +460,7 @@
 	<sjis>
 		えへへ<three_dots><end_line>
 	</sjis>
-	<ascii>	
+  <ascii>	
 		Hehe~<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -453,7 +472,7 @@
 		ちったぁマシな顔に<end_line>
 		なってきたってとこかな？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Your face has gotten<end_line>
 		quite a bit more mature, hasn't it?<end_line>
 	</ascii>
@@ -465,7 +484,7 @@
 	<sjis>
 		<player_nickname><three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -479,7 +498,7 @@
 		ごめんなさい<three_dots><end_line>
 		結局、勝負になっちまった<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Master<three_dots><end_line>
 		I'm sorry<three_dots><end_line>
 		It turned into a fight after all<three_dots><end_line>
@@ -493,7 +512,7 @@
 	<sjis>
 		これじゃ、何もかわんないよな<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		I guess nothing's really changed<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -507,7 +526,7 @@
 		ごめんなさい<three_dots><end_line>
 		結局、勝負になっちゃった<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Master<three_dots><end_line>
 		I'm sorry<three_dots><end_line>
 		It turned into a fight after all<three_dots><end_line>
@@ -521,7 +540,7 @@
 	<sjis>
 		これじゃ、何もかわんないよね<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		I guess nothing's really changed<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -533,7 +552,7 @@
 		何言ってるんだい<end_line>
 		ちゃんと変わってるだろ？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Are you blind?<end_line>
 		Of course things have changed.<end_line>
 	</ascii>
@@ -545,7 +564,7 @@
 	<sjis>
 		えっ？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Huh?<end_line>
 	</ascii>
 </dialogue>
@@ -556,7 +575,7 @@
 	<sjis>
 		アイツの顔さ<end_line>
 	</sjis>
-	<ascii>	
+  <ascii>	
 		The other guy's expression.<end_line>
 	</ascii>
 </dialogue>
@@ -568,7 +587,7 @@
 		アイツ、また仕返しみたいなこと<end_line>
 		するような顔、してたかい？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Did he seem like he<end_line>
 		still wanted revenge on you?<end_line>
 	</ascii>
@@ -580,7 +599,7 @@
 	<sjis>
 		ううん<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		No<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -592,7 +611,7 @@
 		じゃ、そういうことさ<end_line>
 		アンタはよくやったよ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
     See, there's a difference.<end_line>
 		Good job.<end_line>
 	</ascii>
@@ -605,7 +624,7 @@
 		え～っと<three_dots>？<end_line>
 		つまり、どういうこと？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Huuuh?<end_line>
     What?<end_line>
 	</ascii>
@@ -619,7 +638,7 @@
 		力で物事は解決できないこともある<end_line>
 		<three_dots>っていうのはちょっとちがうか<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		In short<three_dots><end_line>
 		There are times where you<end_line>
 		can't solve everything by force.<end_line>
@@ -634,7 +653,7 @@
 		やり返そうとか思わないような<end_line>
 		フンイキ作りが大切っていうか<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
     Hm, how do I put this<three_dots>?<end_line>
 		When you beat someone, its important<end_line>
 		to still have some goodwill left?<end_line>
@@ -648,7 +667,7 @@
 		ああ！　もう、やめだ！<end_line>
 		そんなこと、自分で考えな！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Arghhh! I don't know! I quit!<end_line>
 		You can think of it yourself!<end_line>
 	</ascii>
@@ -660,7 +679,7 @@
 	<sjis>
 		え～っ！<end_line>
 	</sjis>
-	<ascii>	
+  <ascii>	
 		Ehhh!?<end_line>
 	</ascii>
 </dialogue>
@@ -673,7 +692,7 @@
 		モットモ重要ナ情報ガ<end_line>
 		抜ケテイマス<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		You Omitted An Important<end_line>
 		Piece Of Information.<end_line>
 	</ascii>
@@ -687,7 +706,7 @@
 		やれやれ<end_line>
 		無責任じゃの<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		My goodness,<end_line>
     how irresponsible.<end_line>
 	</ascii>
@@ -700,7 +719,7 @@
 	<sjis>
 		<three_dots>はぁ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		<three_dots>*sigh*<end_line>
 	</ascii>
 </dialogue>
@@ -713,7 +732,7 @@
 		あの<three_dots><end_line>
 		よくわからなかったんですけど<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Um<three_dots><end_line>
 		I don't really get it.<end_line>
 	</ascii>
@@ -726,7 +745,7 @@
 		ああそうだ！<end_line>
 		昔、ロブが言ってたよ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Ahh, that's right!<end_line>
     Rob told me this before.<end_line>
 	</ascii>
@@ -740,7 +759,7 @@
 		目的じゃなくて手段の１つとなる<end_line>
 		武器を作るんだってね<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		We Craftknights work so that<end_line>
 		we may fulfill our goals easier, not<end_line>
 		because crafting itself is our goal.<end_line>
@@ -754,7 +773,7 @@
 		ま、そういうことだよ<end_line>
 		な！？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Well, something like that.<end_line>
 	</ascii>
 </dialogue>
@@ -765,7 +784,7 @@
 	<sjis>
 		う～ん<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Uh<three_dots>huh<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -776,7 +795,7 @@
 	<sjis>
 		な！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		WHAT?<end_line>
 	</ascii>
 </bigtext>
@@ -787,7 +806,7 @@
 	<sjis>
 		わかったよ～<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		N-Nothing<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -800,7 +819,7 @@
 		じゃあアタシは<end_line>
 		町へ行く準備でもするかね<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Good.<end_line>
 		Now, I guess I'll get ready<end_line>
 		to head to town.<end_line>
@@ -816,7 +835,7 @@
 		もう仇討ちだなんて言わないからさ<end_line>
 		オレも行ってもいいかな？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Master<three_dots><end_line>
     Can I come this time?<end_line>
     I won't say anything stupid.<end_line>
@@ -832,7 +851,7 @@
 		るすばんなんて、ヤだよ<end_line>
 		ちゃんと修行はするからさ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		I don't want to stay at home<end_line>
 		when something's happening in town.<end_line>
 		And I promise I'll keep training.<end_line>
@@ -848,7 +867,7 @@
 		もう仇討ちだなんて言わないから<end_line>
 		わたしも行ってもいいかな？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Master<three_dots><end_line>
     Can I come this time?<end_line>
     I won't say anything stupid.<end_line>
@@ -864,7 +883,7 @@
 		るすばんなんて、イヤだよ<end_line>
 		ちゃんと修行はするから<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		I don't want to stay at home<end_line>
 		when something's happening in town.<end_line>
 		And I promise I'll keep training.<end_line>
@@ -879,7 +898,7 @@
 		だめだよ<end_line>
 		アンタはるすばん<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
     Of course not.<end_line>
 		You have to watch the house.<end_line>
 	</ascii>
@@ -893,7 +912,7 @@
 		それはないんじゃないか？<end_line>
 		<player_nickname>、よくやったじゃねえか<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Heyy.<end_line>
 		You don't have to be like that.<end_line>
 		<player_nickname> did well, right?<end_line>
@@ -908,7 +927,7 @@
 		ウチにミューノひとり<end_line>
 		残しておくワケにはいかないだろ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		You again.<end_line>
 		You know we can't leave<end_line>
 		Murno here alone.<end_line>
@@ -923,7 +942,7 @@
 		ごめん、ミューノ<end_line>
 		勝手なこと言っちゃって<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Ohh, right.<end_line>
 		Sorry, Murno.<end_line>
 		I was being selfish there.<end_line>
@@ -936,7 +955,7 @@
 	<sjis>
 		<player_nickname><three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		<player_nickname><three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -949,7 +968,7 @@
 		<player_nickname>のこと<end_line>
 		よろしくたのむよ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
     And Murno,<end_line>
     you need to watch out<end_line>
     for <player_nickname> too.<end_line>
@@ -964,7 +983,7 @@
 		私もついていっちゃ<end_line>
 		ダメ、ですか？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Um, Miss Vee<three_dots><end_line>
 		Would it be possible<end_line>
 		for me to go with you?<end_line>
@@ -978,7 +997,7 @@
 		ちょっと<three_dots><end_line>
 		なんだい、突然<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Hey<three_dots><end_line>
 		What's this all of a sudden?<end_line>
 	</ascii>
@@ -992,7 +1011,7 @@
 		身の回りのお世話は<end_line>
 		私の仕事だし<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Until your injuries heal,<end_line>
 		it's my job to help you with<end_line>
 		the daily necessities.<end_line>
@@ -1007,7 +1026,7 @@
 		町へ行くのはこっちの都合だし<end_line>
 		アンタがそこまでする必要はないよ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		No, it's okay.<end_line>
 		I'm going there on my own accord.<end_line>
 		There's no need to help!<end_line>
@@ -1021,7 +1040,7 @@
 		でも<three_dots>、行きたいんです<end_line>
 		お願いします<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		But<three_dots> I want to go.<end_line>
 		Please<three_dots><end_line>
 	</ascii>
@@ -1035,7 +1054,7 @@
 		荷物持ちでも雑用でも<end_line>
 		なんでもしますから<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		I'll do anything!<end_line>
     Chores, errands, whatever you want!<end_line>
 	</ascii>
@@ -1048,7 +1067,7 @@
 	<sjis>
 		みゅーの様<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Lady Murno<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -1060,7 +1079,7 @@
 	<sjis>
 		ミューノ<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Murno<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -1072,7 +1091,7 @@
 	<sjis>
 		正気か？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Murno<three_dots>?<end_line>
 	</ascii>
 </dialogue>
@@ -1084,7 +1103,7 @@
 	<sjis>
 		ミューノ様<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Lady Murno<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -1097,7 +1116,7 @@
 		目立つようなことはできるだけ<end_line>
 		さけた方がいいんじゃ<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Why are you<three_dots><end_line>
 		Wouldn't it be better to avoid<end_line>
 		standing out as much as pos-<end_line>
@@ -1110,7 +1129,7 @@
 	<sjis>
 		でも<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		But<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -1121,7 +1140,7 @@
 	<sjis>
 		え？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Hm?<end_line>
 	</ascii>
 </dialogue>
@@ -1133,7 +1152,7 @@
 		ふう～ん<three_dots><end_line>
 		アンタがそこまで考えてるとはねぇ<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Hmmmm<three_dots><end_line>
 		So you've thought it out that far<three_dots><end_line>
 	</ascii>
@@ -1147,7 +1166,7 @@
 		はぐれもふえて危ないんだよねぇ<three_dots><end_line>
 		アタシひとりだと正直心細いんだよ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		But there are more strays out now,<end_line>
 		so it's far more dangerous.<end_line>
 		Even I couldn't handle all of them.<end_line>
@@ -1158,41 +1177,41 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="vee" eye="sad" mouth="neutral">
 	<male>
-		<option>
-			<sjis>
+    <option>
+      <sjis>
 				こういう時こそオレの出番だ！<end_line>
 			</sjis>
-			<ascii>
+      <ascii>
 				That's where I come in!<end_line>
 			</ascii>
-		</option>
-		<option>
-			<sjis>
+    </option>
+    <option>
+      <sjis>
 				親方の言うとおり、キケンだな<three_dots><end_line>
 			</sjis>
-			<ascii>
+      <ascii>
 				It is pretty dangerous<three_dots><end_line>
 			</ascii>
-		</option>
-	</male>
-	<female>
-		<option>
-			<sjis>
+    </option>
+  </male>
+  <female>
+    <option>
+      <sjis>
 				こういう時こそわたしの出番！<end_line>
 			</sjis>
-			<ascii>
+      <ascii>
 				That's where I come in!<end_line>
 			</ascii>
-		</option>
-		<option>
-			<sjis>
+    </option>
+    <option>
+      <sjis>
 				親方の言うとおり、キケンだよ<three_dots><end_line>
 			</sjis>
-			<ascii>
+      <ascii>
 				It is pretty dangerous<three_dots><end_line>
 			</ascii>
-		</option>
-	</female>
+    </option>
+  </female>
 </choice>
 <dialogue>
 	<info box="left">
@@ -1201,7 +1220,7 @@
 	<sjis>
 		それなら<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		In that case,<end_line>
 	</ascii>
 </dialogue>
@@ -1210,18 +1229,21 @@
 	<portrait_l entry="player" eye="decided" mouth="talk">
 	<portrait_r entry="vee" eye="sad" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			オレたちがついてるじゃないか！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			わたしたちがついてるじゃない！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     why don't I come along too!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			わたしたちがついてるじゃない！<end_line>
+		</sjis>
+    <ascii>
+    why don't I come along too!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -1231,7 +1253,7 @@
 		それができれば<end_line>
 		悩まないんだけどねぇ<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
     I suppose you could,<end_line>
     if you can keep yourself<end_line>
     out of trouble<three_dots><end_line>
@@ -1244,7 +1266,7 @@
 	<sjis>
 		なっ！？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Hey!<end_line>
 	</ascii>
 </dialogue>
@@ -1257,7 +1279,7 @@
 		ミューノが行くには<end_line>
 		あぶないよ<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
     It'll certainly be<end_line>
     more dangerous with<end_line>
     Murno tagging along<three_dots><end_line>
@@ -1272,7 +1294,7 @@
 		大丈夫デス<end_line>
 		みゅーの様ハ　私ガ守リマス<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		It Is Fine.<end_line>
 		I Will Protect Her.<end_line>
 	</ascii>
@@ -1286,7 +1308,7 @@
 		案ずるな<end_line>
 		ミューノはワガハイが守る<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Do not be concerned.<end_line>
 		I will protect her.<end_line>
 	</ascii>
@@ -1300,7 +1322,7 @@
 		だったらキサマがなんとかすれば<end_line>
 		いいだろう<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
     Why don't you do<end_line>
     something about it then<three_dots><end_line>
 	</ascii>
@@ -1315,7 +1337,7 @@
 		ミューノ様は私が絶対に<end_line>
 		お守りしますので<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
     No need for concern!<end_line>
 		I will definitely protect her!<end_line>
 	</ascii>
@@ -1327,7 +1349,7 @@
 	<sjis>
 		あ、そうだ！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Of course!<end_line>
 	</ascii>
 </dialogue>
@@ -1336,18 +1358,21 @@
 	<portrait_l entry="player" eye="surprised" mouth="yell">
 	<portrait_r entry="partner" eye="decided" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			オレだって！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			わたしだって！<end_line>
-		</sjis>
-	</female>	
-  <ascii>
+    <ascii>
     That goes for me too!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			わたしだって！<end_line>
+		</sjis>
+    <ascii>
+    That goes for me too!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -1357,7 +1382,7 @@
 		それができれば<end_line>
 		悩まないんだけどねぇ<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
     I suppose you could,<end_line>
     if you can keep yourself<end_line>
     out of trouble<three_dots><end_line>
@@ -1370,7 +1395,7 @@
 	<sjis>
 		なっ！？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Hey!<end_line>
 	</ascii>
 </dialogue>
@@ -1383,7 +1408,7 @@
 		ねえさんが心配する気持ちも<end_line>
 		わかるな<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Well, I can understand<end_line>
 		why Vee's worried.<end_line>
 	</ascii>
@@ -1397,7 +1422,7 @@
 		森にはさっきの男より<end_line>
 		手強いはぐれもいるんだぜ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		In the forest there are strays<end_line>
 		far stronger than that guy earlier.<end_line>
 	</ascii>
@@ -1409,7 +1434,7 @@
 	<sjis>
 		でも<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		But<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -1422,7 +1447,7 @@
 		オレが直々にお前たちの<end_line>
 		実力をたしかめてやろうか？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		That said, how about<end_line>
 		I test your strength?<end_line>
 	</ascii>
@@ -1435,7 +1460,7 @@
 		え！？　本当！？<end_line>
 		勝負してくれるの？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Whoa!? Really!?<end_line>
 		You'll fight with me?<end_line>
 	</ascii>
@@ -1449,7 +1474,7 @@
 		鍛冶師としてオレと勝負することが<end_line>
 		できそうだからな<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Yeah<three_dots> Right now, you're<end_line>
 		fully capable of going up against<end_line>
 		me as a fellow Craftknight.<end_line>
@@ -1463,7 +1488,7 @@
 		やった！<end_line>
 		さっすがアニキ！　カッコイイ！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Alright!<end_line>
 		Just I'd expect from you Bro!<end_line>
 		You're awesome!<end_line>
@@ -1478,7 +1503,7 @@
 		アンタのおすみつきがでればって<end_line>
 		話なんだろうが<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		I wonder<three_dots><end_line>
 		If <player_nickname> can get your approval,<end_line>
 		they must've seriously improved.<end_line>
@@ -1493,7 +1518,7 @@
 		負けると思ってるのかい？<end_line>
 		なあ、<player_nickname><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		But, do you think that my apprentice<end_line>
 		would lose to someone like you?<end_line>
 		Well, <player_nickname>?<end_line>
@@ -1504,42 +1529,46 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="jade" eye="serious" mouth="talk">
 	<option>
-		<sjis>
+    <sjis>
 			そりゃあ勝つ気マンマンです！<end_line>
 		</sjis>
-		<ascii>
+    <ascii>
 			Of course I'll win!<end_line>
 		</ascii>
-	</option>
-	<option>
-		<sjis>
+  </option>
+  <option>
+    <sjis>
 			実は勝てる自信がありません<three_dots><end_line>
 		</sjis>
-		<ascii>
+    <ascii>
 			Actually I'm not that sure<three_dots><end_line>
 		</ascii>
-	</option>
+  </option>
 </choice>
 <dialogue>
 	<info box="left">
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="jade" eye="serious" mouth="talk">
 	<male>
-		<sjis>
+    <sjis>
 			おう！<end_line>
 			もちろん！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			うん！<end_line>
-			もちろん！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Yeah!<end_line>
     Of course!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			うん！<end_line>
+			もちろん！<end_line>
+		</sjis>
+    <ascii>
+    Yeah!<end_line>
+    Of course!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="nobox">
@@ -1548,7 +1577,7 @@
 	<sjis>
 		どうかなぁ<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		I wonder<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -1561,7 +1590,7 @@
 		今ノ　私タチナラバ<end_line>
 		問題アリマセン<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		As We Are Now,<end_line>
 		We Are Fully Capable Of Victory.<end_line>
 	</ascii>
@@ -1576,7 +1605,7 @@
 		おぬしとワガハイならば<end_line>
 		勝てぬ相手ではないぞ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
     Believe in yourself!<end_line>
 		With you and I together,<end_line>
 		there is no opponent to fear.<end_line>
@@ -1591,7 +1620,7 @@
 		<three_dots>面倒だ<end_line>
 		さっさと片付けるぞ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		<three_dots><end_line>
 		Let's just beat him<end_line>
 		and get it over with.<end_line>
@@ -1607,7 +1636,7 @@
 		自信を持ってください！<end_line>
 		絶対に勝てますわ！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
     We can do it, <player_nickname>!<end_line>
     Believe in yourself!<end_line>
 		We will definitely win!<end_line>
@@ -1620,7 +1649,7 @@
 	<sjis>
 		<partner><three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		<partner><three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -1633,7 +1662,7 @@
 		じゃ、エンリョなく<end_line>
 		やらせてもらうぜ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Well said.<end_line>
 		Then, I'll be going at it<end_line>
 		with everything I've got!<end_line>
@@ -1647,7 +1676,7 @@
 		じゃ、こっちもエンリョはいらないよ<end_line>
 		わかったね、<player_nickname>！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		No holding back then.<end_line>
 		You got that, <player_nickname>?<end_line>
 	</ascii>
@@ -1657,18 +1686,21 @@
 	<portrait_l entry="player" eye="decided" mouth="talk">
 	<portrait_r entry="vee" eye="decided" mouth="talk">
 	<male>
-		<sjis>
+    <sjis>
 			お、おお！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			は、はい！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Y-Yeah!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			は、はい！<end_line>
+		</sjis>
+    <ascii>
+    Y-Yeah!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -1678,7 +1710,7 @@
 		よっしゃ、<player_nickname><end_line>
 		勝負の準備ができたら教えな<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Alright then.<end_line>
 		Let me know when you're ready.<end_line>
 	</ascii>

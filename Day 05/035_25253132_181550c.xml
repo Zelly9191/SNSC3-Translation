@@ -16,6 +16,11 @@
       アニキたちが向かった<end_line>
       はぐれの仲間か<three_dots>？<end_line>
     </sjis>
+    <ascii>
+    Those must be<three_dots><end_line>
+    The leftovers of Jade's<end_line>
+    Stray extermination<three_dots>?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -23,12 +28,12 @@
       アニキたちが退治しに行った<end_line>
       はぐれ召喚獣の仲間かな<three_dots>？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Those must be<three_dots><end_line>
     The leftovers of Jade's<end_line>
     Stray extermination<three_dots>?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -93,15 +98,19 @@
       じゃあ<three_dots><end_line>
       行くしかないか！<end_line>
     </sjis>
+    <ascii>
+    Right<three_dots><end_line>
+    We have to break through!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       じゃあ<three_dots><end_line>
       行くしかないよね！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Right<three_dots><end_line>
     We have to break through!<end_line>
   </ascii>
+  </female>
 </dialogue>

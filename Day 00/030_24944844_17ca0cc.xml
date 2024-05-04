@@ -411,15 +411,18 @@
     <sjis>
       そんな気にすんなよ<end_line>
     </sjis>
+    <ascii>
+    Don't worry about it too much.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       そんな気にしないで<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Don't worry about it too much.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -520,17 +523,21 @@
       仕方ない<end_line>
       行こうぜ、<partner><end_line>
     </sjis>
+    <ascii>
+    It can't be helped.<end_line>
+    Let's go, <partner>.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       仕方ない<end_line>
       行こう、<partner><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     It can't be helped.<end_line>
     Let's go, <partner>.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">

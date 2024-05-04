@@ -3,21 +3,25 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="zakk" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			あのさ、ザック<end_line>
 			ミューノ見なかったか？<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			ねぇ、ザック<end_line>
-			ミューノ見なかった？<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Hey, Zakk,<end_line>
     have you seen Murno?<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			ねぇ、ザック<end_line>
+			ミューノ見なかった？<end_line>
+		</sjis>
+    <ascii>
+    Hey, Zakk,<end_line>
+    have you seen Murno?<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="right">

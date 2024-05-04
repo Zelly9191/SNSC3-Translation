@@ -32,17 +32,21 @@
       オレは<three_dots><end_line>
       オレは<three_dots>！<end_line>
     </sjis>
+    <ascii>
+    I<three_dots><end_line>
+    I<three_dots>!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       わたしは<three_dots><end_line>
       わたしは<three_dots>！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I<three_dots><end_line>
     I<three_dots>!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <choice>
   <info box="left">
@@ -234,17 +238,21 @@
       お前は<three_dots>！？<end_line>
       こいつ<three_dots>、一体どういう<three_dots>！<end_line>
     </sjis>
+    <ascii>
+    You're<three_dots>!?<end_line>
+    Wha<three_dots> What's going on<three_dots>!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       あんたは<three_dots>！？<end_line>
       これって<three_dots>、一体どういう<three_dots>！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     You're<three_dots>!?<end_line>
     Wha<three_dots> What's going on<three_dots>!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <player gender="male">
@@ -314,15 +322,18 @@
     <sjis>
       だまれ<three_dots><end_line>
     </sjis>
+    <ascii>
+    Shut up<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       だまってよ<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Shut up<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -332,15 +343,18 @@
     <sjis>
       早く戻ろうぜ<three_dots><end_line>
     </sjis>
+    <ascii>
+    Go back<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       早く戻ろうよ<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Go back<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -350,15 +364,18 @@
     <sjis>
       だまれって言ってるだろ！<end_line>
     </sjis>
+    <ascii>
+    I said, shut up!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       だまってって言ってるでしょ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I said, shut up!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>#Believe Murno
   <info box="nobox">
@@ -367,17 +384,21 @@
       わかった<three_dots><end_line>
       戻ろう<three_dots><end_line>
     </sjis>
+    <ascii>
+    Okay<three_dots><end_line>
+    Let's leave<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       わかったわ<three_dots><end_line>
       戻ろう<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Okay<three_dots><end_line>
     Let's leave<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -414,6 +435,10 @@
       でもニセモノだって<end_line>
       どうやって証明するんだよ！<end_line>
     </sjis>
+    <ascii>
+    Even if that's true,<end_line>
+    how are we supposed to prove it!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -421,11 +446,11 @@
       でもニセモノだって<end_line>
       どうやって証明するの！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Even if that's true,<end_line>
     how are we supposed to prove it!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -450,6 +475,10 @@
       こんなところに残しておくわけには<end_line>
       いかないだろ<end_line>
     </sjis>
+    <ascii>
+    Without proof, we can't just<end_line>
+    leave her alone here, right?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -457,11 +486,11 @@
       こんなところに残しておくわけには<end_line>
       いかないじゃない<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Without proof, we can't just<end_line>
     leave her alone here, right?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -566,6 +595,10 @@
       でもニセモノだって<end_line>
       どうやって証明するんだよ！<end_line>
     </sjis>
+    <ascii>
+    Even if that's true,<end_line>
+    how are we supposed to prove it!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -573,11 +606,11 @@
       でもニセモノだって<end_line>
       どうやって証明するの！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Even if that's true,<end_line>
     how are we supposed to prove it!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -601,6 +634,10 @@
       こんなところに残しておくわけには<end_line>
       いかないだろ<end_line>
     </sjis>
+    <ascii>
+    Without proof, we can't risk<end_line>
+    leaving her here alone, right?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -608,11 +645,11 @@
       こんなところに残しておくわけには<end_line>
       いかないじゃない<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Without proof, we can't risk<end_line>
     leaving her here alone, right?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -720,6 +757,10 @@
       でもニセモノだって<end_line>
       証明できるのか！？<end_line>
     </sjis>
+    <ascii>
+    I do, but<three_dots><end_line>
+    Can you prove she's an imposter?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -727,11 +768,11 @@
       でもニセモノだって<end_line>
       証明できるの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I do, but<three_dots><end_line>
     Can you prove she's an imposter?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -754,6 +795,10 @@
       ミューノをこんなところに<end_line>
       残しておくわけにはいかないだろ<end_line>
     </sjis>
+    <ascii>
+    Without proof, we can't risk<end_line>
+    leaving her here alone, right?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -761,11 +806,11 @@
       ミューノをこんなところに<end_line>
       残しておけないでしょ<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Without proof, we can't risk<end_line>
     leaving her here alone, right?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -876,6 +921,10 @@
       でもニセモノだって<end_line>
       どうやって証明するんだよ！<end_line>
     </sjis>
+    <ascii>
+    Even if that's true,<end_line>
+    we have no way to prove it!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -883,11 +932,11 @@
       でもニセモノだって<end_line>
       どうやって証明するの！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Even if that's true,<end_line>
     we have no way to prove it!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -912,6 +961,10 @@
       こんなところに残しておくわけには<end_line>
       いかないだろ<end_line>
     </sjis>
+    <ascii>
+    Without proof, we can't risk<end_line>
+    leaving her here alone, right?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -919,11 +972,11 @@
       こんなところに残しておくわけには<end_line>
       いかないじゃない<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Without proof, we can't risk<end_line>
     leaving her here alone, right?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">

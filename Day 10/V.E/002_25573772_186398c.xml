@@ -103,17 +103,21 @@
       使ってみなくちゃわからない<end_line>
       <three_dots>ってことか<end_line>
     </sjis>
+    <ascii>
+    Until we test it.<end_line>
+    <three_dots>Right?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       使ってみなくちゃわからない<end_line>
       <three_dots>だね<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Until we test it.<end_line>
     <three_dots>Right?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -253,15 +257,19 @@
       オレたちのすべてをかけた武器、か<three_dots><end_line>
       どれにしようかな<end_line>
     </sjis>
+    <ascii>
+    The best one I've got, huh<three_dots><end_line>
+    I wonder which one to choose.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       わたしたちのすべてをかけた武器、ね<three_dots><end_line>
       どれにしようかな<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     The best one I've got, huh<three_dots><end_line>
     I wonder which one to choose.<end_line>
   </ascii>
+  </female>
 </dialogue>

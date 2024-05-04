@@ -6,17 +6,21 @@
       あれ？<end_line>
       あいつ、どこ行った？<end_line>
     </sjis>
+    <ascii>
+    Huh?<end_line>
+    Where'd they go?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       あれ？<end_line>
       あいつ、どこ行ったの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Huh?<end_line>
     Where'd they go?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">

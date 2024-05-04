@@ -18,39 +18,42 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="tier" eye="serious" mouth="neutral">
 	<option>
-		<sjis>
+    <sjis>
 			案内を頼んでみようかな<three_dots><end_line>
 		</sjis>
-		<ascii>
+    <ascii>
 			I guess so<three_dots><end_line>
 		</ascii>
-	</option>
-	<option>
-		<sjis>
+  </option>
+  <option>
+    <sjis>
 			自力で道を切り開こう！<end_line>
 		</sjis>
-		<ascii>
+    <ascii>
 			I'll find a path myself!<end_line>
 		</ascii>
-	</option>
+  </option>
 </choice>
 <dialogue>
 	<info box="left">
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="tier" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			じゃあ頼むぜ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			じゃあお願い！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Alright, I'm counting on you!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			じゃあお願い！<end_line>
+		</sjis>
+    <ascii>
+    Alright, I'm counting on you!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -60,7 +63,7 @@
 		それでは案内料<end_line>
 		２００バームいただきまぁす！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
     That'll be 200 Boam!<end_line>
 	</ascii>
 </dialogue>
@@ -71,7 +74,7 @@
 	<sjis>
 		まいど～！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Thank you!<end_line>
 	</ascii>
 </dialogue>
@@ -83,7 +86,7 @@
 		本日早くも２件目<end_line>
 		今日はいい日だわ～<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Already the second one today<three_dots><end_line>
 		Today's a good day~<end_line>
 	</ascii>
@@ -95,7 +98,7 @@
 	<sjis>
 		２件目って？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		The second one?<end_line>
 	</ascii>
 </dialogue>
@@ -108,7 +111,7 @@
 		こちらの話ですから～<end_line>
 		お気づかいなく～<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Oh don't mind me~<end_line>
 		Just talking to myself~<end_line>
 	</ascii>
@@ -120,7 +123,7 @@
 	<sjis>
 		<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -133,7 +136,7 @@
 		ここら辺、はぐれも多いから<end_line>
 		気をつけてくださいね～<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Alright then, please follow me.<end_line>
     Please be careful, as there<end_line>
     are many Strays around too~<end_line>
@@ -146,7 +149,7 @@
 		あれ<three_dots><end_line>
 		お金が足りない<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Huh<three_dots><end_line>
 		You don't have enough money<three_dots><end_line>
 	</ascii>
@@ -158,7 +161,7 @@
 		ちょっと、ひやかしなの！？<end_line>
 		ひど～い！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Are you trying to scam me!?<end_line>
 		That's ho~rri~ble~!<end_line>
 	</ascii>
@@ -169,7 +172,7 @@
 	<sjis>
 		いや、そういうつもりじゃ<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		No no, we're not<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -180,7 +183,7 @@
 		じゃあ、ここで待ってるから<end_line>
 		お金できたら来てね<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
     Well, I'll be waiting here<end_line>
     when you do have the money.<end_line>
 	</ascii>

@@ -18,18 +18,21 @@
 	<portrait_l entry="player" eye="surprised" mouth="stressed">
 	<portrait_r entry="jade" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			え、オレが？<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			え、わたしが？<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Hm? Why me?<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			え、わたしが？<end_line>
+		</sjis>
+    <ascii>
+    Hm? Why me?<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -60,30 +63,30 @@
   </ascii>
 </dialogue>
 <menu>
-	<title>
-		<sjis>
+  <title>
+    <sjis>
 			武器の注文受けますか？<end_line>
 		</sjis>
     <ascii>
       Accept request?<end_line>
     </ascii>
-	</title>
-	<option>
-		<sjis>
+  </title>
+  <option>
+    <sjis>
 			はい<end_line>
 		</sjis>
     <ascii>
       Yes<end_line>
     </ascii>
-	</option>
-	<option>
-		<sjis>
+  </option>
+  <option>
+    <sjis>
 			いいえ<end_line>
 		</sjis>
     <ascii>
       No<end_line>
     </ascii>
-	</option>
+  </option>
 </menu>
 <dialogue>
 	<info box="left">
@@ -101,18 +104,21 @@
 	<portrait_l entry="player" eye="sad" mouth="tense">
 	<portrait_r entry="jade" eye="serious" mouth="tense">
 	<male>
-		<sjis>
+    <sjis>
 			ええ～っと、オレには<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			ええ～っと、わたしには<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Well, I uh<three_dots><end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			ええ～っと、わたしには<end_line>
+		</sjis>
+    <ascii>
+    Well, I uh<three_dots><end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -126,30 +132,30 @@
   </ascii>
 </dialogue>
 <menu>
-	<title>
-		<sjis>
+  <title>
+    <sjis>
 			注文の武器はできていますか？<end_line>
 		</sjis>
     <ascii>
       Present your weapon?<end_line>
     </ascii>
-	</title>
-	<option>
-		<sjis>
+  </title>
+  <option>
+    <sjis>
 			はい<end_line>
 		</sjis>
     <ascii>
       Yes<end_line>
     </ascii>
-	</option>
-	<option>
-		<sjis>
+  </option>
+  <option>
+    <sjis>
 			いいえ<end_line>
 		</sjis>
     <ascii>
       No<end_line>
     </ascii>
-	</option>
+  </option>
 </menu>
 <dialogue>
 	<info box="left">

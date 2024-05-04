@@ -54,15 +54,19 @@
       人か<three_dots><end_line>
       こっちには行けないな<three_dots><end_line>
     </sjis>
+    <ascii>
+    There's someone there<three_dots><end_line>
+    Can't go this way<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       人か<three_dots><end_line>
       こっちには行けないね<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     There's someone there<three_dots><end_line>
     Can't go this way<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>

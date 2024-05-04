@@ -49,144 +49,174 @@
 	<portrait_l entry="player" eye="neutral_blush" mouth="talk">
 	<portrait_r entry="tier" eye="surprised_blush" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			聞こえたよ<three_dots><end_line>
 			みんなの声<three_dots>、それから<three_dots><end_line>
 			君の声<three_dots><end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			聞こえたよ<three_dots><end_line>
-			みんなの声<three_dots>、それから<three_dots><end_line>
-			あなたの声<three_dots><end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     I heard it<three_dots><end_line>
     Everyone's voices<three_dots> And then<three_dots><end_line>
     Yours<three_dots><end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			聞こえたよ<three_dots><end_line>
+			みんなの声<three_dots>、それから<three_dots><end_line>
+			あなたの声<three_dots><end_line>
+		</sjis>
+    <ascii>
+    I heard it<three_dots><end_line>
+    Everyone's voices<three_dots> And then<three_dots><end_line>
+    Yours<three_dots><end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="left">
 	<portrait_l entry="player" eye="neutral_blush" mouth="talk">
 	<portrait_r entry="tier" eye="surprised_blush" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			聞こえたよ<three_dots><end_line>
 			みんなの声<three_dots>、それから<three_dots><end_line>
 			<partner>の声<three_dots><end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			聞こえたよ<three_dots><end_line>
-			みんなの声<three_dots>、それから<three_dots><end_line>
-			あなたの声<three_dots><end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     I heard it<three_dots><end_line>
     Everyone's voices<three_dots> And then<three_dots><end_line>
     Yours<three_dots><end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			聞こえたよ<three_dots><end_line>
+			みんなの声<three_dots>、それから<three_dots><end_line>
+			あなたの声<three_dots><end_line>
+		</sjis>
+    <ascii>
+    I heard it<three_dots><end_line>
+    Everyone's voices<three_dots> And then<three_dots><end_line>
+    Yours<three_dots><end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="left">
 	<portrait_l entry="player" eye="neutral_blush" mouth="talk">
 	<portrait_r entry="tier" eye="surprised_blush" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			聞こえたよ<three_dots><end_line>
 			みんなの声<three_dots>、それから<three_dots><end_line>
 			親方の声<three_dots><end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			聞こえたよ<three_dots><end_line>
-			みんなの声<three_dots>、それから<three_dots><end_line>
-			親方の声<three_dots><end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     I heard it<three_dots><end_line>
     Everyone's voices<three_dots> And then<three_dots><end_line>
     Master's<three_dots><end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			聞こえたよ<three_dots><end_line>
+			みんなの声<three_dots>、それから<three_dots><end_line>
+			親方の声<three_dots><end_line>
+		</sjis>
+    <ascii>
+    I heard it<three_dots><end_line>
+    Everyone's voices<three_dots> And then<three_dots><end_line>
+    Master's<three_dots><end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="left">
 	<portrait_l entry="player" eye="neutral_blush" mouth="talk">
 	<portrait_r entry="tier" eye="surprised_blush" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			聞こえたよ<three_dots><end_line>
 			みんなの声<three_dots>、それから<three_dots><end_line>
 			お前の声<three_dots><end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			聞こえたよ<three_dots><end_line>
-			みんなの声<three_dots>、それから<three_dots><end_line>
-			あなたの声<three_dots><end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     I heard it<three_dots><end_line>
     Everyone's voices<three_dots> And then<three_dots><end_line>
     Yours<three_dots><end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			聞こえたよ<three_dots><end_line>
+			みんなの声<three_dots>、それから<three_dots><end_line>
+			あなたの声<three_dots><end_line>
+		</sjis>
+    <ascii>
+    I heard it<three_dots><end_line>
+    Everyone's voices<three_dots> And then<three_dots><end_line>
+    Yours<three_dots><end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="left">
 	<portrait_l entry="player" eye="neutral_blush" mouth="talk">
 	<portrait_r entry="tier" eye="surprised_blush" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			聞こえたよ<three_dots><end_line>
 			みんなの声<three_dots>、それから<three_dots><end_line>
 			アニキの声<three_dots><end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			聞こえたよ<three_dots><end_line>
-			みんなの声<three_dots>、それから<three_dots><end_line>
-			アニキの声<three_dots><end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     I heard it<three_dots><end_line>
     Everyone's voices<three_dots> And then<three_dots><end_line>
     Brother's<three_dots><end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			聞こえたよ<three_dots><end_line>
+			みんなの声<three_dots>、それから<three_dots><end_line>
+			アニキの声<three_dots><end_line>
+		</sjis>
+    <ascii>
+    I heard it<three_dots><end_line>
+    Everyone's voices<three_dots> And then<three_dots><end_line>
+    Brother's<three_dots><end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="left">
 	<portrait_l entry="player" eye="neutral_blush" mouth="talk">
 	<portrait_r entry="tier" eye="surprised_blush" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			聞こえたよ<three_dots><end_line>
 			みんなの声<three_dots>、それから<three_dots><end_line>
 			ティエの声<three_dots><end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			聞こえたよ<three_dots><end_line>
-			みんなの声<three_dots>、それから<three_dots><end_line>
-			ティエの声<three_dots><end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     I heard it<three_dots><end_line>
     Everyone's voices<three_dots> And then<three_dots><end_line>
     Tier's<three_dots><end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			聞こえたよ<three_dots><end_line>
+			みんなの声<three_dots>、それから<three_dots><end_line>
+			ティエの声<three_dots><end_line>
+		</sjis>
+    <ascii>
+    I heard it<three_dots><end_line>
+    Everyone's voices<three_dots> And then<three_dots><end_line>
+    Tier's<three_dots><end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="left">

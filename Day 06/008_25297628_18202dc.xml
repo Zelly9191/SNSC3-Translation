@@ -42,17 +42,21 @@
       武器の種類だな！<end_line>
       そんなの決まってるぜ<three_dots><end_line>
     </sjis>
+    <ascii>
+    Weapon types, huh!<end_line>
+    It's obviously<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       武器の種類ね！<end_line>
       そんなの決まってるよ<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Weapon types, huh!<end_line>
     It's obviously<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <choice>
   <info box="left">
@@ -142,17 +146,21 @@
       一番重い武器だな！<end_line>
       それなら<three_dots><end_line>
     </sjis>
+    <ascii>
+    The heaviest weapon!<end_line>
+    That's<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       一番重い武器ね！<end_line>
       それなら<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     The heaviest weapon!<end_line>
     That's<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <choice>
   <info box="left">
@@ -244,17 +252,21 @@
       武器作製で大切なもの<three_dots>？<end_line>
       それは<three_dots><end_line>
     </sjis>
+    <ascii>
+    The most important thing<three_dots>?<end_line>
+    That's<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       武器作製で大切なもの<three_dots>？<end_line>
       それは<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     The most important thing<three_dots>?<end_line>
     That's<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <choice>
   <info box="left">

@@ -110,15 +110,18 @@
     <sjis>
       オレは<three_dots><end_line>
     </sjis>
+    <ascii>
+    I<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       わたしは<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <choice>
   <info box="left">
@@ -148,17 +151,21 @@
       みんな帰ってこないし<end_line>
       なにやってンのかなって<three_dots><end_line>
     </sjis>
+    <ascii>
+    You were taking a while, so I was<end_line>
+    wondering what you were doing<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       みんな帰ってこないし<end_line>
       なにやってるのかなって<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     You were taking a while, so I was<end_line>
     wondering what you were doing<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -212,17 +219,21 @@
       な、なんだよ！<end_line>
       オレは別に<three_dots>！<end_line>
     </sjis>
+    <ascii>
+    W-What?!<end_line>
+    I wasn't<three_dots>!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       な、なによ！<end_line>
       わたしは別に<three_dots>！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     W-What?!<end_line>
     I wasn't<three_dots>!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -378,7 +389,7 @@
   <ascii>
     Uwah~<end_line>
     This is too real~<end_line>
-  </ascii> 
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="right">

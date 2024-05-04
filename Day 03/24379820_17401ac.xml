@@ -6,7 +6,7 @@
 		親方と勝負だ<end_line>
 		しっかり準備しなきゃ！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		So we're having match with Master.<end_line>
 		I have to make sure I'm prepared!<end_line>
 	</ascii>
@@ -20,7 +20,7 @@
 		みゅーの様ノタメニ<end_line>
 		必ズ　親方ニ勝チマショウ！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		For Lady Murno's Sake,<end_line>
 		We Will Win!<end_line>
 	</ascii>
@@ -34,7 +34,7 @@
 		はりきってるのはいいんだけど<end_line>
 		なーんか、ひっかかるなぁ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		You only get excited when<end_line>
 		it involves Murno, huh<three_dots><end_line>
 	</ascii>
@@ -48,7 +48,7 @@
 		親方と勝負だ<end_line>
 		しっかり準備しなきゃ！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		So we're having match with Master.<end_line>
 		I have to make sure I'm prepared!.<end_line>
 	</ascii>
@@ -62,7 +62,7 @@
 		そして必ず勝つのじゃ！<end_line>
 		ミューノを守るために！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		And we must to win!<end_line>
 		For Murno!<end_line>
 	</ascii>
@@ -73,24 +73,29 @@
 	<portrait_l entry="player" eye="serious" mouth="tense">
 	<portrait_r entry="partner" eye="decided" mouth="yell">
 	<male>
-		<sjis>
+    <sjis>
 			<three_dots>って別に親方は<end_line>
 			ミューノになんかしようって気は<end_line>
 			ないんだから<three_dots><end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			<three_dots>って別に親方は<end_line>
-			ミューノになんかしようって気は<end_line>
-			ないんだから<three_dots><end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		<three_dots>Hey, I'm sure Master<end_line>
 		won't make her do all<end_line>
 		that much work<three_dots><end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			<three_dots>って別に親方は<end_line>
+			ミューノになんかしようって気は<end_line>
+			ないんだから<three_dots><end_line>
+		</sjis>
+    <ascii>
+		<three_dots>Hey, I'm sure Master<end_line>
+		won't make her do all<end_line>
+		that much work<three_dots><end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -102,7 +107,7 @@
 		るすばんさせようと<end_line>
 		しておるじゃろ！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		It's you I'm worried about!<end_line>
 		You two will be together,<end_line>
 		all alone in an empty house!<end_line>
@@ -117,7 +122,7 @@
 		親方と勝負だ<end_line>
 		しっかり準備しなきゃ！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		So we're having match with Master.<end_line>
 		I have to make sure I'm prepared!.<end_line>
 	</ascii>
@@ -132,7 +137,7 @@
 		負けてもいいなどと<end_line>
 		少しでも考えてみろ<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Of course.<end_line>
 		If you even think about losing<end_line>
 		even for a second<three_dots><end_line>
@@ -146,7 +151,7 @@
 	<sjis>
 		キサマを消すぞ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		I'll erase you.<end_line>
 	</ascii>
 </dialogue>
@@ -156,18 +161,21 @@
 	<portrait_l entry="player" eye="surprised" mouth="tense">
 	<portrait_r entry="partner" eye="special" mouth="tense">
 	<male>
-		<sjis>
+    <sjis>
 			そ、そんなにるすばんがイヤなのか？<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			そ、そんなにるすばんがイヤなんだ？<end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		Y-you really want to go, huh?<end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			そ、そんなにるすばんがイヤなんだ？<end_line>
+		</sjis>
+    <ascii>
+		Y-you really want to go, huh?<end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -177,7 +185,7 @@
 		親方と勝負だ<end_line>
 		しっかり準備しなきゃ！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		So we're having match with Master.<end_line>
 		I have to make sure I'm prepared!.<end_line>
 	</ascii>
@@ -191,7 +199,7 @@
 		ミューノ様におるすばんなんか<end_line>
 		させるわけには絶対にいきませんわ！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Of course you do!<end_line>
 		We cannot have her sit here<end_line>
 		and watch the house!<end_line>
@@ -202,21 +210,25 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-		<sjis>
+    <sjis>
 			そうだな！<end_line>
 			がんばろう！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			そうだね！<end_line>
-			がんばろう！<end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		That's right!<end_line>
 		Let's do our best!<end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			そうだね！<end_line>
+			がんばろう！<end_line>
+		</sjis>
+    <ascii>
+		That's right!<end_line>
+		Let's do our best!<end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -227,7 +239,7 @@
 		少しかみ合ってないみたいですが<end_line>
 		勝ちたい気持ちは同じですわ！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Y-yes!<end_line>
 		We're not completely in sync,<end_line>
 		but we do have the same goal!<end_line>
@@ -243,7 +255,7 @@
 		プロスバンの町に行くために<end_line>
 		準備をしなくちゃ！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Now then!<end_line>
 		Let's get ready for<end_line>
 		our trip to Prosban!<end_line>
@@ -259,7 +271,7 @@
 		待ッテイマスカラ<end_line>
 		急ギマショウ<end_line>
 	</sjis>
-	<ascii>	
+  <ascii>	
 		Lady Murno Is Waiting<end_line>
 		Near The Gate.<end_line>
 		We Must Hurry.<end_line>
@@ -275,7 +287,7 @@
 		早くプロスバンの町に行くための<end_line>
 		準備をしなくちゃ！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Everyone is waiting at the gate.<end_line>
 		We should head over as<end_line>
 		soon as we're ready!<end_line>
@@ -291,7 +303,7 @@
 		備えあれば憂いなし！<end_line>
 		忘れるでないぞ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Mm.<end_line>
 		Prepare well, travel well!<end_line>
 		Don't forget anything.<end_line>
@@ -307,7 +319,7 @@
 		プロスバンの町に行くために<end_line>
 		準備をしなくちゃ！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Now then!<end_line>
 		Let's get ready for<end_line>
 		our trip to Prosban!<end_line>
@@ -321,7 +333,7 @@
 	<sjis>
 		もたもたするなよ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Hurry it up.<end_line>
 	</ascii>
 </dialogue>
@@ -331,21 +343,25 @@
 	<portrait_l entry="player" eye="serious" mouth="talk">
 	<portrait_r entry="partner" eye="serious" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			そうだな<end_line>
 			門のところでミューノも待ってるし<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			そうだね<end_line>
-			門のところでミューノも待ってるし<end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		Right.<end_line>
 		Murno's waiting at the gate.<end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			そうだね<end_line>
+			門のところでミューノも待ってるし<end_line>
+		</sjis>
+    <ascii>
+		Right.<end_line>
+		Murno's waiting at the gate.<end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -355,7 +371,7 @@
 	<sjis>
 		あ、あいつは関係ない！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Th-this has nothing to do with her!<end_line>
 	</ascii>
 </dialogue>
@@ -368,7 +384,7 @@
 		プロスバンの町に行くために<end_line>
 		準備をしなくちゃ！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Now then!<end_line>
 		Let's get ready for<end_line>
 		our trip to Prosban!<end_line>
@@ -383,7 +399,7 @@
 		待っていますわ<end_line>
 		早くしましょう！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Murno is waiting for<end_line>
 		us at the gate.<end_line>
 		Let's not waste time!<end_line>
@@ -396,7 +412,7 @@
 	<sjis>
 		わかった<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Got it.<end_line>
 	</ascii>
 </dialogue>
@@ -408,7 +424,7 @@
 		町までの道は結構あるから<end_line>
 		みんな、はぐれるんじゃないよ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Now then, onto Prosban!<end_line>
 		The way there can be confusing.<end_line>
 		Try not to get lost, you hear?<end_line>
@@ -422,7 +438,7 @@
 		親方こそ、方向音痴なんだから<end_line>
 		ちゃんとついてきてよ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		I'm more worried about you, Master.<end_line>
 		You have no sense of direction.<end_line>
 	</ascii>
@@ -436,7 +452,7 @@
 		勝手に迷子になられても<end_line>
 		困るからね<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		It'd be troublesome if you<end_line>
 		get lost like that one<end_line>
 		time during training.<end_line>
@@ -451,7 +467,7 @@
 		アレはアンタを試してたんだって！<end_line>
 		そう言ってるだろ！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		I-I wasn't lost!<end_line>
 		I was just testing you!<end_line>
 		Remember!?<end_line>
@@ -466,7 +482,7 @@
 		じゃあ今回はそうやって試すのは<end_line>
 		ナシだからね！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		I know, I know.<end_line>
 		How about this time,<end_line>
 		you don't test me like that!<end_line>
@@ -480,7 +496,7 @@
 		へー<end_line>
 		どーしよっかなー<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Hmmm.<end_line>
 		Do I, or do I not<three_dots><end_line>
 	</ascii>
@@ -493,7 +509,7 @@
 		なんだかちょっと<end_line>
 		心配になってきたわ<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Now I'm worried<end_line>
 		about both of them<three_dots><end_line>
 	</ascii>
@@ -507,7 +523,7 @@
 		大丈夫デス<end_line>
 		みゅーの様ハ　私ガ　守リマス<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Do Not Worry.<end_line>
 		I Will Protect You.<end_line>
 	</ascii>
@@ -521,7 +537,7 @@
 		安心せい<end_line>
 		おぬしは必ずワガハイが守る<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Don't worry.<end_line>
 		I will protect you.<end_line>
 	</ascii>
@@ -535,7 +551,7 @@
 		あいつらのことは<end_line>
 		気にしない方がいい<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Those two aren't<end_line>
 		worth your attention.<end_line>
 	</ascii>
@@ -549,7 +565,7 @@
 		大丈夫ですわ<end_line>
 		ミューノ様には私がついています！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Don't worry about it.<end_line>
 		I will be by your side!<end_line>
 	</ascii>
@@ -561,7 +577,7 @@
 	<sjis>
 		とりあえず町を目指そう！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Onwards to Prosban!<end_line>
 	</ascii>
 </dialogue>
@@ -574,7 +590,7 @@
 		先ホドノ道案内ハ　タノマナクテモ<end_line>
 		大丈夫ナノデスカ？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Are You Certain Will Not<end_line>
 		Rely On The Guide?<end_line>
 	</ascii>
@@ -588,7 +604,7 @@
 		先ほどの道案内はたのまなくても<end_line>
 		良いのか？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Are you sure you don't<end_line>
 		want to ask the guide?<end_line>
 	</ascii>
@@ -602,7 +618,7 @@
 		さっきの道案内は<end_line>
 		たのまなくていいのか？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		You're sure you don't<end_line>
 		want to ask the guide?<end_line>
 	</ascii>
@@ -616,7 +632,7 @@
 		さっきの道案内はたのまなくても<end_line>
 		良かったですか？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Are you sure you don't<end_line>
 		want to ask the guide?<end_line>
 	</ascii>
@@ -628,7 +644,7 @@
 	<sjis>
 		アタシはお金は出さないよ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		I'm not paying for it.<end_line>
 	</ascii>
 </dialogue>
@@ -640,7 +656,7 @@
 		親方はちゃんとついてきてくれるだけで<end_line>
 		いいです<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		We're fine as long as Master<end_line>
 		doesn't get separated from us.<end_line>
 	</ascii>
@@ -654,7 +670,7 @@
 		そんなクチきいてタダですむと<end_line>
 		思ってンのかい？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		You're so disrespectful.<end_line>
 		Keep talking like that,<end_line>
 		I dare you.<end_line>
@@ -667,7 +683,7 @@
 	<sjis>
 		け、ケンカはダメですよ！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		D-don't fight!<end_line>
 	</ascii>
 </dialogue>
@@ -678,7 +694,7 @@
 	<sjis>
 		ケンカ<three_dots>？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Huh<three_dots>?<end_line>
 	</ascii>
 </dialogue>
@@ -691,7 +707,7 @@
 		ミューノはやさしいね！<end_line>
 		ホンっト、いい子だよ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Haha<three_dots><end_line>
 		You're so kind, Murno!<end_line>
 		Really, you're a good kid.<end_line>
@@ -704,7 +720,7 @@
 	<sjis>
 		？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		?<end_line>
 	</ascii>
 </dialogue>
@@ -716,7 +732,7 @@
 		とにかく<end_line>
 		町に行かなきゃなぁ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Come on, we still<end_line>
 		need to go to Prosban.<end_line>
 	</ascii>
@@ -730,7 +746,7 @@
 		先ホドノ道案内ハ　タノマナクテモ<end_line>
 		大丈夫ナノデスカ？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Are You Certain Will Not<end_line>
 		Rely On The Guide?<end_line>
 	</ascii>
@@ -744,7 +760,7 @@
 		先ほどの道案内はたのまなくても<end_line>
 		良いのか？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Are you sure you don't<end_line>
 		want to ask the guide?<end_line>
 	</ascii>
@@ -758,7 +774,7 @@
 		さっきの道案内は<end_line>
 		たのまなくていいのか？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		You're sure you don't<end_line>
 		want to ask the guide?<end_line>
 	</ascii>
@@ -772,7 +788,7 @@
 		さっきの道案内はたのまなくても<end_line>
 		良かったですか？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Are you sure you don't<end_line>
 		want to ask the guide?<end_line>
 	</ascii>
@@ -785,7 +801,7 @@
 		２００バームだなんて<end_line>
 		アタシは出すつもりないからね<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		It's 200 Boam.<end_line>
 		I'm not paying for that.<end_line>
 	</ascii>
@@ -798,7 +814,7 @@
 		親方はちゃんとついてきてくれるだけで<end_line>
 		いいです<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		We're fine as long as Master<end_line>
 		doesn't get separated from us.<end_line>
 	</ascii>
@@ -812,7 +828,7 @@
 		そんなクチきいてタダですむと<end_line>
 		思ってンのかい？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		You're so disrespectful.<end_line>
 		Keep talking like that,<end_line>
 		I dare you.<end_line>
@@ -825,7 +841,7 @@
 	<sjis>
 		け、ケンカはダメですよ！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		D-don't fight!<end_line>
 	</ascii>
 </dialogue>
@@ -836,7 +852,7 @@
 	<sjis>
 		ケンカ<three_dots>？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Huh<three_dots>?<end_line>
 	</ascii>
 </dialogue>
@@ -849,7 +865,7 @@
 		ミューノはやさしいね！<end_line>
 		ホンっト、いい子だよ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Haha<three_dots><end_line>
 		You're so kind, Murno!<end_line>
 		Really, you're a good kid.<end_line>
@@ -862,7 +878,7 @@
 	<sjis>
 		？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		?<end_line>
 	</ascii>
 </dialogue>
@@ -873,7 +889,7 @@
 	<sjis>
 		ティエについて行こう<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Let's follow Tier.<end_line>
 	</ascii>
 </dialogue>
@@ -887,7 +903,7 @@
 		彼女ヲ信用シテモ<end_line>
 		イイノデショウカ？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		<three_dots><end_line>
 		Are You Certain<end_line>
 		We Can Trust Her?<end_line>
@@ -902,7 +918,7 @@
 		あの娘<three_dots><end_line>
 		信用しても良いのじゃろうか<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		That girl<three_dots><end_line>
 		Can we trust her<three_dots>?<end_line>
 	</ascii>
@@ -916,7 +932,7 @@
 		キサマ<three_dots><end_line>
 		あのニンゲンを信用しているのか？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		That girl<three_dots><end_line>
 		Are you sure we can trust her?<end_line>
 	</ascii>
@@ -929,7 +945,7 @@
 		あの子<three_dots><end_line>
 		信用してもいいんでしょうか？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		That girl<three_dots><end_line>
 		Are you sure about this?<end_line>
 	</ascii>
@@ -939,24 +955,29 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			大丈夫だろ？<end_line>
 			自分で言っていたみたいに<end_line>
 			ただのカワイイ道案内じゃないの？<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			大丈夫でしょ？<end_line>
-			自分で言っていたみたいに<end_line>
-			ただのカワイイ道案内じゃないの？<end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		Why not?<end_line>
 		She said she's just<end_line>
 		a guide, right?<end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			大丈夫でしょ？<end_line>
+			自分で言っていたみたいに<end_line>
+			ただのカワイイ道案内じゃないの？<end_line>
+		</sjis>
+    <ascii>
+		Why not?<end_line>
+		She said she's just<end_line>
+		a guide, right?<end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -966,7 +987,7 @@
 		そんなにカンタンに他人を<end_line>
 		信用するのはどうかと思うけど<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		I don't think you should<end_line>
 		trust someone that easily.<end_line>
 	</ascii>
@@ -979,7 +1000,7 @@
 		え？<end_line>
 		（なんか怒ってる？）<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Huh?<end_line>
 		(Is she mad?)<end_line>
 	</ascii>
@@ -988,21 +1009,21 @@
 	<info box="right">
 	<portrait_r entry="vee" eye="happy" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			いいねぇ<end_line>
 			青春だねぇ<end_line>
 		</sjis>
-		<ascii>
+    <ascii>
 			Ah<three_dots><end_line>
 			So young and innocent.<end_line>
 		</ascii>
-	</male>
-	<female>
-		<sjis>
+  </male>
+  <female>
+    <sjis>
 			ビミョウなお年頃だねぇ<end_line>
 		</sjis>
-		<ascii>
+    <ascii>
 			I suppose she's that age now<three_dots><end_line>
 		</ascii>
-	</female>
+  </female>
 </dialogue>

@@ -74,6 +74,11 @@
       どうせオレが勝ったら<end_line>
       中を見せてもらえるんだし<end_line>
     </sjis>
+    <ascii>
+    Isn't it fine?<end_line>
+    I mean, once I win, I'm gonna<end_line>
+    have you show us around anyway.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -81,12 +86,12 @@
       どうせわたしが勝ったら<end_line>
       中を見せてくれるんでしょ<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Isn't it fine?<end_line>
     I mean, once I win, I'm gonna<end_line>
     have you show us around anyway.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -249,17 +254,21 @@
       まかせとけ<end_line>
       絶対たおしてやる！<end_line>
     </sjis>
+    <ascii>
+    Leave it to me.<end_line>
+    I'm going to win!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       まかせといて<end_line>
       絶対やっつけちゃうから！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Leave it to me.<end_line>
     I'm going to win!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -374,15 +383,18 @@
     <sjis>
       心配すんなって<end_line>
     </sjis>
+    <ascii>
+    Don't worry.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       心配しないで<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Don't worry.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -473,15 +485,19 @@
       あ<three_dots><end_line>
       お、おう！<end_line>
     </sjis>
+    <ascii>
+    Ah<three_dots><end_line>
+    Y-yeah!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       あ<three_dots><end_line>
       う、うん！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Ah<three_dots><end_line>
     Y-yeah!<end_line>
   </ascii>
+  </female>
 </dialogue>

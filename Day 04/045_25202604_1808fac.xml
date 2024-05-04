@@ -71,17 +71,21 @@
       んじゃあ、とりあえず<end_line>
       奥まで行ってみるか！<end_line>
     </sjis>
+    <ascii>
+    Alright, let's have<end_line>
+    a look inside!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       じゃあ、とりあえず<end_line>
       奥まで行ってみよう<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Alright, let's have<end_line>
     a look inside!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">

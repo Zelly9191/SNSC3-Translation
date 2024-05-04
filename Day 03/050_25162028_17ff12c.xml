@@ -80,6 +80,11 @@
       気が重くって<three_dots><end_line>
       オレはどうなっちまうんだろう<three_dots><end_line>
     </sjis>
+    <ascii>
+    Sigh<three_dots><end_line>
+    There's just a lot to take in<three_dots><end_line>
+    What should I do<three_dots>?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -87,12 +92,12 @@
       気が重くって<three_dots><end_line>
       わたしどうなっちゃうんだろう<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Sigh<three_dots><end_line>
     There's just a lot to take in<three_dots><end_line>
     What should I do<three_dots>?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -398,15 +403,18 @@
     <sjis>
       わかってるよ、そんなこと<end_line>
     </sjis>
+    <ascii>
+    I know that.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       わかってるわよ、そんなこと<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I know that.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -651,6 +659,10 @@
       オレだってどうしたらいいか<end_line>
       考えてるんだからさ<end_line>
     </sjis>
+    <ascii>
+    Don't say that<three_dots><end_line>
+    I'm taking this seriously.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -658,11 +670,11 @@
       わたしだってどうしたらいいか<end_line>
       考えてるんだから<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Don't say that<three_dots><end_line>
     I'm taking this seriously.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -687,15 +699,18 @@
     <sjis>
       わかってるよ、そんなこと<end_line>
     </sjis>
+    <ascii>
+    I know that.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       わかってるわよ、そんなこと<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I know that.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -897,17 +912,21 @@
       そっか<three_dots><end_line>
       ヒミツだったな<three_dots><end_line>
     </sjis>
+    <ascii>
+    I see<three_dots><end_line>
+    It's a secret, huh<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       そっか<three_dots><end_line>
       ヒミツだったよね<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I see<three_dots><end_line>
     It's a secret, huh<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -940,18 +959,23 @@
       ああ<three_dots><end_line>
       まったくどうしたらいいんだか<three_dots><end_line>
     </sjis>
+    <ascii>
+    Yeah<three_dots><end_line>
+    I have no idea what I'm<end_line>
+    supposed to do now<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       うん<three_dots><end_line>
       ホントにどうしたらいいんだろ<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Yeah<three_dots><end_line>
     I have no idea what I'm<end_line>
     supposed to do now<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -976,15 +1000,18 @@
     <sjis>
       そりゃあ、わかってるけど<three_dots><end_line>
     </sjis>
+    <ascii>
+    Yeah, I know that<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       それは、わかってるけど<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Yeah, I know that<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">

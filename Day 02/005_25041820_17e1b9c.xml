@@ -15,15 +15,18 @@
     <sjis>
       またか<three_dots><end_line>
     </sjis>
+    <ascii>
+    There he goes again<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       まただ<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     There he goes again<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -92,16 +95,19 @@
       今日は何してんだ？<end_line>
       こんなとこで<end_line>
     </sjis>
+    <ascii>
+    What are you doing here?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       今日は何してんの？<end_line>
       こんなとこで<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     What are you doing here?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -126,15 +132,18 @@
     <sjis>
       オレたちに負けたけどな<end_line>
     </sjis>
+    <ascii>
+    You know I beat him<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       わたしたちに負けたけどね<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     You know I beat him<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -276,17 +285,21 @@
       スゴイはぐれ？<end_line>
       どういうことだよ！？<end_line>
     </sjis>
+    <ascii>
+    Huge Stray<three_dots>?<end_line>
+    What are you talking about?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       スゴイはぐれ？<end_line>
       どういうこと！？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Huge Stray<three_dots>?<end_line>
     What are you talking about?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -312,17 +325,21 @@
       あいつが、そんな<three_dots><end_line>
       じゃあ、オレたちも<three_dots><end_line>
     </sjis>
+    <ascii>
+    I see<three_dots><end_line>
+    Then we're gonna go too.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       あいつが、そんな<three_dots><end_line>
       じゃあ、わたしたちも<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I see<three_dots><end_line>
     Then we're gonna go too.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -348,17 +365,21 @@
       なんだと！<end_line>
       そんなこと<three_dots><end_line>
     </sjis>
+    <ascii>
+    What?!<end_line>
+    How do you know that!?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       なによ、それ！<end_line>
       そんなこと<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     What?!<end_line>
     How do you know that!?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -430,6 +451,11 @@
       どうしても行って<end_line>
       はぐれをたおしてやる！<end_line>
     </sjis>
+    <ascii>
+    I'll make it work!<end_line>
+    No matter what,<end_line>
+    I'm gonna beat that Stray!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -437,12 +463,12 @@
       どうしても行って<end_line>
       はぐれをたおすんだから！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I'll make it work!<end_line>
     No matter what,<end_line>
     I'm gonna beat that Stray!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -652,6 +678,11 @@
       お前にそこまで言われちゃ<end_line>
       行くしかないぜ！<end_line>
     </sjis>
+    <ascii>
+    <partner><three_dots><end_line>
+    If you're willing to go for it,<end_line>
+    then I guess I am too!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -659,12 +690,12 @@
       あなたにそこまで言われちゃ<end_line>
       行くしかないね！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     <partner><three_dots><end_line>
     If you're willing to go for it,<end_line>
     then I guess I am too!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -690,6 +721,11 @@
       どうしても行って<end_line>
       はぐれをたおしてやる！<end_line>
     </sjis>
+    <ascii>
+    I'll make it work!<end_line>
+    No matter what,<end_line>
+    I'm gonna beat that Stray!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -697,12 +733,12 @@
       どうしても行って<end_line>
       はぐれをたおしちゃうから！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I'll make it work!<end_line>
     No matter what,<end_line>
     I'm gonna beat that Stray!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -726,6 +762,11 @@
       なんとかして、町の方へ<end_line>
       行ってやる！<end_line>
     </sjis>
+    <ascii>
+    Now then!<end_line>
+    I have to find a way<end_line>
+    past the gatekeeper!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -733,11 +774,11 @@
       なんとかして、町の方へ<end_line>
       行かなくちゃ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Now then!<end_line>
     I have to find a way<end_line>
     past the gatekeeper!<end_line>
   </ascii>
+  </female>
 </dialogue>
 

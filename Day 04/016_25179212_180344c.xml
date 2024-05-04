@@ -21,17 +21,21 @@
       ふう<three_dots><end_line>
       やっとついたか<three_dots><end_line>
     </sjis>
+    <ascii>
+    Phew<three_dots><end_line>
+    We're finally here<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       ふう<three_dots><end_line>
       やっとついた<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Phew<three_dots><end_line>
     We're finally here<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -55,17 +59,21 @@
       なんだと<three_dots><end_line>
       ダレのせいだと思ってるんだ<three_dots><end_line>
     </sjis>
+    <ascii>
+    You know<three_dots><end_line>
+    Who's fault is that<three_dots>?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       そんな<three_dots><end_line>
       ダレのせいだと思ってるの<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     You know<three_dots><end_line>
     Who's fault is that<three_dots>?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -135,13 +143,16 @@
     <sjis>
       いくぞ！<end_line>
     </sjis>
+    <ascii>
+    Let's go!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       いくよ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Let's go!<end_line>
   </ascii>
+  </female>
 </dialogue>

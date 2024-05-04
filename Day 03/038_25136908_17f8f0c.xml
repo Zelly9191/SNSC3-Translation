@@ -5,7 +5,7 @@
 		いらっしゃい！<end_line>
 		ほほえみ亭にようこそ！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Come in!<end_line>
 		Welcome to the Smile Inn!<end_line>
 	</ascii>
@@ -18,7 +18,7 @@
 		お客さんよー<end_line>
 		お泊まりが４名様～<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		We have guests!<end_line>
 		Rooms for 4, please!<end_line>
 	</ascii>
@@ -30,7 +30,7 @@
 		ちょっと待った！？<end_line>
 		誰がお泊まりだ！？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Hey, wait!<end_line>
 		We never said<three_dots>!<end_line>
 	</ascii>
@@ -43,7 +43,7 @@
 		さっき言ったじゃないですか<end_line>
 		ここで休んでいくって<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		You clearly said earlier<end_line>
 		that you'd rest here.<end_line>
 	</ascii>
@@ -56,7 +56,7 @@
 		た、たしかに言ったけど<three_dots>！<end_line>
 		泊まるとは言ってないだろ！？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		S-Sure I said that, but we didn't<end_line>
 		agree to spend the night!<end_line>
 	</ascii>
@@ -68,7 +68,7 @@
 		おーおー<end_line>
 		お前たちもつかまったみたいだな<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Oh, hey.<end_line>
     She got you too?<end_line>
 	</ascii>
@@ -81,7 +81,7 @@
 		ちょっと、アンタ<end_line>
 		なんでこんなとこに？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Wait, what<three_dots>?<end_line>
 		What are you doing here?<end_line>
 	</ascii>
@@ -95,7 +95,7 @@
 		困ってる女の子を見捨てるなんて<end_line>
 		オレにできるわけないだろ？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Well, I came across the girl<end_line>
 		and she seemed quite troubled,<end_line>
 		I couldn't just abandon her<three_dots><end_line>
@@ -110,7 +110,7 @@
 		どうせアンタは<end_line>
 		ケーキが目当てだろ？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Right<three_dots><end_line>
 		<three_dots><end_line>
 		You just wanted some cake, right?<end_line>
@@ -125,7 +125,7 @@
 		このオレがケーキなんて<end_line>
 		甘ったるいもん<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Hey, hey!<end_line>
 		Do you really think I could be<end_line>
 		lured by some mere cake<three_dots>?<end_line>
@@ -139,7 +139,7 @@
 		口のはしに<end_line>
 		クリームついてるよ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		There's cream on your mouth.<end_line>
 	</ascii>
 </dialogue>
@@ -150,7 +150,7 @@
 	<sjis>
 		がっ！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Gah!<end_line>
 	</ascii>
 </bigtext>
@@ -161,7 +161,7 @@
 	<sjis>
 		ウソ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Just kidding~<end_line>
 	</ascii>
 </dialogue>
@@ -173,7 +173,7 @@
 		ぐっ<three_dots>！<end_line>
 		キサマ<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Kh<three_dots><end_line>
 		How dare you<three_dots>!<end_line>
 	</ascii>
@@ -187,7 +187,7 @@
 		本当にうまいケーキだったんだろう<end_line>
 		けどな<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
     Wow, you're calmer than I expected.<end_line>
     Must be some really good cake.<end_line>
 	</ascii>
@@ -201,7 +201,7 @@
 		トイウコトハ<end_line>
 		マズイト　アバレルノデスネ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
     So One Can Control Him With Food<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -213,7 +213,7 @@
 	<sjis>
 		マズイとあばれるのか<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
     So you can control him with food<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -225,7 +225,7 @@
 	<sjis>
 		マズイとあばれるのか<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
     So you can control him with food<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -237,7 +237,7 @@
 	<sjis>
 		マズイとあばれるんですね<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
     So you can control him with food<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -249,7 +249,7 @@
 		お母さんの料理は<end_line>
 		リィンバウムいちなんだから！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		That's right!<end_line>
 		Mom's cooking is the best<end_line>
 		in Lyndbaum, you know!<end_line>
@@ -262,7 +262,7 @@
 	<sjis>
 		お母さん！？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Mom!?<end_line>
 	</ascii>
 </dialogue>
@@ -275,7 +275,7 @@
 		また娘が強引におさそいしたみたいで<end_line>
 		どーも、すみませんねー<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Yes, I'm her mother, Roche.<end_line>
     My daughter must have forced<end_line>
     this upon you. I apologize.<end_line>
@@ -288,7 +288,7 @@
 	<sjis>
 		娘ぇ！？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		What!?<end_line>
 	</ascii>
 </bigtext>
@@ -300,7 +300,7 @@
 		そう、わたしがここの看板娘<end_line>
 		ティエよ！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Yup, I'm the<end_line>
 		inn's poster girl!<end_line>
 	</ascii>
@@ -311,7 +311,7 @@
 	<sjis>
 		ハメられた！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
     Gah!<end_line>
     It's a trap!<end_line>
 	</ascii>
@@ -325,7 +325,7 @@
 		料理も美味しいし工房もあるから<end_line>
 		武器の修理もしてあげるわよ～<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
     Heeey now, you're already here!<end_line>
     We have super delicious food,<end_line>
     and we do weapon repairs too!<end_line>
@@ -336,21 +336,25 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="tier" eye="happy" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			オレは鍛冶師だ！<end_line>
 			武器の修理は自分でするよ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			わたしは鍛冶師なの！<end_line>
-			武器の修理は自分でするわよ！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     I'm a Craftknight,<end_line>
     I can do that myself!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			わたしは鍛冶師なの！<end_line>
+			武器の修理は自分でするわよ！<end_line>
+		</sjis>
+    <ascii>
+    I'm a Craftknight,<end_line>
+    I can do that myself!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -361,7 +365,7 @@
 		わたしに手を出したこと<end_line>
 		許してあげるから、ね～<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Then, if you stay the night,<end_line>
 		I'll forgive you for laying<end_line>
 		your hands on me, 'kay~?<end_line>
@@ -374,7 +378,7 @@
 	<sjis>
 		てっ、手を出した！？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		You what!?<end_line>
 	</ascii>
 </dialogue>
@@ -386,7 +390,7 @@
 		お母さん<end_line>
 		これには色々ふかいワケが<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Miss,<end_line>
 		I assure you there were some<end_line>
 		very specific circumstances<three_dots><end_line>
@@ -400,7 +404,7 @@
 		ま、そんなわけで<end_line>
 		１人１０００バームよろしく<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Aaanyways<three_dots><end_line>
 		That'll be 1000 Boam per person!<end_line>
 	</ascii>
@@ -414,7 +418,7 @@
 		ちぇっ<three_dots><end_line>
 		結局、金の話かよ！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
     Tch<three_dots>!<end_line>
     Of course it's all<end_line>
     about the money!<end_line>
@@ -429,7 +433,7 @@
 		オレたちをダマして金もうけなんて<end_line>
 		きたねぇじゃねぇか！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Tricking us, and taking our money<three_dots><end_line>
 		That's low!<end_line>
 	</ascii>
@@ -443,7 +447,7 @@
 		むっ<three_dots><end_line>
 		結局、お金の話なの！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Grr<three_dots>!<end_line>
     Of course it comes<end_line>
     down to money!<end_line>
@@ -458,7 +462,7 @@
 		わたしたちをダマしてお金もうけなんて<end_line>
 		ずるいじゃない！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Tricking us and taking our money<three_dots><end_line>
 		That's playing dirty!<end_line>
 	</ascii>
@@ -472,7 +476,7 @@
 		だましただなんて<three_dots><end_line>
 		ひどい<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Little old me, extorting customers?<end_line>
 		How could you even say that<three_dots><end_line>
     You're so mean<three_dots><end_line>
@@ -483,45 +487,50 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="tier" eye="surprised" mouth="stressed">
 	<option>
-		<sjis>
+    <sjis>
 			全然ヒドくなんかない！<end_line>
 		</sjis>
-		<ascii>
+    <ascii>
 			Says the one who cheated us!<end_line>
 		</ascii>
-	</option>
-	<option>
-		<sjis>
+  </option>
+  <option>
+    <sjis>
 			ちょっとヒドかったかも<three_dots><end_line>
 		</sjis>
-		<ascii>
+    <ascii>
       Maybe I went a little overboard<three_dots><end_line>
 		</ascii>
-	</option>
+  </option>
 </choice>
 <dialogue>
 	<info box="left">
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="tier" eye="surprised" mouth="stressed">
 	<male>
-		<sjis>
+    <sjis>
 			だましただろ！<end_line>
 			ケガしたってのも<end_line>
 			どうせウソなんじゃないのか！？<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			だましたじゃない！<end_line>
-			ケガしたっていうのも<end_line>
-			どうせウソなんでしょ！？<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     You cheated us!<end_line>
     Saying you were injured was<end_line>
     a lie too, wasn't it!?<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			だましたじゃない！<end_line>
+			ケガしたっていうのも<end_line>
+			どうせウソなんでしょ！？<end_line>
+		</sjis>
+    <ascii>
+    You cheated us!<end_line>
+    Saying you were injured was<end_line>
+    a lie too, wasn't it!?<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="nobox">
@@ -531,7 +540,7 @@
 		う<three_dots><end_line>
 		少し言い過ぎたかな<three_dots>？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Ugh<three_dots><end_line>
 		Did I go too far<three_dots>?<end_line>
 	</ascii>
@@ -546,7 +555,7 @@
 		ダマシタト　思ワレマス<end_line>
 		彼女ノ　ケガモ　ウソノ可能性ガ<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		This Girl Definitely Decieved Us.<end_line>
 		The Probability Of Her Injury<end_line>
 		Also Being A Lie Is 99%.<end_line>
@@ -562,7 +571,7 @@
 		もしかして、ケガをしたというのも<end_line>
 		いつわりかもしれぬぞ？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		If this isn't deception, what is?<end_line>
 		I wouldn't doubt that her<end_line>
 		injury was a lie as well.<end_line>
@@ -578,7 +587,7 @@
 		ケガをしたと言っていたのも<end_line>
 		ウソかもしれんぞ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		She definitely tricked us.<end_line>
     I'm sure she lied about<end_line>
     being injured as well.<end_line>
@@ -594,7 +603,7 @@
 		たしかにあの子は<end_line>
 		私たちをダマしました！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
     You're in the right!<end_line>
 		She definitely decieved us!<end_line>
 	</ascii>
@@ -608,7 +617,7 @@
 		もしかして、ケガしたというのも<end_line>
 		ウソかもしれませんよ<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		And it's possible that<end_line>
 		her injury was a lie as well<three_dots><end_line>
 	</ascii>
@@ -621,7 +630,7 @@
 		そんな、ウソツキだなんて<three_dots><end_line>
 		ひどい！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
     I'm not a liar<three_dots>!<end_line>
 		You're the worst!<end_line>
 	</ascii>
@@ -633,7 +642,7 @@
 		あ、これ！<end_line>
 		ティエ！？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Tier!?<end_line>
     Wait!<end_line>
 	</ascii>
@@ -645,7 +654,7 @@
 		あ～あ<three_dots><end_line>
 		何やってんだい、アンタ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
     There she goes<three_dots><end_line>
     Are you an idiot?<end_line>
 	</ascii>
@@ -655,21 +664,25 @@
 	<portrait_l entry="vee" eye="sad" mouth="neutral">
 	<portrait_r entry="player" eye="surprised" mouth="stressed">
 	<male>
-		<sjis>
+    <sjis>
 			ええっ！？<end_line>
 			オレのせいなの！？<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			なんでっ！？<end_line>
-			わたしのせいなの！？<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Huh!?<end_line>
     How is this my fault!?<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			なんでっ！？<end_line>
+			わたしのせいなの！？<end_line>
+		</sjis>
+    <ascii>
+    Huh!?<end_line>
+    How is this my fault!?<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -680,7 +693,7 @@
 		あの子ったら<three_dots><end_line>
 		とにかく連れ戻してきますよ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
     I'm very sorry<three_dots><end_line>
     She can be a handful<three_dots><end_line>
     I'll go find her.<end_line>
@@ -694,7 +707,7 @@
 		ちょっと<end_line>
 		お店はどうするのさ？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Wait, what about the inn?<end_line>
 	</ascii>
 </dialogue>
@@ -707,7 +720,7 @@
 		主人が帰ってくるまで<end_line>
 		店番してもらえます？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Well<three_dots><end_line>
 		Could you tend the inn for me<end_line>
 		until my husband returns?<end_line>
@@ -720,7 +733,7 @@
 	<sjis>
 		イヤ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		No way.<end_line>
 	</ascii>
 </dialogue>
@@ -730,7 +743,7 @@
 	<sjis>
 		即答かよ<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		She didn't even consider it<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -743,7 +756,7 @@
 		<player_nickname>のせいだし<end_line>
 		アタシらがさがしに行くよ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		In any case, it's <player_nickname>'s fault,<end_line>
 		so we'll go look for her ourselves.<end_line>
 	</ascii>
@@ -755,7 +768,7 @@
 	<sjis>
 		ちょっとまってよ！？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Wait a second here!<end_line>
 	</ascii>
 </dialogue>
@@ -768,7 +781,7 @@
 		危なくなってきたからな<end_line>
 		たしかにさがしに行った方がいいぜ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
     There are more Strays than usual.<end_line>
     It would be safer for<end_line>
     us to search together.<end_line>
@@ -782,7 +795,7 @@
 		すみません<three_dots><end_line>
 		あの<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		I'm sorry<three_dots><end_line>
 		Um<three_dots>Your name<three_dots>?<end_line>
 	</ascii>
@@ -796,7 +809,7 @@
 		こっちは<player_name>と<partner><end_line>
 		で、あいつはジェイド<end_line>
 	</sjis>
-	<ascii>	
+  <ascii>	
 		I'm Vee. Those two are <end_line>
     <player_name> and <partner>.<end_line>
 		And he's Jade.<end_line>
@@ -811,7 +824,7 @@
 		奥に工房がありますから<end_line>
 		自由にお使いください<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
     Nice to meet you all.<end_line>
     Please feel free to use our<end_line>
     workshop if you need to.<end_line>
@@ -826,7 +839,7 @@
 		ついでにミューノを<end_line>
 		お願いできるかい？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Thanks.<end_line>
 		By the way, can you take<end_line>
 		care of Murno for us?<end_line>
@@ -839,7 +852,7 @@
 	<sjis>
 		え？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Eh?<end_line>
 	</ascii>
 </dialogue>
@@ -850,7 +863,7 @@
 	<sjis>
 		外は危ないってさ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		It's dangerous outside.<end_line>
 	</ascii>
 </dialogue>
@@ -862,7 +875,7 @@
 		<three_dots><end_line>
 		はい<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		<three_dots><end_line>
 		Okay<three_dots><end_line>
 	</ascii>
@@ -876,7 +889,7 @@
 		すみませんが、娘を<end_line>
 		おねがいします<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Yes, that will be fine.<end_line>
     I apologize once again.<end_line>
     I'll leave my daughter to you.<end_line>
@@ -890,7 +903,7 @@
 		よっしゃ<end_line>
 		じゃ、近所をさがすか<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Okay.<end_line>
 		C'mon, let's have a look around.<end_line>
 	</ascii>
@@ -902,7 +915,7 @@
 		あ<end_line>
 		ちょっと<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Hey<three_dots><end_line>
     Wait<three_dots><end_line>
 	</ascii>
@@ -913,7 +926,7 @@
 	<sjis>
 		うぅ<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Ugh<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -925,7 +938,7 @@
 	<sjis>
 		ドウシタノデスカ？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Is There A Problem?<end_line>
 	</ascii>
 </dialogue>
@@ -938,7 +951,7 @@
 		ん？<end_line>
 		どうしたのじゃ？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Hm?<end_line>
 		What's the problem?<end_line>
 	</ascii>
@@ -952,7 +965,7 @@
 		ん？<end_line>
 		何してる？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		What's wrong now?<end_line>
 	</ascii>
 </dialogue>
@@ -965,7 +978,7 @@
 		ん？<end_line>
 		どうかしました？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Hm? What's wrong?<end_line>
 	</ascii>
 </dialogue>
@@ -974,21 +987,25 @@
 	<portrait_l entry="player" eye="happy" mouth="yell">
 	<portrait_r entry="partner" eye="serious" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			オレのせいってのが<end_line>
 			ナットクいかない！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			わたしのせいってのが<end_line>
-			ナットクできない！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     I still don't get it!<end_line>
     How is any of this is my fault!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			わたしのせいってのが<end_line>
+			ナットクできない！<end_line>
+		</sjis>
+    <ascii>
+    I still don't get it!<end_line>
+    How is any of this is my fault!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -998,7 +1015,7 @@
 	<sjis>
 		<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -1011,7 +1028,7 @@
 		はあ<three_dots><end_line>
 		しかたないのか<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Hah<three_dots><end_line>
 		Forget it<three_dots><end_line>
 	</ascii>
@@ -1024,7 +1041,7 @@
 	<sjis>
 		人生とはそんなものじゃ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		That is the way of things.<end_line>
 	</ascii>
 </dialogue>
@@ -1036,7 +1053,7 @@
 	<sjis>
 		つらいね<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Life is not always fair<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -1048,7 +1065,7 @@
 	<sjis>
 		くだらない<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		It doesn't matter.<end_line>
 	</ascii>
 </dialogue>
@@ -1058,18 +1075,21 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="partner" eye="sad" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			なんだよ<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			なによ<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     It does to me<three_dots><end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			なによ<end_line>
+		</sjis>
+    <ascii>
+    It does to me<three_dots><end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1080,7 +1100,7 @@
 		まあまあ<end_line>
 		元気出しましょうよ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
     Come on now.<end_line>
     Let's find her and be done with it.<end_line>
 	</ascii>
@@ -1093,7 +1113,7 @@
 	<sjis>
 		うん<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Yeah<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -1105,7 +1125,7 @@
 		がんばってね<end_line>
 		<player_nickname><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Good luck out there.<end_line>
 	</ascii>
 </dialogue>
@@ -1117,7 +1137,7 @@
 		うん<end_line>
 		じゃあ、行ってくる<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Thanks.<end_line>
 		We're off then.<end_line>
 	</ascii>

@@ -1133,15 +1133,18 @@
     <sjis>
       なんだ、このフンイキ<three_dots>？<end_line>
     </sjis>
+    <ascii>
+    The atmosphere feels different<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       なに、このフンイキ<three_dots>？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     The atmosphere feels different<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -1576,16 +1579,20 @@
       <three_dots>しかし<end_line>
       あんなんで大丈夫なんだろうか？<end_line>
     </sjis>
+    <ascii>
+    Are they<three_dots><end_line>
+    Really going to be okay<three_dots>?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       <three_dots>うーん<end_line>
       あんなんで大丈夫なのかな？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Are they<three_dots><end_line>
     Really going to be okay<three_dots>?<end_line>
   </ascii>
+  </female>
 </dialogue>
 

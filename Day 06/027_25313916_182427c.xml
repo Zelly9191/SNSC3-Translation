@@ -8,6 +8,11 @@
       遺跡だな<three_dots><end_line>
       でっかい<three_dots><end_line>
     </sjis>
+    <ascii>
+    This is the ruins where<end_line>
+    their master is<three_dots><end_line>
+    It's huge<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -15,12 +20,12 @@
       遺跡ね<three_dots><end_line>
       おっきい<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     This is the ruins where<end_line>
     their master is<three_dots><end_line>
     It's huge<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">

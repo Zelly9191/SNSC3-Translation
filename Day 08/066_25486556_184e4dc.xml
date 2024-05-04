@@ -238,17 +238,21 @@
       そっか<three_dots>、そうだよね<three_dots><end_line>
       ならいいんだ<three_dots><end_line>
     </sjis>
+    <ascii>
+    I see<three_dots>, of course<three_dots><end_line>
+    That's fine then<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       そっか<three_dots>、そうだよね<three_dots><end_line>
       ならいいの<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I see<three_dots>, of course<three_dots><end_line>
     That's fine then<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">

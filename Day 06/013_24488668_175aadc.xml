@@ -19,16 +19,19 @@
       <partner>を牢屋から<end_line>
       出してやらなくちゃ！<end_line>
     </sjis>
+    <ascii>
+    I have to free <partner>!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       <partner>を牢屋から<end_line>
       出してあげなくちゃ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I have to free <partner>!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="simple">

@@ -191,16 +191,19 @@
       なんだと！？<end_line>
       お前、その言い方は<three_dots><end_line>
     </sjis>
+    <ascii>
+    What!?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       なによ！？<end_line>
       あんた、そんな言い方<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     What!?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">

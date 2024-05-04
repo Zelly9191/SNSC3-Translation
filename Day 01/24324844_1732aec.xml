@@ -7,7 +7,7 @@
 		えっと<three_dots><end_line>
 		どっちの橋なら渡れそうだっけ？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Umm<three_dots><end_line>
 		Which bridge did you say was fine?<end_line>
 	</ascii>
@@ -21,7 +21,7 @@
 		下ノ橋ハ大丈夫デス<end_line>
 		上ノ橋ハ問題ガアルヨウデス<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		The Bottom Bridge.<end_line>
 		The Upper Bridge Is Problematic.<end_line>
 	</ascii>
@@ -35,7 +35,7 @@
 		えっと<three_dots><end_line>
 		どっちの橋なら渡れそうだっけ？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Umm<three_dots><end_line>
 		Which bridge did you say was fine?<end_line>
 	</ascii>
@@ -48,7 +48,7 @@
 	<sjis>
 		下の橋なら大丈夫じゃろう<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		The bottom bridge should be fine.<end_line>
 	</ascii>
 </dialogue>
@@ -58,18 +58,21 @@
 	<portrait_l entry="player" eye="serious" mouth="tense">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			橋に何かあるのか？<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			橋に何かあるの？<end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		Is there something wrong?<end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			橋に何かあるの？<end_line>
+		</sjis>
+    <ascii>
+		Is there something wrong?<end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -80,7 +83,7 @@
 		ふ<three_dots><end_line>
 		行けばわかる<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Hmph<three_dots><end_line>
 		You'll know soon enough.<end_line>
 	</ascii>
@@ -91,18 +94,21 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="serious" mouth="talk">
 	<male>
-		<sjis>
+    <sjis>
 			なんだよ、それ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			なによ、それ！<end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		That's not helpful at all!<end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			なによ、それ！<end_line>
+		</sjis>
+    <ascii>
+		That's not helpful at all!<end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -112,7 +118,7 @@
 		えっと<three_dots><end_line>
 		どっちの橋なら渡れそうだっけ？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Umm<three_dots><end_line>
 		Which bridge did you say was fine?<end_line>
 	</ascii>
@@ -125,7 +131,7 @@
 		下の橋ですわ<end_line>
 		上の橋はイヤな予感がするんです<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		The bottom bridge.<end_line>
 		I don't trust the other one<three_dots><end_line>
 	</ascii>
@@ -138,7 +144,7 @@
 	<sjis>
 		ザックのところへ行こう！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Let's go find Zakk!<end_line>
 	</ascii>
 </dialogue>
@@ -150,7 +156,7 @@
 	<sjis>
 		了解デス<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Roger.<end_line>
 	</ascii>
 </dialogue>
@@ -163,7 +169,7 @@
 		けど、橋はくずれていたのに<end_line>
 		なんで落ちるかな？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Really though, how could he fall in<end_line>
 		when the bridge was clearly broken?<end_line>
 	</ascii>
@@ -177,7 +183,7 @@
 		<three_dots><end_line>
 		アナタモ　落チマシタガ？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		<three_dots><end_line>
 		Did You Not Also Fall In?<end_line>
 	</ascii>
@@ -188,24 +194,29 @@
 	<portrait_l entry="player" eye="happy" mouth="stressed">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			オレが渡った時はまだ<end_line>
 			くずれてなかったし<three_dots><end_line>
 			仕方ないだろ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			わたしの時はまだ<end_line>
-			くずれてなかったんだから<end_line>
-			仕方ないでしょ！<end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		Well it hadn't collapsed<end_line>
 		when I walked on it!<end_line>
 		What am I supposed to do!<end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			わたしの時はまだ<end_line>
+			くずれてなかったんだから<end_line>
+			仕方ないでしょ！<end_line>
+		</sjis>
+    <ascii>
+		Well it hadn't collapsed<end_line>
+		when I walked on it!<end_line>
+		What am I supposed to do!<end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -215,7 +226,7 @@
 	<sjis>
 		落チタ事ニ　変ワリハアリマセン<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		However, You Still Fell In.<end_line>
 	</ascii>
 </dialogue>
@@ -227,7 +238,7 @@
 	<sjis>
 		むっ<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Ugh<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -239,7 +250,7 @@
 	<sjis>
 		ザックのところへ行こう！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Let's go find Zakk!<end_line>
 	</ascii>
 </dialogue>
@@ -251,7 +262,7 @@
 	<sjis>
 		うむ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Mhm.<end_line>
 	</ascii>
 </dialogue>
@@ -264,7 +275,7 @@
 		けど、橋はくずれていたのに<end_line>
 		なんで落ちるかな？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Really though, how could he fall in<end_line>
 		when the bridge was clearly broken?<end_line>
 	</ascii>
@@ -278,7 +289,7 @@
 		何を言っておる<end_line>
 		おぬしも落ちたじゃろ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Hmm?<end_line>
 		Did you not also fall in?<end_line>
 	</ascii>
@@ -289,24 +300,29 @@
 	<portrait_l entry="player" eye="happy" mouth="stressed">
 	<portrait_r entry="partner" eye="serious" mouth="tense">
 	<male>
-		<sjis>
+    <sjis>
 			オレが渡った時はまだ<end_line>
 			くずれてなかったし<three_dots><end_line>
 			仕方ないだろ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			わたしの時はまだ<end_line>
-			くずれてなかったんだから<end_line>
-			仕方ないでしょ！<end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		Well it hadn't collapsed<end_line>
 		when I walked on it!<end_line>
 		What am I supposed to do!<end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			わたしの時はまだ<end_line>
+			くずれてなかったんだから<end_line>
+			仕方ないでしょ！<end_line>
+		</sjis>
+    <ascii>
+		Well it hadn't collapsed<end_line>
+		when I walked on it!<end_line>
+		What am I supposed to do!<end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -317,7 +333,7 @@
 		やれやれ、五十歩百歩と言ってな<end_line>
 		落ちた事に変わりは<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Perhaps, but that does not change<end_line>
 		the fact that you did<three_dots><end_line>
 	</ascii>
@@ -328,21 +344,25 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="sad" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			はやく行こうぜ、<partner><end_line>
 			置いてくぞ<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			はやく行こうよ、<partner><end_line>
-			置いてっちゃうよ<end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		Hurry it up, <partner>,<end_line>
 		or I'll leave you behind.<end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			はやく行こうよ、<partner><end_line>
+			置いてっちゃうよ<end_line>
+		</sjis>
+    <ascii>
+		Hurry it up, <partner>,<end_line>
+		or I'll leave you behind.<end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -352,7 +372,7 @@
 	<sjis>
 		ザックのところへ行こう！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Let's go find Zakk!<end_line>
 	</ascii>
 </dialogue>
@@ -364,7 +384,7 @@
 	<sjis>
 		<three_dots>好きにしろ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		<three_dots>Whatever you say.<end_line>
 	</ascii>
 </dialogue>
@@ -377,7 +397,7 @@
 		けど、橋はくずれていたのに<end_line>
 		なんで落ちるかな？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Really though, how could he fall in<end_line>
 		when the bridge was clearly broken?<end_line>
 	</ascii>
@@ -392,7 +412,7 @@
 		だが、私としては<end_line>
 		なかなか楽しいぞ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		<three_dots>No idea.<end_line>
 		But I found it quite entertaining.<end_line>
 	</ascii>
@@ -403,18 +423,21 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="partner" eye="serious" mouth="talk">
 	<male>
-		<sjis>
+    <sjis>
 			なんだよ、それ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			なによ、それ！<end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		Hey!<end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			なによ、それ！<end_line>
+		</sjis>
+    <ascii>
+		Hey!<end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -426,7 +449,7 @@
 		どうした？<end_line>
 		早く行った方がいいんじゃないのか？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Heh<three_dots><end_line>
 		What's wrong?<end_line>
 		Didn't you want to help him?<end_line>
@@ -438,21 +461,25 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			待てよ！<end_line>
 			まだ話は終わってないぞ<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			待ってよ！<end_line>
-			まだ話は終わってないってば<end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		Wait!<end_line>
 		This conversation isn't over!<end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			待ってよ！<end_line>
+			まだ話は終わってないってば<end_line>
+		</sjis>
+    <ascii>
+		Wait!<end_line>
+		This conversation isn't over!<end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -461,7 +488,7 @@
 	<sjis>
 		ザックのところへ行こう！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Let's go find Zakk!<end_line>
 	</ascii>
 </dialogue>
@@ -472,7 +499,7 @@
 	<sjis>
 		そうですね<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Okay.<end_line>
 	</ascii>
 </dialogue>
@@ -483,8 +510,8 @@
 	<sjis>
 		けど、橋はくずれていたのに<end_line>
 		なんで落ちるかな？<end_line>
-	</sjis>	
-	<ascii>
+	</sjis>
+  <ascii>
 		Really though, how could he fall in<end_line>
 		when the bridge was clearly broken?<end_line>
 	</ascii>
@@ -497,7 +524,7 @@
 		あなたのように、注意力が<end_line>
 		足りていない証拠ですわ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		He is not aware of his<end_line>
 		surroundings, just like you.<end_line>
 	</ascii>
@@ -507,24 +534,29 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-		<sjis>
+    <sjis>
 			オレが渡った時はまだ<end_line>
 			くずれてなかったし<three_dots><end_line>
 			仕方ないだろ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			わたしの時はまだ<end_line>
-			くずれてなかったんだから<end_line>
-			仕方ないでしょ！<end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		Well it hadn't collapsed<end_line>
 		when I walked on it!<end_line>
 		What am I supposed to do!<end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			わたしの時はまだ<end_line>
+			くずれてなかったんだから<end_line>
+			仕方ないでしょ！<end_line>
+		</sjis>
+    <ascii>
+		Well it hadn't collapsed<end_line>
+		when I walked on it!<end_line>
+		What am I supposed to do!<end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -535,7 +567,7 @@
 		落ちた事に変わりは<end_line>
 		ありませんわ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		That does not change<end_line>
 		the fact that you<end_line>
 		also fell in.<end_line>
@@ -550,7 +582,7 @@
 		注意深く行動して下さいね！<end_line>
 		わかりましたか？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Take a lesson from me and<end_line>
 		proceed with care!<end_line>
 		Understood?<end_line>
@@ -563,7 +595,7 @@
 	<sjis>
 		<partner>を見習う<three_dots>？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Learn from <partner><three_dots>?<end_line>
 	</ascii>
 </dialogue>
@@ -574,7 +606,7 @@
 	<sjis>
 		わかりましたか！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Understood!?<end_line>
 	</ascii>
 </dialogue>
@@ -585,7 +617,7 @@
 	<sjis>
 		は、はい<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Y-yeah<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -595,24 +627,29 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			キッカの実はマニグ採掘場の<end_line>
 			奥の森にあるみたいだ<end_line>
 			行ってみよう<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			キッカの実はマニグ採掘場の<end_line>
-			奥の森にあるみたい<end_line>
-			行ってみよう<end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		We'll find the Kicca Ffuit in<end_line>
 		the forest past Manig Mine.<end_line>
 		Let's go.<end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			キッカの実はマニグ採掘場の<end_line>
+			奥の森にあるみたい<end_line>
+			行ってみよう<end_line>
+		</sjis>
+    <ascii>
+		We'll find the Kicca Ffuit in<end_line>
+		the forest past Manig Mine.<end_line>
+		Let's go.<end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -624,7 +661,7 @@
 		アリマセン<end_line>
 		ドンナ果物デスカ？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		No Data Found On<end_line>
 		Kicca Fruit.<end_line>
 		What Kind Of Fruit Is It?<end_line>
@@ -636,24 +673,29 @@
 	<portrait_l entry="player" eye="serious" mouth="tense">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			そうだなぁ<three_dots><end_line>
 			甘いのも、しぶいのもあるんだ<end_line>
 			オレはドロドロくらいが好きだな<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			そうだなぁ<three_dots><end_line>
-			甘いのも、しぶいのもあるよ<end_line>
-			わたしはドロドロくらいが好き<end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		Let's see<three_dots><end_line>
 		It's sweet, but also bitter.<end_line>
 		I like how the juice is syrupy.<end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			そうだなぁ<three_dots><end_line>
+			甘いのも、しぶいのもあるよ<end_line>
+			わたしはドロドロくらいが好き<end_line>
+		</sjis>
+    <ascii>
+		Let's see<three_dots><end_line>
+		It's sweet, but also bitter.<end_line>
+		I like how the juice is syrupy.<end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -665,7 +707,7 @@
 		どろどろガ　オイシイ<three_dots><end_line>
 		ワカリマセン<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Sweet, Bitter,<end_line>
 		Syrupy, Tasty<three_dots><end_line>
 		I Do Not Understand<three_dots><end_line>
@@ -677,24 +719,29 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			ま、おいしい果物だな<end_line>
 			あれから薬ができるなんて<end_line>
 			知らなかったけど<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			ま、おいしい果物だね<end_line>
-			あれから薬ができるなんて<end_line>
-			知らなかったけど<end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		Anyway, its delicious.<end_line>
 		But I didnt know you could<end_line>
 		make medicine out of it.<end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			ま、おいしい果物だね<end_line>
+			あれから薬ができるなんて<end_line>
+			知らなかったけど<end_line>
+		</sjis>
+    <ascii>
+		Anyway, its delicious.<end_line>
+		But I didnt know you could<end_line>
+		make medicine out of it.<end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -702,24 +749,29 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			キッカの実はマニグ採掘場の<end_line>
 			奥の森にあるみたいだ<end_line>
 			行ってみよう<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			キッカの実はマニグ採掘場の<end_line>
-			奥の森にあるみたい<end_line>
-			行ってみよう<end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		We'll find the Kicca fruit in<end_line>
 		the forest past Manig Mine.<end_line>
 		Let's go.<end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			キッカの実はマニグ採掘場の<end_line>
+			奥の森にあるみたい<end_line>
+			行ってみよう<end_line>
+		</sjis>
+    <ascii>
+		We'll find the Kicca fruit in<end_line>
+		the forest past Manig Mine.<end_line>
+		Let's go.<end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -731,7 +783,7 @@
 		あまりくわしくなくての<three_dots><end_line>
 		一体どんなものなのじゃ？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		I don't know much<end_line>
 		about fruits<three_dots><end_line>
 		What kind of fruit is it?<end_line>
@@ -743,24 +795,29 @@
 	<portrait_l entry="player" eye="serious" mouth="tense">
 	<portrait_r entry="partner" eye="serious" mouth="tense">
 	<male>
-		<sjis>
+    <sjis>
 			そうだなぁ<three_dots><end_line>
 			甘いのも、しぶいのもあるんだ<end_line>
 			オレはドロドロくらいが好きだな<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			そうだなぁ<three_dots><end_line>
-			甘いのも、しぶいのもあるよ<end_line>
-			わたしはドロドロくらいが好き<end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		Let's see<three_dots><end_line>
 		It's sweet, but also bitter.<end_line>
 		I like how the juice is syrupy.<end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			そうだなぁ<three_dots><end_line>
+			甘いのも、しぶいのもあるよ<end_line>
+			わたしはドロドロくらいが好き<end_line>
+		</sjis>
+    <ascii>
+		Let's see<three_dots><end_line>
+		It's sweet, but also bitter.<end_line>
+		I like how the juice is syrupy.<end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -770,7 +827,7 @@
 	<sjis>
 		さっぱりわからん<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		That's not very helpful.<end_line>
 	</ascii>
 </dialogue>
@@ -780,24 +837,29 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			ま、おいしい果物だな<end_line>
 			あれから薬ができるなんて<end_line>
 			知らなかったけど<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			ま、おいしい果物だよ<end_line>
-			あれから薬ができるなんて<end_line>
-			知らなかったけど<end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		Anyway, its delicious.<end_line>
 		But I didnt know you could<end_line>
 		make medicine out of it.<end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			ま、おいしい果物だよ<end_line>
+			あれから薬ができるなんて<end_line>
+			知らなかったけど<end_line>
+		</sjis>
+    <ascii>
+		Anyway, its delicious.<end_line>
+		But I didnt know you could<end_line>
+		make medicine out of it.<end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -805,24 +867,29 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			キッカの実はマニグ採掘場の<end_line>
 			奥の森にあるみたいだから<end_line>
 			さがすの手伝ってくれよ<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			キッカの実はマニグ採掘場の<end_line>
-			奥の森にあるみたいだから<end_line>
-			さがすの手伝ってね<end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		We'll find the Kicca fruit in<end_line>
 		the forest past Manig Mine.<end_line>
 		Let's go.<end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			キッカの実はマニグ採掘場の<end_line>
+			奥の森にあるみたいだから<end_line>
+			さがすの手伝ってね<end_line>
+		</sjis>
+    <ascii>
+		We'll find the Kicca fruit in<end_line>
+		the forest past Manig Mine.<end_line>
+		Let's go.<end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -832,7 +899,7 @@
 	<sjis>
 		ムリだ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		I can't.<end_line>
 	</ascii>
 </dialogue>
@@ -842,21 +909,25 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			なんだよ！<end_line>
 			お前だって本当は<three_dots><end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			なによ、それ！<end_line>
-			あなただって本当は<three_dots><end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		What?<end_line>
 		Come on, I'm sure you really<three_dots><end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			なによ、それ！<end_line>
+			あなただって本当は<three_dots><end_line>
+		</sjis>
+    <ascii>
+		What?<end_line>
+		Come on, I'm sure you really<three_dots><end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -867,7 +938,7 @@
 		知らないからな<end_line>
 		キッカの実なんて<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		I don't know what it is,<end_line>
 		this Kicca fruit.<end_line>
 	</ascii>
@@ -883,7 +954,7 @@
 		そうだなぁ<three_dots><end_line>
 		木になってて<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Ah, right<three_dots><end_line>
 		Let's see<three_dots><end_line>
 		It grows on trees<three_dots><end_line>
@@ -899,7 +970,7 @@
 		甘いのも、しぶいのもあるんだ<end_line>
 		オレはドロドロくらいが好きだな<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		It's sweet, but also bitter.<end_line>
 		I like how the juice is syrupy.<end_line>
 	</ascii>
@@ -915,7 +986,7 @@
 		そうだなぁ<three_dots><end_line>
 		木になってて<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Ah, right<three_dots><end_line>
 		Let's see<three_dots><end_line>
 		It grows on trees<three_dots><end_line>
@@ -931,7 +1002,7 @@
 		甘いのも、しぶいのもあるよ<end_line>
 		わたしはドロドロくらいが好き<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		It's sweet, but also bitter.<end_line>
 		I like how the juice is syrupy.<end_line>
 	</ascii>
@@ -944,7 +1015,7 @@
 	<sjis>
 		さっぱりわからん<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		You lost me.<end_line>
 	</ascii>
 </dialogue>
@@ -953,24 +1024,29 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-		<sjis>
+    <sjis>
 			キッカの実はマニグ採掘場の<end_line>
 			奥の森にあるみたいだ<end_line>
 			行ってみよう<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			キッカの実はマニグ採掘場の<end_line>
-			奥の森にあるみたい<end_line>
-			行ってみよう<end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		We'll find the Kicca fruit in<end_line>
 		the forest past Manig Mine.<end_line>
 		Let's go.<end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			キッカの実はマニグ採掘場の<end_line>
+			奥の森にあるみたい<end_line>
+			行ってみよう<end_line>
+		</sjis>
+    <ascii>
+		We'll find the Kicca fruit in<end_line>
+		the forest past Manig Mine.<end_line>
+		Let's go.<end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -981,7 +1057,7 @@
 		どんなものなんですか？<end_line>
 		こちらの果物にはくわしくなくて<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		By the way, what<end_line>
 		exactly is a Kicca fruit?<end_line>
 		I'm not familiar with fruits here.<end_line>
@@ -992,24 +1068,29 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-		<sjis>
+    <sjis>
 			そうだなぁ<three_dots><end_line>
 			甘いのも、しぶいのもあるんだ<end_line>
 			オレはドロドロくらいが好きだな<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			そうだなぁ<three_dots><end_line>
-			甘いのも、しぶいのもあるよ<end_line>
-			わたしはドロドロくらいが好き<end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		Let's see<three_dots><end_line>
 		It's sweet, but also bitter.<end_line>
 		I like how the juice is syrupy.<end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			そうだなぁ<three_dots><end_line>
+			甘いのも、しぶいのもあるよ<end_line>
+			わたしはドロドロくらいが好き<end_line>
+		</sjis>
+    <ascii>
+		Let's see<three_dots><end_line>
+		It's sweet, but also bitter.<end_line>
+		I like how the juice is syrupy.<end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1018,7 +1099,7 @@
 	<sjis>
 		さっぱりわかりませんわ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		That's not helpful at all.<end_line>
 	</ascii>
 </dialogue>
@@ -1027,24 +1108,29 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-		<sjis>
+    <sjis>
 			ま、おいしい果物だな<end_line>
 			あれから薬ができるなんて<end_line>
 			知らなかったけど<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			ま、おいしい果物だよ<end_line>
-			あれから薬ができるなんて<end_line>
-			知らなかったけど<end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		Anyway, its delicious.<end_line>
 		But I didnt know you could<end_line>
 		make medicine out of it.<end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			ま、おいしい果物だよ<end_line>
+			あれから薬ができるなんて<end_line>
+			知らなかったけど<end_line>
+		</sjis>
+    <ascii>
+		Anyway, its delicious.<end_line>
+		But I didnt know you could<end_line>
+		make medicine out of it.<end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1055,7 +1141,7 @@
 		マニグ採掘場の奥の森に<end_line>
 		大きなはぐれ召喚獣が！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		There's a huge Stray in the<end_line>
 		forest past Manig Mine!<end_line>
 	</ascii>
@@ -1069,9 +1155,10 @@
 		ざっくトイウ　少年ガ　オソワレルト<end_line>
 		危険デス<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		The Boy Zakk Is In<end_line>
 		Danger Of Being Attacked.<end_line>
+</ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1079,18 +1166,21 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			急ぐぞ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			急がなきゃ！<end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		Let's hurry!<end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			急がなきゃ！<end_line>
+		</sjis>
+    <ascii>
+		Let's hurry!<end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1101,7 +1191,7 @@
 		マニグ採掘場の奥の森に<end_line>
 		大きなはぐれ召喚獣が！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		There's a huge Stray in the<end_line>
 		forest past Manig Mine!<end_line>
 	</ascii>
@@ -1115,7 +1205,7 @@
 		ザックという少年が<end_line>
 		おそわれるかもしれんぞ！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Zakk may<end_line>
 		be in danger!<end_line>
 	</ascii>
@@ -1126,18 +1216,21 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="partner" eye="decided" mouth="yell">
 	<male>
-		<sjis>
+    <sjis>
 			急ぐぞ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			急がなきゃ！<end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		Let's hurry!<end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			急がなきゃ！<end_line>
+		</sjis>
+    <ascii>
+		Let's hurry!<end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1148,7 +1241,7 @@
 		マニグ採掘場の奥の森に<end_line>
 		大きなはぐれ召喚獣が！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		There's a huge Stray in the<end_line>
 		forest past Manig Mine!<end_line>
 	</ascii>
@@ -1163,7 +1256,7 @@
 		ザックというニンゲンも<end_line>
 		やられてしまうかもな<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Hmph<three_dots><end_line>
 		Zakk may not make it out<end_line>
 		if we leave him alone<three_dots><end_line>
@@ -1175,18 +1268,21 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="partner" eye="decided" mouth="talk">
 	<male>
-		<sjis>
+    <sjis>
 			急ぐぞ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			急がなきゃ！<end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		Let's hurry!<end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			急がなきゃ！<end_line>
+		</sjis>
+    <ascii>
+		Let's hurry!<end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1196,7 +1292,7 @@
 		マニグ採掘場の奥の森に<end_line>
 		大きなはぐれ召喚獣が！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		There's a huge Stray in the<end_line>
 		forest past Manig Mine!<end_line>
 	</ascii>
@@ -1210,7 +1306,7 @@
 		このままではザックという少年も<end_line>
 		あぶないですわ！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Uu<three_dots><end_line>
 		That means Zakk must<end_line>
 		be in danger!<end_line>
@@ -1221,18 +1317,21 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-		<sjis>
+    <sjis>
 			急ぐぞ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			急がなきゃ！<end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		Let's hurry!<end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			急がなきゃ！<end_line>
+		</sjis>
+    <ascii>
+		Let's hurry!<end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1242,7 +1341,7 @@
 	<sjis>
 		キッカの実をさがそう！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Now to find the Kicca fruit!<end_line>
 	</ascii>
 </dialogue>
@@ -1256,7 +1355,7 @@
 		私ハ　下ノ方ヲ　サガシマスカラ<end_line>
 		アナタハ　上ノ方ヲ　見テクダサイ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		There Must Be A Remaining Tree.<end_line>
 		I Will Search Down Here.<end_line>
 		You Search The Upper Area.<end_line>
@@ -1268,24 +1367,29 @@
 	<portrait_l entry="player" eye="decided" mouth="talk">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			なるほど！<end_line>
 			言いたいことはよくわかった！<end_line>
 			上はオレにまかせておけって！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			なるほど！<end_line>
-			言いたいことはよくわかったわ！<end_line>
-			上はわたしにまかせてよ！<end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		Got it!<end_line>
 		We're splitting up then!<end_line>
 		Leave it to me!<end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			なるほど！<end_line>
+			言いたいことはよくわかったわ！<end_line>
+			上はわたしにまかせてよ！<end_line>
+		</sjis>
+    <ascii>
+		Got it!<end_line>
+		We're splitting up then!<end_line>
+		Leave it to me!<end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1295,7 +1399,7 @@
 	<sjis>
 		キッカの実をさがそう！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Now to find the Kicca fruit!<end_line>
 	</ascii>
 </dialogue>
@@ -1305,18 +1409,21 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			たよりにしてるぜ、<partner><end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			たよりにしてるよ、<partner><end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		I'm counting on you, <partner>.<end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			たよりにしてるよ、<partner><end_line>
+		</sjis>
+    <ascii>
+		I'm counting on you, <partner>.<end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1327,7 +1434,7 @@
 		しかしワガハイは<end_line>
 		どんな実なのか知らんのじゃ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		I still don't know what<end_line>
 		this fruit looks like.<end_line>
 	</ascii>
@@ -1340,7 +1447,7 @@
 	<sjis>
 		甘いニオイだよ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		It smells sweet.<end_line>
 	</ascii>
 </dialogue>
@@ -1353,7 +1460,7 @@
 		ええい、ワガハイはトラじゃ！<end_line>
 		イヌのような扱いをするでない！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Hey, I'm a tiger!<end_line>
 		Don't treat me like a dog!<end_line>
 	</ascii>
@@ -1367,7 +1474,7 @@
 		そっか<three_dots><end_line>
 		わからないんだ<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Oh<three_dots><end_line>
 		Alright<three_dots><end_line>
 	</ascii>
@@ -1381,7 +1488,7 @@
 		そ、そんなに落ち込む事は無いじゃろ<end_line>
 		一応努力するぞ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		D-don't get so depressed.<end_line>
 		I'll do what I can.<end_line>
 	</ascii>
@@ -1394,7 +1501,7 @@
 	<sjis>
 		キッカの実をさがそう！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Now to find the Kicca fruit!<end_line>
 	</ascii>
 </dialogue>
@@ -1407,7 +1514,7 @@
 		私はどんな実か知らないからな<end_line>
 		キサマがさがせ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		You still haven't told me<end_line>
 		what kind of fruit it is.<end_line>
 	</ascii>
@@ -1418,24 +1525,29 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="yell">
 	<male>
-		<sjis>
+    <sjis>
 			そっか<end_line>
 			キッカの実はな<end_line>
 			甘いのがウマイんだ<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			そっか<end_line>
-			キッカの実はね<end_line>
-			甘いのがおいしいよ<end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		Right.<end_line>
 		Kicca fruit is<end_line>
 		sweet and tasty.<end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			そっか<end_line>
+			キッカの実はね<end_line>
+			甘いのがおいしいよ<end_line>
+		</sjis>
+    <ascii>
+		Right.<end_line>
+		Kicca fruit is<end_line>
+		sweet and tasty.<end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1446,7 +1558,7 @@
 		教えるつもりなら<end_line>
 		せめて色とかにしろ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		At least tell me<end_line>
 		what color it is.<end_line>
 	</ascii>
@@ -1458,7 +1570,7 @@
 	<sjis>
 		キッカの実をさがそう！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Now to find the Kicca fruit!<end_line>
 	</ascii>
 </dialogue>
@@ -1470,7 +1582,7 @@
 		私はどんな実か知りませんわ<end_line>
 		教えてください<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		I don't know what I'm looking for.<end_line>
 		How can I tell it apart?<end_line>
 	</ascii>
@@ -1480,24 +1592,29 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-		<sjis>
+    <sjis>
 			そうだな<three_dots><end_line>
 			シブイ実はマズイから<end_line>
 			食べちゃダメだ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			そうだな<three_dots><end_line>
-			シブイ実はマズイから<end_line>
-			食べちゃダメだよ！<end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		Hmm<three_dots><end_line>
 		Bitter fruits taste bad,<end_line>
 		so don't eat them!<end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			そうだな<three_dots><end_line>
+			シブイ実はマズイから<end_line>
+			食べちゃダメだよ！<end_line>
+		</sjis>
+    <ascii>
+		Hmm<three_dots><end_line>
+		Bitter fruits taste bad,<end_line>
+		so don't eat them!<end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1506,7 +1623,7 @@
 	<sjis>
 		私に食べて調べろと？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		You want me to compare the taste?<end_line>
 	</ascii>
 </dialogue>
@@ -1518,7 +1635,7 @@
 	<sjis>
 		薬をもらいに駅まで行こう！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Let's meet Zakk at the station!<end_line>
 	</ascii>
 </dialogue>
@@ -1531,7 +1648,7 @@
 		最適経路検索中<end_line>
 		<three_dots><three_dots><three_dots><three_dots><three_dots><three_dots><three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Finding Optimal Route.<end_line>	
 		<three_dots><three_dots><three_dots><three_dots><three_dots><three_dots><three_dots><end_line>
 	</ascii>
@@ -1542,21 +1659,25 @@
 	<portrait_l entry="player" eye="serious" mouth="tense">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			ちょっと、<partner><end_line>
 			どうしたんだ？<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			ちょっと、<partner><end_line>
-			どうしたの？<end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		Hey, <partner>,<end_line>
 		what are you doing?<end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			ちょっと、<partner><end_line>
+			どうしたの？<end_line>
+		</sjis>
+    <ascii>
+		Hey, <partner>,<end_line>
+		what are you doing?<end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1568,7 +1689,7 @@
 		みゅーの様ニ　薬ヲ届ケル為ニ<end_line>
 		最適ト思ワレル　道ヲ検索シマシタ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Complete.<end_line>
 		Determined Most Optimal Route To<end_line>
 		Pick Up And Deliver The Medicine.<end_line>
@@ -1582,7 +1703,7 @@
 	<sjis>
 		？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		?<end_line>
 	</ascii>
 </dialogue>
@@ -1592,25 +1713,25 @@
 	<portrait_l entry="player" eye="serious" mouth="talk">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			おお！<end_line>
 			どうすればいいんだ？<end_line>
 		</sjis>
-		<ascii>
+    <ascii>
 			Ohh!<end_line>
 			So, what now?<end_line>
 		</ascii>
-	</male>
-	<female>
-		<sjis>
+  </male>
+  <female>
+    <sjis>
 			本当！？<end_line>
 			で、どうすればいいの？<end_line>
 		</sjis>
-		<ascii>
+    <ascii>
 			Really!?<end_line>
 			So, where to next?<end_line>
 		</ascii>
-	</female>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1621,7 +1742,7 @@
 		マズハ駅ニ行キ　薬ヲ受ケ取リマス<end_line>
 		次ニ　みゅーの様ニ薬ヲ届ケマス<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		First, Pick Up At The Station.<end_line>
 		Then, Deliver To Lady Murno.<end_line>
 	</ascii>
@@ -1634,7 +1755,7 @@
 	<sjis>
 		<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -1644,21 +1765,25 @@
 	<portrait_l entry="player" eye="happy" mouth="tense">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			何というか<three_dots><end_line>
 			その通りだな<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			何というか<three_dots><end_line>
-			その通りだね<end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		Umm<three_dots><end_line>
 		Right<three_dots><end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			何というか<three_dots><end_line>
+			その通りだね<end_line>
+		</sjis>
+    <ascii>
+		Umm<three_dots><end_line>
+		Right<three_dots><end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1668,7 +1793,7 @@
 	<sjis>
 		じゃあ、行こうか<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Okay, let's go then.<end_line>
 	</ascii>
 </dialogue>
@@ -1680,7 +1805,7 @@
 	<sjis>
 		了解デス<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Understood.<end_line>
 	</ascii>
 </dialogue>
@@ -1692,7 +1817,7 @@
 	<sjis>
 		薬をもらいに駅まで行こう！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Let's meet Zakk at the station!<end_line>
 	</ascii>
 </dialogue>
@@ -1706,7 +1831,7 @@
 		何があるかわからんからのう<end_line>
 		気を抜くなよ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		It's not over until<end_line>
 		Murno has the medicine.<end_line>
 		Don't lose focus.<end_line>
@@ -1720,7 +1845,7 @@
 	<sjis>
 		たしかにそうだね<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Right.<end_line>
 	</ascii>
 </dialogue>
@@ -1733,7 +1858,7 @@
 		仏作って魂入れず、と言っての<end_line>
 		最後の仕上げを欠いては<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		There's a saying,<end_line>
 		"to plow but not to plant"<three_dots><end_line>
 	</ascii>
@@ -1746,7 +1871,7 @@
 	<sjis>
 		ホトケ？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Plant?<end_line>
 	</ascii>
 </dialogue>
@@ -1756,18 +1881,21 @@
 	<portrait_l entry="player" eye="serious" mouth="tense">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			作ってもらうのは薬だろ？<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			作ってもらうのは薬でしょ？<end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		Aren't we making medicine?<end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			作ってもらうのは薬でしょ？<end_line>
+		</sjis>
+    <ascii>
+		Aren't we making medicine?<end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1777,7 +1905,7 @@
 	<sjis>
 		ええい、そういう事ではなく<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		No, that's not what I meant<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -1787,18 +1915,21 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="partner" eye="surprised" mouth="yell">
 	<male>
-		<sjis>
+    <sjis>
 			そんな事より薬をもらいに行こうぜ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			そんな事より薬をもらいに行こ！<end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		Forget it, let's go!<end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			そんな事より薬をもらいに行こ！<end_line>
+		</sjis>
+    <ascii>
+		Forget it, let's go!<end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1808,7 +1939,7 @@
 	<sjis>
 		薬をもらいに駅まで行こう！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Let's meet Zakk at the station!<end_line>
 	</ascii>
 </dialogue>
@@ -1822,7 +1953,7 @@
 		来ると思っているのか？<end_line>
 		クズ男たちの仲間だぞ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Think he's really going<end_line>
 		to make it for us?<end_line>
 		He's friends with that scum.<end_line>
@@ -1834,21 +1965,25 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="talk">
 	<male>
-		<sjis>
+    <sjis>
 			来るよ、絶対！<end_line>
 			オレはあいつを信じてる<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			来るよ、絶対！<end_line>
-			わたしはあの子を信じてる<end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		He will, I'm sure!<end_line>
 		I believe in him.<end_line>
 	</ascii>s
+</male>
+  <female>
+    <sjis>
+			来るよ、絶対！<end_line>
+			わたしはあの子を信じてる<end_line>
+		</sjis>
+    <ascii>
+		He will, I'm sure!<end_line>
+		I believe in him.<end_line>
+	</ascii>s
+</female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1860,7 +1995,7 @@
 		やめろ<three_dots><end_line>
 		寒気がする<three_dots>！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Don't say that with<end_line>
 		such a straight face<three_dots><end_line>
 		Ugh<three_dots>!<end_line>
@@ -1872,21 +2007,25 @@
 	<portrait_l entry="player" eye="decided" mouth="talk">
 	<portrait_r entry="partner" eye="sad" mouth="tense">
 	<male>
-		<sjis>
+    <sjis>
 			行こうぜ！<end_line>
 			オレたちの友情をたしかめに！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			行こう！<end_line>
-			わたしたちの友情をたしかめに！<end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		Let's go!<end_line>
 		This'll be proof for our friendship!<end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			行こう！<end_line>
+			わたしたちの友情をたしかめに！<end_line>
+		</sjis>
+    <ascii>
+		Let's go!<end_line>
+		This'll be proof for our friendship!<end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1897,7 +2036,7 @@
 		キ、キサマ<three_dots><end_line>
 		わざとやっているな<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Urgh<three_dots><end_line>
 		You must be doing this on purpose<three_dots><end_line>
 	</ascii>
@@ -1909,7 +2048,7 @@
 	<sjis>
 		薬をもらいに駅まで行こう！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Let's meet Zakk at the station!<end_line>
 	</ascii>
 </dialogue>
@@ -1922,7 +2061,7 @@
 		無事に薬を作って<end_line>
 		やってくるでしょうか？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		I wonder if he'll be okay<three_dots><end_line>
 		Will he be able to<end_line>
 		make the medicine?<end_line>
@@ -1936,7 +2075,7 @@
 		<partner>さあ<end_line>
 		ちょっと心配しすぎじゃないの？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		<partner>, don't you think<end_line>
 		you're worrying too much?<end_line>
 	</ascii>
@@ -1950,7 +2089,7 @@
 		また橋から落ちて<end_line>
 		大切なキッカの実を<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		What if he fell off<end_line>
 		the bridge again,<end_line>
 		then our Kicca fruit would be<three_dots><end_line>
@@ -1965,7 +2104,7 @@
 		とは言い切れないところが<three_dots><end_line>
 		とにかく駅に行こう！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		That's impossible!<end_line>
 		I hope<three_dots><end_line>
 		Anyways, to the station!<end_line>
@@ -1977,21 +2116,25 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			レミィのヤツ<three_dots><end_line>
 			絶対、薬を受け取らせてやる！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			レミィったら<three_dots><end_line>
-			絶対、薬を受け取らせてやるんだから！<end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		That Lemmy<three_dots><end_line>
 		I'll make him take the medicine!<end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			レミィったら<three_dots><end_line>
+			絶対、薬を受け取らせてやるんだから！<end_line>
+		</sjis>
+    <ascii>
+		That Lemmy<three_dots><end_line>
+		I'll make him take the medicine!<end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -2003,7 +2146,7 @@
 		戦闘能力ニ　大キナ差ガ<end_line>
 		アルヨウデス<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		There Is A Large <end_line>
 		Difference In Strength<end_line>
 		Between You And Him.<end_line>
@@ -2017,7 +2160,7 @@
 	<sjis>
 		えっと、それってつまり？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Umm, meaning what?<end_line>
 	</ascii>
 </dialogue>
@@ -2030,7 +2173,7 @@
 		今ノアナタデハ　彼ニ勝利スルノハ<end_line>
 		困難ダ　トイウコトデス<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		It Would Be Difficult For You<end_line>
 		To Force Him As You Are Now.<end_line>
 	</ascii>
@@ -2041,18 +2184,21 @@
 	<portrait_l entry="player" eye="decided" mouth="stressed">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			お前まで、そんな<three_dots><end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			あなたまで、そんな<three_dots><end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		Even you<three_dots><end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			あなたまで、そんな<three_dots><end_line>
+		</sjis>
+    <ascii>
+		Even you<three_dots><end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -2064,7 +2210,7 @@
 		協力スレバ　勝利デキナイ相手デハ<end_line>
 		アリマセン<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		However, Together,<end_line>
 		There Is No Enemy We<end_line>
 		Cannot Defeat.<end_line>
@@ -2076,24 +2222,29 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			そういうことか<three_dots><end_line>
 			わかったよ<end_line>
 			行くぞ、<partner>！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			そういうことね<three_dots><end_line>
-			わかったよ<end_line>
-			行くよ、<partner>！<end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		So that's what you meant<three_dots><end_line>
 		Okay.<end_line>
 		Let's do it, <partner>!<end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			そういうことね<three_dots><end_line>
+			わかったよ<end_line>
+			行くよ、<partner>！<end_line>
+		</sjis>
+    <ascii>
+		So that's what you meant<three_dots><end_line>
+		Okay.<end_line>
+		Let's do it, <partner>!<end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -2101,21 +2252,25 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			レミィのヤツ<three_dots><end_line>
 			絶対、薬を受け取らせてやる！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			レミィったら<three_dots><end_line>
-			絶対、薬を受け取らせてやるんだから！<end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		That Lemmy<three_dots><end_line>
 		I'll make him take the medicine!<end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			レミィったら<three_dots><end_line>
+			絶対、薬を受け取らせてやるんだから！<end_line>
+		</sjis>
+    <ascii>
+		That Lemmy<three_dots><end_line>
+		I'll make him take the medicine!<end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -2127,7 +2282,7 @@
 		そんなに熱くなっては<end_line>
 		勝てる勝負にも勝てんぞ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Calm down.<end_line>
 		Anger will distract you from<end_line>
 		what you need to do.<end_line>
@@ -2141,7 +2296,7 @@
 	<sjis>
 		うっ<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Ugh<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -2155,7 +2310,7 @@
 		かなりの使い手のようじゃ！<end_line>
 		今のおぬしでは勝てぬかもしれん<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Also, he is quite the<end_line>
 		formidable opponent!<end_line>
 		You may not be able to win.<end_line>
@@ -2167,21 +2322,25 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			なんだと！<end_line>
 			お前まで、そんな<three_dots><end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			なによ！<end_line>
-			あなたまで、そんな<three_dots><end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		What!?<end_line>
 		Even you<three_dots><end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			なによ！<end_line>
+			あなたまで、そんな<three_dots><end_line>
+		</sjis>
+    <ascii>
+		What!?<end_line>
+		Even you<three_dots><end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -2192,7 +2351,7 @@
 		案ずるな<end_line>
 		おぬしにはワガハイがおる<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Have no fear.<end_line>
 		I am here to support you.<end_line>
 	</ascii>
@@ -2206,7 +2365,7 @@
 		おぬしとワガハイで力を合わせれば<end_line>
 		勝つこともできようぞ！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		With our combined strength,<end_line>
 		we can win!<end_line>
 	</ascii>
@@ -2217,24 +2376,29 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="decided" mouth="talk">
 	<male>
-		<sjis>
+    <sjis>
 			そういうことか<three_dots><end_line>
 			わかったよ<end_line>
 			行くぞ、<partner>！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			そういうことね<three_dots><end_line>
-			わかったよ<end_line>
-			行くよ、<partner>！<end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		So that's what you meant<three_dots><end_line>
 		Okay.<end_line>
 		Let's do it, <partner>!<end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			そういうことね<three_dots><end_line>
+			わかったよ<end_line>
+			行くよ、<partner>！<end_line>
+		</sjis>
+    <ascii>
+		So that's what you meant<three_dots><end_line>
+		Okay.<end_line>
+		Let's do it, <partner>!<end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -2242,21 +2406,25 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			レミィのヤツ<three_dots><end_line>
 			絶対、薬を受け取らせてやる！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			レミィったら<three_dots><end_line>
-			絶対、薬を受け取らせてやるんだから！<end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		That Lemmy<three_dots><end_line>
 		I'll make him take the medicine!<end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			レミィったら<three_dots><end_line>
+			絶対、薬を受け取らせてやるんだから！<end_line>
+		</sjis>
+    <ascii>
+		That Lemmy<three_dots><end_line>
+		I'll make him take the medicine!<end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -2268,7 +2436,7 @@
 		あいつに勝てるとでも<end_line>
 		考えているのか？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		<three_dots>Do you<end_line>
 		really think you<end_line>
 		can beat him?<end_line>
@@ -2280,21 +2448,25 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="talk">
 	<male>
-		<sjis>
+    <sjis>
 			勝てるかどうかじゃない<end_line>
 			絶対に勝つんだ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			勝てるかどうかじゃないよ<end_line>
-			絶対に勝つんだから！<end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		It's not a question of can or can't.<end_line>
 		I will!<end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			勝てるかどうかじゃないよ<end_line>
+			絶対に勝つんだから！<end_line>
+		</sjis>
+    <ascii>
+		It's not a question of can or can't.<end_line>
+		I will!<end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -2305,7 +2477,7 @@
 		ふっ<three_dots>、面白い<three_dots><end_line>
 		だがキサマが勝てるかな？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Hm<three_dots> Interesting<three_dots><end_line>
 		You? Win against him?<end_line>
 	</ascii>
@@ -2316,18 +2488,21 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			それ、どういうことだよ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			それ、どういうこと！？<end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		What's that supposed to mean!?<end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			それ、どういうこと！？<end_line>
+		</sjis>
+    <ascii>
+		What's that supposed to mean!?<end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -2338,7 +2513,7 @@
 		私の手にかかれば<end_line>
 		キサマの出番などないぞ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		With my help, I'll end it<end_line>
 		before you can even move.<end_line>
 	</ascii>
@@ -2348,21 +2523,25 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-		<sjis>
+    <sjis>
 			レミィのヤツ<three_dots><end_line>
 			絶対、薬を受け取らせてやる！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			レミィったら<three_dots><end_line>
-			絶対、薬を受け取らせてやるんだから！<end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		That Lemmy<three_dots><end_line>
 		I'll make him take the medicine!<end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			レミィったら<three_dots><end_line>
+			絶対、薬を受け取らせてやるんだから！<end_line>
+		</sjis>
+    <ascii>
+		That Lemmy<three_dots><end_line>
+		I'll make him take the medicine!<end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -2372,7 +2551,7 @@
 		そうですわ！<end_line>
 		あんな態度、絶対許せません！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Agreed!<end_line>
 		He can't treat us like that!<end_line>
 	</ascii>
@@ -2386,7 +2565,7 @@
 		一度、イタイ目にあった方が<end_line>
 		いいと思いますわ！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Someone as rude as him<end_line>
 		deserves to be punished<end_line>
 		at least once!<end_line>
@@ -2401,7 +2580,7 @@
 		すっごい気合い入ってるけど<end_line>
 		相手は一応病人なんだし<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Ummm<three_dots><end_line>
 		I appreciate the energy,<end_line>
 		but he's sick, you know<three_dots><end_line>
@@ -2416,7 +2595,7 @@
 		でもザックさんのためにも<end_line>
 		やっつけてあげましょう！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		I know that.<end_line>
 		But we must defeat him,<end_line>
 		for Zakk's sake too!<end_line>
@@ -2431,7 +2610,7 @@
 		あこがれの人だから<three_dots><end_line>
 		あれ<three_dots>？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		But Zakk looks<end_line>
 		up to Lemmy, so<three_dots><end_line>
 		Huh<three_dots>?<end_line>
@@ -2445,7 +2624,7 @@
 		なんかフクザツな感じに<end_line>
 		なってるような<three_dots>？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		This is getting<end_line>
 		really complicated<three_dots><end_line>
 	</ascii>
@@ -2458,7 +2637,7 @@
 	<sjis>
 		よし、ミューノに薬を届けよう！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Okay, let's deliver this to Murno!<end_line>
 	</ascii>
 </dialogue>
@@ -2472,7 +2651,7 @@
 		予想以上ニ　時間ガカカッテイマス<end_line>
 		急ギマショウ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		It Took Longer To Acquire<end_line>
 		The Medicine Than<end_line>
 		I Had Expected.<end_line>
@@ -2484,21 +2663,27 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			たしかにミューノの熱は<end_line>
 			心配だよな<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
+    <ascii>
+		Yeah, I hope her fever<end_line>
+		has not gotten worse.<end_line>
+	
+</ascii>
+  </male>
+  <female>
+    <sjis>
 			たしかにミューノの熱は<end_line>
 			心配だよね<end_line>
 		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		Yeah, I hope her fever<end_line>
 		has not gotten worse.<end_line>
-	</screen>
+	
+</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -2508,7 +2693,7 @@
 	<sjis>
 		親方モ　デス<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Master Too.<end_line>
 	</ascii>
 </dialogue>
@@ -2518,18 +2703,21 @@
 	<portrait_l entry="player" eye="happy" mouth="tense">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			そこは信用しろよ<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			そこは信用しようよ<end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		Have some faith in her!<end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			そこは信用しようよ<end_line>
+		</sjis>
+    <ascii>
+		Have some faith in her!<end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -2539,7 +2727,7 @@
 	<sjis>
 		よし、ミューノに薬を届けよう！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Okay, let's deliver this to Murno!<end_line>
 	</ascii>
 </dialogue>
@@ -2551,7 +2739,7 @@
 	<sjis>
 		その前に落ち着くのじゃ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Before that, calm down.<end_line>
 	</ascii>
 </dialogue>
@@ -2561,21 +2749,25 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="serious" mouth="tense">
 	<male>
-		<sjis>
+    <sjis>
 			なんだよ！<end_line>
 			置いてくぞ<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			なによ！<end_line>
-			置いてくわよ<end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		Come on!<end_line>
 		I'll leave you behind.<end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			なによ！<end_line>
+			置いてくわよ<end_line>
+		</sjis>
+    <ascii>
+		Come on!<end_line>
+		I'll leave you behind.<end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -2586,7 +2778,7 @@
 		急がば回れ、と言っての<end_line>
 		急いでおる時こそゆっくり安全に<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Slow and steady wins the race.<end_line>
 		One can never be too careful<three_dots><end_line>
 	</ascii>
@@ -2599,7 +2791,7 @@
 	<sjis>
 		ん？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Hm?<end_line>
 	</ascii>
 </dialogue>
@@ -2609,25 +2801,25 @@
 	<portrait_l entry="player" eye="surprised" mouth="serious">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			急ぐ時は回るのか？<end_line>
 			なんだそれ？<end_line>
 		</sjis>
-		<ascii>
+    <ascii>
 			Slow and steady?<end_line>
 			What's that?<end_line>
 		</ascii>
-	</male>
-	<female>
-		<sjis>
+  </male>
+  <female>
+    <sjis>
 			急ぐ時は回るの？<end_line>
 			ヘンなの<end_line>
 		</sjis>
-		<ascii>
+    <ascii>
 			Slow and steady?<end_line>
 			How strange.<end_line>
 		</ascii>
-	</female>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -2637,7 +2829,7 @@
 	<sjis>
 		そうではなくて<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		That's not it<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -2650,7 +2842,7 @@
 		まあよい、善は急げ、とも言うからの<end_line>
 		早くミューノに薬を届けるぞ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Perhaps, strike while the iron<end_line>
 		is hot would be more appropriate.<end_line>
 	</ascii>
@@ -2661,18 +2853,21 @@
 	<portrait_l entry="player" eye="happy" mouth="stressed">
 	<portrait_r entry="partner" eye="serious" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			もう、なんなんだよ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			もう、なんなのよ！<end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		Jeez, come on!<end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			もう、なんなのよ！<end_line>
+		</sjis>
+    <ascii>
+		Jeez, come on!<end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -2694,7 +2889,7 @@
 	<sjis>
 		<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -2704,25 +2899,25 @@
 	<portrait_l entry="player" eye="surprised" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			ちょっと待てよ！<end_line>
 			そんなに急ぐなよ<end_line>
 		</sjis>
-		<ascii>
+    <ascii>
 			Hold on!<end_line>
 			No need to rush.<end_line>
 		</ascii>
-	</male>
-	<female>
-		<sjis>
+  </male>
+  <female>
+    <sjis>
 			ちょっと待ってよ！<end_line>
 			そんなに急がなくったって<three_dots><end_line>
 		</sjis>
-		<ascii>
+    <ascii>
 			Hold on!<end_line>
 			No need to rush<three_dots><end_line>
 		</ascii>
-	</female>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -2734,7 +2929,7 @@
 		私は急いでなどいない<three_dots><end_line>
 		キサマがおそいだけでは<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Wha<three_dots><end_line>
 		I'm not particularly fast<three_dots><end_line>
 		You're just slow<three_dots><end_line>
@@ -2746,18 +2941,21 @@
 	<portrait_l entry="player" eye="happy" mouth="tense">
 	<portrait_r entry="partner" eye="special" mouth="tense">
 	<male>
-		<sjis>
+    <sjis>
 			はいはい、わかったよ<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			はいはい、わかりましたよ<end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		Okay, okay, I know.<end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			はいはい、わかりましたよ<end_line>
+		</sjis>
+    <ascii>
+		Okay, okay, I know.<end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -2767,7 +2965,7 @@
 	<sjis>
 		早くミューノのところへ行こう<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Let's go find Murno.<end_line>
 	</ascii>
 </dialogue>
@@ -2780,7 +2978,7 @@
 		ちっ<three_dots><end_line>
 		キサマがそうしたいなら仕方ない<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Tch<three_dots><end_line>
 		If you want to, then fine.<end_line>
 	</ascii>
@@ -2792,7 +2990,7 @@
 	<sjis>
 		よし、ミューノに薬を届けよう！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Okay, let's deliver this to Murno!<end_line>
 	</ascii>
 </dialogue>
@@ -2804,7 +3002,7 @@
 		ちょっと待ってください<end_line>
 		その薬の入れ物が<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Please wait a moment.<end_line>
 		The medicine's container<three_dots><end_line>
 	</ascii>
@@ -2814,18 +3012,21 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-		<sjis>
+    <sjis>
 			入れ物がどうかしたのか？<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			入れ物がどうかしたの？<end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		Container? What about it?<end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			入れ物がどうかしたの？<end_line>
+		</sjis>
+    <ascii>
+		Container? What about it?<end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -2836,7 +3037,7 @@
 		もっとその、上品と言うか<end_line>
 		気品のある入れ物のほうが<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		We should use something more<end_line>
 		refined, more elegant.<end_line>
 		It's only fitting for Lady Murno<three_dots><end_line>
@@ -2847,21 +3048,25 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-		<sjis>
+    <sjis>
 			そんなこと言ってないで<end_line>
 			早く行こうぜ<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			そんなこと言ってないで<end_line>
-			早く行こうよ<end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		<three_dots>We don't have time for that.<end_line>
 		Come on.<end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			そんなこと言ってないで<end_line>
+			早く行こうよ<end_line>
+		</sjis>
+    <ascii>
+		<three_dots>We don't have time for that.<end_line>
+		Come on.<end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -2870,7 +3075,7 @@
 	<sjis>
 		では、せめて花束をつけて<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Then at least a bouquet<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -2883,7 +3088,7 @@
 		ミューノ様に似合う<end_line>
 		花束は<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Umm<three_dots><end_line>
 		Where could we find<end_line>
 		flowers that fit her<three_dots><end_line>
@@ -2894,18 +3099,21 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-		<sjis>
+    <sjis>
 			そんなことしてる場合かよ<three_dots><end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			そんなことしてる場合なの<three_dots><end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		Seriously, this isn't the time<three_dots><end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			そんなことしてる場合なの<three_dots><end_line>
+		</sjis>
+    <ascii>
+		Seriously, this isn't the time<three_dots><end_line>
+	</ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -2916,7 +3124,7 @@
 		そんな場合じゃありませんわ<end_line>
 		急ぎますよ！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		That's right!<end_line>
 		Let us not waste time.<end_line>
 		Let's go!<end_line>
@@ -2929,7 +3137,7 @@
 	<sjis>
 		えーと<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Umm<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -2938,16 +3146,19 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-		<sjis>
+    <sjis>
 			うん、そうだな<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			うん、そうだね<end_line>
-		</sjis>
-	</female>
-	<ascii>
+    <ascii>
 		Alright, whatever.<end_line>
 	</ascii>
+  </male>
+  <female>
+    <sjis>
+			うん、そうだね<end_line>
+		</sjis>
+    <ascii>
+		Alright, whatever.<end_line>
+	</ascii>
+  </female>
 </dialogue>

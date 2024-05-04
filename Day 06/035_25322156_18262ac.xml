@@ -16,17 +16,21 @@
       なんだ？<end_line>
       今の声、親方<three_dots>？<end_line>
     </sjis>
+    <ascii>
+    Hm?<end_line>
+    Was that Master<three_dots>?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       なに？<end_line>
       今の声、親方<three_dots>？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Hm?<end_line>
     Was that Master<three_dots>?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -94,15 +98,19 @@
       あれ<three_dots>？<end_line>
       誰かいるぞ<three_dots><end_line>
     </sjis>
+    <ascii>
+    Huh<three_dots>?<end_line>
+    Someone's there<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       あれ<three_dots>？<end_line>
       誰かいる<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Huh<three_dots>?<end_line>
     Someone's there<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>

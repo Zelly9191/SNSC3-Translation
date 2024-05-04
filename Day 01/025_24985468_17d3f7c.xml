@@ -63,6 +63,11 @@
       鍛冶師は強くなくちゃいけないんだ<end_line>
       もしかしてお前、コワいのか？<end_line>
     </sjis>
+    <ascii>
+    Drive it away, I guess.<end_line>
+    Craftknights gotta be strong.<end_line>
+    You aren't scared, are you?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -70,12 +75,12 @@
       鍛冶師は強くなくちゃいけないの<end_line>
       もしかしてあなた、コワいの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Drive it away, I guess.<end_line>
     Craftknights gotta be strong.<end_line>
     You aren't scared, are you?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -145,16 +150,19 @@
       大丈夫だよ<end_line>
       オレがついてるし<end_line>
     </sjis>
+    <ascii>
+    Don't worry, I'll be here.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       大丈夫だよ<end_line>
       わたしがついてるし<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Don't worry, I'll be here.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -182,6 +190,11 @@
       んじゃ、今日はふたりだし<end_line>
       いつもより奥まで行ってみるか！<end_line>
     </sjis>
+    <ascii>
+    This is exciting!<end_line>
+    Now that there's two of us,<end_line>
+    let's try going deeper than usual.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -189,12 +202,12 @@
       んじゃ、今日はふたりだし<end_line>
       いつもより奥まで行ってみよう！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     This is exciting!<end_line>
     Now that there's two of us,<end_line>
     let's try going deeper than usual.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <popup>
   <sjis>

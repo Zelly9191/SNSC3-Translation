@@ -324,17 +324,21 @@
       な、なんだよ<end_line>
       こっちこそよろしくたのむよ<end_line>
     </sjis>
+    <ascii>
+    Uh, right.<end_line>
+    Same to you.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       な、なによ<end_line>
       こっちこそよろしくね<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Uh, right.<end_line>
     Same to you.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -371,15 +375,18 @@
     <sjis>
       おう！<end_line>
     </sjis>
+    <ascii>
+    Yeah!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       うん！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Yeah!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -480,17 +487,21 @@
       な、なんだよ<end_line>
       こっちこそよろしくたのむよ<end_line>
     </sjis>
+    <ascii>
+    Uh, right.<end_line>
+    Same to you.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       な、なによ<end_line>
       こっちこそよろしくね<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Uh, right.<end_line>
     Same to you.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -628,6 +639,11 @@
       オレはミューノのことばっか<end_line>
       考えてるワケじゃ<three_dots><end_line>
     </sjis>
+    <ascii>
+    Wh-what?<end_line>
+    Of course I think about<end_line>
+    other things<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -635,12 +651,12 @@
       わたしはミューノのことばっか<end_line>
       考えてるワケじゃ<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Wh-what?<end_line>
     Of course I think about<end_line>
     other things<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -773,17 +789,21 @@
       な、なんだよ<end_line>
       こっちこそよろしくたのむよ<end_line>
     </sjis>
+    <ascii>
+    Uh, right.<end_line>
+    Same to you.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       な、なによ<end_line>
       こっちこそよろしくね<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Uh, right.<end_line>
     Same to you.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">

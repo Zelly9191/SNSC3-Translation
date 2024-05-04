@@ -29,6 +29,11 @@
       絶対勝ってみせるから<end_line>
       安心してな！<end_line>
     </sjis>
+    <ascii>
+    Don't look so worried.<end_line>
+    I'm going to win.<end_line>
+    Leave it to me!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -36,12 +41,12 @@
       絶対勝ってみせるから<end_line>
       まかせてよ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Don't look so worried.<end_line>
     I'm going to win.<end_line>
     Leave it to me!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -254,15 +259,18 @@
     <sjis>
       おっちゃんも来るの？<end_line>
     </sjis>
+    <ascii>
+    You're coming too?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       おじさんも来るの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     You're coming too?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -542,6 +550,11 @@
       ヌシのいたところだな<end_line>
       わかった！<end_line>
     </sjis>
+    <ascii>
+    The Rekui Water Ruins<three_dots><end_line>
+    That's where your master was, right?<end_line>
+    Got it!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -549,10 +562,10 @@
       ヌシさまのいたところね<end_line>
       わかった！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     The Rekui Water Ruins<three_dots><end_line>
     That's where your master was, right?<end_line>
     Got it!<end_line>
   </ascii>
+  </female>
 </dialogue>

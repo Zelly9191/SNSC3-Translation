@@ -146,6 +146,10 @@
       ねらわれてるんだ！<end_line>
       早く助けないと<three_dots>！<end_line>
     </sjis>
+    <ascii>
+    They're after Murno!<end_line>
+    If we don't hurry and save her<three_dots>!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -153,11 +157,11 @@
       ねらわれてるの！<end_line>
       早く助けないと<three_dots>！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     They're after Murno!<end_line>
     If we don't hurry and save her<three_dots>!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -287,17 +291,21 @@
       なんだと！？<end_line>
       ダレがなるか！<end_line>
     </sjis>
+    <ascii>
+    What!?<end_line>
+    Who would want that!?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       なによ！？<end_line>
       ダレがなるもんですか！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     What!?<end_line>
     Who would want that!?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -395,17 +403,21 @@
       オレもわからない<end_line>
       だけど行かなきゃならないんだ<end_line>
     </sjis>
+    <ascii>
+    it's true or not.<end_line>
+		But<three_dots> I made a promise.<end_line>
+	</ascii>
   </male>
   <female>
     <sjis>
       わたしもわからない<end_line>
       だけど行かなきゃいけないの<end_line>
     </sjis>
-  </female>
-	<ascii>
+    <ascii>
     it's true or not.<end_line>
 		But<three_dots> I made a promise.<end_line>
 	</ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -516,6 +528,11 @@
       どうして<three_dots><end_line>
       まさかあいつらの手伝いか！？<end_line>
     </sjis>
+    <ascii>
+    Eh!?<end_line>
+    Why<three_dots><end_line>
+    Are you going to help them!?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -523,12 +540,12 @@
       どうして<three_dots>?<end_line>
       あいつらを手伝うつもりなの！？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Eh!?<end_line>
     Why<three_dots><end_line>
     Are you going to help them!?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -555,6 +572,11 @@
       だろ？<end_line>
       わかったよ<end_line>
     </sjis>
+    <ascii>
+		That wouldn't look good<end_line>
+		for Bostaph<three_dots> Right?<end_line>
+    Got it.<end_line>
+	</ascii>
   </male>
   <female>
     <sjis>
@@ -562,12 +584,12 @@
       <three_dots>でしょ？<end_line>
       わかったわよ<end_line>
     </sjis>
-  </female>
-	<ascii>
+    <ascii>
 		That wouldn't look good<end_line>
 		for Bostaph<three_dots> Right?<end_line>
     Got it.<end_line>
 	</ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -593,17 +615,21 @@
       そうか<three_dots><end_line>
       わかった<end_line>
     </sjis>
+    <ascii>
+    I see<three_dots><end_line>
+    Okay.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       そう<three_dots><end_line>
       わかったわ<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I see<three_dots><end_line>
     Okay.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -660,6 +686,11 @@
       ミューノがあんなことする<end_line>
       はずがない<end_line>
     </sjis>
+    <ascii>
+    Of course I do.<end_line>
+    She would never do<end_line>
+    something like that!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -667,12 +698,12 @@
       ミューノがあんなことする<end_line>
       ワケない！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Of course I do.<end_line>
     She would never do<end_line>
     something like that!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -693,15 +724,18 @@
     <sjis>
       たしかめに行きたいんだ<end_line>
     </sjis>
+    <ascii>
+    That's why I need to make sure.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       たしかめに行きたいの<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     That's why I need to make sure.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">

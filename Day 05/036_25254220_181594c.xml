@@ -7,17 +7,21 @@
       やった！<end_line>
       勝ったぞ！<end_line>
     </sjis>
+    <ascii>
+    Yes!<end_line>
+    I won!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       やった！<end_line>
       勝ったよ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Yes!<end_line>
     I won!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">

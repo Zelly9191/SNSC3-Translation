@@ -7,7 +7,7 @@
 		はぐれ召喚獣退治なんてしようと<end_line>
 		してたんだよ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Anyways, why did you two<end_line>
 		want to fight the Stray?<end_line>
 	</ascii>
@@ -17,24 +17,29 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="jade" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			それは<three_dots>、パートナーができて<end_line>
 			オレも強くなったと思うし<three_dots><end_line>
 			それに<three_dots><end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			それは<three_dots>、パートナーができて<end_line>
-			わたしも強くなったと思うし<three_dots><end_line>
-			それに<three_dots><end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Because<three_dots> I've gotten stronger<end_line>
     since I got a partner.<end_line>
     And I<three_dots><end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			それは<three_dots>、パートナーができて<end_line>
+			わたしも強くなったと思うし<three_dots><end_line>
+			それに<three_dots><end_line>
+		</sjis>
+    <ascii>
+    Because<three_dots> I've gotten stronger<end_line>
+    since I got a partner.<end_line>
+    And I<three_dots><end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -44,7 +49,7 @@
 		<three_dots>？<end_line>
 		なに？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		<three_dots>?<end_line>
 	</ascii>
 </dialogue>
@@ -57,7 +62,7 @@
 		そういうことか<end_line>
 		気持ちはわからんでもないな<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Ahh<three_dots><end_line>
 		I see how it is.<end_line>
 		I understand how you feel.<end_line>
@@ -72,7 +77,7 @@
 		悪いことじゃないと<end_line>
 		オレは思うからな<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
     Well, I guess it's not<end_line>
 		like hating to lose<end_line>
 		to others is a bad thing.<end_line>
@@ -83,18 +88,21 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="jade" eye="serious" mouth="talk">
 	<male>
-		<sjis>
+    <sjis>
 			なんだよ、それ<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			なによ、それ<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     What are you trying to say?<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			なによ、それ<end_line>
+		</sjis>
+    <ascii>
+    What are you trying to say?<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -105,7 +113,7 @@
 		勝負するところが<end_line>
 		ちょっとちがうんじゃないのか？<end_line>
 	</sjis>
-	<ascii>	
+  <ascii>	
 		You guys are Craftknights, right?<end_line>
 		The area you're suppose to challenge<end_line>
 		others in is a bit different, yeah?<end_line>
@@ -120,7 +128,7 @@
 		ロブの様な一流の鍛冶師には<end_line>
 		なれないぜ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		If you keep doing that,<end_line>
 		you might never become<end_line>
 		a top-class Craftknight like Rob.<end_line>
@@ -136,7 +144,7 @@
 		オレだって毎日修行してるんだ<end_line>
 		今だったらアニキと勝負したって<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Wha!<end_line>
 		I train everyday!<end_line>
     I'm sure if we had a match<three_dots><end_line>
@@ -151,7 +159,7 @@
 		互角に戦えるくらい<end_line>
 		強くなってるさ！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
     I'm strong enough to beat you!<end_line>
 	</ascii>
 </dialogue>
@@ -165,7 +173,7 @@
 		わたしだって毎日修行してるんだよ<end_line>
 		今だったらアニキと勝負したって<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Wha!<end_line>
 		I train everyday!<end_line>
     I'm sure if we had a match<three_dots><end_line>
@@ -180,7 +188,7 @@
 		互角に戦えるくらい<end_line>
 		強くなってるよ！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
     I'm strong enough to beat you!<end_line>
 	</ascii>
 </dialogue>
@@ -193,7 +201,7 @@
 		いつまでたってもお前は<end_line>
 		半人前なんだよ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
     You're so childish<three_dots><end_line>
     This is why you'll<end_line>
     always be an amateur.<end_line>
@@ -204,18 +212,21 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="jade" eye="sad" mouth="talk">
 	<male>
-		<sjis>
+    <sjis>
 			半人前って言うな！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			半人前って言わないで！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     I'm not an amateur!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			半人前って言わないで！<end_line>
+		</sjis>
+    <ascii>
+    I'm not an amateur!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -226,7 +237,7 @@
 		いられませんよ<end_line>
 		僕、もう戻っていいですか？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
     I don't have time for this.<end_line>
 		May I leave now?<end_line>
 	</ascii>
@@ -240,7 +251,7 @@
 		オレもこんなことしてる場合じゃ<end_line>
 		なかったんだ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Ah, that's right.<end_line>
 		This isn't the time for<end_line>
 		kid's stuff like this.<end_line>
@@ -253,7 +264,7 @@
 	<sjis>
 		こ、こんなこと！？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		K-Kid's stuff!?<end_line>
 	</ascii>
 </dialogue>
@@ -265,7 +276,7 @@
 		ちょっとヴィーねえさんに<end_line>
 		話があるんでな<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		I have some business with Vee.<end_line>
 	</ascii>
 </dialogue>
@@ -277,7 +288,7 @@
 		村長の家から出て行ったな<end_line>
 		家に戻ったみたいだぞ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Vee was just at the Chief's house.<end_line>
 		She might be back back home by now.<end_line>
 	</ascii>
@@ -289,7 +300,7 @@
 		そっスか<end_line>
 		ありがとっス<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		I see.<end_line>
 		Thanks.<end_line>
 	</ascii>
@@ -298,21 +309,25 @@
 	<info box="left">
 	<portrait_l entry="player" eye="decided" mouth="stressed">
 	<male>
-		<sjis>
+    <sjis>
 			ちょっと待てよ！<end_line>
 			こっちの話がまだ<three_dots><end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			ちょっと待ってよ！<end_line>
-			こっちの話がまだ<three_dots><end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Wait a minute!<end_line>
     I'm not done yet<three_dots><end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			ちょっと待ってよ！<end_line>
+			こっちの話がまだ<three_dots><end_line>
+		</sjis>
+    <ascii>
+    Wait a minute!<end_line>
+    I'm not done yet<three_dots><end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -322,7 +337,7 @@
 	<sjis>
 		行ッテシマイマシタ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		They Have Already Left.<end_line>
 	</ascii>
 </dialogue>
@@ -334,7 +349,7 @@
 	<sjis>
 		行ってしまったぞ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		They're gone.<end_line>
 	</ascii>
 </dialogue>
@@ -346,7 +361,7 @@
 	<sjis>
 		ヤツはもう行ったぞ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		They're already gone.<end_line>
 	</ascii>
 </dialogue>
@@ -358,7 +373,7 @@
 	<sjis>
 		行っちゃいましたよ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		They already left<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -372,7 +387,7 @@
 		そういえば親方に何の用なんだろう<end_line>
 		ちょっと気になるなぁ<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		<three_dots><end_line>
     What does he want with Vee?<end_line>
     I'm kind of curious<three_dots><end_line>
@@ -386,7 +401,7 @@
 	<sjis>
 		よし、オレたちも戻ろう<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Alright, let's head back too.<end_line>
 	</ascii>
 </dialogue>
@@ -400,7 +415,7 @@
 		そういえば親方に何の用かな？<end_line>
 		ちょっと気になるなぁ<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		<three_dots><end_line>
     What does he want with V.E?<end_line>
     I'm kind of curious<three_dots><end_line>
@@ -414,7 +429,7 @@
 	<sjis>
 		よし、わたしたちも戻ろう<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Alright, let's head back too.<end_line>
 	</ascii>
 </dialogue>

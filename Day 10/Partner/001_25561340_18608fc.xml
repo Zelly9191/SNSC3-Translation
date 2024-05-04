@@ -110,16 +110,19 @@
       まあ、一番好きだっていうんだから<end_line>
       一本だよなぁ<three_dots><end_line>
     </sjis>
+    <ascii>
+    Well, you're right about that<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       まあ、一番好きだっていうんだから<end_line>
       一本だよね<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Well, you're right about that<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">

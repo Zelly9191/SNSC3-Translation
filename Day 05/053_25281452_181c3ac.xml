@@ -33,17 +33,21 @@
       よかった！<end_line>
       お前、大丈夫なのか？<end_line>
     </sjis>
+    <ascii>
+    Thank goodness!<end_line>
+    Are you okay?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       よかった！<end_line>
       あなた、大丈夫なの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Thank goodness!<end_line>
     Are you okay?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -71,6 +75,11 @@
       大丈夫なんだな<three_dots><end_line>
       ミューノはどうなった？<end_line>
     </sjis>
+    <ascii>
+    I think that means<end_line>
+    you're okay then<three_dots><end_line>
+    What about Murno?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -78,12 +87,12 @@
       大丈夫なんだね<three_dots><end_line>
       ミューノはどうなったの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I think that means<end_line>
     you're okay then<three_dots><end_line>
     What about Murno?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -404,15 +413,18 @@
     <sjis>
       そうなのか？<end_line>
     </sjis>
+    <ascii>
+    Really?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       そうなの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Really?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -441,6 +453,11 @@
       すごい力があるって言ってたもんな<end_line>
       宝物みたいなもんなのか？<end_line>
     </sjis>
+    <ascii>
+    Guarded?<end_line>
+    You said it's really powerful.<end_line>
+    Was it like a treasure?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -448,12 +465,12 @@
       すごい力があるって言ってたもんね<end_line>
       宝物みたいなもの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Guarded?<end_line>
     You said it's really powerful.<end_line>
     Was it like a treasure?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -513,6 +530,11 @@
       じゃあ、今、村やお父さんが<end_line>
       どうなってるのかは<three_dots><end_line>
     </sjis>
+    <ascii>
+    And then you ran<three_dots><end_line>
+    So, how are the village<end_line>
+    and her father doing now<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -520,12 +542,12 @@
       じゃあ、今、村やお父さんが<end_line>
       どうなってるのかは<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     And then you ran<three_dots><end_line>
     So, how are the village<end_line>
     and her father doing now<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -564,6 +586,10 @@
       ずっとだまってて<three_dots><end_line>
       ガマンして<three_dots><end_line>
     </sjis>
+    <ascii>
+    Despite all that,<end_line>
+    she didn't say anything<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -571,11 +597,11 @@
       ずっとだまってて<three_dots><end_line>
       ガマンして<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Despite all that,<end_line>
     she didn't say anything<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -674,6 +700,10 @@
       お前といっしょに<end_line>
       ミューノを守りぬくよ！<end_line>
     </sjis>
+    <ascii>
+    I'll work much, much harder,<end_line>
+    and we'll protect her together!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -681,11 +711,11 @@
       あなたといっしょに<end_line>
       ミューノを守りぬくよ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I'll work much, much harder,<end_line>
     and we'll protect her together!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -710,15 +740,18 @@
     <sjis>
       おう！<end_line>
     </sjis>
+    <ascii>
+    Yeah!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       うん！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Yeah!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -773,17 +806,21 @@
       うん！<end_line>
       <partner>は大丈夫なのか？<end_line>
     </sjis>
+    <ascii>
+    Yep!<end_line>
+    Are you okay, <partner>?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       うん！<end_line>
       <partner>は大丈夫なの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Yep!<end_line>
     Are you okay, <partner>?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -1127,15 +1164,18 @@
     <sjis>
       そうなのか？<end_line>
     </sjis>
+    <ascii>
+    Really?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       そうなの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Really?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -1164,6 +1204,11 @@
       すごい力があるって言ってたもんな<end_line>
       宝物みたいなもんなのか？<end_line>
     </sjis>
+    <ascii>
+    Guarded?<end_line>
+    You said it's really powerful.<end_line>
+    Was it like a treasure?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -1171,12 +1216,12 @@
       すごい力があるって言ってたもんね<end_line>
       宝物みたいなもの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Guarded?<end_line>
     You said it's really powerful.<end_line>
     Was it like a treasure?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -1237,6 +1282,11 @@
       じゃあ、今<end_line>
       その村がどうなってるのかは<three_dots><end_line>
     </sjis>
+    <ascii>#425
+    And then you ran<three_dots><end_line>
+    So, how are the village<end_line>
+    and her father doing now<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -1244,12 +1294,12 @@
       じゃあ、今<end_line>
       その村がどうなってるのかは<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>#425
+    <ascii>#425
     And then you ran<three_dots><end_line>
     So, how are the village<end_line>
     and her father doing now<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -1278,6 +1328,11 @@
       そんなつらい目にあってたのに<end_line>
       オレたちにはずっとだまってて<three_dots><end_line>
     </sjis>
+    <ascii>
+    No way<three_dots><end_line>
+    Despite all that,<end_line>
+    she didn't say anything<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -1285,12 +1340,12 @@
       そんなつらい目にあってたのに<end_line>
       わたしたちにはずっとだまってて<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     No way<three_dots><end_line>
     Despite all that,<end_line>
     she didn't say anything<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -1390,6 +1445,10 @@
       お前といっしょに<end_line>
       ミューノを守りぬくよ！<end_line>
     </sjis>
+    <ascii>
+    I'll work much, much harder,<end_line>
+    and we'll protect her together!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -1397,11 +1456,11 @@
       あなたといっしょに<end_line>
       ミューノを守りぬくよ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I'll work much, much harder,<end_line>
     and we'll protect her together!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -1426,15 +1485,18 @@
     <sjis>
       おう！<end_line>
     </sjis>
+    <ascii>
+    Yeah!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       うん！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Yeah!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -1489,17 +1551,21 @@
       あったりまえだろ<end_line>
       お前こそ大丈夫なのか？<end_line>
     </sjis>
+    <ascii>
+    Of course not.<end_line>
+    What about you?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       あったりまえでしょ<end_line>
       あなたこそ大丈夫なの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Of course not.<end_line>
     What about you?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -1526,6 +1592,11 @@
       じゃ、ミューノは？<end_line>
       ミューノはどうなった？<end_line>
     </sjis>
+    <ascii>
+    I see<three_dots><end_line>
+    So, what about Murno?<end_line>
+    What happened to her?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -1533,12 +1604,12 @@
       じゃ、ミューノは？<end_line>
       ミューノはどうなったの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I see<three_dots><end_line>
     So, what about Murno?<end_line>
     What happened to her?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -1604,6 +1675,11 @@
       <partner>が助けてくれたんだな<end_line>
       ありがとう<end_line>
     </sjis>
+    <ascii>
+    I see<three_dots><end_line>
+    You saved us<three_dots><end_line>
+    Thanks<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -1611,12 +1687,12 @@
       <partner>が助けてくれたんだね<end_line>
       ありがとう<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I see<three_dots><end_line>
     You saved us<three_dots><end_line>
     Thanks<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -1644,17 +1720,21 @@
       はいはい<end_line>
       で、ここはどこなんだ？<end_line>
     </sjis>
+    <ascii>
+    Okay, okay.<end_line>
+    So, where are we?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       はいはい<end_line>
       で、ここはどこなの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Okay, okay.<end_line>
     So, where are we?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -1767,6 +1847,10 @@
       そんなのをつけられたのか<three_dots><end_line>
       ヒドイことしやがる<three_dots><end_line>
     </sjis>
+    <ascii>
+    Bracelets<three_dots>?<end_line>
+    That's horrible<three_dots>!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -1774,11 +1858,11 @@
       そんなのをつけられたの<three_dots><end_line>
       かわいそうに<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Bracelets<three_dots>?<end_line>
     That's horrible<three_dots>!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -1930,15 +2014,18 @@
     <sjis>
       そうなのか？<end_line>
     </sjis>
+    <ascii>
+    Really?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       そうなの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Really?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -1979,6 +2066,11 @@
       すごい力があるって言ってたもんな<end_line>
       宝物みたいなもんなのか？<end_line>
     </sjis>
+    <ascii>
+    Guarded?<end_line>
+    You said it's really powerful.<end_line>
+    Was it like a treasure?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -1986,12 +2078,12 @@
       すごい力があるって言ってたもんね<end_line>
       宝物みたいなもの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Guarded?<end_line>
     You said it's really powerful.<end_line>
     Was it like a treasure?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -2058,15 +2150,18 @@
     <sjis>
       アニスたちか<three_dots><end_line>
     </sjis>
+    <ascii>
+    Anise<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       アニスたちね<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Anise<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -2095,6 +2190,11 @@
       じゃあ、今<end_line>
       その村がどうなってるのかは<three_dots><end_line>
     </sjis>
+    <ascii>
+    And then you ran<three_dots><end_line>
+    So, how are the village<end_line>
+    and her father doing now<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -2102,12 +2202,12 @@
       じゃあ、今<end_line>
       その村がどうなってるのかは<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     And then you ran<three_dots><end_line>
     So, how are the village<end_line>
     and her father doing now<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -2134,6 +2234,11 @@
       そんなつらい目にあってたのに<end_line>
       オレたちにはずっとだまってたのか<three_dots><end_line>
     </sjis>
+    <ascii>
+    No way<three_dots><end_line>
+    Despite all that,<end_line>
+    she didn't say anything<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -2141,12 +2246,12 @@
       そんなつらい目にあってたのに<end_line>
       わたしたちにはずっとだまってたの<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     No way<three_dots><end_line>
     Despite all that,<end_line>
     she didn't say anything<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -2175,6 +2280,11 @@
       お前がどうしてミューノを守りたいか<end_line>
       わかったような気がするよ<three_dots><end_line>
     </sjis>
+    <ascii>
+    You know, I<three_dots><end_line>
+    I feel like I know why<end_line>
+    you want to protect her<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -2182,12 +2292,12 @@
       あなたがどうしてミューノを守りたいか<end_line>
       わかったような気がするよ<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     You know, I<three_dots><end_line>
     I feel like I know why<end_line>
     you want to protect her<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -2284,15 +2394,18 @@
     <sjis>
       おう！<end_line>
     </sjis>
+    <ascii>
+    Yeah!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       うん！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Yeah!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -2347,6 +2460,11 @@
       オレは元気だぜ！<end_line>
       <partner>こそ大丈夫なのか？<end_line>
     </sjis>
+    <ascii>
+    Yeah!<end_line>
+    I'm fine!<end_line>
+    What about you, <partner>?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -2354,12 +2472,12 @@
       わたしは元気だよ！<end_line>
       <partner>こそ大丈夫なの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Yeah!<end_line>
     I'm fine!<end_line>
     What about you, <partner>?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -2383,6 +2501,11 @@
       じゃ、ミューノは？<end_line>
       ミューノはどうなった？<end_line>
     </sjis>
+    <ascii>
+    Thank goodness<three_dots><end_line>
+    So, what about Murno?<end_line>
+    What happened to her?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -2390,12 +2513,12 @@
       じゃ、ミューノは？<end_line>
       ミューノはどうなったの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Thank goodness<three_dots><end_line>
     So, what about Murno?<end_line>
     What happened to her?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -2593,17 +2716,21 @@
       妙なうでわ<three_dots>？<end_line>
       そうなのか<three_dots><end_line>
     </sjis>
+    <ascii>
+    Strange bracelets<three_dots>?<end_line>
+    I see<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       妙なうでわ<three_dots>？<end_line>
       そうなんだ<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Strange bracelets<three_dots>?<end_line>
     I see<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -2704,15 +2831,18 @@
     <sjis>
       そうなのか？<end_line>
     </sjis>
+    <ascii>
+    Really?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       そうなの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Really?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -2740,6 +2870,11 @@
       すごい力があるって言ってたもんな<end_line>
       宝物みたいなもんなのか？<end_line>
     </sjis>
+    <ascii>
+    Guarded?<end_line>
+    You said it's really powerful.<end_line>
+    Was it like a treasure?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -2747,12 +2882,12 @@
       すごい力があるって言ってたもんね<end_line>
       宝物みたいなもの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Guarded?<end_line>
     You said it's really powerful.<end_line>
     Was it like a treasure?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -2810,6 +2945,11 @@
       じゃあ、今<end_line>
       その村がどうなってるのかは<three_dots><end_line>
     </sjis>
+    <ascii>
+    And then you ran<three_dots><end_line>
+    So, how are the village<end_line>
+    and her father doing now<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -2817,12 +2957,12 @@
       じゃあ、今<end_line>
       その村がどうなってるのかは<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     And then you ran<three_dots><end_line>
     So, how are the village<end_line>
     and her father doing now<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -2848,6 +2988,11 @@
       そんなつらい目にあってたのに<end_line>
       オレたちにはずっとだまってたのか<three_dots><end_line>
     </sjis>
+    <ascii>
+    No way<three_dots><end_line>
+    Despite all that,<end_line>
+    she didn't say anything<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -2855,12 +3000,12 @@
       そんなつらい目にあってたのに<end_line>
       わたしたちにはずっとだまってたの<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     No way<three_dots><end_line>
     Despite all that,<end_line>
     she didn't say anything<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -2959,6 +3104,10 @@
       お前といっしょに<end_line>
       ミューノを守りぬくよ！<end_line>
     </sjis>
+    <ascii>
+    I'll work much, much harder,<end_line>
+    and we'll protect her together!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -2966,11 +3115,11 @@
       あなたといっしょに<end_line>
       ミューノを守りぬくよ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I'll work much, much harder,<end_line>
     and we'll protect her together!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -2994,15 +3143,18 @@
     <sjis>
       おう！<end_line>
     </sjis>
+    <ascii>
+    Yeah!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       うん！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Yeah!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">

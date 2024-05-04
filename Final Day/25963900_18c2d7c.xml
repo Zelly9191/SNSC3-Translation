@@ -31,24 +31,29 @@
 	<portrait_l entry="tier" eye="serious" mouth="tense">
 	<portrait_r entry="player" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			たしかに大変な目にはあったけど<end_line>
 			悪いことばっかじゃないぜ<end_line>
 			ほら<three_dots><end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			たしかに大変な目にはあったけど<end_line>
-			悪いことばっかじゃないよ<end_line>
-			ほら<three_dots><end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Well, it's not like<end_line>
     everything was that bad.<end_line>
     You know<three_dots><end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			たしかに大変な目にはあったけど<end_line>
+			悪いことばっかじゃないよ<end_line>
+			ほら<three_dots><end_line>
+		</sjis>
+    <ascii>
+    Well, it's not like<end_line>
+    everything was that bad.<end_line>
+    You know<three_dots><end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -111,7 +116,7 @@
 	<portrait_l entry="tier" eye="special_blush" mouth="neutral">
 	<portrait_r entry="player" eye="happy" mouth="tense">
 	<male>
-		<sjis>
+    <sjis>
 			魔石の件も片付いたことだし<end_line>
 			これでほほえみ亭専属の<end_line>
 			鍛冶師としてしっかりと<three_dots><end_line>
@@ -121,9 +126,9 @@
       I'll have you continue on<end_line>
       as my exclusive Craftknight<three_dots><end_line>
     </ascii>
-	</male>
-	<female>
-		<sjis>
+  </male>
+  <female>
+    <sjis>
 			魔石の件も片付いたことだし<end_line>
 			これでほほえみ亭専属の鍛冶師兼<end_line>
 			カンバン娘としてしっかりと<three_dots><end_line>
@@ -133,14 +138,14 @@
       I'll have you continue on <end_line>
       as my exclusive poster girl<three_dots><end_line>
     </ascii>
-	</female>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_l entry="tier" eye="special_blush" mouth="neutral">
 	<portrait_r entry="player" eye="sad" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			でも、ほら、その前に<end_line>
 			親方との約束の１００万バームを<end_line>
 			なんとかしなきゃな<three_dots><end_line>
@@ -150,9 +155,9 @@
       about that 1 million boam<end_line>
       I promised Master<three_dots><end_line>
     </ascii>
-	</male>
-	<female>
-		<sjis>
+  </male>
+  <female>
+    <sjis>
 			でも、ほら、その前に<end_line>
 			親方との約束の１００万バームを<end_line>
 			なんとかしなきゃ<three_dots><end_line>
@@ -162,7 +167,7 @@
       about that 1 million boam<end_line>
       I promised Master<three_dots><end_line>
     </ascii>
-	</female>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -208,18 +213,21 @@
 	<portrait_l entry="tier" eye="sad" mouth="stressed">
 	<portrait_r entry="player" eye="decided" mouth="tense">
 	<male>
-		<sjis>
+    <sjis>
 			スゴイことになってるんだな<three_dots><end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			スゴイことになってるのね<three_dots><end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     You're exaggerating<three_dots><end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			スゴイことになってるのね<three_dots><end_line>
+		</sjis>
+    <ascii>
+    You're exaggerating<three_dots><end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -271,21 +279,25 @@
 	<portrait_l entry="tier" eye="decided" mouth="neutral">
 	<portrait_r entry="player" eye="decided" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			そうだな<end_line>
 			とにかくふたりでがんばろう！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			そうだね<end_line>
-			とにかくふたりでがんばろう！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Alright then.<end_line>
     We'll do it together!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			そうだね<end_line>
+			とにかくふたりでがんばろう！<end_line>
+		</sjis>
+    <ascii>
+    Alright then.<end_line>
+    We'll do it together!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="left">

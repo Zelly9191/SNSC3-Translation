@@ -30,24 +30,29 @@
 	<portrait_l entry="player" eye="serious" mouth="talk">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			使い込んだ武器を解体して<end_line>
 			もう一度鍛え直すと<end_line>
 			もっと強い武器ができるんだ<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			使い込んだ武器を解体して<end_line>
-			もう一度鍛え直すと<end_line>
-			もっと強い武器ができるんだよ<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     If you disassemble a weapon you've<end_line>
     used for a while and reforge it,<end_line>
     the it'll come out stronger.<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			使い込んだ武器を解体して<end_line>
+			もう一度鍛え直すと<end_line>
+			もっと強い武器ができるんだよ<end_line>
+		</sjis>
+    <ascii>
+    If you disassemble a weapon you've<end_line>
+    used for a while and reforge it,<end_line>
+    the it'll come out stronger.<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -71,23 +76,27 @@
 	<portrait_l entry="player" eye="happy" mouth="tense">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			そっ、そんなことないぞ！<end_line>
 			お前も修行をつめば<end_line>
 			わかるって！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
+    <ascii>
+    U-Uh, this is for practice!<end_line>
+    You'll understand if you just do it!<end_line>
+  </ascii>
+  </male>
+  <female>
+    <sjis>
 			そっ、そんなことないよ！<end_line>
 			あなたも修行をつめば<end_line>
 			わかるって！<end_line>
 		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     U-Uh, this is for practice!<end_line>
     You'll understand if you just do it!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -121,24 +130,29 @@
 	<portrait_l entry="player" eye="serious" mouth="talk">
 	<portrait_r entry="partner" eye="serious" mouth="tense">
 	<male>
-		<sjis>
+    <sjis>
 			使い込んだ武器を解体して<end_line>
 			もう一度鍛え直すと<end_line>
 			もっと強い武器ができるんだぞ<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			使い込んだ武器を解体して<end_line>
-			もう一度鍛え直すと<end_line>
-			もっと強い武器ができるんだよ<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     If you disassemble a weapon you've<end_line>
     used for a while and reforge it,<end_line>
     the it'll come out stronger.<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			使い込んだ武器を解体して<end_line>
+			もう一度鍛え直すと<end_line>
+			もっと強い武器ができるんだよ<end_line>
+		</sjis>
+    <ascii>
+    If you disassemble a weapon you've<end_line>
+    used for a while and reforge it,<end_line>
+    the it'll come out stronger.<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -162,23 +176,27 @@
 	<portrait_l entry="player" eye="happy" mouth="tense">
 	<portrait_r entry="partner" eye="serious" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			そっ、そんなことないぞ！<end_line>
 			お前も修行をつめば<end_line>
 			わかるって！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
+    <ascii>
+    U-Uh, this is for practice!<end_line>
+    You'll understand if you just do it!<end_line>
+  </ascii>
+  </male>
+  <female>
+    <sjis>
 			そっ、そんなことないよ！<end_line>
 			あなたも修行をつめば<end_line>
 			わかるって！<end_line>
 		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     U-Uh, this is for practice!<end_line>
     You'll understand if you just do it!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -212,24 +230,29 @@
 	<portrait_l entry="player" eye="serious" mouth="talk">
 	<portrait_r entry="partner" eye="serious" mouth="tense">
 	<male>
-		<sjis>
+    <sjis>
 			でも使い込んだ武器を解体して<end_line>
 			もう一度鍛え直すと<end_line>
 			もっと強い武器ができるんだぞ<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			でも使い込んだ武器を解体して<end_line>
-			もう一度鍛え直すと<end_line>
-			もっと強い武器ができるんだよ<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     But if you disassemble a weapon<end_line>
     you've used for a while and <end_line>
     reforge it, it'll come out stronger.<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			でも使い込んだ武器を解体して<end_line>
+			もう一度鍛え直すと<end_line>
+			もっと強い武器ができるんだよ<end_line>
+		</sjis>
+    <ascii>
+    But if you disassemble a weapon<end_line>
+    you've used for a while and <end_line>
+    reforge it, it'll come out stronger.<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -251,23 +274,27 @@
 	<portrait_l entry="player" eye="happy" mouth="tense">
 	<portrait_r entry="partner" eye="serious" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			じ、十分使い込んでるよ！<end_line>
 			お前も修行をつめば<end_line>
 			わかるって！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
+    <ascii>
+    I-It's good enough!<end_line>
+    This is just for practice anyway!<end_line>
+  </ascii>
+  </male>
+  <female>
+    <sjis>
 			じ、十分使い込んでますっ！<end_line>
 			あなたも修行をつめば<end_line>
 			わかるって！<end_line>
 		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     I-It's good enough!<end_line>
     This is just for practice anyway!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -300,24 +327,29 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-		<sjis>
+    <sjis>
 			でも使い込んだ武器を解体して<end_line>
 			もう一度鍛え直すと<end_line>
 			もっと強い武器ができるんだぞ<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			でも使い込んだ武器を解体して<end_line>
-			もう一度鍛え直すと<end_line>
-			もっと強い武器ができるんだよ<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     But if you disassemble a weapon<end_line>
     you've used for a while and <end_line>
     reforge it, it'll come out stronger.<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			でも使い込んだ武器を解体して<end_line>
+			もう一度鍛え直すと<end_line>
+			もっと強い武器ができるんだよ<end_line>
+		</sjis>
+    <ascii>
+    But if you disassemble a weapon<end_line>
+    you've used for a while and <end_line>
+    reforge it, it'll come out stronger.<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -339,19 +371,19 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-		<sjis>
+    <sjis>
 			そっ、そんなことないぞ！<end_line>
 			お前も修行をつめば<end_line>
 			わかるって！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
+  </male>
+  <female>
+    <sjis>
 			そっ、そんなことないよ！<end_line>
 			あなたも修行をつめば<end_line>
 			わかるって！<end_line>
 		</sjis>
-	</female>
+  </female>
 </dialogue>
   <ascii>
     U-Uh, this is for practice!<end_line>
@@ -433,21 +465,25 @@
 	<portrait_l entry="player" eye="serious" mouth="talk">
 	<portrait_r entry="partner" eye="serious" mouth="tense">
 	<male>
-		<sjis>
+    <sjis>
 			まあな<end_line>
 			でも、それが修行だよ<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			まあね<end_line>
-			でも、それが修行なの<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     I guess.<end_line>
     That's practice for you.<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			まあね<end_line>
+			でも、それが修行なの<end_line>
+		</sjis>
+    <ascii>
+    I guess.<end_line>
+    That's practice for you.<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -493,21 +529,25 @@
 	<portrait_l entry="player" eye="happy" mouth="stressed">
 	<portrait_r entry="partner" eye="serious" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			なに言ってんだよ！<end_line>
 			お前もいっしょにやるんだよ<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			なに言ってるの！<end_line>
-			あなたもいっしょにやるの<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Hey, come on!<end_line>
     You have to help me!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			なに言ってるの！<end_line>
+			あなたもいっしょにやるの<end_line>
+		</sjis>
+    <ascii>
+    Hey, come on!<end_line>
+    You have to help me!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -538,18 +578,21 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-		<sjis>
+    <sjis>
 			それが修行だよ<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			それが修行なの<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Well, we are practicing.<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			それが修行なの<end_line>
+		</sjis>
+    <ascii>
+    Well, we are practicing.<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -607,18 +650,21 @@
 	<portrait_l entry="player" eye="happy" mouth="tense">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			素直なんだな<three_dots><end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			素直なのね<three_dots><end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     when it comes to Murno<three_dots><end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			素直なのね<three_dots><end_line>
+		</sjis>
+    <ascii>
+    when it comes to Murno<three_dots><end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -652,24 +698,29 @@
 	<portrait_l entry="player" eye="serious" mouth="talk">
 	<portrait_r entry="partner" eye="serious" mouth="tense">
 	<male>
-		<sjis>
+    <sjis>
 			いっしょに行った方が<end_line>
 			ミューノが安心するって<end_line>
 			親方が言ってただろ<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			いっしょに行った方が<end_line>
-			ミューノが安心するって<end_line>
-			親方が言ってたでしょ<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Murno would be more relaxed<end_line>
     if we went together.<end_line>
     Didn't Master say so?<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			いっしょに行った方が<end_line>
+			ミューノが安心するって<end_line>
+			親方が言ってたでしょ<end_line>
+		</sjis>
+    <ascii>
+    Murno would be more relaxed<end_line>
+    if we went together.<end_line>
+    Didn't Master say so?<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -693,18 +744,21 @@
 	<portrait_l entry="player" eye="happy" mouth="stressed">
 	<portrait_r entry="partner" eye="sad" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			なんだよ、それ<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			なによ、それ<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     W-What's that supposed to mean?<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			なによ、それ<end_line>
+		</sjis>
+    <ascii>
+    W-What's that supposed to mean?<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -737,23 +791,27 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			なんだよ<end_line>
 			そんなカオしてると<end_line>
 			ミューノが心配するぞ？<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
+    <ascii>
+    Don't make that face.<end_line>
+    Murno will be worried about you.<end_line>
+  </ascii>
+  </male>
+  <female>
+    <sjis>
 			なによ<end_line>
 			そんなカオしてると<end_line>
 			ミューノが心配するよ？<end_line>
 		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Don't make that face.<end_line>
     Murno will be worried about you.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -776,24 +834,29 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="partner" eye="decided" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			なるほど<end_line>
 			いつもどおりのカオでミューノを<end_line>
 			安心させようってことだな？<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			なるほど<end_line>
-			いつもどおりのカオでミューノを<end_line>
-			安心させようってワケね？<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     I see.<end_line>
     You're trying to act normal<end_line>
     so she can relax, right?<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			なるほど<end_line>
+			いつもどおりのカオでミューノを<end_line>
+			安心させようってワケね？<end_line>
+		</sjis>
+    <ascii>
+    I see.<end_line>
+    You're trying to act normal<end_line>
+    so she can relax, right?<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -849,24 +912,29 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-		<sjis>
+    <sjis>
 			ちょ、ひっぱるなよ<end_line>
 			あわてなくてもミューノは<end_line>
 			逃げないよ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			ちょ、ひっぱらないで！<end_line>
-			あわてなくてもミューノは<end_line>
-			逃げないってば！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Hey, don't pull my arm!<end_line>
     No need to rush,<end_line>
     I'm sure she's fine!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			ちょ、ひっぱらないで！<end_line>
+			あわてなくてもミューノは<end_line>
+			逃げないってば！<end_line>
+		</sjis>
+    <ascii>
+    Hey, don't pull my arm!<end_line>
+    No need to rush,<end_line>
+    I'm sure she's fine!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -913,24 +981,29 @@
 	<portrait_l entry="player" eye="happy" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			ミューノの事なら<end_line>
 			親方にまかせておけば<end_line>
 			大丈夫だって<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			ミューノの事なら<end_line>
-			親方にまかせておけば<end_line>
-			大丈夫だよ<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     I'm sure Master will<end_line>
     take care of Murno.<end_line>
     Don't worry about it.<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			ミューノの事なら<end_line>
+			親方にまかせておけば<end_line>
+			大丈夫だよ<end_line>
+		</sjis>
+    <ascii>
+    I'm sure Master will<end_line>
+    take care of Murno.<end_line>
+    Don't worry about it.<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -950,21 +1023,25 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			親方はああ見えても<end_line>
 			面倒見はいいから大丈夫だって<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			親方はあんな風だけど<end_line>
-			面倒見はいいから大丈夫だよ<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Despite how she looks,<end_line>
     she's good at tending to others.<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			親方はあんな風だけど<end_line>
+			面倒見はいいから大丈夫だよ<end_line>
+		</sjis>
+    <ascii>
+    Despite how she looks,<end_line>
+    she's good at tending to others.<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -984,20 +1061,23 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			なんだよ<end_line>
 			ジッと見て<three_dots><end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
+    <ascii>
+    Don't just stare at me<three_dots><end_line>
+  </ascii>
+  </male>
+  <female>
+    <sjis>
 			なによ<end_line>
 			ジロジロ見ないでよ<end_line>
 		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Don't just stare at me<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1019,20 +1099,23 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			ど、どういうイミだよ<end_line>
 			それ？<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
+    <ascii>
+    What's that supposed to mean?<end_line>
+  </ascii>
+  </male>
+  <female>
+    <sjis>
 			ど、どういうイミよ<end_line>
 			それ？<end_line>
 		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     What's that supposed to mean?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1064,24 +1147,29 @@
 	<portrait_l entry="player" eye="serious" mouth="tense">
 	<portrait_r entry="partner" eye="sad" mouth="tense">
 	<male>
-		<sjis>
+    <sjis>
 			ミューノの事？<end_line>
 			たしかに、親方は口は悪いけど<end_line>
 			面倒見はいいから大丈夫だって<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			ミューノの事？<end_line>
-			まあ、親方って口は悪いけど<end_line>
-			面倒見はいいから大丈夫だよ<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     About Murno?<end_line>
     Sure, Master can be rude,<end_line>
     but she's good at tending to others.<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			ミューノの事？<end_line>
+			まあ、親方って口は悪いけど<end_line>
+			面倒見はいいから大丈夫だよ<end_line>
+		</sjis>
+    <ascii>
+    About Murno?<end_line>
+    Sure, Master can be rude,<end_line>
+    but she's good at tending to others.<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1105,20 +1193,23 @@
 	<portrait_l entry="player" eye="happy" mouth="stressed">
 	<portrait_r entry="partner" eye="sad" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			ど、どういうイミだよ<end_line>
 			それ？<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
+    <ascii>
+    What's that supposed to mean?<end_line>
+  </ascii>
+  </male>
+  <female>
+    <sjis>
 			ど、どういうイミよ<end_line>
 			それ？<end_line>
 		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     What's that supposed to mean?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1150,18 +1241,21 @@
 	<portrait_l entry="player" eye="serious" mouth="tense">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			ミューノの事が気になるのか？<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			ミューノの事が気になる？<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Worried about Murno?<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			ミューノの事が気になる？<end_line>
+		</sjis>
+    <ascii>
+    Worried about Murno?<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1183,24 +1277,29 @@
 	<portrait_l entry="player" eye="serious" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="yell">
 	<male>
-		<sjis>
+    <sjis>
 			あの女って、親方のこと？<end_line>
 			それって要するに<end_line>
 			ミューノが心配ってことだろ？<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			あの女って、親方のこと？<end_line>
-			それって要するに<end_line>
-			ミューノが心配ってことだよね？<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     You mean Master?<end_line>
     Doesn't that mean you really<end_line>
     are worried about Murno?<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			あの女って、親方のこと？<end_line>
+			それって要するに<end_line>
+			ミューノが心配ってことだよね？<end_line>
+		</sjis>
+    <ascii>
+    You mean Master?<end_line>
+    Doesn't that mean you really<end_line>
+    are worried about Murno?<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1257,18 +1356,21 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-		<sjis>
+    <sjis>
 			ミューノの事が気になるのか？<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			ミューノの事が気になる？<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Worried about Murno?<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			ミューノの事が気になる？<end_line>
+		</sjis>
+    <ascii>
+    Worried about Murno?<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1290,24 +1392,29 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-		<sjis>
+    <sjis>
 			大丈夫だって<end_line>
 			たしかに、親方はチョット短気だけど<end_line>
 			面倒見はいいから<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			大丈夫だよ<end_line>
-			まあ、親方ってチョット短気だけど<end_line>
-			面倒見はいいんだから<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     It'll be fine.<end_line>
     Yeah, she's a bit short tempered,<end_line>
     but she's good at tending to others.<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			大丈夫だよ<end_line>
+			まあ、親方ってチョット短気だけど<end_line>
+			面倒見はいいんだから<end_line>
+		</sjis>
+    <ascii>
+    It'll be fine.<end_line>
+    Yeah, she's a bit short tempered,<end_line>
+    but she's good at tending to others.<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1457,18 +1564,21 @@
 	<portrait_l entry="player" eye="happy" mouth="serious">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			素直なんだな<three_dots><end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			素直なのね<three_dots><end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     care about, huh<three_dots><end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			素直なのね<three_dots><end_line>
+		</sjis>
+    <ascii>
+    care about, huh<three_dots><end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1516,21 +1626,25 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			言うことはすごく<end_line>
 			カッコイイな<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			言うことはすごく<end_line>
-			カッコイイね<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     The way you say things<end_line>
     always sounds so cool.<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			言うことはすごく<end_line>
+			カッコイイね<end_line>
+		</sjis>
+    <ascii>
+    The way you say things<end_line>
+    always sounds so cool.<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1576,24 +1690,29 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			ミューノが心配なのはわかるけどさ<end_line>
 			戻ってもジャマになるだけだし<end_line>
 			今は修行しようぜ<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			ミューノが心配なのはわかるけど<end_line>
-			戻ってもジャマになるだけだし<end_line>
-			今は修行しようよ<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     I know you're worried about Murno,<end_line>
     but we'd just be a bother.<end_line>
     Bear with it for now.<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			ミューノが心配なのはわかるけど<end_line>
+			戻ってもジャマになるだけだし<end_line>
+			今は修行しようよ<end_line>
+		</sjis>
+    <ascii>
+    I know you're worried about Murno,<end_line>
+    but we'd just be a bother.<end_line>
+    Bear with it for now.<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1702,21 +1821,25 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			ザックにハンマーを届けよう！<end_line>
 			さっき駅に行くって言ってたぞ<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			ザックにハンマーを届けよう！<end_line>
-			さっき駅に行くって言ってたよね<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     I have to return Zakk's hammer!<end_line>
     He said he was going to the station.<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			ザックにハンマーを届けよう！<end_line>
+			さっき駅に行くって言ってたよね<end_line>
+		</sjis>
+    <ascii>
+    I have to return Zakk's hammer!<end_line>
+    He said he was going to the station.<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1800,21 +1923,25 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			ザックにハンマーを届けよう！<end_line>
 			さっき駅に行くって言ってたぞ<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			ザックにハンマーを届けよう！<end_line>
-			さっき駅に行くって言ってたよね<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     I have to return Zakk's hammer!<end_line>
     He said he was going to the station.<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			ザックにハンマーを届けよう！<end_line>
+			さっき駅に行くって言ってたよね<end_line>
+		</sjis>
+    <ascii>
+    I have to return Zakk's hammer!<end_line>
+    He said he was going to the station.<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1898,21 +2025,25 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			ザックにハンマーを届けよう！<end_line>
 			さっき駅に行くって言ってたぞ<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			ザックにハンマーを届けよう！<end_line>
-			さっき駅に行くって言ってたよね<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     I have to return Zakk's hammer!<end_line>
     He said he was going to the station.<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			ザックにハンマーを届けよう！<end_line>
+			さっき駅に行くって言ってたよね<end_line>
+		</sjis>
+    <ascii>
+    I have to return Zakk's hammer!<end_line>
+    He said he was going to the station.<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1995,21 +2126,25 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-		<sjis>
+    <sjis>
 			ザックにハンマーを届けよう！<end_line>
 			さっき駅に行くって言ってたぞ<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			ザックにハンマーを届けよう！<end_line>
-			さっき駅に行くって言ってたよね<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     I have to return Zakk's hammer!<end_line>
     He said he was going to the station.<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			ザックにハンマーを届けよう！<end_line>
+			さっき駅に行くって言ってたよね<end_line>
+		</sjis>
+    <ascii>
+    I have to return Zakk's hammer!<end_line>
+    He said he was going to the station.<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -2223,21 +2358,25 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="serious" mouth="tense">
 	<male>
-		<sjis>
+    <sjis>
 			なんか素直だな<three_dots><end_line>
 			気味悪いぞ<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			な、なんで素直なの？<end_line>
-			ちょっとこわいよ<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     You didn't complain?<end_line>
     That's a first<three_dots><end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			な、なんで素直なの？<end_line>
+			ちょっとこわいよ<end_line>
+		</sjis>
+    <ascii>
+    You didn't complain?<end_line>
+    That's a first<three_dots><end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -2377,21 +2516,25 @@
 	<portrait_l entry="player" eye="serious" mouth="serious">
 	<portrait_r entry="partner" eye="sad" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			そうだぞ<end_line>
 			気をつけなきゃ<three_dots><end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			そうだね<end_line>
-			気をつけなきゃ<three_dots><end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Yeah<three_dots><end_line>
     We have to be careful<three_dots><end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			そうだね<end_line>
+			気をつけなきゃ<three_dots><end_line>
+		</sjis>
+    <ascii>
+    Yeah<three_dots><end_line>
+    We have to be careful<three_dots><end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -2415,18 +2558,21 @@
 	<portrait_l entry="player" eye="serious" mouth="talk">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			たのむよ、<partner>！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			たのむね、<partner>！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     I'm counting on you!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			たのむね、<partner>！<end_line>
+		</sjis>
+    <ascii>
+    I'm counting on you!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -2450,21 +2596,25 @@
 	<portrait_l entry="player" eye="serious" mouth="tense">
 	<portrait_r entry="partner" eye="sad" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			へえ、わかるんだ<end_line>
 			やっぱり匂いとかでわかるのか？<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			へえ、わかるんだ<end_line>
-			やっぱり匂いとかでわかるの？<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Oh, you can tell?<end_line>
     Do they smell or something?<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			へえ、わかるんだ<end_line>
+			やっぱり匂いとかでわかるの？<end_line>
+		</sjis>
+    <ascii>
+    Oh, you can tell?<end_line>
+    Do they smell or something?<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -2550,21 +2700,25 @@
 	<portrait_l entry="player" eye="serious" mouth="tense">
 	<portrait_r entry="partner" eye="decided" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			そうなんだ<end_line>
 			ヒゲとか物音とかじゃないんだな<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			そうなんだ<end_line>
-			ヒゲとか物音とかじゃないんだね<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     I see. So you're not using<end_line>
     your whiskers or hearing either.<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			そうなんだ<end_line>
+			ヒゲとか物音とかじゃないんだね<end_line>
+		</sjis>
+    <ascii>
+    I see. So you're not using<end_line>
+    your whiskers or hearing either.<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -2602,21 +2756,25 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="sad" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			おお！<end_line>
 			たのもしいな！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			へえ！<end_line>
-			たのもしいね！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Ohh!<end_line>
     How reliable!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			へえ！<end_line>
+			たのもしいね！<end_line>
+		</sjis>
+    <ascii>
+    Ohh!<end_line>
+    How reliable!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -2638,18 +2796,21 @@
 	<portrait_l entry="player" eye="surprised" mouth="stressed">
 	<portrait_r entry="partner" eye="serious" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			なんだって！？<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			なによ、それ！？<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Even if they attack us!?<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			なによ、それ！？<end_line>
+		</sjis>
+    <ascii>
+    Even if they attack us!?<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -2671,18 +2832,21 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-		<sjis>
+    <sjis>
 			そうだぜ<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			そうだね<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Yeah.<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			そうだね<end_line>
+		</sjis>
+    <ascii>
+    Yeah.<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -2715,21 +2879,25 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-		<sjis>
+    <sjis>
 			わかってるって<end_line>
 			よろしくたのむぜ<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			わかってるって<end_line>
-			よろしくたのむよ<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     I'm sure it will.<end_line>
     I'm counting on you.<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			わかってるって<end_line>
+			よろしくたのむよ<end_line>
+		</sjis>
+    <ascii>
+    I'm sure it will.<end_line>
+    I'm counting on you.<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">

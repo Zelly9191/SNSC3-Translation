@@ -84,17 +84,21 @@
       マグドラドだ<three_dots><end_line>
       やっぱ、スゲェな<three_dots><end_line>
     </sjis>
+    <ascii>
+    So this is Magdrad<three_dots><end_line>
+    Amazing<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       マグドラドだよね<three_dots><end_line>
       やっぱり、スゴイ<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     So this is Magdrad<three_dots><end_line>
     Amazing<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -208,17 +212,21 @@
       なんだと！？<end_line>
       そんなワケあるか！<end_line>
     </sjis>
+    <ascii>
+    What!?<end_line>
+    Of course not!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       なによ！？<end_line>
       そんなことないわよ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     What!?<end_line>
     Of course not!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">

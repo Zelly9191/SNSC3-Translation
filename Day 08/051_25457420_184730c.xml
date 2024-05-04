@@ -20,17 +20,21 @@
       どうしたんだ、<partner>？<end_line>
       なんかあったのか？<end_line>
     </sjis>
+    <ascii>
+    What is it, <partner>?<end_line>
+    Is something there?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       どうしたの、<partner>？<end_line>
       なんかあったの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     What is it, <partner>?<end_line>
     Is something there?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -91,17 +95,21 @@
       どうしたんだ、<partner>？<end_line>
       なんかあったのか？<end_line>
     </sjis>
+    <ascii>
+    What is it, <partner>?<end_line>
+    Is something there?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       どうしたの、<partner>？<end_line>
       なんかあったの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     What is it, <partner>?<end_line>
     Is something there?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -129,17 +137,21 @@
       誰もいないぞ<end_line>
       気のせいじゃないか？<end_line>
     </sjis>
+    <ascii>
+    There's no one there.<end_line>
+    Isn't it just your imagination?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       誰もいないよ<end_line>
       気のせいじゃない？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     There's no one there.<end_line>
     Isn't it just your imagination?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -177,17 +189,21 @@
       どうしたんだ、<partner>？<end_line>
       なんかあったのか？<end_line>
     </sjis>
+    <ascii>
+    What is it, <partner>?<end_line>
+    Is something there?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       どうしたの、<partner>？<end_line>
       なんかあったの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     What is it, <partner>?<end_line>
     Is something there?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -213,17 +229,21 @@
       誰もいないぞ<end_line>
       気のせいじゃないか？<end_line>
     </sjis>
+    <ascii>
+    There's no one there.<end_line>
+    Isn't it just your imagination?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       誰もいないよ<end_line>
       気のせいじゃない？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     There's no one there.<end_line>
     Isn't it just your imagination?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -263,17 +283,21 @@
       どうしたんだ、<partner>？<end_line>
       なんかあったのか？<end_line>
     </sjis>
+    <ascii>
+    What is it, <partner>?<end_line>
+    Is something there?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       どうしたの、<partner>？<end_line>
       なんかあったの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     What is it, <partner>?<end_line>
     Is something there?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -300,17 +324,21 @@
       誰もいないぞ<end_line>
       気のせいじゃないか？<end_line>
     </sjis>
+    <ascii>
+    There's no one there.<end_line>
+    Isn't it just your imagination?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       誰もいないよ<end_line>
       気のせいじゃない？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     There's no one there.<end_line>
     Isn't it just your imagination?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">

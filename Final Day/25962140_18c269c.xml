@@ -87,21 +87,21 @@
 	<portrait_l entry="jade" eye="decided" mouth="neutral">
 	<portrait_r entry="player" eye="surprised" mouth="tense">
 	<male>
-		<sjis>
+    <sjis>
 			この世界を救った男と言っても<end_line>
 		</sjis>
     <ascii>
       The man who saved Lindbaum,<end_line>
     </ascii>
-	</male>
-	<female>
-		<sjis>
+  </male>
+  <female>
+    <sjis>
 			この世界を救った女と言っても<end_line>
 		</sjis>
     <ascii>
       The woman who saved Lindbaum,<end_line>
     </ascii>
-	</female>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -134,21 +134,25 @@
 	<portrait_l entry="jade" eye="decided" mouth="serious">
 	<portrait_r entry="player" eye="happy_blush" mouth="stressed">
 	<male>
-		<sjis>
+    <sjis>
 			そんな、アニキ、大げさな<three_dots><end_line>
 			オレが世界を救っただなんて<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			そんな、アニキ、大げさな<three_dots><end_line>
-			わたしが世界を救っただなんて<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Brother, you're exaggerating<three_dots><end_line>
     Me saving the world<three_dots><end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			そんな、アニキ、大げさな<three_dots><end_line>
+			わたしが世界を救っただなんて<end_line>
+		</sjis>
+    <ascii>
+    Brother, you're exaggerating<three_dots><end_line>
+    Me saving the world<three_dots><end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -183,7 +187,7 @@
 	<portrait_l entry="jade" eye="serious" mouth="neutral">
 	<portrait_r entry="player" eye="neutral_blush" mouth="talk">
 	<male>
-		<sjis>
+    <sjis>
 			ああ、お前はたいした男だぜ<end_line>
 			今まではロブの弟子<end_line>
 			かわいい弟分とか思っていたが<three_dots><end_line>
@@ -193,9 +197,9 @@
       As Rob's apprentice, you were like<end_line>
       a little brother, but now<three_dots><end_line>
     </ascii>
-	</male>
-	<female>
-		<sjis>
+  </male>
+  <female>
+    <sjis>
 			ああ、お前はたいした女だぜ<end_line>
 			今まではロブの弟子<end_line>
 			かわいい妹分とか思っていたが<three_dots><end_line>
@@ -205,7 +209,7 @@
       As Rob's apprentice, you were like<end_line>
       a little sister, but now<three_dots><end_line>
     </ascii>
-	</female>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -236,7 +240,7 @@
 	<portrait_l entry="jade" eye="decided" mouth="neutral">
 	<portrait_r entry="player" eye="serious" mouth="tense">
 	<male>
-		<sjis>
+    <sjis>
 			言っただろ？<end_line>
 			お前はもう弟分じゃないってな<end_line>
 			お前はもう立派な鍛冶師だ<three_dots><end_line>
@@ -246,9 +250,9 @@
       little brother anymore.<end_line>
       You're a Craftknight<three_dots><end_line>
     </ascii>
-	</male>
-	<female>
-		<sjis>
+  </male>
+  <female>
+    <sjis>
 			言っただろ？<end_line>
 			お前はもう妹分じゃないってな<end_line>
 			お前はもう立派な鍛冶師だ<three_dots><end_line>
@@ -258,7 +262,7 @@
       little sister anymore.<end_line>
       You're a Craftknight<three_dots><end_line>
     </ascii>
-	</female>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -280,24 +284,29 @@
 	<portrait_l entry="jade" eye="decided" mouth="talk">
 	<portrait_r entry="player" eye="surprised_blush" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			え<three_dots>、でも、そんな<three_dots><end_line>
 			アニキがアニキじゃなくなるなんて<three_dots><end_line>
 			オレ<three_dots><end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			え<three_dots>、でも、そんな<three_dots><end_line>
-			アニキがアニキじゃなくなるなんて<three_dots><end_line>
-			わたし<three_dots><end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Eh<three_dots> But<three_dots><end_line>
     If Brother isn't Brother, then<three_dots><end_line>
     What do I<three_dots><end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			え<three_dots>、でも、そんな<three_dots><end_line>
+			アニキがアニキじゃなくなるなんて<three_dots><end_line>
+			わたし<three_dots><end_line>
+		</sjis>
+    <ascii>
+    Eh<three_dots> But<three_dots><end_line>
+    If Brother isn't Brother, then<three_dots><end_line>
+    What do I<three_dots><end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -365,18 +374,21 @@
 	<portrait_l entry="jade" eye="decided" mouth="yell">
 	<portrait_r entry="player" eye="surprised" mouth="stressed">
 	<male>
-		<sjis>
+    <sjis>
 			世界を救った男？　上等だ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			世界を救った女？　上等だ！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     So you saved the world. Perfect!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			世界を救った女？　上等だ！<end_line>
+		</sjis>
+    <ascii>
+    So you saved the world. Perfect!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="left">

@@ -2,21 +2,25 @@
 	<info box="left">
 	<portrait_l entry="player" eye="serious" mouth="tense">
 	<male>
-		<sjis>
+    <sjis>
 			あれ<three_dots>？<end_line>
 			ミューノ、なに見てんだ？<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			あれ<three_dots>？<end_line>
-			ミューノ、なに見てんだろ？<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Huh<three_dots>?<end_line>
     Murno, what are you looking at?<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			あれ<three_dots>？<end_line>
+			ミューノ、なに見てんだろ？<end_line>
+		</sjis>
+    <ascii>
+    Huh<three_dots>?<end_line>
+    Murno, what are you looking at?<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -27,7 +31,7 @@
 		おかえりなさい<end_line>
 		私もさっき村長さんの家から戻ったの<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Ah, <player_nickname>!<end_line>
 		Welcome back.<end_line>
 		We just got home.<end_line>
@@ -42,7 +46,7 @@
 		ヴィーさんの大かつやくのおかげで<end_line>
 		大成功だったわ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		The whole 'Forbidden Love'<end_line>
     story was a huge success!<end_line>
 		It's all thanks to Miss Vee<three_dots><end_line>
@@ -56,7 +60,7 @@
 		村長さん感動しちゃって<end_line>
 		なんだか少し悪いくらい<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		The village head was moved to tears.<end_line>
 		I kinda felt bad lying to him<three_dots><end_line>
 	</ascii>
@@ -66,71 +70,79 @@
 	<portrait_l entry="player" eye="happy" mouth="tense">
 	<portrait_r entry="murno" eye="sad" mouth="talk">
 	<male>
-		<sjis>
+    <sjis>
 			へぇ<three_dots>、そりゃよかった<end_line>
 			正直上手くいったのは<end_line>
 			ビックリだけど<end_line>
 		</sjis>
-		<ascii>
+    <ascii>
 			Oh<three_dots> That's great!<end_line>
 			Honestly though, I'm surprised<end_line>
       it went over so well.<end_line>
 		</ascii>
-	</male>
-	<female>
-		<sjis>
+  </male>
+  <female>
+    <sjis>
 			ホント！？　よかったね！<end_line>
 			正直上手くいったのは<end_line>
 			ビックリだけど<end_line>
 		</sjis>
-		<ascii>
+    <ascii>
 			Really!? That's awesome!<end_line>
 			Honestly though, I'm surprised<end_line>
       it went over so well.<end_line>
 		</ascii>
-	</female>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="left">
 	<portrait_l entry="player" eye="serious" mouth="talk">
 	<portrait_r entry="murno" eye="serious" mouth="talk">
 	<male>
-		<sjis>
+    <sjis>
 			（ミューノも楽しかったみたいで<end_line>
 			　ホントによかったな<three_dots>）<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			（ミューノも楽しかったみたいだね<end_line>
-			　ホントによかった<three_dots>）<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     (Murno looks like she had fun.<end_line>
      I'm glad it worked out<three_dots>)<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			（ミューノも楽しかったみたいだね<end_line>
+			　ホントによかった<three_dots>）<end_line>
+		</sjis>
+    <ascii>
+    (Murno looks like she had fun.<end_line>
+     I'm glad it worked out<three_dots>)<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="left">
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="murno" eye="serious" mouth="talk">
 	<male>
-		<sjis>
+    <sjis>
 			ところでなにしてんの？<end_line>
 			こんなとこで<three_dots><end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			ところでどうしたの？<end_line>
-			こんなとこで<three_dots><end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     By the way, what are you up to?<end_line>
     Why are you just standing here?<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			ところでどうしたの？<end_line>
+			こんなとこで<three_dots><end_line>
+		</sjis>
+    <ascii>
+    By the way, what are you up to?<end_line>
+    Why are you just standing here?<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -141,7 +153,7 @@
 		さっき、こわい人が来て<end_line>
 		私には用のない話だって<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Um<three_dots><end_line>
 		A scary man came by earlier,<end_line>
 		and told me I wasn't needed.<end_line>
@@ -152,18 +164,21 @@
 	<portrait_l entry="player" eye="surprised" mouth="tense">
 	<portrait_r entry="murno" eye="sad" mouth="tense">
 	<male>
-		<sjis>
+    <sjis>
 			追い出したのか？<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			追い出したの？<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     He kicked you out!?<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			追い出したの？<end_line>
+		</sjis>
+    <ascii>
+    He kicked you out!?<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -173,7 +188,7 @@
 		そうじゃないけど<end_line>
 		居づらくて<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Not exactly,<end_line>
 		but it was difficult<end_line>
     to stay inside, so<three_dots>.<end_line>
@@ -186,7 +201,7 @@
 	<sjis>
 		まったくアニキは<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		*sigh* Bro<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -200,7 +215,7 @@
 		敵ニ設定シマス<end_line>
 		イイデスカ？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Setting Identification<end_line>
     Code To Enemy.<end_line>
 		Requesting Verbal Confirmation.<end_line>
@@ -214,7 +229,7 @@
 	<sjis>
 		だからアニキは敵じゃないって！？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		I told you he's not a bad guy!<end_line>
 	</ascii>
 </dialogue>
@@ -227,7 +242,7 @@
 		<three_dots><end_line>
 		了解デス<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		<three_dots><end_line>
 		Roger<three_dots><end_line>
 	</ascii>
@@ -241,7 +256,7 @@
 		やはり面がまえのとおり<end_line>
 		あやつは敵じゃったか！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
     I knew he was up to no good.<end_line>
 		I'll have his head for this<three_dots><end_line>
 	</ascii>
@@ -254,7 +269,7 @@
 	<sjis>
 		だからアニキは敵じゃないって！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		I told you he's not a bad guy!<end_line>
 	</ascii>
 </dialogue>
@@ -266,7 +281,7 @@
 	<sjis>
 		むむ<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Grr<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -279,7 +294,7 @@
 		やはり見た目のとおり<end_line>
 		あいつは敵か<three_dots>！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		So he is an enemy after all.<end_line>
 		I'll be sure to erase him.<end_line>
 	</ascii>
@@ -292,7 +307,7 @@
 	<sjis>
 		だからアニキは敵じゃないって！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		I told you he's not a bad guy!<end_line>
 	</ascii>
 </dialogue>
@@ -304,7 +319,7 @@
 	<sjis>
 		ちっ<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Tch<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -317,7 +332,7 @@
 		やっぱりコワイ顔の人は<end_line>
 		敵にちがいありませんわ！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		So that scary-faced man<end_line>
 		really is an enemy then!<end_line>
 	</ascii>
@@ -330,7 +345,7 @@
 	<sjis>
 		だからアニキは敵じゃないって！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		I told you he's not a bad guy!<end_line>
 	</ascii>
 </dialogue>
@@ -342,7 +357,7 @@
 	<sjis>
 		<three_dots>ホントですか？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		<three_dots>Are you sure?<end_line>
 	</ascii>
 </dialogue>
@@ -354,7 +369,7 @@
 	<sjis>
 		なんか<three_dots>不満なのか？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		What<three_dots><end_line>
 		You still don't believe me?<end_line>
 	</ascii>
@@ -369,7 +384,7 @@
 		ミューノを追い出したこと<end_line>
 		注意してやるよ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Alright, well,<end_line>
 		let's go ask him about it then.<end_line>
 	</ascii>
@@ -382,7 +397,7 @@
 	<sjis>
 		なんか<three_dots>不満なの？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		What<three_dots><end_line>
 		You still don't believe me?<end_line>
 	</ascii>
@@ -397,7 +412,7 @@
 		ミューノを追い出したこと<end_line>
 		注意してあげる<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Alright, well,<end_line>
 		let's go ask him about it then.<end_line>
 	</ascii>

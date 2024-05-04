@@ -6,17 +6,21 @@
       あった！<end_line>
       あったぞ、キッカの実！<end_line>
     </sjis>
+    <ascii>
+    There!<end_line>
+    I found some!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       あった！<end_line>
       あったよ、キッカの実！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     There!<end_line>
     I found some!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -93,15 +97,18 @@
     <sjis>
       よかったな<end_line>
     </sjis>
+    <ascii>
+    That's great!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       よかったね<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     That's great!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -152,17 +159,21 @@
       本当か？<end_line>
       いいのか？<end_line>
     </sjis>
+    <ascii>
+    Wow, really?<end_line>
+    Is that okay?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       本当に？<end_line>
       いいの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Wow, really?<end_line>
     Is that okay?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -189,6 +200,11 @@
       ありがとな<end_line>
       うれしいよ！<end_line>
     </sjis>
+    <ascii>
+    I see<three_dots><end_line>
+    Thank you, too.<end_line>
+    I'm so happy it all worked out!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -196,12 +212,12 @@
       ありがとね<end_line>
       うれしいよ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I see<three_dots><end_line>
     Thank you, too.<end_line>
     I'm so happy it all worked out!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -249,17 +265,21 @@
       おう！<end_line>
       たのんだぜ！<end_line>
     </sjis>
+    <ascii>	
+    Yeah!<end_line>
+    I'm counting on you!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       うん！<end_line>
       たのんだよ！<end_line>
     </sjis>
-  </female>
-  <ascii>	
+    <ascii>	
     Yeah!<end_line>
     I'm counting on you!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -294,17 +314,21 @@
       うん<end_line>
       助かったよ<end_line>
     </sjis>
+    <ascii>
+    Yeah.<end_line>
+    He's a big help.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       うん<end_line>
       助かっちゃった<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Yeah.<end_line>
     He's a big help.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -329,17 +353,21 @@
       そう言われると<end_line>
       なんか心配になってくるな<three_dots><end_line>
     </sjis>
+    <ascii>
+    Now that you've said it,<end_line>
+    I'm kinda worried now<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       そう言われると<end_line>
       なんか心配になってくるなぁ<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Now that you've said it,<end_line>
     I'm kinda worried now<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -375,17 +403,21 @@
       うん<end_line>
       助かったよ<end_line>
     </sjis>
+    <ascii>
+    Yeah.<end_line>
+    He's a big help.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       うん<end_line>
       助かっちゃった<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Yeah.<end_line>
     He's a big help.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -412,17 +444,21 @@
       そう言われると<end_line>
       なんか心配になってくるな<three_dots><end_line>
     </sjis>
+    <ascii>
+    Now that you've said it,<end_line>
+    I'm kinda worried now<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       そう言われると<end_line>
       なんか心配になってくるなぁ<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Now that you've said it,<end_line>
     I'm kinda worried now<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -458,17 +494,21 @@
       え？<end_line>
       それってどういうことだよ？<end_line>
     </sjis>
+    <ascii>
+    Eh?<end_line>
+    About what?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       え？<end_line>
       それってどういうこと？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Eh?<end_line>
     About what?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -509,6 +549,11 @@
       なんか心配になってくるな<three_dots><end_line>
       とにかく駅に行こう<end_line>
     </sjis>
+    <ascii>
+    Now that you've said it,<end_line>
+    I'm kinda worried now<three_dots><end_line>
+    Anyway, let's head to the station.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -516,12 +561,12 @@
       なんか心配になってくるなぁ<three_dots><end_line>
       とにかく駅に行こう<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Now that you've said it,<end_line>
     I'm kinda worried now<three_dots><end_line>
     Anyway, let's head to the station.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -545,17 +590,21 @@
       うん<end_line>
       助かったよ<end_line>
     </sjis>
+    <ascii>
+    Yeah.<end_line>
+    He's a big help.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       うん<end_line>
       助かっちゃった<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Yeah.<end_line>
     He's a big help.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -582,17 +631,21 @@
       そう言われると<end_line>
       なんか心配になってくるな<three_dots><end_line>
     </sjis>
+    <ascii>
+    Now that you've said it,<end_line>
+    I'm kinda worried now<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       そう言われると<end_line>
       なんか心配になってくるなぁ<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Now that you've said it,<end_line>
     I'm kinda worried now<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">

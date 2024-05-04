@@ -18,17 +18,21 @@
       ホント<end_line>
       足下に注意しろよ<end_line>
     </sjis>
+    <ascii>
+    Seriously,<end_line>
+    pay attention.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       ホント<end_line>
       足下に注意しなさいよ<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Seriously,<end_line>
     pay attention.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -66,6 +70,11 @@
       ウチの親方が行ってるから<end_line>
       よろしくたのむな<end_line>
     </sjis>
+    <ascii>
+    Oh, that's right, my master is<end_line>
+    heading over to your place,<end_line>
+    take care of her will you?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -73,12 +82,12 @@
       ウチの親方が行ってるから<end_line>
       よろしくね<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Oh, that's right, my master is<end_line>
     heading over to your place,<end_line>
     take care of her will you?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -104,17 +113,21 @@
       まあ、色々あってさ<end_line>
       話し合いとか<three_dots><end_line>
     </sjis>
+    <ascii>
+    Well, stuff.<end_line>
+    She wants to have a meeting<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       まあ、色々あってね<end_line>
       話し合いとか<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Well, stuff.<end_line>
     She wants to have a meeting<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -177,6 +190,11 @@
       オレたちちょっと急いでるんだ<end_line>
       ムダ話してる時間はないんだよ<end_line>
     </sjis>
+    <ascii>
+    Ah, that's right.<end_line>
+    We're kinda busy.<end_line>
+    No time for idle conversation.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -184,12 +202,12 @@
       わたしたちちょっと急いでるんだ<end_line>
       ムダ話してる時間はないの<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Ah, that's right.<end_line>
     We're kinda busy.<end_line>
     No time for idle conversation.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">

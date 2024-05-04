@@ -405,17 +405,21 @@
       どうしたんだよ、ミューノ<end_line>
       今日はなんかヘンだよ<end_line>
     </sjis>
+    <ascii>
+    What's wrong, Murno?<end_line>
+    You're acting strange.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       どうしたのよ、ミューノ<end_line>
       今日はなんかヘンだよ<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     What's wrong, Murno?<end_line>
     You're acting strange.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">

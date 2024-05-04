@@ -16,15 +16,18 @@
     <sjis>
       どうしたんだ？<end_line>
     </sjis>
+    <ascii>
+    What is it?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       どうしたの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     What is it?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">

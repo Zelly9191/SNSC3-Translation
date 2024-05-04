@@ -8,6 +8,11 @@
       だからゴカイだって<end_line>
       言ってるだろ！？<end_line>
     </sjis>
+    <ascii>
+    Calm down!<end_line>
+    I told you,<end_line>
+    it's a misunderstanding!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -15,12 +20,12 @@
       だからゴカイだって<end_line>
       言ってるでしょ！？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Calm down!<end_line>
     I told you,<end_line>
     it's a misunderstanding!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -250,17 +255,21 @@
       もちろん！<end_line>
       みんなでやろうぜ！<end_line>
     </sjis>
+    <ascii>
+    Of course!<end_line>
+    Let's do it together!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       もちろん！<end_line>
       みんなでやろう！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Of course!<end_line>
     Let's do it together!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">

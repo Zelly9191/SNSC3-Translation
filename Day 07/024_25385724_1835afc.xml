@@ -86,15 +86,18 @@
     <sjis>
       あの、オレたちは<three_dots><end_line>
     </sjis>
+    <ascii>
+    Um, what should we<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       あの、わたしたちは<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Um, what should we<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -152,17 +155,21 @@
       そうだな！<end_line>
       行こう、ミューノ！<end_line>
     </sjis>
+    <ascii>
+    You're right!<end_line>
+    Let's go, Murno!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       そうだね！<end_line>
       行こう、ミューノ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     You're right!<end_line>
     Let's go, Murno!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -988,15 +995,18 @@
     <sjis>
       わかった！<end_line>
     </sjis>
+    <ascii>
+    Okay!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       わかったわ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Okay!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -1263,6 +1273,11 @@
       このまま逃げるなんてできるかよ！<end_line>
       オレにも何か手伝わせてくれよ<end_line>
     </sjis>
+    <ascii>
+    I'm a Craftknight!<end_line>
+    I can't run away like this!<end_line>
+    Let me help with something!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -1270,12 +1285,12 @@
       このまま逃げるなんてできないわ！<end_line>
       わたしにも何か手伝わせて<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I'm a Craftknight!<end_line>
     I can't run away like this!<end_line>
     Let me help with something!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -1365,6 +1380,11 @@
       オレにだって何かできることが<end_line>
       あるはずだろ？<end_line>
     </sjis>
+    <ascii>
+    No!<end_line>
+    There's got to be something <end_line>
+    even we can do, right?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -1372,12 +1392,12 @@
       わたしにだって何かできることが<end_line>
       あるはずでしょ？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     No!<end_line>
     There's got to be something <end_line>
     even we can do, right?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -1431,17 +1451,21 @@
       牢屋に行けばいいんだな<end_line>
       わかった！<end_line>
     </sjis>
+    <ascii>
+    To the prison then.<end_line>
+    Got it!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       牢屋に行けばいいのね<end_line>
       わかったわ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     To the prison then.<end_line>
     Got it!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">

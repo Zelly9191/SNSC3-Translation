@@ -216,6 +216,11 @@
       お前<three_dots>どうして<end_line>
       親方のこと<three_dots>！？<end_line>
     </sjis>
+    <ascii>
+    Wha<three_dots> Rob<three_dots>!?<end_line>
+    H<three_dots> How do you<end_line>
+    know him<three_dots>!?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -223,12 +228,12 @@
       あんた<three_dots>どうして<end_line>
       親方のこと<three_dots>！？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Wha<three_dots> Rob<three_dots>!?<end_line>
     H<three_dots> How do you<end_line>
     know him<three_dots>!?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -681,17 +686,21 @@
       あんなでかいんだ<three_dots><end_line>
       そりゃコワイさ<three_dots><end_line>
     </sjis>
+    <ascii>
+    It's so big<three_dots><end_line>
+    Of course I'm scared<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       あんなに大きいんだよ<three_dots><end_line>
       そりゃコワイよ<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     It's so big<three_dots><end_line>
     Of course I'm scared<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -838,15 +847,18 @@
     <sjis>
       いけるぞ！<end_line>
     </sjis>
+    <ascii>
+    That would work!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       それなら、いけるね！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     That would work!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="nobox">
@@ -854,15 +866,18 @@
     <sjis>
       大丈夫だ<three_dots><end_line>
     </sjis>
+    <ascii>
+    We'll be fine<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       大丈夫<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     We'll be fine<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="nobox">
@@ -1065,15 +1080,18 @@
     <sjis>
       オレたちは、そんなヤツに<end_line>
     </sjis>
+    <ascii>
+    We won't lose<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       わたしたちは、そんな人になんか<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     We won't lose<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -1133,15 +1151,18 @@
     <sjis>
       突っ込むぞ<end_line>
     </sjis>
+    <ascii>
+    Here we go,<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       突っ込むよ<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Here we go,<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">

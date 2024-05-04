@@ -88,6 +88,11 @@
       ミューノを放せ！<end_line>
       話はそれからだ！！！<end_line>
     </sjis>
+    <ascii>
+    Enough already,<end_line>
+    just let Murno go!<end_line>
+    We can talk after that!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -95,12 +100,12 @@
       ミューノを放して<end_line>
       話はそれからだよ！！！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Enough already,<end_line>
     just let Murno go!<end_line>
     We can talk after that!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
