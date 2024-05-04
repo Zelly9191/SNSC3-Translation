@@ -29,6 +29,11 @@ parser.add_argument(
 
 parser.add_argument("-v", action="store_true", help="use if you need more debug info")
 parser.add_argument("-exclude", nargs="+", type=str, default=[])
+parser.add_argument(
+    "-AutoClose",
+    action="store_true",
+    help="use if you want to make all inline tags properly self closing. For example: <end_line> => <end_line/>",
+)
 
 args = parser.parse_args()
 
@@ -100,30 +105,35 @@ def CorrectMaleFemaleTanslations(xmlFile):
             changes_count += AddMissingChildAscii(maleTags)
             changes_count += AddMissingChildAscii(femaleTags)
             # now we need to cleanup the badly placed <male>/<female> sibling <ascii> tags
-            for tag in maleTags:
-                sibling_ascii_tag = tag.find("../ascii")
-                if sibling_ascii_tag is not None:
-                    outer_tag = tag.getparent()
-                    outer_tag.remove(sibling_ascii_tag)
+            if changes_count > 0:
+                for tag in maleTags:
+                    sibling_ascii_tag = tag.find("../ascii")
+                    if sibling_ascii_tag is not None:
+                        outer_tag = tag.getparent()
+                        outer_tag.remove(sibling_ascii_tag)
         except ET.XMLSyntaxError as e:
             if args.v:
                 print(
                     f"XmlSyntaxError while parsing file:[{xmlFile}] :: Reason:{e.msg}"
                 )
 
-        changes_count += 1
         fobj.close()
 
     # saving modified xml
     if changes_count > 0:
         print(f"there were some changes. Now we need to resave file: {xmlFile}")
         with open(xmlFile, "w", encoding="UTF-8") as fobj:
-            # we need to make sure that it will use the same indent as the file uses
-            ET.indent(root, space="  ")
-            xml_contents = ETHtml.tostring(root, pretty_print=True).decode("UTF-8")
-            xml_contents = JEScript_CleanupInlineTags(xml_contents)
-            xml_bytes = html.unescape(xml_contents)
-            fobj.write(xml_bytes)
+            """
+            We are iterating over root's children to trim any unnecessary tags (<span></span>) added by lxml introduced when doing: root = ETHtml.fromstring(xml_contents)
+            This also help with keeping original formatting.
+            """
+            for child in root:
+                # we need to make sure that it will use the same indent as the file uses
+                ET.indent(child, space="  ")
+                xml_contents = ETHtml.tostring(child).decode("UTF-8")
+                xml_contents = JEScript_CleanupInlineTags(xml_contents, args.AutoClose)
+                xml_bytes = html.unescape(xml_contents)
+                fobj.write(xml_bytes)
             fobj.close()
 
 
@@ -141,10 +151,10 @@ def main():
     # search for xml files:
     print("Scanning dir: [" + args.dir + "] for .xml files")
     # use this for testing and debugging
-    # XmlList = []
-    # XmlList.append("./Tests/test2.xml")
+    XmlList = []
+    XmlList.append("./Tests/test2.xml")
     # use this for real list from directory
-    XmlList = Get_file_list(args.dir, ".xml")
+    # XmlList = Get_file_list(args.dir, ".xml")
     # search through file list
 
     print(f"searching for missing EN translations in {len(XmlList)} files.")

@@ -56,13 +56,15 @@ def JEScript_PreprocessInlineTags(xml_text: str = ""):
     return xml_text
 
 
-def JEScript_CleanupInlineTags(xml_text: str = ""):
+def JEScript_CleanupInlineTags(xml_text: str = "", auto_close_inlineTags: bool = False):
+
+    OptionalAutoClose = "/" if auto_close_inlineTags else ""
     if len(xml_text) > 0:
         for tag_name in faulty_tags:
             # stage 1: try to also fix unnecessary new lines
             xml_text = re.sub(
                 rf"{WorkTagStart_regex}{tag_name}\b([^\|]*){WorkTagEnd_regex}",
-                rf"<{tag_name}\1/>",
+                rf"<{tag_name}\1{OptionalAutoClose}>",
                 xml_text,
             )
     else:
