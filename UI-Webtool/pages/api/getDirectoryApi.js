@@ -21,6 +21,7 @@ export default async function handler(req, res) {
                 value: filePath,
                 title: file,
                 children: [],
+                selectable: !isDirectory,
             };
 
             if (isDirectory) {

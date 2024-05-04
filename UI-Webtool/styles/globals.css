@@ -99,32 +99,6 @@ a {
   }
 }
 
-.ql-editor {
-  counter-reset: line;
-  line-height: 24px;
+.highlight {
+  background-color: rgba(211, 65, 28, 0.418);
 }
-
-.ql-editor p {
-  line-height: 19.5px;
-  text-wrap: nowrap;
-}
-
-.ql-editor p:before {
-  counter-increment: line;
-  content: counter(line);
-  display: inline-block;
-  border-right: 1px solid #ddd;
-  padding: 0 .5em;
-  margin-right: 1.5em;
-  width: 30px;
-  text-align: right;
-  color: #888;
-}
-
-.ql-toolbar.ql-snow { 
-  border-left: 0 !important;
-  border-top: 0 !important;
-  border-right: 0 !important;
-  margin-top: -20px;
-}
-

@@ -3,7 +3,7 @@ import Layout from "../src/LayoutAnt"
 import { Spin } from 'antd'
 
 const IndexPage = () => {
-    const [isLoading, setIsLoading] = useState();
+    const [isLoading, setIsLoading] = useState(true);
 
     const CenteredSpinner = () => {
         const spinnerStyle = {
@@ -21,7 +21,6 @@ const IndexPage = () => {
     };
 
     useEffect(() => {
-        setIsLoading(true);
         const delay = 1000; 
 
         const timeoutId = setTimeout(() => {
