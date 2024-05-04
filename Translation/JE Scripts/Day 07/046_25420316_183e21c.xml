@@ -26,24 +26,29 @@
 	<portrait_l entry="player" eye="sad" mouth="neutral">
 	<portrait_r entry="murno" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			うん<three_dots><end_line>
 			オレも何かしないとって思うんだけど<end_line>
 			どうしていいのかわからなくて<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			うん<three_dots><end_line>
-			わたしも何かしないとって思うんだけど<end_line>
-			どうしていいのかわからなくて<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Yeah<three_dots><end_line>
     I know I have to do something,<end_line>
     but I don't know what<three_dots><end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			うん<three_dots><end_line>
+			わたしも何かしないとって思うんだけど<end_line>
+			どうしていいのかわからなくて<end_line>
+		</sjis>
+    <ascii>
+    Yeah<three_dots><end_line>
+    I know I have to do something,<end_line>
+    but I don't know what<three_dots><end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -63,24 +68,29 @@
 	<portrait_l entry="player" eye="serious" mouth="serious">
 	<portrait_r entry="murno" eye="serious" mouth="tense">
 	<male>
-		<sjis>
+    <sjis>
 			たしかにルイーズ村では<end_line>
 			色々あったもんなぁ<three_dots><end_line>
 			幻龍鬼まで召喚したし<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			たしかにルイーズ村では<end_line>
-			色々あったもんね<end_line>
-			幻龍鬼まで召喚したし<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     A lot of stuff did happen while<end_line>
     we were in Louise Village.<end_line>
     I even summoned a dragon!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			たしかにルイーズ村では<end_line>
+			色々あったもんね<end_line>
+			幻龍鬼まで召喚したし<end_line>
+		</sjis>
+    <ascii>
+    A lot of stuff did happen while<end_line>
+    we were in Louise Village.<end_line>
+    I even summoned a dragon!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -205,24 +215,29 @@
 	<portrait_l entry="player" eye="happy" mouth="neutral">
 	<portrait_r entry="murno" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			明日、ちゃんとみんなに説明すれば<end_line>
 			悪いのはアイツらだって<end_line>
 			みんなわかってくれるさ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			明日、ちゃんとみんなに説明すれば<end_line>
-			悪いのはアイツらだって<end_line>
-			みんなわかってくれるよ！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Once I get the chance to explain,<end_line>
     everyone will understand<end_line>
     that Anise is a villain!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			明日、ちゃんとみんなに説明すれば<end_line>
+			悪いのはアイツらだって<end_line>
+			みんなわかってくれるよ！<end_line>
+		</sjis>
+    <ascii>
+    Once I get the chance to explain,<end_line>
+    everyone will understand<end_line>
+    that Anise is a villain!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -244,23 +259,27 @@
 	<portrait_l entry="player" eye="decided" mouth="talk">
 	<portrait_r entry="murno" eye="sad" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			なに言ってるんだよ<end_line>
 			ミューノの言うことならみんな聞くさ<end_line>
 			だって、ミューノだもん<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
+    <ascii>
+    Of course they will.<end_line>
+    You're Murno!<end_line>
+  </ascii>
+  </male>
+  <female>
+    <sjis>
 			なに言ってるの<end_line>
 			ミューノの言うことならみんな聞くよ<end_line>
 			だって、ミューノだもん<end_line>
 		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Of course they will.<end_line>
     You're Murno!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="right">

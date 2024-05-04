@@ -92,7 +92,7 @@
 	<portrait_l entry="player" eye="surprised_blush" mouth="tense">
 	<portrait_r entry="tier" eye="happy_blush" mouth="talk">
 	<male>
-		<sjis>
+    <sjis>
 			うわ<three_dots>！？<end_line>
 			ちょっと、なんだよ！？<end_line>
 		</sjis>
@@ -100,9 +100,9 @@
       Woah<three_dots>!?<end_line>
       Hey, what's wrong!?<end_line>
     </ascii>
-	</male>
-	<female>
-		<sjis>
+  </male>
+  <female>
+    <sjis>
 			きゃ<three_dots>！？<end_line>
 			ちょっと、なによ！？<end_line>
 		</sjis>
@@ -110,7 +110,7 @@
       Kya<three_dots>!?<end_line>
       Hey, what's wrong!?<end_line>
     </ascii>
-	</female>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -198,21 +198,25 @@
 	<portrait_l entry="player" eye="happy" mouth="tense">
 	<portrait_r entry="tier" eye="surprised" mouth="tense">
 	<male>
-		<sjis>
+    <sjis>
 			ホント<three_dots><end_line>
 			カンベンしてくれよ<three_dots><end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			ホントにもう<three_dots><end_line>
-			カンベンしてよね<three_dots><end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Hah<three_dots><end_line>
     Gimme a break<three_dots><end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			ホントにもう<three_dots><end_line>
+			カンベンしてよね<three_dots><end_line>
+		</sjis>
+    <ascii>
+    Hah<three_dots><end_line>
+    Gimme a break<three_dots><end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="right">

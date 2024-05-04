@@ -42,15 +42,18 @@
     <sjis>
       ミューノを返せ！<end_line>
     </sjis>
+    <ascii>
+    Let her go!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       ミューノを返して！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Let her go!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -62,6 +65,11 @@
       返すも何も、あいつの父親が<end_line>
       私たちを連れ出したんだ<end_line>
     </sjis>
+    <ascii>
+    Let her go? Ha!<end_line>
+    Why should I? Her father's the<end_line>
+    one who led us here.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -69,12 +77,12 @@
       返すも何も、あいつの父親が<end_line>
       私たちを連れ出したんだ<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Let her go? Ha!<end_line>
     Why should I? Her father's the<end_line>
     one who led us here.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -211,6 +219,11 @@
       村に帰るなら、なんであいつらと<end_line>
       いっしょなんだ！？<end_line>
     </sjis>
+    <ascii>
+    Wait, he did?<end_line>
+    But then why are<end_line>
+    you with Anise!?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -218,12 +231,12 @@
       村に帰るなら、なんであいつらと<end_line>
       いっしょなのよ！？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Wait, he did?<end_line>
     But then why are<end_line>
     you with Anise!?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -355,17 +368,21 @@
       ちょっと待てよ！<end_line>
       ちゃんとワケを<three_dots><end_line>
     </sjis>
+    <ascii>
+    Wait!<end_line>
+    Hear me out<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       ちょっと待ってよ！<end_line>
       ちゃんとワケを<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Wait!<end_line>
     Hear me out<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -482,17 +499,21 @@
       ミューノ<three_dots><end_line>
       オレ<three_dots>！<end_line>
     </sjis>
+    <ascii>
+    Murno<three_dots><end_line>
+    I<three_dots>!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       ミューノ<three_dots><end_line>
       わたし<three_dots>！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Murno<three_dots><end_line>
     I<three_dots>!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -517,15 +538,18 @@
     <sjis>
       そんな！　ウソだろ！？<end_line>
     </sjis>
+    <ascii>
+    Murno! Why!?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       そんな！　ウソでしょ！？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Murno! Why!?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -586,17 +610,21 @@
       <three_dots><end_line>
       なん、だよ<three_dots><end_line>
     </sjis>
+    <ascii>
+    <three_dots><end_line>
+    What<three_dots>was that<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       <three_dots><end_line>
       なんなの<three_dots>よ<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     <three_dots><end_line>
     What<three_dots>was that<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -630,7 +658,7 @@
   <sjis>
     <player_nickname>！<end_line>
   </sjis>
-   <ascii>
+  <ascii>
     <player_nickname>!<end_line>
   </ascii>
 </dialogue>
@@ -642,7 +670,7 @@
   <sjis>
     <player_nickname>さん！<end_line>
   </sjis>
-   <ascii>
+  <ascii>
     <player_nickname>!<end_line>
   </ascii>
 </dialogue>
@@ -777,6 +805,11 @@
       村に帰るから、ついてくるなって<end_line>
       ミューノが<three_dots><end_line>
     </sjis>
+    <ascii>
+    Well<three_dots><end_line>
+    Murno said she's heading home,<end_line>
+    and not to follow her<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -784,12 +817,12 @@
       村に帰るから、ついてこないでって<end_line>
       ミューノが<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Well<three_dots><end_line>
     Murno said she's heading home,<end_line>
     and not to follow her<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -814,15 +847,18 @@
     <sjis>
       そんなこと、オレが知るかよ！<end_line>
     </sjis>
+    <ascii>
+    That's what I want to know!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       そんなのわかんないよ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     That's what I want to know!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -859,6 +895,11 @@
       納得なんてできるわけないだろ<three_dots><end_line>
       でも、ミューノが<three_dots><end_line>
     </sjis>
+    <ascii>
+    With Anise there<three_dots><end_line>
+    Of course not<three_dots><end_line>
+    But Murno<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -866,12 +907,12 @@
       納得なんてできるわけないよ<three_dots><end_line>
       でも、ミューノが<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     With Anise there<three_dots><end_line>
     Of course not<three_dots><end_line>
     But Murno<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -881,17 +922,21 @@
       いってー！<end_line>
       なにすんだよ！<end_line>
     </sjis>
+    <ascii>
+    Owww!<end_line>
+    What was that for!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       いったーい！<end_line>
       なにするのよ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Owww!<end_line>
     What was that for!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -1072,15 +1117,18 @@
     <sjis>
       オレの答え<three_dots><end_line>
     </sjis>
+    <ascii>
+    My answer<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       わたしの答え<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     My answer<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -1145,15 +1193,19 @@
       そんなこと<three_dots><end_line>
       決まってるだろ！<end_line>
     </sjis>
+    <ascii>
+    Isn't it obvious?<end_line>
+    Let's go!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       そんなこと<three_dots><end_line>
       決まってるでしょ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Isn't it obvious?<end_line>
     Let's go!<end_line>
   </ascii>
+  </female>
 </dialogue>

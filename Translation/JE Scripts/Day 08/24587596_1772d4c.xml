@@ -4,24 +4,29 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			今日は話し合いだ<end_line>
 			金の派閥に行かなきゃ<end_line>
 			がんばるぞ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			今日は話し合いだよ<end_line>
-			金の派閥に行かなきゃ<end_line>
-			がんばるぞ！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Today's the day for our<end_line>
     meeting at the Gold Council.<end_line>
     I'll do my best!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			今日は話し合いだよ<end_line>
+			金の派閥に行かなきゃ<end_line>
+			がんばるぞ！<end_line>
+		</sjis>
+    <ascii>
+    Today's the day for our<end_line>
+    meeting at the Gold Council.<end_line>
+    I'll do my best!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -41,21 +46,25 @@
 	<portrait_l entry="player" eye="happy" mouth="tense">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			<partner>はたよりに<end_line>
 			ならないみたいだ<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			<partner>はたよりに<end_line>
-			ならないみたい<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Looks like I can't<end_line>
     rely on <partner> this time.<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			<partner>はたよりに<end_line>
+			ならないみたい<end_line>
+		</sjis>
+    <ascii>
+    Looks like I can't<end_line>
+    rely on <partner> this time.<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -63,24 +72,29 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			今日は話し合いだ<end_line>
 			金の派閥に行かなきゃ<end_line>
 			がんばるぞ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			今日は話し合いだよ<end_line>
-			金の派閥に行かなきゃ<end_line>
-			がんばるぞ！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Today's the day for our<end_line>
     meeting at the Gold Council.<end_line>
     I'll do my best!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			今日は話し合いだよ<end_line>
+			金の派閥に行かなきゃ<end_line>
+			がんばるぞ！<end_line>
+		</sjis>
+    <ascii>
+    Today's the day for our<end_line>
+    meeting at the Gold Council.<end_line>
+    I'll do my best!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -134,24 +148,29 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			今日は話し合いだ<end_line>
 			金の派閥に行かなきゃ<end_line>
 			がんばるぞ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			今日は話し合いだよ<end_line>
-			金の派閥に行かなきゃ<end_line>
-			がんばるぞ！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Today's the day for our<end_line>
     meeting at the Gold Council.<end_line>
     I'll do my best!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			今日は話し合いだよ<end_line>
+			金の派閥に行かなきゃ<end_line>
+			がんばるぞ！<end_line>
+		</sjis>
+    <ascii>
+    Today's the day for our<end_line>
+    meeting at the Gold Council.<end_line>
+    I'll do my best!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -173,42 +192,50 @@
 	<portrait_l entry="player" eye="happy" mouth="stressed">
 	<portrait_r entry="partner" eye="sad" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			なんだよ、それ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			なによ、それ！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Hey!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			なによ、それ！<end_line>
+		</sjis>
+    <ascii>
+    Hey!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-		<sjis>
+    <sjis>
 			今日は話し合いだ<end_line>
 			金の派閥に行かなきゃ<end_line>
 			がんばるぞ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			今日は話し合いだよ<end_line>
-			金の派閥に行かなきゃ<end_line>
-			がんばるぞ！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Today's the day for our<end_line>
     meeting at the Gold Council.<end_line>
     I'll do my best!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			今日は話し合いだよ<end_line>
+			金の派閥に行かなきゃ<end_line>
+			がんばるぞ！<end_line>
+		</sjis>
+    <ascii>
+    Today's the day for our<end_line>
+    meeting at the Gold Council.<end_line>
+    I'll do my best!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -230,18 +257,21 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-		<sjis>
+    <sjis>
 			なんかズレてないか？<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			なんかズレてない？<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Isn't that beside the point?<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			なんかズレてない？<end_line>
+		</sjis>
+    <ascii>
+    Isn't that beside the point?<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -249,24 +279,29 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			今日は話し合いだ<end_line>
 			金の派閥に行かなきゃ<end_line>
 			がんばるぞ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			今日は話し合いだよ<end_line>
-			金の派閥に行かなきゃ<end_line>
-			がんばるぞ！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Today's the day for our<end_line>
     meeting at the Gold Council.<end_line>
     I'll do my best!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			今日は話し合いだよ<end_line>
+			金の派閥に行かなきゃ<end_line>
+			がんばるぞ！<end_line>
+		</sjis>
+    <ascii>
+    Today's the day for our<end_line>
+    meeting at the Gold Council.<end_line>
+    I'll do my best!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -286,21 +321,25 @@
 	<portrait_l entry="player" eye="happy" mouth="tense">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			<partner>はたよりに<end_line>
 			ならないみたいだ<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			<partner>はたよりに<end_line>
-			ならないみたい<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Looks like I can't<end_line>
     rely on <partner> this time.<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			<partner>はたよりに<end_line>
+			ならないみたい<end_line>
+		</sjis>
+    <ascii>
+    Looks like I can't<end_line>
+    rely on <partner> this time.<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -308,24 +347,29 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			今日は話し合いだ<end_line>
 			金の派閥に行かなきゃ<end_line>
 			がんばるぞ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			今日は話し合いだよ<end_line>
-			金の派閥に行かなきゃ<end_line>
-			がんばるぞ！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Today's the day for our<end_line>
     meeting at the Gold Council.<end_line>
     I'll do my best!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			今日は話し合いだよ<end_line>
+			金の派閥に行かなきゃ<end_line>
+			がんばるぞ！<end_line>
+		</sjis>
+    <ascii>
+    Today's the day for our<end_line>
+    meeting at the Gold Council.<end_line>
+    I'll do my best!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -379,24 +423,29 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			今日は話し合いだ<end_line>
 			金の派閥に行かなきゃ<end_line>
 			がんばるぞ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			今日は話し合いだよ<end_line>
-			金の派閥に行かなきゃ<end_line>
-			がんばるぞ！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Today's the day for our<end_line>
     meeting at the Gold Council.<end_line>
     I'll do my best!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			今日は話し合いだよ<end_line>
+			金の派閥に行かなきゃ<end_line>
+			がんばるぞ！<end_line>
+		</sjis>
+    <ascii>
+    Today's the day for our<end_line>
+    meeting at the Gold Council.<end_line>
+    I'll do my best!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -418,42 +467,50 @@
 	<portrait_l entry="player" eye="happy" mouth="stressed">
 	<portrait_r entry="partner" eye="sad" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			なんだよ、それ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			なによ、それ！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Hey!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			なによ、それ！<end_line>
+		</sjis>
+    <ascii>
+    Hey!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-		<sjis>
+    <sjis>
 			今日は話し合いだ<end_line>
 			金の派閥に行かなきゃ<end_line>
 			がんばるぞ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			今日は話し合いだよ<end_line>
-			金の派閥に行かなきゃ<end_line>
-			がんばるぞ！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Today's the day for our<end_line>
     meeting at the Gold Council.<end_line>
     I'll do my best!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			今日は話し合いだよ<end_line>
+			金の派閥に行かなきゃ<end_line>
+			がんばるぞ！<end_line>
+		</sjis>
+    <ascii>
+    Today's the day for our<end_line>
+    meeting at the Gold Council.<end_line>
+    I'll do my best!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -475,18 +532,21 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-		<sjis>
+    <sjis>
 			なんかズレてないか？<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			なんかズレてない？<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Isn't that beside the point?<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			なんかズレてない？<end_line>
+		</sjis>
+    <ascii>
+    Isn't that beside the point?<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -520,24 +580,29 @@
 	<portrait_l entry="player" eye="serious" mouth="talk">
 	<portrait_r entry="murno" eye="sad" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			なに言ってるんだ<end_line>
 			ミューノは魔石を守るんだろ？<end_line>
 			立派に役に立ってるよ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			なに言ってるの<end_line>
-			ミューノは魔石を守ってるし<end_line>
-			立派に役に立ってるって！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     You're not! You're protecting<end_line>
     the Demon Stone, right?<end_line>
     That's really important!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			なに言ってるの<end_line>
+			ミューノは魔石を守ってるし<end_line>
+			立派に役に立ってるって！<end_line>
+		</sjis>
+    <ascii>
+    You're not! You're protecting<end_line>
+    the Demon Stone, right?<end_line>
+    That's really important!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">

@@ -8,6 +8,11 @@
       大切な武器なのに<three_dots><end_line>
       ごめん<three_dots>、オレ<three_dots><end_line>
     </sjis>
+    <ascii>
+    Br<three_dots> bro<three_dots>!<end_line>
+    Such a precious weapon, yet<three_dots><end_line>
+    Sorry<three_dots>, I<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -15,12 +20,12 @@
       大切な武器なのに<three_dots><end_line>
       ごめん<three_dots>、わたし<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Br<three_dots> bro<three_dots>!<end_line>
     Such a precious weapon, yet<three_dots><end_line>
     Sorry<three_dots>, I<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -31,17 +36,21 @@
       どうしたんだよ、アニキ<end_line>
       ちょっと動きがおかしかった<three_dots><end_line>
     </sjis>
+    <ascii>
+    What's wrong, Bro?<end_line>
+    You're acting strange<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       どうしたの、アニキ<end_line>
       ちょっと動きがおかしかったよ<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     What's wrong, Bro?<end_line>
     You're acting strange<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -64,6 +73,11 @@
       そんな<three_dots>、オレ<three_dots><end_line>
       こわすつもりなんて<three_dots><end_line>
     </sjis>
+    <ascii>
+    Uwah!<end_line>
+    But<three_dots>, I<three_dots><end_line>
+    I didn't mean to break it<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -71,12 +85,12 @@
       そんな<three_dots>、わたし<three_dots><end_line>
       こわすつもりなんて<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Uwah!<end_line>
     But<three_dots>, I<three_dots><end_line>
     I didn't mean to break it<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -131,6 +145,11 @@
       それって<three_dots><end_line>
       オレが<three_dots><end_line>
     </sjis>
+    <ascii>
+    Ah<three_dots>, Bro<three_dots><end_line>
+    You mean<three_dots><end_line>
+    That I<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -138,12 +157,12 @@
       それって<three_dots><end_line>
       わたし<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Ah<three_dots>, Bro<three_dots><end_line>
     You mean<three_dots><end_line>
     That I<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -249,15 +268,18 @@
     <sjis>
       へへ<end_line>
     </sjis>
+    <ascii>
+    Heheh.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       えへへ<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Heheh.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="nobox">

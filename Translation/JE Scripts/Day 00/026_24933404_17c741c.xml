@@ -49,15 +49,18 @@
     <sjis>
       さすがオレだろ<end_line>
     </sjis>
+    <ascii>
+    Heh, no problem!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       さすがわたしね<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Heh, no problem!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -531,17 +534,21 @@
       オレの？<end_line>
       いっしょに鍛冶をするってこと？<end_line>
     </sjis>
+    <ascii>
+    Assistant?<end_line>
+    So we'll be smithing together?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       わたしの？<end_line>
       いっしょに鍛冶をするってこと？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Assistant?<end_line>
     So we'll be smithing together?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -726,6 +733,10 @@
       ミューノだったら<end_line>
       オレがついてるからさ！<end_line>
     </sjis>
+    <ascii>
+    Hey, don't worry about Murno.<end_line>
+    I'll be with her!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -733,11 +744,11 @@
       ミューノだったら<end_line>
       わたしがついてるから！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Hey, don't worry about Murno.<end_line>
     I'll be with her!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -760,15 +771,18 @@
     <sjis>
       なんだよ！？<end_line>
     </sjis>
+    <ascii>
+    What!?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       なによ！？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     What!?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -1342,6 +1356,10 @@
       ミューノだったら<end_line>
       オレがついてるからさ！<end_line>
     </sjis>
+    <ascii>
+    Hey, don't worry about Murno.<end_line>
+    I'll be with her!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -1349,11 +1367,11 @@
       ミューノだったら<end_line>
       わたしがついてるから！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Hey, don't worry about Murno.<end_line>
     I'll be with her!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -2054,15 +2072,18 @@
     <sjis>
       やれるもんならやってみろよ！<end_line>
     </sjis>
+    <ascii>
+    Hah! Feel free to try!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       やれるもんならやってみなさい！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Hah! Feel free to try!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -2100,6 +2121,11 @@
       たのむから<end_line>
       勝負させてくれ<end_line>
     </sjis>
+    <ascii>
+    I'm sorry, Murno.<end_line>
+    I'm asking you,<end_line>
+    let us fight!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -2107,12 +2133,12 @@
       たのむから<end_line>
       勝負させて<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I'm sorry, Murno.<end_line>
     I'm asking you,<end_line>
     let us fight!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -2196,17 +2222,21 @@
       オレが勝ったら、か<three_dots><end_line>
       おろかなことを<three_dots><end_line>
     </sjis>
+    <ascii>
+    You think you stand a chance<three_dots>?<end_line>
+    How foolish<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       わたしが勝ったら、か<three_dots><end_line>
       おろかなことを<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     You think you stand a chance<three_dots>?<end_line>
     How foolish<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -2233,15 +2263,18 @@
     <sjis>
       約束したからな！<end_line>
     </sjis>
+    <ascii>
+    It's a promise, then!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       約束したからね！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     It's a promise, then!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -2292,6 +2325,10 @@
       ミューノだったら<end_line>
       オレがついてるからさ！<end_line>
     </sjis>
+    <ascii>
+    Hey, don't worry about Murno.<end_line>
+    I'll be with her!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -2299,11 +2336,11 @@
       ミューノだったら<end_line>
       わたしがついてるから！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Hey, don't worry about Murno.<end_line>
     I'll be with her!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -2365,17 +2402,21 @@
       なんだと！？<end_line>
       オレが弱いって言いたいのか！<end_line>
     </sjis>
+    <ascii>
+    What!?<end_line>
+    So you're saying I'm weak!?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       なによ、それ！？<end_line>
       わたしが弱いって言いたいの！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     What!?<end_line>
     So you're saying I'm weak!?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">

@@ -95,7 +95,7 @@
   <ascii>
     Many things were decided by<end_line>
     the outcome of matches here.<end_line>
-  </ascii> 
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -184,21 +184,25 @@
 	<portrait_l entry="player" eye="surprised" mouth="tense">
 	<portrait_r entry="tram" eye="decided" mouth="talk">
 	<male>
-		<sjis>
+    <sjis>
 			侵入者は負けたら<end_line>
 			溶岩に落とされてたのか<three_dots>？<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			侵入者は負けたら<end_line>
-			溶岩に落とされていたの<three_dots>？<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Intruders get thrown<end_line>
     into the lava<three_dots>?<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			侵入者は負けたら<end_line>
+			溶岩に落とされていたの<three_dots>？<end_line>
+		</sjis>
+    <ascii>
+    Intruders get thrown<end_line>
+    into the lava<three_dots>?<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -231,21 +235,25 @@
 	<info box="left">
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<male>
-		<sjis>
+    <sjis>
 			なんだと！？<end_line>
 			オレはコワがってなんかいない！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			なによ！？<end_line>
-			わたしはコワがってなんかないわよ！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     What!?<end_line>
     I'm not scared!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			なによ！？<end_line>
+			わたしはコワがってなんかないわよ！<end_line>
+		</sjis>
+    <ascii>
+    What!?<end_line>
+    I'm not scared!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -314,21 +322,25 @@
 	<portrait_l entry="player" eye="surprised" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			そっか<three_dots><end_line>
 			ごめん<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			そうだよね<three_dots><end_line>
-			ごめん<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     You're right<three_dots><end_line>
     Sorry.<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			そうだよね<three_dots><end_line>
+			ごめん<end_line>
+		</sjis>
+    <ascii>
+    You're right<three_dots><end_line>
+    Sorry.<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="left">

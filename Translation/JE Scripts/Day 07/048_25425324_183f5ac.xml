@@ -33,6 +33,11 @@
       元気いっぱいだぜ！<end_line>
       やっぱ親方のシチューは最高だぜ！<end_line>
     </sjis>
+    <ascii>
+    Master's stew has<end_line>
+    got me all fired up!<end_line>
+    It really is the best!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -40,12 +45,12 @@
       元気いっぱいだよ！<end_line>
       やっぱ親方のシチューは最高だね！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Master's stew has<end_line>
     got me all fired up!<end_line>
     It really is the best!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -83,6 +88,11 @@
       それにやる気も出てきたから<end_line>
       こうやって見回りを<three_dots><end_line>
     </sjis>
+    <ascii>
+    It's fine, it's for Murno.<end_line>
+    It's thanks to that energy<end_line>
+    I can patrol like this<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -90,12 +100,12 @@
       それにやる気も出てきたから<end_line>
       こうやって見回りを<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     It's fine, it's for Murno.<end_line>
     It's thanks to that energy<end_line>
     I can patrol like this<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -122,6 +132,11 @@
       あいつら絶対に今も<end_line>
       ミューノのことねらってるぜ！<end_line>
     </sjis>
+    <ascii>
+    Yeah!<end_line>
+    I'm sure they're<end_line>
+    still going after Murno!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -129,12 +144,12 @@
       あいつら絶対に今も<end_line>
       ミューノのことねらってるよ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Yeah!<end_line>
     I'm sure they're<end_line>
     still going after Murno!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -160,17 +175,21 @@
       えー<end_line>
       でも、オレだって<three_dots><end_line>
     </sjis>
+    <ascii>
+    Ehhh?<end_line>
+    But, even I<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       えー<end_line>
       でも、わたしだって<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Ehhh?<end_line>
     But, even I<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -195,15 +214,18 @@
     <sjis>
       ネコといっしょにすんな！<end_line>
     </sjis>
+    <ascii>
+    Don't compare me to a cat!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       ネコといっしょにしないでよ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Don't compare me to a cat!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -258,6 +280,11 @@
       そんなこと考えてたら<end_line>
       寝られなくなりそうだ<three_dots><end_line>
     </sjis>
+    <ascii>
+    Uu<three_dots><end_line>
+    I feel like I won't be able<end_line>
+    to fall asleep if I do that<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -265,12 +292,12 @@
       そんなこと考えてたら<end_line>
       寝られなくなりそう<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Uu<three_dots><end_line>
     I feel like I won't be able<end_line>
     to fall asleep if I do that<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -296,15 +323,19 @@
       うー<three_dots><end_line>
       それはそれで寝られなくなりそうだ<three_dots><end_line>
     </sjis>
+    <ascii>
+    Ugh<three_dots><end_line>
+    That's just make it worse<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       うー<three_dots><end_line>
       それはそれで寝られなくなりそう<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Ugh<three_dots><end_line>
     That's just make it worse<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>

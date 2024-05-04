@@ -6,16 +6,19 @@
       おい、お前<end_line>
       大丈夫かよ？<end_line>
     </sjis>
+    <ascii>
+    Hey, you okay?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       ちょっと、あなた<end_line>
       大丈夫なの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Hey, you okay?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -55,6 +58,11 @@
       あの橋、穴が空いてただろ？<end_line>
       なんで落ちるんだよ！？<end_line>
     </sjis>
+    <ascii>	
+    <three_dots>Hey.<end_line>
+    You seriously didn't see the gap<end_line>
+    where the bridge should've been?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -62,12 +70,12 @@
       あの橋、穴が空いてたよね？<end_line>
       なんで落ちるの！？<end_line>
     </sjis>
-  </female>
-  <ascii>	
+    <ascii>	
     <three_dots>Hey.<end_line>
     You seriously didn't see the gap<end_line>
     where the bridge should've been?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -91,17 +99,21 @@
       そんなに急いで<end_line>
       どうしたんだよ<end_line>
     </sjis>
+    <ascii>
+    What's so important you can't<end_line>
+    even look down once in a while?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       そんなに急いで<end_line>
       何があったの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     What's so important you can't<end_line>
     even look down once in a while?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -311,6 +323,11 @@
       あんなカオしてるけど<end_line>
       あいつも結構やるもんだな<end_line>
     </sjis>
+    <ascii>
+    Hmm<three_dots><end_line>
+    Despite how he looks,<end_line>
+    he's actually pretty cool.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -318,12 +335,12 @@
       あんなカオしてるけど<end_line>
       あいつも結構やるもんね<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Hmm<three_dots><end_line>
     Despite how he looks,<end_line>
     he's actually pretty cool.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -629,6 +646,11 @@
       大丈夫か！？<end_line>
       この先ははぐれ召喚獣も<three_dots><end_line>
     </sjis>
+    <ascii>
+    Ah<three_dots>Hey<three_dots>!<end_line>
+    Are you gonna be okay?<end_line>
+    There are Strays ahead<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -636,12 +658,12 @@
       大丈夫なの！？<end_line>
       この先ははぐれ召喚獣も<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Ah<three_dots>Hey<three_dots>!<end_line>
     Are you gonna be okay?<end_line>
     There are Strays ahead<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -676,6 +698,11 @@
       ミューノにあげたいってことだよな<end_line>
       <partner>？<end_line>
     </sjis>
+    <ascii>
+    So, you're gonna give that<end_line>
+    medicine to Murno to make<end_line>
+    her feel better, <partner>?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -683,12 +710,12 @@
       ミューノにあげたいってことね<end_line>
       <partner>？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     So, you're gonna give that<end_line>
     medicine to Murno to make<end_line>
     her feel better, <partner>?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -751,6 +778,11 @@
       ミューノにあげたいってことだよな<end_line>
       <partner>？<end_line>
     </sjis>
+    <ascii>
+    So, you're gonna give that<end_line>
+    medicine to Murno to make<end_line>
+    her feel better, <partner>?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -758,12 +790,12 @@
       ミューノにあげたいってことね<end_line>
       <partner>？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     So, you're gonna give that<end_line>
     medicine to Murno to make<end_line>
     her feel better, <partner>?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -938,6 +970,11 @@
       ミューノにあげたいってことだよな<end_line>
       <partner>？<end_line>
     </sjis>
+    <ascii>
+    So, you're gonna give that<end_line>
+    medicine to Murno to make<end_line>
+    her feel better, <partner>?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -945,12 +982,12 @@
       ミューノにあげたいってことね<end_line>
       <partner>？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     So, you're gonna give that<end_line>
     medicine to Murno to make<end_line>
     her feel better, <partner>?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">

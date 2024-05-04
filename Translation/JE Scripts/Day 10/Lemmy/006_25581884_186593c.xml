@@ -23,6 +23,11 @@
       迷ってちゃ<end_line>
       いい勝負はできないぜ<end_line>
     </sjis>
+    <ascii>
+    You know<three_dots><end_line>
+    If you hesitate,<end_line>
+    we can't have a good fight.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -30,12 +35,12 @@
       そんな風に迷ってたら<end_line>
       いい勝負はできないよ<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     You know<three_dots><end_line>
     If you hesitate,<end_line>
     we can't have a good fight.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -60,6 +65,11 @@
       勝負に集中してないっていうか<three_dots><end_line>
       アレだろ？　母親のことだろ？<end_line>
     </sjis>
+    <ascii>
+    How should I put this<three_dots><end_line>
+    It's like you can't focus<three_dots><end_line>
+    It's that, isn't it? Your mother?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -67,12 +77,12 @@
       勝負に集中してないっていうか<three_dots><end_line>
       アレでしょ？　お母さんのことでしょ？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     How should I put this<three_dots><end_line>
     It's like you can't focus<three_dots><end_line>
     It's that, isn't it? Your mother?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -97,6 +107,11 @@
       悩みがあんなら話してみろよ<end_line>
       スッキリするかもしれないぜ？<end_line>
     </sjis>
+    <ascii>
+    Why dont you try talking<end_line>
+    about your troubles?<end_line>
+    It might make you feel better.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -104,12 +119,12 @@
       悩みがあるなら話してみない？<end_line>
       スッキリするかもしれないよ<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Why dont you try talking<end_line>
     about your troubles?<end_line>
     It might make you feel better.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -131,17 +146,21 @@
       んで、スッキリしたら<end_line>
       もう１回勝負だ！<end_line>
     </sjis>
+    <ascii>
+    And once you're feeling better,<end_line>
+    we'll have another match!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       それでスッキリしたら<end_line>
       もう１回勝負よ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     And once you're feeling better,<end_line>
     we'll have another match!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -183,6 +202,11 @@
       お前は鍛冶職人の修行だろ？<end_line>
       どうしてだよ？<end_line>
     </sjis>
+    <ascii>
+    But look, your mother's a Summoner,<end_line>
+    and you're training as a smithy?<end_line>
+    Isn't that odd?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -190,12 +214,12 @@
       どうして鍛冶職人の修行してるの？<end_line>
       ヘンじゃない？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     But look, your mother's a Summoner,<end_line>
     and you're training as a smithy?<end_line>
     Isn't that odd?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -222,6 +246,10 @@
       だからお前も全部話しちまえば<end_line>
       いいんだよ<end_line>
     </sjis>
+    <ascii>
+    Is that so?<end_line>
+    See, it's okay to be open!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -229,11 +257,11 @@
       だからあなたも全部話しちゃえば<end_line>
       いいのよ<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Is that so?<end_line>
     See, it's okay to be open!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -591,6 +619,10 @@
       なんでそんな風に言えるんだよ？<end_line>
       お母さんからそう聞いたのか？<end_line>
     </sjis>
+    <ascii>
+    And how can you be so sure?<end_line>
+    You didn't ask her, did you?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -598,11 +630,11 @@
       お母さんからそう聞いたワケじゃ<end_line>
       ないんでしょ？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     And how can you be so sure?<end_line>
     You didn't ask her, did you?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -902,7 +934,7 @@
     I hate to admit it, but it's<end_line>
     as you said. I do feel better.<end_line>
     But the match will have to wait<three_dots><end_line>
-  </ascii>  
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="right">

@@ -6,17 +6,21 @@
       あれ？<end_line>
       <partner>、ドコ行くんだよ<end_line>
     </sjis>
+    <ascii>
+    Huh?<end_line>
+    <partner>, where are you going?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       あれ？<end_line>
       <partner>、ドコ行くの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Huh?<end_line>
     <partner>, where are you going?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -90,6 +94,11 @@
       そうだな<three_dots><end_line>
       わかったよ<end_line>
     </sjis>
+    <ascii>
+    Oh<three_dots><end_line>
+    Okay<three_dots><end_line>
+    Understood.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -97,12 +106,12 @@
       そうだね<three_dots><end_line>
       わかったよ<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Oh<three_dots><end_line>
     Okay<three_dots><end_line>
     Understood.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -249,17 +258,21 @@
       オレ<three_dots><end_line>
       そのナックルと勝負したいんだ<end_line>
     </sjis>
+    <ascii>
+    I<three_dots> want to fight<end_line>
+    against those knuckles.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       わたし<three_dots><end_line>
       そのナックルと勝負したいの<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I<three_dots> want to fight<end_line>
     against those knuckles.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <bigtext>
   <info box="right" effect="big">
@@ -282,6 +295,11 @@
       オレの武器がどこまで通用するか<end_line>
       知りたいんだ<end_line>
     </sjis>
+    <ascii>
+    I want to know how my<end_line>
+    weapons compare to one<end_line>
+    that Master Rob acknowledged.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -289,12 +307,12 @@
       わたしの武器がどこまで通用するか<end_line>
       知りたいの<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I want to know how my<end_line>
     weapons compare to one<end_line>
     that Master Rob acknowledged.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -374,15 +392,19 @@
       工房の前だね！<end_line>
       よっし！<end_line>
     </sjis>
+    <ascii>
+    Outside the workshop!<end_line>
+    Right!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       工房の前ね！<end_line>
       わかった！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Outside the workshop!<end_line>
     Right!<end_line>
   </ascii>
+  </female>
 </dialogue>

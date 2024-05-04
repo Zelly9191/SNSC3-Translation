@@ -17,15 +17,18 @@
     <sjis>
       やったぞ、ミューノ！<end_line>
     </sjis>
+    <ascii>
+    I did it, Murno!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       やったよ、ミューノ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I did it, Murno!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -300,6 +303,11 @@
       まさか、アニスといっしょにいた<end_line>
       召喚獣のことじゃ<three_dots><end_line>
     </sjis>
+    <ascii>
+    Magdrad<three_dots><end_line>
+    Could that be the Summon Beast<end_line>
+    that was with Anise<three_dots>?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -307,12 +315,12 @@
       まさか、アニスといっしょにいた<end_line>
       召喚獣のこと？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Magdrad<three_dots><end_line>
     Could that be the Summon Beast<end_line>
     that was with Anise<three_dots>?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -366,16 +374,19 @@
       それをあの女が<end_line>
       持ち出してたのか？<end_line>
     </sjis>
+    <ascii>
+    And Anise removed them?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       それをあの人が<end_line>
       持ち出したの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     And Anise removed them?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -480,15 +491,18 @@
     <sjis>
       なんだと！？<end_line>
     </sjis>
+    <ascii>
+    What!?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       なによ！？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     What!?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -591,17 +605,21 @@
       なんだと！？<end_line>
       そんなこと、あるわけないだろ！<end_line>
     </sjis>
+    <ascii>
+    What!?<end_line>
+    As if!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       なによ！？<end_line>
       そんなこと、あるわけないでしょ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     What!?<end_line>
     As if!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -707,14 +725,17 @@
       では、気をつけてな<end_line>
       ボウズ！<end_line>
     </sjis>
+    <ascii>
+    Well then, be careful kid!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       では、気をつけてな<end_line>
       じょうちゃん！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Well then, be careful kid!<end_line>
   </ascii>
+  </female>
 </dialogue>

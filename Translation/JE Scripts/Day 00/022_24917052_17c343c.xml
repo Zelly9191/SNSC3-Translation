@@ -55,15 +55,18 @@
     <sjis>
       その子を放せ！<end_line>
     </sjis>
+    <ascii>
+    Let go of the girl!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       その子を放して！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Let go of the girl!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -84,15 +87,18 @@
     <sjis>
       聞こえなかったのか？<end_line>
     </sjis>
+    <ascii>
+    Didn't hear me?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       聞こえなかった？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Didn't hear me?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -102,15 +108,18 @@
     <sjis>
       この子を放せって言ったんだ<end_line>
     </sjis>
+    <ascii>
+    I told you to let her go!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       この子を放せって言ったの<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I told you to let her go!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="nobox">
@@ -120,15 +129,18 @@
     <sjis>
       用なんてあるわけないだろ？<end_line>
     </sjis>
+    <ascii>
+    Not really.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       用なんてあるわけないじゃない<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Not really.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -159,15 +171,18 @@
     <sjis>
       お前たちにはな<end_line>
     </sjis>
+    <ascii>
+    Not with you guys, anyway.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       あんたたちにはね<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Not with you guys, anyway.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -190,6 +205,11 @@
       大事な用がね<end_line>
       だから放してくれよ？<end_line>
     </sjis>
+    <ascii>
+    Sorry, but I do need to talk to<end_line>
+    the girl. And it's important.<end_line>
+    So could you let her go?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -197,12 +217,12 @@
       大事な用がね<end_line>
       だから放してくれない？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Sorry, but I do need to talk to<end_line>
     the girl. And it's important.<end_line>
     So could you let her go?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -229,6 +249,11 @@
       男がよってたかって<end_line>
       女の子にからんで、カッコワリィ！<end_line>
     </sjis>
+    <ascii>
+    You're one to talk!<end_line>
+    Guys ganging up and picking<end_line>
+    on a girl, so lame!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -236,12 +261,12 @@
       男がよってたかって<end_line>
       女の子にからんで、カッコワルイ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     You're one to talk!<end_line>
     Guys ganging up and picking<end_line>
     on a girl, so lame!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -405,15 +430,18 @@
     <sjis>
       悪いけど、ダメだ<end_line>
     </sjis>
+    <ascii>
+    Sorry, but I can't do that.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       悪いけど、ダメだよ<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Sorry, but I can't do that.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -446,17 +474,21 @@
       今あんたを放っておくのは<end_line>
       カッコワルイからだ！<end_line>
     </sjis>
+    <ascii>
+    Because if I didn't step in now,<end_line>
+    that'd be really lame!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       今あなたを放っておくのは<end_line>
       カッコワルイもん！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Because if I didn't step in now,<end_line>
     that'd be really lame!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -490,15 +522,18 @@
     <sjis>
       あんたはこのオレが守る！<end_line>
     </sjis>
+    <ascii>
+    I'll be the one to protect you!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       あなたはこのわたしが守る！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I'll be the one to protect you!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">

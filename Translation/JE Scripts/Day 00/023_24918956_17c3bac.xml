@@ -68,15 +68,18 @@
     <sjis>
       これって大事なものなのか？<end_line>
     </sjis>
+    <ascii>
+    Is this important to you?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       これって大事なものなの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Is this important to you?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -100,17 +103,21 @@
       ああ、悪い悪い<end_line>
       すぐに返すよ<three_dots><end_line>
     </sjis>
+    <ascii>
+    Ah, sorry, sorry.<end_line>
+    I'll give it back right away<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       ああ、ごめんごめん<end_line>
       すぐに返すから<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Ah, sorry, sorry.<end_line>
     I'll give it back right away<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -514,17 +521,21 @@
       なに言ってンだ！<end_line>
       そんなこと<three_dots><end_line>
     </sjis>
+    <ascii>
+    What!?<end_line>
+    You can't<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       なに言ってるの！<end_line>
       そんなこと<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     What!?<end_line>
     You can't<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -665,6 +676,11 @@
       声が<three_dots><end_line>
       さっきの石から<three_dots>？<end_line>
     </sjis>
+    <ascii>
+    What the<three_dots>?<end_line>
+    A voice<three_dots><end_line>
+    Coming from the stone<three_dots>?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -672,12 +688,12 @@
       声が<three_dots><end_line>
       さっきの石から<three_dots>？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     What the<three_dots>?<end_line>
     A voice<three_dots><end_line>
     Coming from the stone<three_dots>?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">

@@ -29,6 +29,11 @@
       武器を準備してからだな<end_line>
       材料もそろったし、工房に行こう<end_line>
     </sjis>
+    <ascii>
+    I need a weapon if I'm going<end_line>
+    to leave the village. I have the<end_line>
+    materials, I just need to craft it.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -36,12 +41,12 @@
       武器を準備してからだね<end_line>
       材料もそろったし、工房に行こう<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I need a weapon if I'm going<end_line>
     to leave the village. I have the<end_line>
     materials, I just need to craft it.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">

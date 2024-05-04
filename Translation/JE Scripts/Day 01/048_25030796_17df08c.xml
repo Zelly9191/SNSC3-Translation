@@ -106,6 +106,11 @@
       ちゃんとザックの薬のんだのか？<end_line>
       約束だぜ？<end_line>
     </sjis>
+    <ascii>
+    It's okay if you're feeling better.<end_line>
+    Did you drink Zakk's medicine?<end_line>
+    You promised, you know.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -113,12 +118,12 @@
       ちゃんとザックの薬のんだ？<end_line>
       約束だよ？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     It's okay if you're feeling better.<end_line>
     Did you drink Zakk's medicine?<end_line>
     You promised, you know.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -140,17 +145,21 @@
       じゃあ、それが効いたんだな<end_line>
       ザックもよろこぶぞ<end_line>
     </sjis>
+    <ascii>
+    I guess it worked then.<end_line>
+    Zakk will be happy to hear that.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       じゃあ、それが効いたんだね<end_line>
       ザックもよろこぶよ<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I guess it worked then.<end_line>
     Zakk will be happy to hear that.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -172,17 +181,21 @@
       でも、たおれるまで仕事とはね<end_line>
       お前も大変なんだなぁ<three_dots><end_line>
     </sjis>
+    <ascii>
+    But man, you work way too hard<three_dots><end_line>
+    I guess you've got your reasons.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       でも、たおれるまで仕事とは<three_dots><end_line>
       あなたも大変なんだね<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     But man, you work way too hard<three_dots><end_line>
     I guess you've got your reasons.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -229,6 +242,10 @@
       なんだよ、その言い方<end_line>
       知らないから聞いただけだろ？<end_line>
     </sjis>
+    <ascii>
+    Hey, calm down.<end_line>
+    I was just curious<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -236,11 +253,11 @@
       なによ、その言い方<end_line>
       知らないから聞いただけでしょ？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Hey, calm down.<end_line>
     I was just curious<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">

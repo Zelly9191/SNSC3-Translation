@@ -6,17 +6,21 @@
       あれ？<end_line>
       <partner>、ドコ行くんだよ<end_line>
     </sjis>
+    <ascii>
+    Huh?<end_line>
+    <partner>, where are you going?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       あれ？<end_line>
       <partner>、ドコ行くの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Huh?<end_line>
     <partner>, where are you going?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -90,6 +94,11 @@
       そうだな<three_dots><end_line>
       わかったよ<end_line>
     </sjis>
+    <ascii>
+    Oh<three_dots><end_line>
+    Okay<three_dots><end_line>
+    Understood.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -97,12 +106,12 @@
       そうだね<three_dots><end_line>
       わかったよ<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Oh<three_dots><end_line>
     Okay<three_dots><end_line>
     Understood.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -136,16 +145,19 @@
       そっか<end_line>
       そうだったな<end_line>
     </sjis>
+    <ascii>
+    Oh, right.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       そっか<end_line>
       そうだったね<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Oh, right.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <choice>
   <info box="left">
@@ -177,17 +189,21 @@
       準備するから<end_line>
       ちょっと待っててくれよ<end_line>
     </sjis>
+    <ascii>
+    I need to get ready,<end_line>
+    wait a moment.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       準備するから<end_line>
       ちょっと待ってて<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I need to get ready,<end_line>
     wait a moment.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">

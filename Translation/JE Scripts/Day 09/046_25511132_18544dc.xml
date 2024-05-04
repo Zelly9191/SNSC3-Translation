@@ -19,17 +19,21 @@
       待っていたのか？<end_line>
       オレたちを<three_dots><end_line>
     </sjis>
+    <ascii>
+    Waiting?<end_line>
+    For us<three_dots>?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       待っていたの？<end_line>
       わたしたちを<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Waiting?<end_line>
     For us<three_dots>?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -149,6 +153,11 @@
       ミューノを助ける方が大事なんだ<end_line>
       あんたには付き合ってられないよ<end_line>
     </sjis>
+    <ascii>
+    Sorry, but right now, saving Murno<end_line>
+    is more important. We don't have<end_line>
+    time to play with you.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -156,12 +165,12 @@
       ミューノを助ける方が大事なの<end_line>
       あんたに付き合ってるヒマはないよ<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Sorry, but right now, saving Murno<end_line>
     is more important. We don't have<end_line>
     time to play with you.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -172,17 +181,21 @@
       なんだと、こぞう<three_dots><end_line>
       なめるなよ！<end_line>
     </sjis>
+    <ascii>
+    The fuck, you brat<three_dots><end_line>
+    Don't underestimate me!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       なんだと、きさま<three_dots><end_line>
       なめるなよ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     The fuck, you brat<three_dots><end_line>
     Don't underestimate me!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -209,6 +222,11 @@
       じゃあ、お前をぶったおして<end_line>
       ミューノのとこまで案内してもらうぜ<end_line>
     </sjis>
+    <ascii>
+    Alright, fine!<end_line>
+    You'll tell us where she is,<end_line>
+    after I beat the crap out of you.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -216,12 +234,12 @@
       それじゃあ、あんたをたおして<end_line>
       ミューノのとこまで案内してもらうわ<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Alright, fine!<end_line>
     You'll tell us where she is,<end_line>
     after I beat the crap out of you.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -248,6 +266,11 @@
       お前にはまだ聞きたいことが<end_line>
       あるんだ！<end_line>
     </sjis>
+    <ascii>
+    Oh, shut up!<end_line>
+    I still have things<end_line>
+    I want to ask you!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -255,12 +278,12 @@
       あんたにはまだ聞きたいことが<end_line>
       あるのよ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Oh, shut up!<end_line>
     I still have things<end_line>
     I want to ask you!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -284,16 +307,19 @@
       ザックにケガさせたのは<end_line>
       お前か？<end_line>
     </sjis>
+    <ascii>
+    Are you the one who hurt Zakk?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       ザックにケガさせたのって<end_line>
       あんた？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Are you the one who hurt Zakk?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -316,13 +342,16 @@
     <sjis>
       手加減しねぇってことだ！<end_line>
     </sjis>
+    <ascii>
+    Then I won't hold back!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       手加減しないってことよ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Then I won't hold back!<end_line>
   </ascii>
+  </female>
 </dialogue>

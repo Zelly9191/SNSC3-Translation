@@ -195,6 +195,10 @@
       この人たちの言ってること<end_line>
       信じてるんですか？<end_line>
     </sjis>
+    <ascii>
+    Do all of you seriously believe<end_line>
+    what <player_nickname> just said?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -202,11 +206,11 @@
       この人たちの言ってること<end_line>
       信じてるんですか？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Do all of you seriously believe<end_line>
     what <player_nickname> just said?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -218,6 +222,10 @@
       オレたちがウソついてるって<end_line>
       言うのかよ！<end_line>
     </sjis>
+    <ascii>
+    What was that!?<end_line>
+    Are you calling me a liar!?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -225,11 +233,11 @@
       わたしたちがウソついてるって<end_line>
       言うの！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     What was that!?<end_line>
     Are you calling me a liar!?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -414,6 +422,10 @@
       オレたちは絶対<end_line>
       ウソなんかついてない！<end_line>
     </sjis>
+    <ascii>
+    But<three_dots>!<end_line>
+    I'm not lying!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -421,11 +433,11 @@
       わたしたちは絶対<end_line>
       ウソなんかついてないわよ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     But<three_dots>!<end_line>
     I'm not lying!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">

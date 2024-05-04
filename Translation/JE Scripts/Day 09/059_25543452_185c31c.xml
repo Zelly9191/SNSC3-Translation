@@ -5,15 +5,18 @@
     <sjis>
       お、ヒーロー発見！<end_line>
     </sjis>
+    <ascii>
+    Oh, there's our hero!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       お、ヒロイン発見！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Oh, there's our hero!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -60,6 +63,11 @@
       そんなにオレのこと、ほめるなんて<end_line>
       なんだか気持ち悪いよ<end_line>
     </sjis>
+    <ascii>
+    Wait<three_dots> What's wrong, Master?<end_line>
+    It's kind of creepy for you to<end_line>
+    praise me so much.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -67,12 +75,12 @@
       そんなにわたしのこと、ほめるなんて<end_line>
       なんだか気持ち悪いよ<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Wait<three_dots> What's wrong, Master?<end_line>
     It's kind of creepy for you to<end_line>
     praise me so much.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -127,6 +135,11 @@
       悪い男になったんだい<end_line>
       <player_nickname><three_dots><end_line>
     </sjis>
+    <ascii>
+    Since when have you been<end_line>
+    such a horrible person?<end_line>
+    <player_nickname><three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -134,12 +147,12 @@
       ヒドイ女になったんだい<end_line>
       <player_nickname><three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Since when have you been<end_line>
     such a horrible person?<end_line>
     <player_nickname><three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -149,15 +162,18 @@
     <sjis>
       なんだよ、それ<three_dots><end_line>
     </sjis>
+    <ascii>
+    What the<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       なによ、それ<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     What the<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">

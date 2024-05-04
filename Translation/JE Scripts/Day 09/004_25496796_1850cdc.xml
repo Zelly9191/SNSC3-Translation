@@ -125,17 +125,21 @@
       ならないわね<three_dots>って<end_line>
       お前も来るつもりなのか？<end_line>
     </sjis>
+    <ascii>
+    Right<three_dots> wait,<end_line>
+    you're helping too?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       ならないわね<three_dots>って<end_line>
       あなたも来るつもりなの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Right<three_dots> wait,<end_line>
     you're helping too?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">

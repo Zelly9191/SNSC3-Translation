@@ -161,13 +161,16 @@
     <sjis>
       <three_dots>さっぱりわからん<end_line>
     </sjis>
+    <ascii>
+    <three_dots>I can't tell at all<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       <three_dots>全然わかんないよ<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     <three_dots>I can't tell at all<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>

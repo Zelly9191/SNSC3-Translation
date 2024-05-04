@@ -59,18 +59,23 @@
       そんなに勝ちたちゃ<end_line>
       強い技を使えばよかったのに<end_line>
     </sjis>
+    <ascii>
+    If you wanted to win that badly,<end_line>
+    you should have used your<end_line>
+    strongest moves.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       そんなに勝ちたいなら<end_line>
       強い技を使えばよかったのに<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     If you wanted to win that badly,<end_line>
     you should have used your<end_line>
     strongest moves.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -167,17 +172,21 @@
       だってけっこう<end_line>
       コワがってただろ？<end_line>
     </sjis>
+    <ascii>
+    You did look pretty<end_line>
+    scared, you know?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       だってけっこう<end_line>
       コワがってたでしょ？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     You did look pretty<end_line>
     scared, you know?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -199,17 +208,21 @@
       どっちなんだよ<end_line>
       コワがりじゃなかったのか？<end_line>
     </sjis>
+    <ascii>
+    Which is it,<end_line>
+    are you a coward or not?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       どっちなのよ<end_line>
       コワがりじゃなかったの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Which is it,<end_line>
     are you a coward or not?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -247,15 +260,18 @@
     <sjis>
       そうだったのか<three_dots><end_line>
     </sjis>
+    <ascii>
+    Is that so<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       そうだったんだ<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Is that so<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
