@@ -151,10 +151,10 @@ def main():
     # search for xml files:
     print("Scanning dir: [" + args.dir + "] for .xml files")
     # use this for testing and debugging
-    XmlList = []
-    XmlList.append("./Tests/test2.xml")
+    # XmlList = []
+    # XmlList.append("./Tests/test2.xml")
     # use this for real list from directory
-    # XmlList = Get_file_list(args.dir, ".xml")
+    XmlList = Get_file_list(args.dir, ".xml")
     # search through file list
 
     print(f"searching for missing EN translations in {len(XmlList)} files.")
