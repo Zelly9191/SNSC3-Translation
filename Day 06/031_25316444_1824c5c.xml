@@ -28,17 +28,21 @@
       大丈夫か！？<end_line>
       どうして、こんなところに！？<end_line>
     </sjis>
+    <ascii>
+    Are you okay!?<end_line>
+    Why are you here!?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       大丈夫！？<end_line>
       なんで、ここに！？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Are you okay!?<end_line>
     Why are you here!?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -136,15 +140,18 @@
     <sjis>
       ケガ、してるのか？<end_line>
     </sjis>
+    <ascii>
+    Are you hurt?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       ケガ、してるの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Are you hurt?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -181,17 +188,21 @@
       ちょっと待って<end_line>
       ティエ、オレたちは<three_dots><end_line>
     </sjis>
+    <ascii>
+    Sorry, not yet.<end_line>
+    Tier, we're<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       ちょっと待ってよ<end_line>
       ティエ、わたしたちは<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Sorry, not yet.<end_line>
     Tier, we're<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -311,17 +322,21 @@
       ティエをこのままにしとく<end_line>
       わけにはいかないからな<end_line>
     </sjis>
+    <ascii>
+    I won't leave you<end_line>
+    here alone, Tier.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       ティエをこのままにしとく<end_line>
       わけにはいかないからね<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I won't leave you<end_line>
     here alone, Tier.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -370,6 +385,11 @@
       今はミューノが大変なんだ！<end_line>
       早く行かないと！<end_line>
     </sjis>
+    <ascii>
+    I'm sorry, Tier.<end_line>
+    Murno is in danger!<end_line>
+    I have to help her!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -377,12 +397,12 @@
       今はミューノが大変なの！<end_line>
       早く行かないと！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I'm sorry, Tier.<end_line>
     Murno is in danger!<end_line>
     I have to help her!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -406,17 +426,21 @@
       なんだよ、それ<end_line>
       今はそういうこと<three_dots><end_line>
     </sjis>
+    <ascii>
+    Come on,<end_line>
+    now's not the time<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       なによ、それ<end_line>
       今はそういうこと<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Come on,<end_line>
     now's not the time<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -441,6 +465,11 @@
       おちつけよ！<end_line>
       ちょっと待てって！？<end_line>
     </sjis>
+    <ascii>
+    Hey, Tier,<end_line>
+    calm down!<end_line>
+    W-wait!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -448,10 +477,10 @@
       おちついてよ！<end_line>
       ねぇ、待ってってば！？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Hey, Tier,<end_line>
     calm down!<end_line>
     W-wait!<end_line>
   </ascii>
+  </female>
 </dialogue>

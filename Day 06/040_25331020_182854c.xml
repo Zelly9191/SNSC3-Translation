@@ -180,6 +180,11 @@
       仲間<three_dots>？<end_line>
       な<three_dots>、なに言ってるんだ<three_dots><end_line>
     </sjis>
+    <ascii>
+    Murno<three_dots><end_line>
+    You're Voijin's accomplice<three_dots>?<end_line>
+    Wha<three_dots> What are you saying<three_dots>?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -187,12 +192,12 @@
       仲間<three_dots>？<end_line>
       な<three_dots>、なに言ってるの<three_dots>？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Murno<three_dots><end_line>
     You're Voijin's accomplice<three_dots>?<end_line>
     Wha<three_dots> What are you saying<three_dots>?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -468,6 +473,10 @@
       仲間<three_dots>？<end_line>
       な<three_dots>、なに言ってるんだ<three_dots><end_line>
     </sjis>
+    <ascii>
+    You're Voijin's accomplice<three_dots>?<end_line>
+    Wha<three_dots> What are you saying<three_dots>?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -475,11 +484,11 @@
       仲間<three_dots>？<end_line>
       な<three_dots>、なに言ってるの<three_dots>？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     You're Voijin's accomplice<three_dots>?<end_line>
     Wha<three_dots> What are you saying<three_dots>?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -754,6 +763,10 @@
       仲間<three_dots>？<end_line>
       な<three_dots>、なに言ってるんだ<three_dots><end_line>
     </sjis>
+    <ascii>
+    You're Voijin's accomplice<three_dots>?<end_line>
+    Wha<three_dots> What are you saying<three_dots>?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -761,11 +774,11 @@
       仲間<three_dots>？<end_line>
       な<three_dots>、なに言ってるの<three_dots>？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     You're Voijin's accomplice<three_dots>?<end_line>
     Wha<three_dots> What are you saying<three_dots>?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -1041,6 +1054,10 @@
       仲間<three_dots>？<end_line>
       な<three_dots>、なに言ってるんだ<three_dots><end_line>
     </sjis>
+    <ascii>
+    You're Voijin's accomplice<three_dots>?<end_line>
+    Wha<three_dots> What are you saying<three_dots>?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -1048,11 +1065,11 @@
       仲間<three_dots>？<end_line>
       な<three_dots>、なに言ってるの<three_dots>？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     You're Voijin's accomplice<three_dots>?<end_line>
     Wha<three_dots> What are you saying<three_dots>?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">

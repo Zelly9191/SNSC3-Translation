@@ -161,21 +161,25 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			アニスを連れてくるように<end_line>
 			牢屋の番人に伝えなきゃ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			アニスを連れてくるように<end_line>
-			牢屋の番人さんに伝えなきゃ！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     I need to convince the<end_line>
     jailer to let Anise out!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			アニスを連れてくるように<end_line>
+			牢屋の番人さんに伝えなきゃ！<end_line>
+		</sjis>
+    <ascii>
+    I need to convince the<end_line>
+    jailer to let Anise out!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -213,18 +217,21 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			やるしかないんだ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			やるしかないでしょ！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     We have to try!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			やるしかないでしょ！<end_line>
+		</sjis>
+    <ascii>
+    We have to try!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -232,21 +239,25 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			アニスを連れてくるように<end_line>
 			牢屋の番人に伝えなきゃ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			アニスを連れてくるように<end_line>
-			牢屋の番人さんに伝えなきゃ！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     I need to convince the<end_line>
     jailer to let Anise out!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			アニスを連れてくるように<end_line>
+			牢屋の番人さんに伝えなきゃ！<end_line>
+		</sjis>
+    <ascii>
+    I need to convince the<end_line>
+    jailer to let Anise out!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -284,18 +295,21 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="partner" eye="decided" mouth="tense">
 	<male>
-		<sjis>
+    <sjis>
 			やるしかないんだ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			やるしかないでしょ！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     We have to try!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			やるしかないでしょ！<end_line>
+		</sjis>
+    <ascii>
+    We have to try!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -303,21 +317,25 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			アニスを連れてくるように<end_line>
 			牢屋の番人に伝えなきゃ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			アニスを連れてくるように<end_line>
-			牢屋の番人さんに伝えなきゃ！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     I need to convince the<end_line>
     jailer to let Anise out!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			アニスを連れてくるように<end_line>
+			牢屋の番人さんに伝えなきゃ！<end_line>
+		</sjis>
+    <ascii>
+    I need to convince the<end_line>
+    jailer to let Anise out!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -355,39 +373,46 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			やるしかないんだ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			やるしかないでしょ！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     We have to try!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			やるしかないでしょ！<end_line>
+		</sjis>
+    <ascii>
+    We have to try!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-		<sjis>
+    <sjis>
 			アニスを連れてくるように<end_line>
 			牢屋の番人に伝えなきゃ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			アニスを連れてくるように<end_line>
-			牢屋の番人さんに伝えなきゃ！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     I need to convince the<end_line>
     jailer to let Anise out!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			アニスを連れてくるように<end_line>
+			牢屋の番人さんに伝えなきゃ！<end_line>
+		</sjis>
+    <ascii>
+    I need to convince the<end_line>
+    jailer to let Anise out!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -422,18 +447,21 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-		<sjis>
+    <sjis>
 			やるしかないんだ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			やるしかないでしょ！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     We have to try!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			やるしかないでしょ！<end_line>
+		</sjis>
+    <ascii>
+    We have to try!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -628,21 +656,25 @@
 	<portrait_l entry="player" eye="serious" mouth="tense">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			トラムたちが村の出口で待ってる<end_line>
 			とりあえず、帰ろう<three_dots><end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			トラムたちが村の出口で待ってるよ<end_line>
-			とりあえず、帰ろう<three_dots><end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Tram and the others are waiting<end_line>
     for us at the gate<three_dots><end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			トラムたちが村の出口で待ってるよ<end_line>
+			とりあえず、帰ろう<three_dots><end_line>
+		</sjis>
+    <ascii>
+    Tram and the others are waiting<end_line>
+    for us at the gate<three_dots><end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -686,7 +718,7 @@
   <ascii>
     Finally.<end_line>
     I'm sick of this place.<end_line>
-  </ascii> 
+  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -709,18 +741,21 @@
 	<portrait_l entry="player" eye="sad" mouth="serious">
 	<portrait_r entry="partner" eye="serious" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			アニスも逃がしちゃったしな<three_dots><end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			アニスも逃がしちゃったしね<three_dots><end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Anise ran away<three_dots><end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			アニスも逃がしちゃったしね<three_dots><end_line>
+		</sjis>
+    <ascii>
+    Anise ran away<three_dots><end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -755,24 +790,29 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="serious" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			親方に怒られるのはイヤだけど<end_line>
 			とにかくプロスバンの町に戻るしか<end_line>
 			ないみたいだ<three_dots><end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			親方に怒られるのはイヤだけど<end_line>
-			とにかくプロスバンの町に戻るしか<end_line>
-			ないみたい<three_dots><end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     I don't really want to have<end_line>
     Master scold me, but we have to<end_line>
     go back to Prosban eventually<three_dots><end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			親方に怒られるのはイヤだけど<end_line>
+			とにかくプロスバンの町に戻るしか<end_line>
+			ないみたい<three_dots><end_line>
+		</sjis>
+    <ascii>
+    I don't really want to have<end_line>
+    Master scold me, but we have to<end_line>
+    go back to Prosban eventually<three_dots><end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -865,21 +905,25 @@
 	<portrait_l entry="player" eye="serious" mouth="tense">
 	<portrait_r entry="partner" eye="serious" mouth="tense">
 	<male>
-		<sjis>
+    <sjis>
 			誰かがオレをさがしてるみたいだ<end_line>
 			誰だろう<three_dots><end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			誰かがわたしをさがしてるみたい<end_line>
-			誰だろう<three_dots><end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     I heard someone looking for me.<end_line>
     I wonder who it is<three_dots><end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			誰かがわたしをさがしてるみたい<end_line>
+			誰だろう<three_dots><end_line>
+		</sjis>
+    <ascii>
+    I heard someone looking for me.<end_line>
+    I wonder who it is<three_dots><end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">

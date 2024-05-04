@@ -155,6 +155,10 @@
       忘れたも何も<end_line>
       言ってることがメチャクチャだ！<end_line>
     </sjis>
+    <ascii>
+    Forget what?<end_line>
+    You're not making any sense!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -162,11 +166,11 @@
       言ってることが<end_line>
       メチャクチャだよ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Forget what?<end_line>
     You're not making any sense!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">

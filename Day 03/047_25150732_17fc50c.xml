@@ -313,15 +313,18 @@
     <sjis>
       お前、まだその話を<three_dots>！？<end_line>
     </sjis>
+    <ascii>
+    This again<three_dots>!?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       あなた、まだその話を<three_dots>！？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     This again<three_dots>!?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <player gender="male">
@@ -622,15 +625,18 @@
     <sjis>
       どうしてそうなるんだよ！<end_line>
     </sjis>
+    <ascii>
+    It's not like that!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       どうしてそうなるの！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     It's not like that!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">

@@ -36,24 +36,29 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			うん！<end_line>
 			どんな手がかりも<end_line>
 			見落とさないぞ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			うん！<end_line>
-			どんな手がかりも<end_line>
-			見落とさないんだから！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Right!<end_line>
     Keep your eyes peeled!<end_line>
     We can't miss a thing!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			うん！<end_line>
+			どんな手がかりも<end_line>
+			見落とさないんだから！<end_line>
+		</sjis>
+    <ascii>
+    Right!<end_line>
+    Keep your eyes peeled!<end_line>
+    We can't miss a thing!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -93,24 +98,29 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			うん！<end_line>
 			どんな手がかりも<end_line>
 			見落とさないぞ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			うん！<end_line>
-			どんな手がかりも<end_line>
-			見落とさないんだから！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Right!<end_line>
     Keep your eyes peeled!<end_line>
     We can't miss a thing!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			うん！<end_line>
+			どんな手がかりも<end_line>
+			見落とさないんだから！<end_line>
+		</sjis>
+    <ascii>
+    Right!<end_line>
+    Keep your eyes peeled!<end_line>
+    We can't miss a thing!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -150,24 +160,29 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="talk">
 	<male>
-		<sjis>
+    <sjis>
 			うん！<end_line>
 			どんな手がかりも<end_line>
 			見落とさないぞ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			うん！<end_line>
-			どんな手がかりも<end_line>
-			見落とさないんだから！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Right!<end_line>
     Keep your eyes peeled!<end_line>
     We can't miss a thing!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			うん！<end_line>
+			どんな手がかりも<end_line>
+			見落とさないんだから！<end_line>
+		</sjis>
+    <ascii>
+    Right!<end_line>
+    Keep your eyes peeled!<end_line>
+    We can't miss a thing!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -204,24 +219,29 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-		<sjis>
+    <sjis>
 			うん！<end_line>
 			どんな手がかりも<end_line>
 			見落とさないぞ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			うん！<end_line>
-			どんな手がかりも<end_line>
-			見落とさないんだから！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Right!<end_line>
     Keep your eyes peeled!<end_line>
     We can't miss a thing!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			うん！<end_line>
+			どんな手がかりも<end_line>
+			見落とさないんだから！<end_line>
+		</sjis>
+    <ascii>
+    Right!<end_line>
+    Keep your eyes peeled!<end_line>
+    We can't miss a thing!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -229,24 +249,29 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="sad" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			アニスたちはスレンジ採掘場の<end_line>
 			どこかにいるみたいだ<end_line>
 			さがしに行こう！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			アニスたちはスレンジ採掘場の<end_line>
-			どこかにいるみたいだよ<end_line>
-			さがしに行こう！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Anise seems to be hiding<end_line>
     somewhere in Slenj Mine.<end_line>
     Let's check it out!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			アニスたちはスレンジ採掘場の<end_line>
+			どこかにいるみたいだよ<end_line>
+			さがしに行こう！<end_line>
+		</sjis>
+    <ascii>
+    Anise seems to be hiding<end_line>
+    somewhere in Slenj Mine.<end_line>
+    Let's check it out!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -282,24 +307,29 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="sad" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			アニスたちはスレンジ採掘場の<end_line>
 			どこかにいるみたいだ<end_line>
 			さがしに行こう！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			アニスたちはスレンジ採掘場の<end_line>
-			どこかにいるみたいだよ<end_line>
-			さがしに行こう！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Anise seems to be hiding<end_line>
     somewhere in Slenj Mine.<end_line>
     Let's check it out!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			アニスたちはスレンジ採掘場の<end_line>
+			どこかにいるみたいだよ<end_line>
+			さがしに行こう！<end_line>
+		</sjis>
+    <ascii>
+    Anise seems to be hiding<end_line>
+    somewhere in Slenj Mine.<end_line>
+    Let's check it out!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -363,24 +393,29 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="sad" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			アニスたちはスレンジ採掘場の<end_line>
 			どこかにいるみたいだ<end_line>
 			さがしに行こう！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			アニスたちはスレンジ採掘場の<end_line>
-			どこかにいるみたいだよ<end_line>
-			さがしに行こう！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Anise seems to be hiding<end_line>
     somewhere in Slenj Mine.<end_line>
     Let's check it out!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			アニスたちはスレンジ採掘場の<end_line>
+			どこかにいるみたいだよ<end_line>
+			さがしに行こう！<end_line>
+		</sjis>
+    <ascii>
+    Anise seems to be hiding<end_line>
+    somewhere in Slenj Mine.<end_line>
+    Let's check it out!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -415,24 +450,29 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-		<sjis>
+    <sjis>
 			アニスたちはスレンジ採掘場の<end_line>
 			どこかにいるみたいだ<end_line>
 			さがしに行こう！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			アニスたちはスレンジ採掘場の<end_line>
-			どこかにいるみたいだよ<end_line>
-			さがしに行こう！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Anise seems to be hiding<end_line>
     somewhere in Slenj Mine.<end_line>
     Let's check it out!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			アニスたちはスレンジ採掘場の<end_line>
+			どこかにいるみたいだよ<end_line>
+			さがしに行こう！<end_line>
+		</sjis>
+    <ascii>
+    Anise seems to be hiding<end_line>
+    somewhere in Slenj Mine.<end_line>
+    Let's check it out!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -466,24 +506,29 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="sad" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			アニスたちはスレンジ採掘場の<end_line>
 			どこかにいるみたいだ<end_line>
 			さがしに行こう！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			アニスたちはスレンジ採掘場の<end_line>
-			どこかにいるみたいだよ<end_line>
-			さがしに行こう！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Anise seems to be hiding<end_line>
     somewhere in Slenj Mine.<end_line>
     Let's check it out!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			アニスたちはスレンジ採掘場の<end_line>
+			どこかにいるみたいだよ<end_line>
+			さがしに行こう！<end_line>
+		</sjis>
+    <ascii>
+    Anise seems to be hiding<end_line>
+    somewhere in Slenj Mine.<end_line>
+    Let's check it out!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -519,24 +564,29 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="sad" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			アニスたちはスレンジ採掘場の<end_line>
 			どこかにいるみたいだ<end_line>
 			さがしに行こう！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			アニスたちはスレンジ採掘場の<end_line>
-			どこかにいるみたいだよ<end_line>
-			さがしに行こう！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Anise seems to be hiding<end_line>
     somewhere in Slenj Mine.<end_line>
     Let's check it out!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			アニスたちはスレンジ採掘場の<end_line>
+			どこかにいるみたいだよ<end_line>
+			さがしに行こう！<end_line>
+		</sjis>
+    <ascii>
+    Anise seems to be hiding<end_line>
+    somewhere in Slenj Mine.<end_line>
+    Let's check it out!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -600,24 +650,29 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="sad" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			アニスたちはスレンジ採掘場の<end_line>
 			どこかにいるみたいだ<end_line>
 			さがしに行こう！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			アニスたちはスレンジ採掘場の<end_line>
-			どこかにいるみたいだよ<end_line>
-			さがしに行こう！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Anise seems to be hiding<end_line>
     somewhere in Slenj Mine.<end_line>
     Let's check it out!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			アニスたちはスレンジ採掘場の<end_line>
+			どこかにいるみたいだよ<end_line>
+			さがしに行こう！<end_line>
+		</sjis>
+    <ascii>
+    Anise seems to be hiding<end_line>
+    somewhere in Slenj Mine.<end_line>
+    Let's check it out!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -652,24 +707,29 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-		<sjis>
+    <sjis>
 			アニスたちはスレンジ採掘場の<end_line>
 			どこかにいるみたいだ<end_line>
 			さがしに行こう！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			アニスたちはスレンジ採掘場の<end_line>
-			どこかにいるみたいだよ<end_line>
-			さがしに行こう！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Anise seems to be hiding<end_line>
     somewhere in Slenj Mine.<end_line>
     Let's check it out!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			アニスたちはスレンジ採掘場の<end_line>
+			どこかにいるみたいだよ<end_line>
+			さがしに行こう！<end_line>
+		</sjis>
+    <ascii>
+    Anise seems to be hiding<end_line>
+    somewhere in Slenj Mine.<end_line>
+    Let's check it out!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -703,24 +763,29 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="partner" eye="sad" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			やっぱりアニスたちは<end_line>
 			スレンジ採掘場にいるみたいだ<end_line>
 			奥に行ってみよう！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			やっぱりアニスたちは<end_line>
-			スレンジ採掘場にいるみたい<end_line>
-			奥に行ってみよう！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     So Anise was hiding in<end_line>
     Slenj Mine after all.<end_line>
     Let's check inside!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			やっぱりアニスたちは<end_line>
+			スレンジ採掘場にいるみたい<end_line>
+			奥に行ってみよう！<end_line>
+		</sjis>
+    <ascii>
+    So Anise was hiding in<end_line>
+    Slenj Mine after all.<end_line>
+    Let's check inside!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -742,21 +807,25 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			そうだな<end_line>
 			気をつけないと<three_dots><end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			そうだね<end_line>
-			気をつけないと<three_dots><end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Right.<end_line>
     I'll have to watch out<three_dots><end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			そうだね<end_line>
+			気をつけないと<three_dots><end_line>
+		</sjis>
+    <ascii>
+    Right.<end_line>
+    I'll have to watch out<three_dots><end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -764,24 +833,29 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="partner" eye="sad" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			やっぱりアニスたちは<end_line>
 			スレンジ採掘場にいるみたいだ<end_line>
 			奥に行ってみよう！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			やっぱりアニスたちは<end_line>
-			スレンジ採掘場にいるみたい<end_line>
-			奥に行ってみよう！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     So Anise was hiding in<end_line>
     Slenj Mine after all.<end_line>
     Let's check inside!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			やっぱりアニスたちは<end_line>
+			スレンジ採掘場にいるみたい<end_line>
+			奥に行ってみよう！<end_line>
+		</sjis>
+    <ascii>
+    So Anise was hiding in<end_line>
+    Slenj Mine after all.<end_line>
+    Let's check inside!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -805,21 +879,25 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="tense">
 	<male>
-		<sjis>
+    <sjis>
 			そうだな<end_line>
 			シンチョウに行こう<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			そうだね<end_line>
-			シンチョウに行こう<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Right.<end_line>
     I'll be careful.<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			そうだね<end_line>
+			シンチョウに行こう<end_line>
+		</sjis>
+    <ascii>
+    Right.<end_line>
+    I'll be careful.<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -827,24 +905,29 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="partner" eye="sad" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			やっぱりアニスたちは<end_line>
 			スレンジ採掘場にいるみたいだ<end_line>
 			奥に行ってみよう！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			やっぱりアニスたちは<end_line>
-			スレンジ採掘場にいるみたい<end_line>
-			奥に行ってみよう！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     So Anise was hiding in<end_line>
     Slenj Mine after all.<end_line>
     Let's check inside!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			やっぱりアニスたちは<end_line>
+			スレンジ採掘場にいるみたい<end_line>
+			奥に行ってみよう！<end_line>
+		</sjis>
+    <ascii>
+    So Anise was hiding in<end_line>
+    Slenj Mine after all.<end_line>
+    Let's check inside!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -881,24 +964,29 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-		<sjis>
+    <sjis>
 			やっぱりアニスたちは<end_line>
 			スレンジ採掘場にいるみたいだ<end_line>
 			奥に行ってみよう！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			やっぱりアニスたちは<end_line>
-			スレンジ採掘場にいるみたい<end_line>
-			奥に行ってみよう！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     So Anise was hiding in<end_line>
     Slenj Mine after all.<end_line>
     Let's check inside!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			やっぱりアニスたちは<end_line>
+			スレンジ採掘場にいるみたい<end_line>
+			奥に行ってみよう！<end_line>
+		</sjis>
+    <ascii>
+    So Anise was hiding in<end_line>
+    Slenj Mine after all.<end_line>
+    Let's check inside!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -920,21 +1008,25 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-		<sjis>
+    <sjis>
 			そうだな<end_line>
 			シンチョウに行こう<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			そうだね<end_line>
-			シンチョウに行こう<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Right.<end_line>
     I'll be careful.<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			そうだね<end_line>
+			シンチョウに行こう<end_line>
+		</sjis>
+    <ascii>
+    Right.<end_line>
+    I'll be careful.<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -942,24 +1034,29 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="sad" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			やっぱりアニスたちは<end_line>
 			スレンジ採掘場にいるみたいだ<end_line>
 			奥に行ってみよう！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			やっぱりアニスたちは<end_line>
-			スレンジ採掘場にいるみたい<end_line>
-			奥に行ってみよう！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     So Anise was hiding in<end_line>
     Slenj Mine after all.<end_line>
     Let's check inside!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			やっぱりアニスたちは<end_line>
+			スレンジ採掘場にいるみたい<end_line>
+			奥に行ってみよう！<end_line>
+		</sjis>
+    <ascii>
+    So Anise was hiding in<end_line>
+    Slenj Mine after all.<end_line>
+    Let's check inside!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -997,24 +1094,29 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="sad" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			やっぱりアニスたちは<end_line>
 			スレンジ採掘場にいるみたいだ<end_line>
 			奥に行ってみよう！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			やっぱりアニスたちは<end_line>
-			スレンジ採掘場にいるみたい<end_line>
-			奥に行ってみよう！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     So Anise was hiding in<end_line>
     Slenj Mine after all.<end_line>
     Let's check inside!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			やっぱりアニスたちは<end_line>
+			スレンジ採掘場にいるみたい<end_line>
+			奥に行ってみよう！<end_line>
+		</sjis>
+    <ascii>
+    So Anise was hiding in<end_line>
+    Slenj Mine after all.<end_line>
+    Let's check inside!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1038,24 +1140,29 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="partner" eye="decided" mouth="tense">
 	<male>
-		<sjis>
+    <sjis>
 			そうだな<three_dots><end_line>
 			とにかくもう少し<end_line>
 			行ってみよう<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			そうだね<three_dots><end_line>
-			とにかくもう少し<end_line>
-			行ってみよう<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Right<three_dots><end_line>
     Nothing we can do now.<end_line>
     Moving on<three_dots><end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			そうだね<three_dots><end_line>
+			とにかくもう少し<end_line>
+			行ってみよう<end_line>
+		</sjis>
+    <ascii>
+    Right<three_dots><end_line>
+    Nothing we can do now.<end_line>
+    Moving on<three_dots><end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1063,24 +1170,29 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="sad" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			やっぱりアニスたちは<end_line>
 			スレンジ採掘場にいるみたいだ<end_line>
 			奥に行ってみよう！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			やっぱりアニスたちは<end_line>
-			スレンジ採掘場にいるみたい<end_line>
-			奥に行ってみよう！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     So Anise was hiding in<end_line>
     Slenj Mine after all.<end_line>
     Let's check inside!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			やっぱりアニスたちは<end_line>
+			スレンジ採掘場にいるみたい<end_line>
+			奥に行ってみよう！<end_line>
+		</sjis>
+    <ascii>
+    So Anise was hiding in<end_line>
+    Slenj Mine after all.<end_line>
+    Let's check inside!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1129,24 +1241,29 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-		<sjis>
+    <sjis>
 			やっぱりアニスたちは<end_line>
 			スレンジ採掘場にいるみたいだ<end_line>
 			奥に行ってみよう！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			やっぱりアニスたちは<end_line>
-			スレンジ採掘場にいるみたい<end_line>
-			奥に行ってみよう！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     So Anise was hiding in<end_line>
     Slenj Mine after all.<end_line>
     Let's check inside!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			やっぱりアニスたちは<end_line>
+			スレンジ採掘場にいるみたい<end_line>
+			奥に行ってみよう！<end_line>
+		</sjis>
+    <ascii>
+    So Anise was hiding in<end_line>
+    Slenj Mine after all.<end_line>
+    Let's check inside!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1168,24 +1285,29 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-		<sjis>
+    <sjis>
 			がんばれ、<partner><end_line>
 			とにかくもう少し<end_line>
 			行ってみよう<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			がんばって、<partner><end_line>
-			とにかくもう少し<end_line>
-			行ってみよう<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     It'll be fine, <partner>!<end_line>
     Anyways, let's keep<end_line>
     going further in.<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			がんばって、<partner><end_line>
+			とにかくもう少し<end_line>
+			行ってみよう<end_line>
+		</sjis>
+    <ascii>
+    It'll be fine, <partner>!<end_line>
+    Anyways, let's keep<end_line>
+    going further in.<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1193,24 +1315,29 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="partner" eye="decided" mouth="tense">
 	<male>
-		<sjis>
+    <sjis>
 			やっぱりアニスたちは<end_line>
 			スレンジ採掘場にいるみたいだ<end_line>
 			奥に行ってみよう！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			やっぱりアニスたちは<end_line>
-			スレンジ採掘場にいるみたい<end_line>
-			奥に行ってみよう！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     So Anise was hiding in<end_line>
     Slenj Mine after all.<end_line>
     Let's check inside!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			やっぱりアニスたちは<end_line>
+			スレンジ採掘場にいるみたい<end_line>
+			奥に行ってみよう！<end_line>
+		</sjis>
+    <ascii>
+    So Anise was hiding in<end_line>
+    Slenj Mine after all.<end_line>
+    Let's check inside!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1248,24 +1375,29 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="partner" eye="decided" mouth="tense">
 	<male>
-		<sjis>
+    <sjis>
 			やっぱりアニスたちは<end_line>
 			スレンジ採掘場にいるみたいだ<end_line>
 			奥に行ってみよう！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			やっぱりアニスたちは<end_line>
-			スレンジ採掘場にいるみたい<end_line>
-			奥に行ってみよう！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     So Anise was hiding in<end_line>
     Slenj Mine after all.<end_line>
     Let's check inside!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			やっぱりアニスたちは<end_line>
+			スレンジ採掘場にいるみたい<end_line>
+			奥に行ってみよう！<end_line>
+		</sjis>
+    <ascii>
+    So Anise was hiding in<end_line>
+    Slenj Mine after all.<end_line>
+    Let's check inside!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1287,21 +1419,25 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			そうだな<end_line>
 			念には念を、だろ？<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			そうだな<end_line>
-			念には念を、でしょ？<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Right.<end_line>
     Safety first, right?<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			そうだな<end_line>
+			念には念を、でしょ？<end_line>
+		</sjis>
+    <ascii>
+    Right.<end_line>
+    Safety first, right?<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1323,24 +1459,29 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="partner" eye="decided" mouth="tense">
 	<male>
-		<sjis>
+    <sjis>
 			やっぱりアニスたちは<end_line>
 			スレンジ採掘場にいるみたいだ<end_line>
 			奥に行ってみよう！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			やっぱりアニスたちは<end_line>
-			スレンジ採掘場にいるみたい<end_line>
-			奥に行ってみよう！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     So Anise was hiding in<end_line>
     Slenj Mine after all.<end_line>
     Let's check inside!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			やっぱりアニスたちは<end_line>
+			スレンジ採掘場にいるみたい<end_line>
+			奥に行ってみよう！<end_line>
+		</sjis>
+    <ascii>
+    So Anise was hiding in<end_line>
+    Slenj Mine after all.<end_line>
+    Let's check inside!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1362,21 +1503,25 @@
 	<portrait_l entry="player" eye="surprised" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="talk">
 	<male>
-		<sjis>
+    <sjis>
 			ちょ<three_dots>っ！<end_line>
 			おどかすなよな！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			ちょっと<three_dots>！<end_line>
-			おどかさないでよ！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Hey<three_dots>!<end_line>
     Don't scare me like that!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			ちょっと<three_dots>！<end_line>
+			おどかさないでよ！<end_line>
+		</sjis>
+    <ascii>
+    Hey<three_dots>!<end_line>
+    Don't scare me like that!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1392,24 +1537,29 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-		<sjis>
+    <sjis>
 			やっぱりアニスたちは<end_line>
 			スレンジ採掘場にいるみたいだ<end_line>
 			奥に行ってみよう！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			やっぱりアニスたちは<end_line>
-			スレンジ採掘場にいるみたい<end_line>
-			奥に行ってみよう！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     So Anise was hiding in<end_line>
     Slenj Mine after all.<end_line>
     Let's check inside!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			やっぱりアニスたちは<end_line>
+			スレンジ採掘場にいるみたい<end_line>
+			奥に行ってみよう！<end_line>
+		</sjis>
+    <ascii>
+    So Anise was hiding in<end_line>
+    Slenj Mine after all.<end_line>
+    Let's check inside!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1454,45 +1604,54 @@
 	<info box="left">
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			<three_dots>っ！<end_line>
 			まずは<partner>を<end_line>
 			助けにいかなきゃ<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			<three_dots>もうっ！<end_line>
-			まずは<partner>を<end_line>
-			助けにいかなきゃ<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     <three_dots>Ugh!<end_line>
     I have to save<end_line>
     <partner> first!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			<three_dots>もうっ！<end_line>
+			まずは<partner>を<end_line>
+			助けにいかなきゃ<end_line>
+		</sjis>
+    <ascii>
+    <three_dots>Ugh!<end_line>
+    I have to save<end_line>
+    <partner> first!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="left">
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			大丈夫か、<partner>？<end_line>
 			とにかくここから出よう！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			大丈夫、<partner>？<end_line>
-			とにかくここから出よう！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Are you okay, <partner>?<end_line>
     Let's get out of here!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			大丈夫、<partner>？<end_line>
+			とにかくここから出よう！<end_line>
+		</sjis>
+    <ascii>
+    Are you okay, <partner>?<end_line>
+    Let's get out of here!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1548,21 +1707,25 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			待ってろレミィ<end_line>
 			今行くからな！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			待っててレミィ<end_line>
-			今行くから！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Hold on, Lemmy!<end_line>
     We'll be there soon!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			待っててレミィ<end_line>
+			今行くから！<end_line>
+		</sjis>
+    <ascii>
+    Hold on, Lemmy!<end_line>
+    We'll be there soon!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1584,21 +1747,25 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			待ってろレミィ<end_line>
 			今行くからな！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			待っててレミィ<end_line>
-			今行くから！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Hold on, Lemmy!<end_line>
     We'll be there soon!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			待っててレミィ<end_line>
+			今行くから！<end_line>
+		</sjis>
+    <ascii>
+    Hold on, Lemmy!<end_line>
+    We'll be there soon!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1620,21 +1787,25 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			待ってろレミィ<end_line>
 			今行くからな！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			待っててレミィ<end_line>
-			今行くから！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Hold on, Lemmy!<end_line>
     We'll be there soon!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			待っててレミィ<end_line>
+			今行くから！<end_line>
+		</sjis>
+    <ascii>
+    Hold on, Lemmy!<end_line>
+    We'll be there soon!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1655,21 +1826,25 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-		<sjis>
+    <sjis>
 			待ってろレミィ<end_line>
 			今行くからな！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			待っててレミィ<end_line>
-			今行くから！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Hold on, Lemmy!<end_line>
     We'll be there soon!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			待っててレミィ<end_line>
+			今行くから！<end_line>
+		</sjis>
+    <ascii>
+    Hold on, Lemmy!<end_line>
+    We'll be there soon!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">

@@ -15,16 +15,20 @@
     <sjis>
       リュート岩窟はコッチじゃないぜ<end_line>
     </sjis>
+    <ascii>
+    This isn't the way<end_line>
+    to Lute Cave.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       リュート岩窟はコッチじゃないよ<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     This isn't the way<end_line>
     to Lute Cave.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="simple">

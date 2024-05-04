@@ -42,6 +42,11 @@
       オレがこんなんなってるのは<end_line>
       親方のせいでもあるんだぞ！<end_line>
     </sjis>
+    <ascii>
+    What are you saying!<end_line>
+    It's your fault I'm going<end_line>
+    through all this trouble!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -49,12 +54,12 @@
       わたしがこんなんなってるのは<end_line>
       親方のせいでもあるんだよ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     What are you saying!<end_line>
     It's your fault I'm going<end_line>
     through all this trouble!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -79,16 +84,20 @@
     <sjis>
       か、鍛冶師は関係ないだろ！？<end_line>
     </sjis>
+    <ascii>
+    W-what does being a Craftknight<end_line>
+    have to do with this!?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       か、鍛冶師は関係ないでしょ！？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     W-what does being a Craftknight<end_line>
     have to do with this!?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -271,17 +280,21 @@
       アンタもあれだけモテるんだから<end_line>
       一流になれる才能があるんだよ<end_line>
     </sjis>
+    <ascii>
+    With your popularity, you also have<end_line>
+    potential to be a great Craftknight.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       アンタもあれだけ人気なんだから<end_line>
       一流になれる才能があるんだよ<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     With your popularity, you also have<end_line>
     potential to be a great Craftknight.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -306,6 +319,11 @@
       アタシがほれるような<end_line>
       カッコイイ男になりな！<end_line>
     </sjis>
+    <ascii>
+    So keep up with your training,<end_line>
+    and become so awesome even<end_line>
+    I would fall for you!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -313,12 +331,12 @@
       アタシがほれるような<end_line>
       カッコイイ女になりな！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     So keep up with your training,<end_line>
     and become so awesome even<end_line>
     I would fall for you!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <player gender="male">

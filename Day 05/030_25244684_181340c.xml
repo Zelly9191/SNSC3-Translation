@@ -80,16 +80,20 @@
     <sjis>
       今度は南門の方か<three_dots><end_line>
     </sjis>
+    <ascii>
+    It's coming from the<end_line>
+    southern gate this time<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       今度は南門の方<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     It's coming from the<end_line>
     southern gate this time<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -111,17 +115,21 @@
       もしかしてまたあの連中が<end_line>
       出てくるかもしれないな<three_dots><end_line>
     </sjis>
+    <ascii>
+    Those guys might<end_line>
+    show up again<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       もしかしてまたあの人たちが<end_line>
       出てくるかもしれないね<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Those guys might<end_line>
     show up again<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">

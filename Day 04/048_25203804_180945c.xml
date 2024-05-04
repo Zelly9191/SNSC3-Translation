@@ -28,15 +28,18 @@
     <sjis>
       <three_dots>なんだよ？<end_line>
     </sjis>
+    <ascii>
+    <three_dots>What is it?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       <three_dots>なによ？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     <three_dots>What is it?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -171,6 +174,11 @@
       ボスタフ工房のヤツらかよ<three_dots><end_line>
       まさか<three_dots><end_line>
     </sjis>
+    <ascii>
+    That outfit<three_dots><end_line>
+    You must be from<end_line>
+    Bostaph's workshop<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -178,12 +186,12 @@
       ボスタフ工房の人ね<three_dots><end_line>
       まさか<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     That outfit<three_dots><end_line>
     You must be from<end_line>
     Bostaph's workshop<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -209,6 +217,11 @@
       親方のゲンコツはいたかっただろ？<end_line>
       かわいそうに<end_line>
     </sjis>
+    <ascii>
+    I knew it<three_dots><end_line>
+    Master's punches hurt, don't they?<end_line>
+    I feel bad for you<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -216,12 +229,12 @@
       親方のゲンコツ、いたかったでしょ？<end_line>
       かわいそうに<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I knew it<three_dots><end_line>
     Master's punches hurt, don't they?<end_line>
     I feel bad for you<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">

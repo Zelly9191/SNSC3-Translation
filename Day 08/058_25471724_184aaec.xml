@@ -16,17 +16,21 @@
       なんだ<three_dots>？<end_line>
       レミィ<three_dots><end_line>
     </sjis>
+    <ascii>
+    What was that<three_dots>?<end_line>
+    Lemmy<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       なに<three_dots>？<end_line>
       レミィ<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     What was that<three_dots>?<end_line>
     Lemmy<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -306,6 +310,11 @@
       今逃げるなんて<three_dots><end_line>
       そんなカッコ悪いことできるか<three_dots>！<end_line>
     </sjis>
+    <ascii>
+    I can't do it<three_dots><end_line>
+    Running at a time like this<three_dots><end_line>
+    Like I could be so pathetic<three_dots>!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -313,12 +322,12 @@
       今逃げるなんて<three_dots><end_line>
       そんなカッコ悪いことしちゃ<three_dots>！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I can't do it<three_dots><end_line>
     Running at a time like this<three_dots><end_line>
     Like I could be so pathetic<three_dots>!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -388,15 +397,18 @@
     <sjis>
       決まってるだろ？<end_line>
     </sjis>
+    <ascii>
+    Isn't it obvious?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       決まってるでしょ？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Isn't it obvious?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="nobox">
@@ -405,16 +417,19 @@
       レミィをひとりにしておくワケには<end_line>
       いかないぜ！<end_line>
     </sjis>
+    <ascii>
+    I won't abandon Lemmy!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       レミィをひとりにしておくワケには<end_line>
       いかないよ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I won't abandon Lemmy!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">

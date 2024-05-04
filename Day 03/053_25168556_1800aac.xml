@@ -42,17 +42,21 @@
       なんだよ、アニキまで<end_line>
       人が真剣に悩んでるのに<end_line>
     </sjis>
+    <ascii>
+    Now you're messing with me too?<end_line>
+    I'm seriously worried over here.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       なによ、アニキまで<end_line>
       人が真剣に悩んでるのに<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Now you're messing with me too?<end_line>
     I'm seriously worried over here.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -78,17 +82,21 @@
       そんなことないだろ<end_line>
       オレはちゃんと<three_dots><end_line>
     </sjis>
+    <ascii>
+    That's not it,<end_line>
+    I'm was just<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       そんなことないよ<end_line>
       わたしはちゃんと<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     That's not it,<end_line>
     I'm was just<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">

@@ -43,6 +43,11 @@
       ボスタフさんもアニスたちを捕まえるの<end_line>
       手伝ってくれるみたいだし<end_line>
     </sjis>
+    <ascii>
+    That's good to hear.<end_line>
+    It seems Bostaph is going to<end_line>
+    help capture Anise as well.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -50,12 +55,12 @@
       ボスタフさんもアニスたちを捕まえるの<end_line>
       手伝ってくれるみたいだし<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     That's good to hear.<end_line>
     It seems Bostaph is going to<end_line>
     help capture Anise as well.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -81,6 +86,11 @@
       結構ヒドイ目にあわされてるんだ<end_line>
       もうひとごとじゃないよ<end_line>
     </sjis>
+    <ascii>
+    It's fine! Those guys have<end_line>
+    been a pain for all of us.<end_line>
+    It's our problem too.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -88,12 +98,12 @@
       結構ヒドイ目にあわされてるんだから<end_line>
       もうひとごとじゃないよ<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     It's fine! Those guys have<end_line>
     been a pain for all of us.<end_line>
     It's our problem too.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">

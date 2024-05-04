@@ -40,17 +40,21 @@
       病人には悪いが、この勝負<end_line>
       勝たせてもらうぜ<end_line>
     </sjis>
+    <ascii>
+    I know you're sick,<end_line>
+    but I intend to win.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       病人には悪いけど、この勝負<end_line>
       勝たせてもらうから<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I know you're sick,<end_line>
     but I intend to win.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -72,17 +76,21 @@
       よしっ！<end_line>
       いくぜ、<partner>！<end_line>
     </sjis>
+    <ascii>
+    You're on!<end_line>
+    Let's do this <partner>!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       よぉし！<end_line>
       いくよ、<partner>！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     You're on!<end_line>
     Let's do this <partner>!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">

@@ -5,17 +5,21 @@
     <sjis>
       村って、たしかコッチだったな<three_dots><end_line>
     </sjis>
+    <ascii>
+    If I remember correctly,<end_line>
+    the village is this way<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       村って<end_line>
       たしかコッチだったよね<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     If I remember correctly,<end_line>
     the village is this way<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -48,15 +52,18 @@
     <sjis>
       なんだよ？<end_line>
     </sjis>
+    <ascii>
+    What?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       なによ？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     What?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -81,15 +88,18 @@
     <sjis>
       わかってるって！<end_line>
     </sjis>
+    <ascii>
+    I know, I know!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       わかってるわよ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I know, I know!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -128,15 +138,18 @@
     <sjis>
       わかってるって！<end_line>
     </sjis>
+    <ascii>
+    I know, I know!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       わかってるわよ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I know, I know!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -175,17 +188,21 @@
       なんだよ<end_line>
       ボーッとなんかしてないだろ！？<end_line>
     </sjis>
+    <ascii>
+    What?<end_line>
+    I'm totally focused!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       なによ<end_line>
       ボーッとなんかしてないでしょ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     What?<end_line>
     I'm totally focused!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -224,15 +241,18 @@
     <sjis>
       なんだよ、コワイのか？<end_line>
     </sjis>
+    <ascii>
+    What, are you scared?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       なによ、コワイの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     What, are you scared?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -273,15 +293,19 @@
       <three_dots><end_line>
       わかりましたよ<end_line>
     </sjis>
+    <ascii>
+    <three_dots><end_line>
+    I know, I know.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       <three_dots><end_line>
       わかったわよ<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     <three_dots><end_line>
     I know, I know.<end_line>
   </ascii>
+  </female>
 </dialogue>

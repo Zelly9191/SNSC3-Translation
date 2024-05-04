@@ -197,15 +197,18 @@
     <sjis>
       見込みのある男だ<end_line>
     </sjis>
+    <ascii>
+    You've got potential.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       見込みのある女の子だ<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     You've got potential.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -476,15 +479,18 @@
     <sjis>
       見込みのある男だ<end_line>
     </sjis>
+    <ascii>
+    You're very promising.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       見込みのある女の子だ<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     You're very promising.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="simple">

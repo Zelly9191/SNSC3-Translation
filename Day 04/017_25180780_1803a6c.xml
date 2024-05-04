@@ -729,15 +729,18 @@
     <sjis>
       じゃあ、オレは<three_dots><end_line>
     </sjis>
+    <ascii>
+    Then I'll<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       じゃあ、わたしは<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Then I'll<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -821,15 +824,18 @@
     <sjis>
       って、何が当然なんだよ！？<end_line>
     </sjis>
+    <ascii>
+    Hey, what's obvious!?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       って、何が当然なのよ！？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Hey, what's obvious!?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -901,17 +907,21 @@
       ああ、そうか<three_dots><end_line>
       たしかにな<end_line>
     </sjis>
+    <ascii>
+    Oh, so that's it<three_dots><end_line>
+    That's true.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       ああ、そっか<three_dots><end_line>
       たしかにね<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Oh, so that's it<three_dots><end_line>
     That's true.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">

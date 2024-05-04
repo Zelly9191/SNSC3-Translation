@@ -3,24 +3,29 @@
 	<portrait_l entry="player" eye="sad" mouth="tense">
 	<portrait_r entry="weido_1" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			またお前たちかよ<three_dots><end_line>
 			なんか用？<end_line>
 			急いでるんだけど<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			またあんたたち<three_dots><end_line>
-			なんか用？<end_line>
-			急いでるんだけど<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     You guys again<three_dots><end_line>
     What is it?<end_line>
     We're busy.<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			またあんたたち<three_dots><end_line>
+			なんか用？<end_line>
+			急いでるんだけど<end_line>
+		</sjis>
+    <ascii>
+    You guys again<three_dots><end_line>
+    What is it?<end_line>
+    We're busy.<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -31,7 +36,7 @@
 		はぐれ退治しようとしてた<end_line>
 		みたいじゃねぇか<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		It looks like the<end_line>
     Stray's apprentice is<end_line>
 		going around hunting Strays.<end_line>
@@ -45,7 +50,7 @@
 		なんだそれ<end_line>
 		ワケわかんねえ！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
     How could you do that<end_line>
     to your own kind?<end_line>
 		It just makes no sense.<end_line>
@@ -56,18 +61,21 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="weido_1" eye="sad" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			なんだと、お前<three_dots>！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			なによ！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     What was that!? You<three_dots>!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			なによ！<end_line>
+		</sjis>
+    <ascii>
+    What was that!? You<three_dots>!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -76,7 +84,7 @@
 	<sjis>
 		やンのか？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		You wanna fight?<end_line>
 	</ascii>
 </dialogue>
@@ -90,7 +98,7 @@
 		ナイノデスカ？<end_line>
 		あにきサンハ　イイノデスカ？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Were We Not In A Hurry?<end_line>
 	</ascii>
 </dialogue>
@@ -103,7 +111,7 @@
 		ほう<three_dots><end_line>
 		アニキの件はもう良いのかの？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Ho<three_dots><end_line>
 		Weren't we in a hurry?<end_line>
 	</ascii>
@@ -117,7 +125,7 @@
 		ふっ<three_dots><end_line>
 		アニキの話はいいんだな<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Fu<three_dots><end_line>
 		You change your mind quick.<end_line>
 	</ascii>
@@ -132,7 +140,7 @@
 		アニキさんのお話は<end_line>
 		もういいんですか？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		My<three_dots><end_line>
 		You were in a hurry<end_line>
 		just a moment ago.<end_line>
@@ -145,7 +153,7 @@
 	<sjis>
 		あ、そうだった<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		<three_dots>Right.<end_line>
 	</ascii>
 </dialogue>
@@ -154,23 +162,27 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="weido_1" eye="decided" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			悪いけど<end_line>
 			お前たちみたいなヤツらに<end_line>
 			かまってるヒマ、ないんだ<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
+    <ascii>
+    Sorry, but I don't have time<end_line>
+    to play with guys like you.<end_line>
+  </ascii>
+  </male>
+  <female>
+    <sjis>
 			悪いけど<end_line>
 			あんたたちみたいな人に<end_line>
 			かまってるヒマ、ないのよ<end_line>
 		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Sorry, but I don't have time<end_line>
     to play with guys like you.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -179,7 +191,7 @@
 	<sjis>
 		<three_dots>なんだと<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		<three_dots>What was that?<end_line>
 	</ascii>
 </dialogue>
@@ -188,23 +200,28 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="weido_1" eye="decided" mouth="tense">
 	<male>
-		<sjis>
+    <sjis>
 			それに、弱い者イジメなんかすると<end_line>
 			また半人前あつかいされちまう<end_line>
 			からな<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			それに、弱い者イジメなんかすると<end_line>
-			また半人前あつかいされちゃうもん<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Besides, preying on the weak<end_line>
     is what the bad guys do.<end_line>
     I'd just get scolded again.<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			それに、弱い者イジメなんかすると<end_line>
+			また半人前あつかいされちゃうもん<end_line>
+		</sjis>
+    <ascii>
+    Besides, preying on the weak<end_line>
+    is what the bad guys do.<end_line>
+    I'd just get scolded again.<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -215,7 +232,7 @@
 		弱い者イジメって、はぐれの弟子が<end_line>
 		イキがってんじゃねぇよ！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Huhh!?<end_line>
 		You're just a Stray's apprentice,<end_line>
 		don't get so full of yourself!<end_line>
@@ -226,24 +243,29 @@
 	<portrait_l entry="player" eye="sad" mouth="neutral">
 	<portrait_r entry="weido_1" eye="decided" mouth="yell">
 	<male>
-		<sjis>
+    <sjis>
 			ほら<end_line>
 			こんなことでさわいでると<end_line>
 			レミィのヤツがくるぜ<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			ほら<end_line>
-			こんなことでさわいでると<end_line>
-			またレミィがくるんじゃない？<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Come on now.<end_line>
     Keep that up and Lemmy<end_line>
     will tell you off again.<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			ほら<end_line>
+			こんなことでさわいでると<end_line>
+			またレミィがくるんじゃない？<end_line>
+		</sjis>
+    <ascii>
+    Come on now.<end_line>
+    Keep that up and Lemmy<end_line>
+    will tell you off again.<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -252,7 +274,7 @@
 	<sjis>
 		<three_dots>くそっ！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		<three_dots>Dammit!<end_line>
 	</ascii>
 </dialogue>
@@ -263,7 +285,7 @@
 	<sjis>
 		じゃ、行こうか<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Well, let's get going then.<end_line>
 	</ascii>
 </dialogue>
@@ -275,7 +297,7 @@
 	<sjis>
 		オー！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Affirmative.<end_line>
 	</ascii>
 </dialogue>
@@ -287,7 +309,7 @@
 	<sjis>
 		承知<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Acknowledged.<end_line>
 	</ascii>
 </dialogue>
@@ -299,7 +321,7 @@
 	<sjis>
 		好きにしろ<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Yeah, yeah<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -311,7 +333,7 @@
 	<sjis>
 		そうですね<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Agreed.<end_line>
 	</ascii>
 </dialogue>

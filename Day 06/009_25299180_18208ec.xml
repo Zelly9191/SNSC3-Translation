@@ -18,6 +18,11 @@
       あったりまえだぜ！<end_line>
       鍛冶師だからな！<end_line>
     </sjis>
+    <ascii>
+    Ehehe.<end_line>
+    Of course!<end_line>
+    I am a Craftknight, after all!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -25,12 +30,12 @@
       あったりまえでしょ！<end_line>
       鍛冶師だからね！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Ehehe.<end_line>
     Of course!<end_line>
     I am a Craftknight, after all!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -135,6 +140,11 @@
       <three_dots>と折れた剣？<end_line>
       もしかして、修理しろってこと？<end_line>
     </sjis>
+    <ascii>
+    My hammer!<end_line>
+    <three_dots> And a broken sword?<end_line>
+    So, I'm supposed to repair it?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -142,12 +152,12 @@
       <three_dots>と折れた剣？<end_line>
       もしかして、これを修理するの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     My hammer!<end_line>
     <three_dots> And a broken sword?<end_line>
     So, I'm supposed to repair it?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -171,17 +181,21 @@
       よっし！<end_line>
       やってやるぜ！<end_line>
     </sjis>
+    <ascii>
+    Alright!<end_line>
+    Let's do this!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       よぉし！<end_line>
       やってあげるわよ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Alright!<end_line>
     Let's do this!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -441,17 +455,21 @@
       お、おい<end_line>
       急にどうしたんだよ？<end_line>
     </sjis>
+    <ascii>
+    H-hey,<end_line>
+    what's going on?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       ね、ねぇ<end_line>
       急にどうしたの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     H-hey,<end_line>
     what's going on?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">

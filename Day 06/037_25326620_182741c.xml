@@ -6,17 +6,21 @@
       なんだ<three_dots>？<end_line>
       ふたりとも、感じが全然ちがう<three_dots><end_line>
     </sjis>
+    <ascii>
+    What's with them<three_dots>?<end_line>
+    They were acting so different<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       なにこれ<three_dots>？<end_line>
       ふたりとも、感じが全然ちがう<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     What's with them<three_dots>?<end_line>
     They were acting so different<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -26,17 +30,21 @@
       おい！？<end_line>
       またかよ<three_dots><end_line>
     </sjis>
+    <ascii>
+    Huh!?<end_line>
+    Gone again<three_dots>?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       あれ！？<end_line>
       またなの<three_dots>？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Huh!?<end_line>
     Gone again<three_dots>?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -79,6 +87,10 @@
       ここで悩んでてもしかたないな<end_line>
       とにかく前に進もうぜ！<end_line>
     </sjis>
+    <ascii>
+    Well, no point worrying about it.<end_line>
+    Let's just keep going!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -86,11 +98,11 @@
       ここで悩んでてもしかたないよ<end_line>
       とにかく前に進もう！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Well, no point worrying about it.<end_line>
     Let's just keep going!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -119,6 +131,10 @@
       ここで悩んでてもしかたないな<end_line>
       とにかく前に進もうぜ！<end_line>
     </sjis>
+    <ascii>
+    Well, no point worrying about it.<end_line>
+    Let's just keep going!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -126,11 +142,11 @@
       ここで悩んでてもしかたないよ<end_line>
       とにかく前に進もう！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Well, no point worrying about it.<end_line>
     Let's just keep going!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -159,6 +175,10 @@
       ここで悩んでてもしかたないな<end_line>
       とにかく前に進もうぜ！<end_line>
     </sjis>
+    <ascii>
+    Well, no point worrying about it.<end_line>
+    Let's just keep going!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -166,11 +186,11 @@
       ここで悩んでてもしかたないよ<end_line>
       とにかく前に進もう！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Well, no point worrying about it.<end_line>
     Let's just keep going!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -199,6 +219,11 @@
       考えててもしかたない<end_line>
       行くぜ！<end_line>
     </sjis>
+    <ascii>
+    I see.<end_line>
+    Well, no point worrying about it.<end_line>
+    Let's just keep going!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -206,10 +231,10 @@
       考えててもしかたないから<end_line>
       行こう！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I see.<end_line>
     Well, no point worrying about it.<end_line>
     Let's just keep going!<end_line>
   </ascii>
+  </female>
 </dialogue>

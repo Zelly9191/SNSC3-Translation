@@ -48,6 +48,10 @@
       こんなとこにいて<end_line>
       大丈夫なのか？<end_line>
     </sjis>
+    <ascii>
+    Rather, is it okay<end_line>
+    for you to be here, Murno?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -55,11 +59,11 @@
       こんなとこにいて<end_line>
       大丈夫なの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Rather, is it okay<end_line>
     for you to be here, Murno?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -98,18 +102,23 @@
       なに言ってるんだよ<three_dots>！<end_line>
       本当に逃げなくて大丈夫なのか？<end_line>
     </sjis>
+    <ascii>
+    Murno<three_dots>!<end_line>
+    Are you sure you don't<end_line>
+    want to leave town?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       なに言ってるのよ<three_dots>！<end_line>
       本当に逃げなくて大丈夫なの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Murno<three_dots>!<end_line>
     Are you sure you don't<end_line>
     want to leave town?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -196,6 +205,11 @@
       オレの方こそゴメン<three_dots><end_line>
       ひどい言い方して<three_dots><end_line>
     </sjis>
+    <ascii>
+    Ah<three_dots><end_line>
+    No, I'm sorry<three_dots><end_line>
+    I shouldn't have said that<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -203,12 +217,12 @@
       わたしの方こそゴメン<three_dots><end_line>
       ひどい言い方して<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Ah<three_dots><end_line>
     No, I'm sorry<three_dots><end_line>
     I shouldn't have said that<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -234,17 +248,21 @@
       ミューノ<three_dots><end_line>
       君は一体<three_dots><end_line>
     </sjis>
+    <ascii>
+    Murno<three_dots><end_line>
+    Just what did you<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       ミューノ<three_dots><end_line>
       あなたは一体<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Murno<three_dots><end_line>
     Just what did you<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">

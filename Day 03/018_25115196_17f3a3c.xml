@@ -7,7 +7,7 @@
 		このあたりでは<end_line>
 		めずらしいですね～<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Ah, a Summon Beast!<end_line>
 		They're quite rare around here.<end_line>
 	</ascii>
@@ -17,27 +17,27 @@
 	<portrait_l entry="player" eye="serious" mouth="talk">
 	<portrait_r entry="tier" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			そうかな<end_line>
 			オレの相棒<end_line>
 			パートナーなんだ！<end_line>
 		</sjis>
-		<ascii>	
+    <ascii>	
 			That so?<end_line>
 			Well, this one's my partner!<end_line>
 		</ascii>
-	</male>
-	<female>
-		<sjis>
+  </male>
+  <female>
+    <sjis>
 			そう？<end_line>
 			わたしの相棒<end_line>
 			パートナーなの！<end_line>
 		</sjis>
-		<ascii>	
+    <ascii>	
 			Really?<end_line>
 			Well, this one's my partner!<end_line>
 		</ascii>
-	</female>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -48,7 +48,7 @@
 		まあ！<end_line>
 		カッコイイ召喚獣ですね～！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Oh!<end_line>
 		It's so cool~!<end_line>
 	</ascii>
@@ -61,7 +61,7 @@
 	<sjis>
 		<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -74,7 +74,7 @@
 		ちょっと<three_dots><end_line>
 		反応うすすぎるわ<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Hey<three_dots><end_line>
 		It's not responding at all<three_dots><end_line>
 	</ascii>
@@ -88,7 +88,7 @@
 		まあ、カワイイ！<end_line>
 		ネコちゃん召喚獣ですね～！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Oh, how cute!<end_line>
 		A cat Summon Beast~!<end_line>
 	</ascii>
@@ -103,7 +103,7 @@
 		ワガハイはトラの妖怪トラマタじゃ！<end_line>
 		おぬしのメガネはダテか？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
     I am not! I'm a tiger!<end_line>
     A graceful Toramata!<end_line>
 		Do those glasses serve any purpose?!<end_line>
@@ -118,7 +118,7 @@
 		しゃべった！<end_line>
 		そしてとても怒られた！<end_line>
 	</sjis>
-	<ascii>	
+  <ascii>	
 		Hey, he talked!<end_line>
 		And he's super angry!<end_line>
 	</ascii>
@@ -132,7 +132,7 @@
 		まあ！<end_line>
 		かしこそうな召喚獣ですね～！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Oh!<end_line>
 		He looks smart!<end_line>
 	</ascii>
@@ -146,7 +146,7 @@
 		なんだ、キサマ？<end_line>
 		なれなれしいぞ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
     Of course.<end_line>
 		And who might you be?<end_line>
 	</ascii>
@@ -159,7 +159,7 @@
 	<sjis>
 		扱いづらい人ですね<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		He must be hard to deal with<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -172,7 +172,7 @@
 		まあ！<end_line>
 		カワイイ召喚獣ですね～！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Oh!<end_line>
 		What a cute Summon Beast!<end_line>
 	</ascii>
@@ -185,7 +185,7 @@
 	<sjis>
 		ありがとうございます<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Thank you very much!<end_line>
 	</ascii>
 </dialogue>
@@ -197,7 +197,7 @@
 	<sjis>
 		素直なイイ子です～<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		She seems like a good girl~<end_line>
 	</ascii>
 </dialogue>
@@ -210,7 +210,7 @@
 		もしかして、みなさん<end_line>
 		町へ向かってます？<end_line>
 	</sjis>
-	<ascii>	
+  <ascii>	
 		So anyway, are you<end_line>
 		all heading to town?<end_line>
 	</ascii>
@@ -222,7 +222,7 @@
 	<sjis>
 		あなた、一体<three_dots>？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Who are you<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -235,7 +235,7 @@
 		いえいえそんな<end_line>
 		あやしい者ではありませんよ！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Ah!<end_line>
 		No, no,<end_line>
 		I'm not suspicious at all!<end_line>
@@ -249,7 +249,7 @@
 		わたしはティエ<end_line>
 		ただのカワイイ道案内ですよ！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		I'm Tier.<end_line>
 		Just a cute guide! Hehe.<end_line>
 	</ascii>
@@ -261,7 +261,7 @@
 	<sjis>
 		え？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Eh?<end_line>
 	</ascii>
 </dialogue>
@@ -274,7 +274,7 @@
 		大きな穴がいっぱいあいちゃって<end_line>
 		この先は迷路みたいになってるんです<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
     The earthquake earlier totally<end_line>
     messed up the terrain around here.<end_line>
     It's like navigating a maze.<end_line>
@@ -287,7 +287,7 @@
 	<sjis>
 		道案内があった方が断然いいですよ～<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
     You'd do well to have<end_line>
     someone guide you through!<end_line>
 	</ascii>
@@ -297,18 +297,21 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="tier" eye="serious" mouth="yell">
 	<male>
-		<sjis>
+    <sjis>
 			へえ、そうなのか<three_dots><end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			へえ、そうなんだ<three_dots><end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Oh, is that so<three_dots>?<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			へえ、そうなんだ<three_dots><end_line>
+		</sjis>
+    <ascii>
+    Oh, is that so<three_dots>?<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -317,7 +320,7 @@
 		（いける<three_dots>！<end_line>
 		　コイツはいけるわ<three_dots>！）<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
     (This might just work!<end_line>
 		 Just a bit more<three_dots>!)<end_line>
 	</ascii>
@@ -331,7 +334,7 @@
 		タダじゃ無いんだろ？<end_line>
 		ティエちゃん？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		We'd be grateful to have a guide,<end_line>
 		but it won't be for free, right?<end_line>
 	</ascii>
@@ -344,7 +347,7 @@
 		え！？<end_line>
 		お金とるの？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Eh?<end_line>
 		You're charging?<end_line>
 	</ascii>
@@ -357,7 +360,7 @@
 		お！？<end_line>
 		おほほほほほ<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Oh?<end_line>
 		Ohohohohoho<three_dots><end_line>
 	</ascii>
@@ -370,7 +373,7 @@
 		ちぇっ<three_dots>！<end_line>
 		スルドイわね<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
     Tch<three_dots>!<end_line>
 		Well, aren't you shrewd?<end_line>
 	</ascii>
@@ -382,7 +385,7 @@
 	<sjis>
 		で、いくらなんだい？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		So, how much'll it be?<end_line>
 	</ascii>
 </dialogue>
@@ -395,7 +398,7 @@
 		でも、本当にこの先は<end_line>
 		迷いやすいんだから<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		200 Boam.<end_line>
     It's easy to get lost in here<three_dots><end_line>
 	</ascii>
@@ -407,7 +410,7 @@
 	<sjis>
 		案内があった方が絶対いいんだから<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Definitely better to have a guide<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -420,7 +423,7 @@
 		でもアタシは自分で確かめてみないと<end_line>
 		お金を払う気にゃなれないね<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Huh<three_dots><end_line>
 		But unless I see it for myself,<end_line>
 		I won't feel like actually paying.<end_line>
@@ -434,7 +437,7 @@
 		あなたはどう？<end_line>
 		案内して欲しいでしょ？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		And how about you?<end_line>
 		You want a guide, right?<end_line>
 	</ascii>
@@ -446,7 +449,7 @@
 	<sjis>
 		え～？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Uh<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -455,39 +458,42 @@
 	<portrait_l entry="player" eye="serious" mouth="serious">
 	<portrait_r entry="tier" eye="serious" mouth="neutral">
 	<option>
-		<sjis>
+    <sjis>
 			案内を頼んでみようかな<three_dots><end_line>
 		</sjis>
-		<ascii>
+    <ascii>
 			I guess so<three_dots><end_line>
 		</ascii>
-	</option>
-	<option>
-		<sjis>
+  </option>
+  <option>
+    <sjis>
 			自力で道を切り開こう！<end_line>
 		</sjis>
-		<ascii>
+    <ascii>
 			I'll find a path myself!<end_line>
 		</ascii>
-	</option>
+  </option>
 </choice>
 <dialogue>
 	<info box="left">
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="tier" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			じゃあ頼むぜ！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			じゃあお願い！<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Alright, I'm counting on you!<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			じゃあお願い！<end_line>
+		</sjis>
+    <ascii>
+    Alright, I'm counting on you!<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -497,7 +503,7 @@
 		それでは案内料<end_line>
 		２００バームいただきまぁす！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
     That'll be 200 Boam!<end_line>
 	</ascii>
 </dialogue>
@@ -508,7 +514,7 @@
 	<sjis>
 		まいど～！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Thank you!<end_line>
 	</ascii>
 </dialogue>
@@ -520,7 +526,7 @@
 		本日早くも２件目<end_line>
 		今日はいい日だわ～<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Already the second one today<three_dots><end_line>
 		Today's a good day~<end_line>
 	</ascii>
@@ -532,7 +538,7 @@
 	<sjis>
 		２件目って？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		The second one?<end_line>
 	</ascii>
 </dialogue>
@@ -558,7 +564,7 @@
 	<sjis>
 		<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -571,7 +577,7 @@
 		ここら辺、はぐれも多いから<end_line>
 		気をつけてくださいね～<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Alright then, please follow me.<end_line>
     Please be careful, as there<end_line>
     are many Strays around too~<end_line>
@@ -584,7 +590,7 @@
 		あれ<three_dots><end_line>
 		お金が足りない<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Huh<three_dots><end_line>
 		You don't have enough money<three_dots><end_line>
 	</ascii>
@@ -596,7 +602,7 @@
 		ちょっと、ひやかしなの！？<end_line>
 		ひど～い！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Are you trying to scam me!?<end_line>
 		That's ho~rri~ble~!<end_line>
 	</ascii>
@@ -607,7 +613,7 @@
 	<sjis>
 		いや、そういうつもりじゃ<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		No no, we're not<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -618,7 +624,7 @@
 		じゃあ、ここで待ってるから<end_line>
 		お金できたら来てね<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
     Well, I'll be waiting here<end_line>
     when you do have the money.<end_line>
 	</ascii>
@@ -628,7 +634,7 @@
 	<sjis>
 		やっぱ、別にいいや<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Nah, I don't need one.<end_line>
 	</ascii>
 </dialogue>
@@ -640,7 +646,7 @@
 		そんなこと言っていられるのも<end_line>
 		今のうちだけなんだから！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		No way!?<end_line>
 		Well, that's what you say now!<end_line>
 	</ascii>
@@ -652,7 +658,7 @@
 		わたし、ここにいるから<end_line>
 		その気になったら知らせてね<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		I'll be waiting here,<end_line>
 		so come tell me when you<end_line>
 		inevitably change your mind.<end_line>

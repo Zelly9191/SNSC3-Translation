@@ -19,15 +19,18 @@
     <sjis>
       お前<three_dots>！<end_line>
     </sjis>
+    <ascii>
+    There you are<three_dots>!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       あなた<three_dots>！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     There you are<three_dots>!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -61,15 +64,18 @@
     <sjis>
       おい、ミューノはどこだよ！？<end_line>
     </sjis>
+    <ascii>
+    Hey, where is she!?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       ねぇ、ミューノはどこ！？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Hey, where is she!?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -270,15 +276,18 @@
     <sjis>
       お前、ケガして<three_dots>！？<end_line>
     </sjis>
+    <ascii>
+    Are you hurt<three_dots>!?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       あなた、ケガして<three_dots>！？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Are you hurt<three_dots>!?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">

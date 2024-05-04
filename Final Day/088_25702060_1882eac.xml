@@ -74,15 +74,18 @@
     <sjis>
       もうやめろ！<end_line>
     </sjis>
+    <ascii>
+    Enough already!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       もうやめて！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Enough already!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <bigtext>
   <info box="right" effect="big">
@@ -101,15 +104,18 @@
     <sjis>
       なんだ！？<end_line>
     </sjis>
+    <ascii>
+    What!?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       なによ、これ！？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     What!?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -169,7 +175,7 @@
     あの人の体が<three_dots><end_line>
     取り込まれてしまいますわ<three_dots>！<end_line>
   </sjis>
-   <ascii>
+  <ascii>
     What<three_dots> this awful power<three_dots><end_line>
     His body is<three_dots><end_line>
     Being consumed<three_dots>!<end_line>
@@ -183,15 +189,18 @@
     <sjis>
       剣に<three_dots>、喰われる！？<end_line>
     </sjis>
+    <ascii>
+    Consumed<three_dots> by the sword!?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       剣に<three_dots>、喰べられる！？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Consumed<three_dots> by the sword!?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <bigtext>
   <info box="right" effect="big">
@@ -212,6 +221,11 @@
       吸い込まれる<three_dots>！？<end_line>
       <partner><three_dots>！<end_line>
     </sjis>
+    <ascii>
+    What is this<three_dots>!<end_line>
+    I'm getting sucked in<three_dots>!?<end_line>
+    <partner><three_dots>!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -219,12 +233,12 @@
       吸い込まれる<three_dots>！？<end_line>
       <partner><three_dots>！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     What is this<three_dots>!<end_line>
     I'm getting sucked in<three_dots>!?<end_line>
     <partner><three_dots>!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">

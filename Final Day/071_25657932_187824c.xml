@@ -17,6 +17,11 @@
       マグドラド、おちついた<three_dots><end_line>
       かな<three_dots>？<end_line>
     </sjis>
+    <ascii>
+    We did it!<end_line>
+    Magdrad calmed down<three_dots><end_line>
+    Right<three_dots>?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -24,12 +29,12 @@
       マグドラド、おちついた<three_dots><end_line>
       かな<three_dots>？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     We did it!<end_line>
     Magdrad calmed down<three_dots><end_line>
     Right<three_dots>?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -52,6 +57,10 @@
       大丈夫か！？<end_line>
       早くなんとかしないと<three_dots><end_line>
     </sjis>
+    <ascii>
+    Ah! Are you okay?<end_line>
+    I have to do something<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -59,11 +68,11 @@
       大丈夫！？<end_line>
       早くなんとかしないと<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Ah! Are you okay?<end_line>
     I have to do something<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -89,17 +98,21 @@
       でもお前<three_dots><end_line>
       そのケガで<three_dots><end_line>
     </sjis>
+    <ascii>
+    But<three_dots><end_line>
+    With your injuries<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       でもあんた<three_dots><end_line>
       そのケガで<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     But<three_dots><end_line>
     With your injuries<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -109,17 +122,21 @@
       お<three_dots>おい<three_dots><end_line>
       な、なんだよ<three_dots><end_line>
     </sjis>
+    <ascii>
+    H<three_dots>hey<three_dots><end_line>
+    W-what is this<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       え<three_dots>ちょっと<three_dots><end_line>
       な、なんなのよ<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     H<three_dots>hey<three_dots><end_line>
     W-what is this<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -221,6 +238,11 @@
       お前<three_dots><end_line>
       大丈夫か？<end_line>
     </sjis>
+    <ascii>
+    H-hey<three_dots>!<end_line>
+    Are<three_dots><end_line>
+    Are you okay?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -228,12 +250,12 @@
       あんた<three_dots><end_line>
       大丈夫なの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     H-hey<three_dots>!<end_line>
     Are<three_dots><end_line>
     Are you okay?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -322,15 +344,18 @@
     <sjis>
       なんだよ<three_dots><end_line>
     </sjis>
+    <ascii>
+    What's with her<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       なんなのよ<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     What's with her<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -350,17 +375,21 @@
       あ、そうだ<end_line>
       ありがとうな<end_line>
     </sjis>
+    <ascii>
+    Ah, right.<end_line>
+    Thanks.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       あ、そうだ<end_line>
       ありがとうね<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Ah, right.<end_line>
     Thanks.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -381,6 +410,11 @@
       幻龍鬼があらわれるなんて<end_line>
       思ってもみなかったぜ<three_dots><end_line>
     </sjis>
+    <ascii>
+    I had no idea<end_line>
+    the Phantom Dragon<end_line>
+    would show up here<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -388,12 +422,12 @@
       幻龍鬼があらわれるなんて<end_line>
       思ってもみなかったよ<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I had no idea<end_line>
     the Phantom Dragon<end_line>
     would show up here<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -461,6 +495,11 @@
       ま、とにかく今は<end_line>
       先に進もう！<end_line>
     </sjis>
+    <ascii>
+    Maybe<three_dots><end_line>
+    Anyway, we've<end_line>
+    got to keep moving!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -468,10 +507,10 @@
       ま、とにかく今は<end_line>
       先に進もう！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Maybe<three_dots><end_line>
     Anyway, we've<end_line>
     got to keep moving!<end_line>
   </ascii>
+  </female>
 </dialogue>

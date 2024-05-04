@@ -868,6 +868,11 @@
       わかったよ！<end_line>
       つれていけばいいんだろ！<end_line>
     </sjis>
+    <ascii>
+    Ugh<three_dots>!<end_line>
+    Alright, okay!<end_line>
+    I'll come with you!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -875,12 +880,12 @@
       わかったわよ！<end_line>
       つれていけばいいんでしょ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Ugh<three_dots>!<end_line>
     Alright, okay!<end_line>
     I'll come with you!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -961,17 +966,21 @@
       なっ！<end_line>
       ニヤけてなんかないよ！<end_line>
     </sjis>
+    <ascii>
+    Wha!<end_line>
+    I wasn't!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       なによ！<end_line>
       ニヤけてなんかないわよ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Wha!<end_line>
     I wasn't!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -1040,13 +1049,16 @@
     <sjis>
       行くぞ！<end_line>
     </sjis>
+    <ascii>
+    Let's go!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       行くよ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Let's go!<end_line>
   </ascii>
+  </female>
 </dialogue>

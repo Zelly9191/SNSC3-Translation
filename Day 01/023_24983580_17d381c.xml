@@ -6,17 +6,21 @@
       おい<end_line>
       どうかしたのかよ？<end_line>
     </sjis>
+    <ascii>
+    Hey,<end_line>
+    what's wrong?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       ねえ<end_line>
       どうかしたの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Hey,<end_line>
     what's wrong?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -106,17 +110,21 @@
       悪かったな！<end_line>
       でも、コレを届けにきたんだよ<end_line>
     </sjis>
+    <ascii>
+    Well, sorry!<end_line>
+    Here.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       悪かったわね！<end_line>
       でも、コレを届けにきたんだから<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Well, sorry!<end_line>
     Here.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -142,18 +150,23 @@
       こんな大事なもん<end_line>
       ２度と落とすなよ！<end_line>
     </sjis>
+    <ascii>
+    Don't lose it again!<end_line>
+    A Craftknight's hammer is their<end_line>
+    livelihood, you know.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       こんな大事なもの<end_line>
       ２度と落としちゃダメだよ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Don't lose it again!<end_line>
     A Craftknight's hammer is their<end_line>
     livelihood, you know.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -189,6 +202,10 @@
       <partner>だから<end_line>
       礼なら<partner>に言ってくれよ<end_line>
     </sjis>
+    <ascii>
+    <partner> found it, not me.<end_line>
+    Thank them instead.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -196,11 +213,11 @@
       <partner>だよ<end_line>
       お礼なら<partner>に言ってあげて<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     <partner> found it, not me.<end_line>
     Thank them instead.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -394,6 +411,10 @@
       じゃ、修行に行こうぜ<end_line>
       <partner><end_line>
     </sjis>
+    <ascii>
+    Yeah, sure.<end_line>
+    <partner>, let's go train.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -401,11 +422,11 @@
       じゃ、修行に行こう<end_line>
       <partner><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Yeah, sure.<end_line>
     <partner>, let's go train.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">

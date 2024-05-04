@@ -48,6 +48,11 @@
       道具とかのお金はちゃんとはらうしさ<end_line>
       いいじゃん<end_line>
     </sjis>
+    <ascii>
+    I can't ask if he's not here.<end_line>
+    I'll pay for whatever I use,<end_line>
+    it'll be fine.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -55,12 +60,12 @@
       道具とかのお金はちゃんとはらうし<end_line>
       いいじゃん<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I can't ask if he's not here.<end_line>
     I'll pay for whatever I use,<end_line>
     it'll be fine.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -97,6 +102,11 @@
       道具とかのお金はちゃんとはらうしさ<end_line>
       いいじゃん<end_line>
     </sjis>
+    <ascii>
+    I can't ask if he's not here.<end_line>
+    I'll pay for whatever I use,<end_line>
+    it'll be fine.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -104,12 +114,12 @@
       道具とかのお金はちゃんとはらうし<end_line>
       いいじゃん<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I can't ask if he's not here.<end_line>
     I'll pay for whatever I use,<end_line>
     it'll be fine.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -150,6 +160,11 @@
       工房を借りるんだよ！<end_line>
       道具とかはちゃんとお金をはらうよ<end_line>
     </sjis>
+    <ascii>
+    I'm not!<end_line>
+    I'm just borrowing!<end_line>
+    I'll pay for whatever I use.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -157,12 +172,12 @@
       工房を借りるの！<end_line>
       道具とかはちゃんとお金をはらうわよ<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I'm not!<end_line>
     I'm just borrowing!<end_line>
     I'll pay for whatever I use.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -201,6 +216,11 @@
       道具とかのお金はちゃんとはらうしさ<end_line>
       大丈夫だって、怒られないよ<end_line>
     </sjis>
+    <ascii>
+    I can't ask if he's not here.<end_line>
+    I'll pay for whatever I use.<end_line>
+    I'm sure he won't be angry.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -208,12 +228,12 @@
       道具とかのお金はちゃんとはらうし<end_line>
       大丈夫だって、怒られないよ<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I can't ask if he's not here.<end_line>
     I'll pay for whatever I use.<end_line>
     I'm sure he won't be angry.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">

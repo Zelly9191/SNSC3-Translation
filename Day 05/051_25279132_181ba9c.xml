@@ -58,15 +58,18 @@
     <sjis>
       あいつ<three_dots><end_line>
     </sjis>
+    <ascii>
+    <partner> did<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       あの子<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     <partner> did<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -146,6 +149,11 @@
       なんでオレたちがこんな風に<end_line>
       されなきゃならないんだ<three_dots><end_line>
     </sjis>
+    <ascii>
+    I see<three_dots> Ugh<three_dots><end_line>
+    Why are we being<end_line>
+    treated like this<three_dots>?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -153,12 +161,12 @@
       なんでわたしたちがこんな風に<end_line>
       されなきゃならないの<three_dots>？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I see<three_dots> Ugh<three_dots><end_line>
     Why are we being<end_line>
     treated like this<three_dots>?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -211,6 +219,11 @@
       こんなことになったのは<end_line>
       アニスたちのせいじゃないか！<end_line>
     </sjis>
+    <ascii>
+    You're not to blame, Murno!<end_line>
+    If anything, this is<end_line>
+    all Anise's fault!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -218,12 +231,12 @@
       こんなことになったのは<end_line>
       アニスたちが悪いんだよ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     You're not to blame, Murno!<end_line>
     If anything, this is<end_line>
     all Anise's fault!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -289,6 +302,11 @@
       そんな危ないもの<end_line>
       ずっと持ってたのか！？<end_line>
     </sjis>
+    <ascii>
+    Destroy a city<three_dots>!?<end_line>
+    You've been holding onto such<end_line>
+    a dangrous thing the whole time!?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -296,12 +314,12 @@
       そんな危ないもの<end_line>
       ずっと持ってたの！？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Destroy a city<three_dots>!?<end_line>
     You've been holding onto such<end_line>
     a dangrous thing the whole time!?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -386,17 +404,21 @@
       それが<three_dots><end_line>
       アニスたちの仕業なのか<three_dots><end_line>
     </sjis>
+    <ascii>
+    That's<three_dots><end_line>
+    Anise's work<three_dots>?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       それが<three_dots><end_line>
       アニスたちの仕業なの<three_dots>？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     That's<three_dots><end_line>
     Anise's work<three_dots>?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -423,6 +445,11 @@
       じゃあ今、村やお父さんが<end_line>
       どうなってるかは<three_dots><end_line>
     </sjis>
+    <ascii>
+    And then you ran<three_dots><end_line>
+    So, how are the village<end_line>
+    and your father doing now<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -430,12 +457,12 @@
       じゃあ今、村やお父さんが<end_line>
       どうなってるかは<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     And then you ran<three_dots><end_line>
     So, how are the village<end_line>
     and your father doing now<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -499,15 +526,18 @@
     <sjis>
       オレ、がんばるよ<three_dots><end_line>
     </sjis>
+    <ascii>
+    I'll help you<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       わたし、がんばるよ<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I'll help you<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -633,6 +663,11 @@
       ここから抜け出して<end_line>
       魔石を取り返さないとな<three_dots><end_line>
     </sjis>
+    <ascii>
+    Alright, first, we have to<end_line>
+    find a way out of here,<end_line>
+    and get the Stone back<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -640,12 +675,12 @@
       ここから抜け出して<end_line>
       魔石を取り返そう<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Alright, first, we have to<end_line>
     find a way out of here,<end_line>
     and get the Stone back<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">

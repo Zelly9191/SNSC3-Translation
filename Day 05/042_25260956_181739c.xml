@@ -49,17 +49,21 @@
       やめろ！<end_line>
       お前らぁ！<end_line>
     </sjis>
+    <ascii>
+    Hey!<end_line>
+    Stop it!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       やめなさい！<end_line>
       アンタたち！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Hey!<end_line>
     Stop it!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -190,15 +194,18 @@
     <sjis>
       なんだと<three_dots>！？<end_line>
     </sjis>
+    <ascii>
+    What<three_dots>!?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       なによ、それ<three_dots>！？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     What<three_dots>!?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -234,15 +241,18 @@
     <sjis>
       ウソだ！<end_line>
     </sjis>
+    <ascii>
+    That's a lie!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       ウソよ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     That's a lie!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -278,15 +288,18 @@
     <sjis>
       ウソだ<three_dots><end_line>
     </sjis>
+    <ascii>
+    You're lying<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       ウソよ<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     You're lying<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -335,17 +348,21 @@
       なんだよ、不幸って？<end_line>
       オレは<three_dots>！<end_line>
     </sjis>
+    <ascii>
+    What misfortune?<end_line>
+    I'm<three_dots>!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       なによ、不幸って？<end_line>
       わたしは<three_dots>！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     What misfortune?<end_line>
     I'm<three_dots>!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -401,6 +418,11 @@
       救いに来たつもりでいたのは<end_line>
       どうやらお前だけだった様だ！<end_line>
     </sjis>
+    <ascii>
+    You prance around acting like a<end_line>
+    knight in shining armor,<end_line>
+    and this is what you get!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -408,12 +430,12 @@
       助けに来たつもりでいたのは<end_line>
       どうやらお前だけだった様だ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     You prance around acting like a<end_line>
     knight in shining armor,<end_line>
     and this is what you get!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -439,17 +461,21 @@
       な<three_dots>、なんだと<three_dots><end_line>
       勝手なこと言ってンじゃねぇ！<end_line>
     </sjis>
+    <ascii>
+    Wh<three_dots> why you<three_dots><end_line>
+    Don't you dare twist her words!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       な<three_dots>、なによ、それ<three_dots><end_line>
       勝手なこと言わないでよ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Wh<three_dots> why you<three_dots><end_line>
     Don't you dare twist her words!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -567,15 +593,18 @@
     <sjis>
       なんだと！？<end_line>
     </sjis>
+    <ascii>
+    What!?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       え！？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     What!?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -659,15 +688,18 @@
     <sjis>
       くっ<three_dots><end_line>
     </sjis>
+    <ascii>
+    <three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       えっ<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     <three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">

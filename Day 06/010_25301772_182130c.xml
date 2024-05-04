@@ -44,15 +44,18 @@
     <sjis>
       そうだろ？<end_line>
     </sjis>
+    <ascii>
+    Right?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       そうでしょ？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Right?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -115,17 +118,21 @@
       え～<end_line>
       それはないだろ～<end_line>
     </sjis>
+    <ascii>
+    What~<end_line>
+    No way~<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       え～<end_line>
       それはないよ～<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     What~<end_line>
     No way~<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">

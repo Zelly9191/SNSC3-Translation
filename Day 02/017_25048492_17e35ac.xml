@@ -6,7 +6,7 @@
 	<sjis>
 		ハグレ召喚獣ノ　ヨウデス<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		It Is A Stray Summon.<end_line>
 	</ascii>
 </dialogue>
@@ -19,7 +19,7 @@
 		はぐれ召喚獣じゃな<three_dots><end_line>
 		やつが<three_dots>？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		A Stray Summon<three_dots><end_line>
     Is that the one Zakk mentioned<three_dots>?<end_line>
 	</ascii>
@@ -33,7 +33,7 @@
 		ちっ<three_dots><end_line>
 		はぐれ召喚獣、か<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		<three_dots><end_line>
 		A Stray Summon<three_dots><end_line>
 	</ascii>
@@ -47,7 +47,7 @@
 		は、はぐれ召喚獣ですわ<end_line>
 		ちょっと強そう、かも<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		I-It's a Stray Summon.<end_line>
 		It seems kinda strong<three_dots><end_line>
 	</ascii>
@@ -57,24 +57,29 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="partner" eye="surprised" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			町につながる道にはまだ出てないし<end_line>
 			みんなが追ってるのとは<end_line>
 			たぶん別のやつだ<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			町につながる道にはまだ出てないから<end_line>
-			みんなが追ってるのとは<end_line>
-			たぶん別のやつね<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     We haven't gotten to the road,<end_line>
     so this is probably different<end_line>
     from the one everyone else is after.<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			町につながる道にはまだ出てないから<end_line>
+			みんなが追ってるのとは<end_line>
+			たぶん別のやつね<end_line>
+		</sjis>
+    <ascii>
+    We haven't gotten to the road,<end_line>
+    so this is probably different<end_line>
+    from the one everyone else is after.<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -84,7 +89,7 @@
 	<sjis>
 		ドウシマスカ？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		What Should We Do?<end_line>
 	</ascii>
 </dialogue>
@@ -94,23 +99,27 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			外に出るには<end_line>
 			この道を進むしかないんだ<three_dots>！<end_line>
 			ここをどいてもらうしかない<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
+    <ascii>
+    This is the way out<three_dots><end_line>
+    We have to make it move<three_dots>!<end_line>
+  </ascii>
+  </male>
+  <female>
+    <sjis>
 			外に出るには<end_line>
 			この道を進むしかないんだ<three_dots>！<end_line>
 			ここをどいてもらうしかないよ<end_line>
 		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     This is the way out<three_dots><end_line>
     We have to make it move<three_dots>!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -122,7 +131,7 @@
 		私タチナラ　問題ナク<end_line>
 		勝利デキルト　判断シマス<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Understood.<end_line>
 		I Conclude That Our Likelyhood<end_line>
 		Of Victory is 100%.<end_line>
@@ -137,7 +146,7 @@
 		<partner><three_dots><end_line>
 		よし！　行こう！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		<partner><three_dots><end_line>
 		Yeah! Let's do this!<end_line>
 	</ascii>
@@ -152,7 +161,7 @@
 		あやつにどいてもらわねば<end_line>
 		先へは進めぬぞ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		So, unless we make it move,<end_line>
 		we cannot continue forward.<end_line>
 	</ascii>
@@ -163,21 +172,25 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			そうだな<end_line>
 			戦うしかなさそうだ<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			そうだね<end_line>
-			戦うしかなさそうだ<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Yeah.<end_line>
     Looks like we'll have to fight.<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			そうだね<end_line>
+			戦うしかなさそうだ<end_line>
+		</sjis>
+    <ascii>
+    Yeah.<end_line>
+    Looks like we'll have to fight.<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -189,7 +202,7 @@
 		我らの敵ではなさそうじゃ<end_line>
 		けちらしてやろうぞ！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Mm.<end_line>
 		From what I can see,<end_line>
 		it should be no match for us!<end_line>
@@ -203,7 +216,7 @@
 	<sjis>
 		よおし！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Alright!<end_line>
 		Let's do this!<end_line>
 	</ascii>
@@ -217,7 +230,7 @@
 		ジャマなヤツだということは<end_line>
 		たしかだな<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		So we have to fight, right?<end_line>
 	</ascii>
 </dialogue>
@@ -227,24 +240,29 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			そうだな<end_line>
 			先へ進むには<end_line>
 			戦うしかなさそうだ<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			そうだね<end_line>
-			先へ進むには<end_line>
-			戦うしかなさそうだよ<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Yeah.<end_line>
     If we want to keep going,<end_line>
     we have to take it down.<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			そうだね<end_line>
+			先へ進むには<end_line>
+			戦うしかなさそうだよ<end_line>
+		</sjis>
+    <ascii>
+    Yeah.<end_line>
+    If we want to keep going,<end_line>
+    we have to take it down.<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -254,7 +272,7 @@
 	<sjis>
 		好きにすればいい<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Fine.<end_line>
 	</ascii>
 </dialogue>
@@ -264,20 +282,23 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			うん<end_line>
 			オレたちなら、勝てる！<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
+    <ascii>
+    Yeah! Let's do it!<end_line>
+  </ascii>
+  </male>
+  <female>
+    <sjis>
 			うん<end_line>
 			わたしたちなら、勝てる！<end_line>
 		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Yeah! Let's do it!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -289,7 +310,7 @@
 		サラっと通しては<end_line>
 		もらえなさそうですけど<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		What should we do?<end_line>
 		It doesn't seem like<end_line>
 		it'll just let us through<three_dots><end_line>
@@ -301,23 +322,27 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			そうだな<end_line>
 			先へ進むには<end_line>
 			戦うしかなさそうだ<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
+    <ascii>
+    Yeah.<end_line>
+    We'll have to take it down.<end_line>
+  </ascii>
+  </male>
+  <female>
+    <sjis>
 			そうだね<end_line>
 			先へ進むには<end_line>
 			戦うしかなさそうだよ<end_line>
 		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Yeah.<end_line>
     We'll have to take it down.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -329,7 +354,7 @@
 		私たちなら<three_dots><end_line>
 		絶対に勝てますわ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
     I-it's okay.<end_line>
     Together<three_dots><end_line>
 		We'll definitely win!<end_line>
@@ -343,7 +368,7 @@
 	<sjis>
 		よおし！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Yeah! Let's do this!<end_line>
 	</ascii>
 </dialogue>

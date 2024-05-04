@@ -15,7 +15,7 @@
 	<portrait_l entry="player" eye="serious" mouth="talk">
 	<portrait_r entry="zakk" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			ザック！<end_line>
 			いいところに来た！<end_line>
 			あいつはドコか知らないか？<end_line>
@@ -25,9 +25,9 @@
       Perfect timing!<end_line>
       You know where those guys are?<end_line>
     </ascii>
-	</male>
-	<female>
-		<sjis>
+  </male>
+  <female>
+    <sjis>
 			ザック！<end_line>
 			助かったよ～！<end_line>
 			あいつはドコか知らない？<end_line>
@@ -37,7 +37,7 @@
       I'm so glad I found you!<end_line>
       Do you know where those guys are?<end_line>
     </ascii>
-	</female>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -56,24 +56,29 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="zakk" eye="surprised" mouth="yell">
 	<male>
-		<sjis>
+    <sjis>
 			あいつだよ！　えーと<three_dots><end_line>
 			いっつもオレにからんでくる<end_line>
 			目つきの悪い、アタマにまいてる<three_dots><end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			あいつよ！　えーと<three_dots><end_line>
-			いっつもわたしにからんでくる<end_line>
-			目つきの悪い、アタマにまいてる<three_dots><end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     You know! Umm<three_dots><end_line>
     They always want to fight me,<end_line>
     glare at me, and have spiky hair<three_dots><end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			あいつよ！　えーと<three_dots><end_line>
+			いっつもわたしにからんでくる<end_line>
+			目つきの悪い、アタマにまいてる<three_dots><end_line>
+		</sjis>
+    <ascii>
+    You know! Umm<three_dots><end_line>
+    They always want to fight me,<end_line>
+    glare at me, and have spiky hair<three_dots><end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -93,24 +98,29 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="zakk" eye="serious" mouth="tense">
 	<male>
-		<sjis>
+    <sjis>
 			あいつらにすごく大事なものを<end_line>
 			持って行かれちまったんだ<three_dots><end_line>
 			だから<three_dots><end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			あいつらにすごく大事なものを<end_line>
-			持って行かれちゃったんだよ<three_dots><end_line>
-			だから<three_dots><end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     They took something<end_line>
     very important to us<three_dots><end_line>
     So<three_dots><end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			あいつらにすごく大事なものを<end_line>
+			持って行かれちゃったんだよ<three_dots><end_line>
+			だから<three_dots><end_line>
+		</sjis>
+    <ascii>
+    They took something<end_line>
+    very important to us<three_dots><end_line>
+    So<three_dots><end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -243,21 +253,25 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="zakk" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			ディックル鉱洞の奥のトビラだな<end_line>
 			とりあえず行ってみるよ<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			ディックル鉱洞の奥のトビラね<end_line>
-			とりあえず行ってみるよ<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     A door deep inside the mine<three_dots><end_line>
     I'll go check it out.<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			ディックル鉱洞の奥のトビラね<end_line>
+			とりあえず行ってみるよ<end_line>
+		</sjis>
+    <ascii>
+    A door deep inside the mine<three_dots><end_line>
+    I'll go check it out.<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="right">

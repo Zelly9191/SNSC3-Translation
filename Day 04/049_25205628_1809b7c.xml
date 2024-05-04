@@ -463,17 +463,21 @@
       オレが連れ出したワケじゃない<end_line>
       エリエが行きたいって言ったんだ<end_line>
     </sjis>
+    <ascii>
+    I didn't bring her with me.<end_line>
+    Elieze said she wanted to go.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       わたしが連れ出したワケじゃないわよ<end_line>
       エリエが行きたいって言ったの<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I didn't bring her with me.<end_line>
     Elieze said she wanted to go.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -520,6 +524,11 @@
       親方はお前らンとこだし<end_line>
       ミューノは金の派閥だし<three_dots><end_line>
     </sjis>
+    <ascii>
+    I was uh, free, since Master's<end_line>
+    at your place, and Murno's<end_line>
+    at the Gold Council<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -527,12 +536,12 @@
       親方はあんたたちのところだし<end_line>
       ミューノは金の派閥だし<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I was uh, free, since Master's<end_line>
     at your place, and Murno's<end_line>
     at the Gold Council<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -672,15 +681,18 @@
     <sjis>
       なんだよ、それ？<end_line>
     </sjis>
+    <ascii>
+    What's that supposed to mean?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       なによ、それ？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     What's that supposed to mean?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -700,15 +712,18 @@
     <sjis>
       あ、おい<three_dots>！<end_line>
     </sjis>
+    <ascii>
+    Ah, wait<three_dots>!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       あ、ちょっと<three_dots>！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Ah, wait<three_dots>!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -796,15 +811,19 @@
       よっしゃ！<end_line>
       行くか！<end_line>
     </sjis>
+    <ascii>
+    Alright!<end_line>
+    Let's go!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       よぉーし！<end_line>
       行こ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Alright!<end_line>
     Let's go!<end_line>
   </ascii>
+  </female>
 </dialogue>

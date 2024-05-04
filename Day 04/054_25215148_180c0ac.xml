@@ -117,24 +117,27 @@
 	<portrait_l entry="player" eye="surprised" mouth="stressed">
 	<portrait_r entry="pike" eye="surprised" mouth="talk">
 	<male>
-		<sjis>
+    <sjis>
 			なんだよ、コイツ！？<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			なによ、コイツ！？<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     What's with him!?<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			なによ、コイツ！？<end_line>
+		</sjis>
+    <ascii>
+    What's with him!?<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="right">
 	<portrait_r entry="guilan" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			なに気色悪いこと叫んでるのよ？<end_line>
 			そこのかわいいボウヤが<end_line>
 			引いてるじゃない<end_line>
@@ -144,9 +147,9 @@
       The poor little boy is<end_line>
       scared stiff.<end_line>
     </ascii>
-	</male>
-	<female>
-		<sjis>
+  </male>
+  <female>
+    <sjis>
 			なに気色悪いこと叫んでるのよ？<end_line>
 			そこのおじょうちゃんが<end_line>
 			引いてるじゃない<end_line>
@@ -156,7 +159,7 @@
       The poor little lady is<end_line>
       scared stiff.<end_line>
     </ascii>
-	</female>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -224,18 +227,21 @@
 	<portrait_l entry="player" eye="surprised" mouth="tense">
 	<portrait_r entry="guilan" eye="happy" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			あら～、ボウヤ～<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			あら～、アナタ～<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Oh my~<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			あら～、アナタ～<end_line>
+		</sjis>
+    <ascii>
+    Oh my~<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -351,18 +357,21 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="guilan" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			そ、そうだよ<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			そ、そうよ<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Th-that's right.<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			そ、そうよ<end_line>
+		</sjis>
+    <ascii>
+    Th-that's right.<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -489,18 +498,21 @@
 	<info box="left">
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			今度は女？<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			今度は女の人？<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     A woman this time?<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			今度は女の人？<end_line>
+		</sjis>
+    <ascii>
+    A woman this time?<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -734,21 +746,25 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="anise" eye="special" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			な<three_dots>、なんだよ<three_dots>？<end_line>
 			どうしてニラむんだ<three_dots><end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			な<three_dots>、なによ<three_dots>？<end_line>
-			どうしてニラむの<three_dots><end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Wh<three_dots>, what is it<three_dots>?<end_line>
     Why are you staring<three_dots><end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			な<three_dots>、なによ<three_dots>？<end_line>
+			どうしてニラむの<three_dots><end_line>
+		</sjis>
+    <ascii>
+    Wh<three_dots>, what is it<three_dots>?<end_line>
+    Why are you staring<three_dots><end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -1122,24 +1138,29 @@
 	<info box="left">
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			<partner><three_dots><end_line>
 			今の話、ミューノのことだよな<end_line>
 			あれ、本当なのか？<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			<partner><three_dots><end_line>
-			今の話、ミューノのことだよね<end_line>
-			本当なの？<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     <partner><three_dots><end_line>
     He must be talking about Murno.<end_line>
     Is it true?<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			<partner><three_dots><end_line>
+			今の話、ミューノのことだよね<end_line>
+			本当なの？<end_line>
+		</sjis>
+    <ascii>
+    <partner><three_dots><end_line>
+    He must be talking about Murno.<end_line>
+    Is it true?<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -1157,24 +1178,29 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="partner" eye="sad" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			どうなんだよ！？<end_line>
 			本当にミューノのせいで<end_line>
 			はぐれがあばれてるのか！？<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			どうなのよ！？<end_line>
-			本当にミューノのせいで<end_line>
-			はぐれがあばれてるの！？<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Is it?!<end_line>
     Is it really Murno's fault<end_line>
     the Strays are out of control!?<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			どうなのよ！？<end_line>
+			本当にミューノのせいで<end_line>
+			はぐれがあばれてるの！？<end_line>
+		</sjis>
+    <ascii>
+    Is it?!<end_line>
+    Is it really Murno's fault<end_line>
+    the Strays are out of control!?<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1229,7 +1255,7 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="partner" eye="sad" mouth="tense">
 	<male>
-		<sjis>
+    <sjis>
 			はぁ！？<end_line>
 			どういうことだよ、それ！？<end_line>
 		</sjis>
@@ -1237,9 +1263,9 @@
       Huh!?<end_line>
       How can you not know!?<end_line>
     </ascii>
-	</male>
-	<female>
-		<sjis>
+  </male>
+  <female>
+    <sjis>
 			なによ<three_dots><end_line>
 			どういうことなのよ、それ！？<end_line>
 		</sjis>
@@ -1247,7 +1273,7 @@
       What<three_dots><end_line>
       How can you not know!?<end_line>
     </ascii>
-	</female>
+  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1390,7 +1416,7 @@
 	<info box="left">
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<male>
-		<sjis>
+    <sjis>
 			くそっ！<end_line>
 			オレはどうしたらいいんだ？<end_line>
 			親方<three_dots><end_line>
@@ -1400,9 +1426,9 @@
       What am I supposed to do?<end_line>
       Master<three_dots><end_line>
     </ascii>
-	</male>
-	<female>
-		<sjis>
+  </male>
+  <female>
+    <sjis>
 			わたし、どうしたらいいの？<end_line>
 			親方<three_dots><end_line>
 		</sjis>
@@ -1410,5 +1436,5 @@
       What am I supposed to do?<end_line>
       Master<three_dots><end_line>
     </ascii>
-	</female>
+  </female>
 </dialogue>

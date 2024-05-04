@@ -7,7 +7,7 @@
 		<player_nickname>、<partner><end_line>
 		アンタたち、よくやったよ！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Alright!<end_line>
 		<player_nickname>, <partner>,<end_line>
 		well done!<end_line>
@@ -20,7 +20,7 @@
 	<sjis>
 		これでタダだ！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Hehe, who's paying now eh?<end_line>
 	</ascii>
 </dialogue>
@@ -29,18 +29,21 @@
 	<portrait_l entry="player" eye="happy" mouth="tense">
 	<portrait_r entry="vee" eye="decided" mouth="talk">
 	<male>
-		<sjis>
+    <sjis>
 			お金はオレが払ったのに<three_dots><end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			お金はわたしが払ったのに<three_dots><end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     That was MY money, you know<three_dots><end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			お金はわたしが払ったのに<three_dots><end_line>
+		</sjis>
+    <ascii>
+    That was MY money, you know<three_dots><end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -49,7 +52,7 @@
 	<sjis>
 		親方<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Master<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -62,7 +65,7 @@
 		トテモ　ウレシソウデスネ<three_dots><end_line>
 		記録シテオキマス<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		You Seem Very Happy.<end_line>
 		I Will Record This Event.<end_line>
 	</ascii>
@@ -77,7 +80,7 @@
 		まあ、良かったということに<end_line>
 		しておこうか<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
     She's way too excited<three_dots><end_line>
     Well, as long as she's satisfied<three_dots><end_line>
 	</ascii>
@@ -92,7 +95,7 @@
 		タダなのがそんなに<end_line>
 		うれしかったのか<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Such an intense aura<three_dots><end_line>
     She's much too<end_line>
     excited about this<three_dots><end_line>
@@ -107,7 +110,7 @@
 		タダなのがうれしいんですね<three_dots><end_line>
 		ちょっと切ないですわ<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Wow<three_dots><end_line>
 		I don't think I've seen her<end_line>
 		any happier than this<three_dots><end_line>
@@ -122,7 +125,7 @@
 		実力がわかって満足だろ？<end_line>
 		ほら、約束通りお金を<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Now that the little lady<end_line>
 		knows our true strength,<end_line>
 		might we get our money back?<end_line>
@@ -135,7 +138,7 @@
 	<sjis>
 		<three_dots><three_dots>い<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		<three_dots><three_dots>N<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -146,7 +149,7 @@
 	<sjis>
 		え？　何？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Hm<three_dots>?<end_line>
 	</ascii>
 </dialogue>
@@ -159,7 +162,7 @@
 		女の子相手に<three_dots><end_line>
 		本気で戦うだなんて<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		How cruel<three_dots><end_line>
     You went all out against a girl<three_dots><end_line>
 	</ascii>
@@ -174,7 +177,7 @@
 		勝負しろって言ったのは<end_line>
 		そっちだろ！？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Huh!?<end_line>
     You're the one who<end_line>
     wanted to fight me!<end_line>
@@ -190,7 +193,7 @@
 		勝負しようって言ったのは<end_line>
 		あなたでしょ！？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Huh!?<end_line>
 		You're the one who<end_line>
     wanted to fight me!<end_line>
@@ -205,7 +208,7 @@
 		<three_dots>っていうかわたしも<end_line>
 		女の子なんだけど<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		<three_dots>And I'm a girl too!<end_line>
 	</ascii>
 </dialogue>
@@ -216,7 +219,7 @@
 	<sjis>
 		あ、いたっ<three_dots>！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Ah, oww<three_dots>!<end_line>
 	</ascii>
 </dialogue>
@@ -228,7 +231,7 @@
 		大丈夫？<end_line>
 		ケガしてるの？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Are you okay?<end_line>
 	</ascii>
 </dialogue>
@@ -240,7 +243,7 @@
 		大丈夫、です<three_dots><end_line>
 		あ、いた<three_dots>！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		I'm<three_dots>fine<three_dots><end_line>
 		Ah, tchh<three_dots>!<end_line>
 	</ascii>
@@ -254,7 +257,7 @@
 		あなた、薬持ってるんでしょ？<end_line>
 		じゃあ<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Does it hurt<three_dots>?<end_line>
 		Do you have some medicine?<end_line>
 		I'll<three_dots><end_line>
@@ -269,7 +272,7 @@
 		売り物の薬を使うことなんて<end_line>
 		できません<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		I can't<three_dots><end_line>
     This is my merchandise<three_dots><end_line>
     I can't use it on myself<three_dots><end_line>
@@ -283,7 +286,7 @@
 		でも<three_dots><end_line>
 		どこかで手当しないと<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		But<three_dots><end_line>
 		We have to treat you or<three_dots><end_line>
 	</ascii>
@@ -297,7 +300,7 @@
 		近くにマーネイル宿場がありますし<end_line>
 		そこまで行けば<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		It's okay<three_dots><end_line>
 		Marneil Station is close<three_dots><end_line>
     If we make it there<three_dots><end_line>
@@ -310,7 +313,7 @@
 	<sjis>
 		<player_nickname><three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		<player_nickname><three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -321,7 +324,7 @@
 	<sjis>
 		え？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		<three_dots>Eh?<end_line>
 	</ascii>
 </dialogue>
@@ -330,42 +333,46 @@
 	<portrait_l entry="player" eye="surprised" mouth="tense">
 	<portrait_r entry="murno" eye="sad" mouth="serious">
 	<option>
-		<sjis>
+    <sjis>
 			<three_dots>わかった<end_line>
 		</sjis>
-		<ascii>
+    <ascii>
 			<three_dots>Okay.<end_line>
 		</ascii>
-	</option>
-	<option>
-		<sjis>
+  </option>
+  <option>
+    <sjis>
 			なに<three_dots>？<end_line>
 		</sjis>
-		<ascii>
+    <ascii>
 			What<three_dots>?<end_line>
 		</ascii>
-	</option>
+  </option>
 </choice>
 <dialogue>
 	<info box="left">
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="murno" eye="sad" mouth="serious">
 	<male>
-		<sjis>
+    <sjis>
 			<three_dots>わかったよ<end_line>
 			宿場までつれていってやるよ<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			<three_dots>わかったわ<end_line>
-			宿場までつれていってあげる<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     <three_dots>Okay.<end_line>
     I'll take her to town.<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			<three_dots>わかったわ<end_line>
+			宿場までつれていってあげる<end_line>
+		</sjis>
+    <ascii>
+    <three_dots>Okay.<end_line>
+    I'll take her to town.<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -375,7 +382,7 @@
 		ありがとう<end_line>
 		<player_nickname><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Thanks.<end_line>
 	</ascii>
 </dialogue>
@@ -389,7 +396,7 @@
 		彼女ヲ　宿場マデ<end_line>
 		送レバイイノデスネ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Understood.<end_line>
 		All We Must Do<end_line>
 		Is Escort Her To Town.<end_line>
@@ -405,7 +412,7 @@
 		その娘を宿場まで<end_line>
 		送ってやるとするか<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		We don't have a choice then.<end_line>
     We'll escort you to town.<end_line>
 	</ascii>
@@ -419,7 +426,7 @@
 		そいつを宿場まで送りたいのだろ？<end_line>
 		好きにすればいい<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		You want to escort her to town?<end_line>
 		Fine.<end_line>
 	</ascii>
@@ -434,7 +441,7 @@
 		宿場まで送っていって<end_line>
 		あげましょう<end_line>
 	</sjis>
-	<ascii>	
+  <ascii>	
 		That's right.<end_line>
 		Let's escort her back to town.<end_line>
 	</ascii>
@@ -447,7 +454,7 @@
 		ありがとう<end_line>
 		<partner><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Thanks, <partner>.<end_line>
 	</ascii>
 </dialogue>
@@ -459,7 +466,7 @@
 		すみません<three_dots><end_line>
 		じゃあ、おねがいします<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Sorry about this<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -470,7 +477,7 @@
 	<sjis>
 		早く行きましょう？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Shall we go?<end_line>
 	</ascii>
 </dialogue>
@@ -482,7 +489,7 @@
 		あの<three_dots><end_line>
 		お金<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Um<three_dots><end_line>
 		My money<three_dots><end_line>
 	</ascii>
@@ -494,7 +501,7 @@
 	<sjis>
 		いたっ<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Oww<three_dots><end_line>
     Ah, it hurts<three_dots><end_line>
 	</ascii>
@@ -505,7 +512,7 @@
 	<sjis>
 		う<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Ugh<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -515,7 +522,7 @@
 	<sjis>
 		しかたない、か<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		I guess there's no helping it<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -526,7 +533,7 @@
 	<sjis>
 		<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -537,7 +544,7 @@
 	<sjis>
 		なんだい、その目は？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
     Why are you staring<end_line>
     at me like that?<end_line>
 	</ascii>
@@ -550,7 +557,7 @@
 	<sjis>
 		かめらデス<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
     Staring? I Am Not.<end_line>
 		These Are Cameras.<end_line>
     I Am Simply Recording Your Image.<end_line>
@@ -565,7 +572,7 @@
 		<three_dots><end_line>
 		なんでもない<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		<three_dots><end_line>
 		Forget it.<end_line>
 	</ascii>
@@ -578,7 +585,7 @@
 	<sjis>
 		<three_dots>別に<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		<three_dots>It's nothing<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -591,7 +598,7 @@
 		え！？<end_line>
 		なにか気にさわりました？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Eh!?<end_line>
     Oh no, I wasn't<three_dots><end_line>
 	</ascii>
@@ -604,7 +611,7 @@
 		もういい！<end_line>
 		行くよ！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
     Forget it!<end_line>
 		Let's go!<end_line>
 	</ascii>
@@ -616,7 +623,7 @@
 	<sjis>
 		はーい<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Okaaay~<end_line>
 	</ascii>
 </dialogue>
@@ -626,7 +633,7 @@
 	<sjis>
 		ふふ<three_dots><end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Heheh<three_dots><end_line>
 	</ascii>
 </dialogue>
@@ -638,7 +645,7 @@
 		？<end_line>
 		大丈夫？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		?<end_line>
 		You okay?<end_line>
 	</ascii>
@@ -652,7 +659,7 @@
 		はいはい<three_dots>！<end_line>
 		行きましょう！<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Eh?<end_line>
 		Y-Yeah<three_dots>!<end_line>
     C'mon, let's go already!<end_line>

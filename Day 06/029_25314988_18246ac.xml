@@ -8,6 +8,11 @@
       空気が冷たいな<three_dots><end_line>
       水のせいか？<end_line>
     </sjis>
+    <ascii>
+    Brr<three_dots><end_line>
+    It's cold in here<three_dots><end_line>
+    Is it because of the water?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -15,12 +20,12 @@
       空気が冷たいね<three_dots><end_line>
       水のせいかな？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Brr<three_dots><end_line>
     It's cold in here<three_dots><end_line>
     Is it because of the water?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -47,15 +52,18 @@
     <sjis>
       わかったよ<end_line>
     </sjis>
+    <ascii>
+    I know.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       わかったわよ<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I know.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -80,15 +88,18 @@
     <sjis>
       わかったって！<end_line>
     </sjis>
+    <ascii>
+    Yeah, I know!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       わかってるって！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Yeah, I know!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -113,15 +124,18 @@
     <sjis>
       わかったよ<end_line>
     </sjis>
+    <ascii>
+    I know.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       わかったわよ<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I know.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -145,15 +159,18 @@
     <sjis>
       それもわかってるって！<end_line>
     </sjis>
+    <ascii>
+    Yeah, yeah, let's go already!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       それもわかってるわよ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Yeah, yeah, let's go already!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -181,16 +198,19 @@
       なんだよ<end_line>
       オレがなんかしたのかよ<end_line>
     </sjis>
+    <ascii>
+    Hey, what's your problem?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       なによ<end_line>
       わたしがなんかした？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Hey, what's your problem?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -216,17 +236,21 @@
       なんだよ、それ<end_line>
       もう、行くぞ！<end_line>
     </sjis>
+    <ascii>
+    Ugh.<end_line>
+    Alright, let's just keep moving!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       なによ、それ<end_line>
       もう、行くよ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Ugh.<end_line>
     Alright, let's just keep moving!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -252,17 +276,21 @@
       なんだよ<end_line>
       コワイのか？<end_line>
     </sjis>
+    <ascii>
+    Hm?<end_line>
+    Are you scared?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       なによ<end_line>
       コワイの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Hm?<end_line>
     Are you scared?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -289,13 +317,16 @@
     <sjis>
       わかったよ<end_line>
     </sjis>
+    <ascii>
+    I know.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       わかったわよ<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I know.<end_line>
   </ascii>
+  </female>
 </dialogue>

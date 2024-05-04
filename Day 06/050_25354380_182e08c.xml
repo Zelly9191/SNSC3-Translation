@@ -54,24 +54,29 @@
 	<portrait_l entry="player" eye="surprised" mouth="stressed">
 	<portrait_r entry="murno" eye="sad" mouth="tense">
 	<male>
-		<sjis>
+    <sjis>
 			そんなこと気にしなくていいよ<end_line>
 			あの魔晶柱ってやつには何かヒミツが<end_line>
 			かくされてるかもしれないんだろ？<end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			そんなこと気にしなくていいよ<end_line>
-			あの魔晶柱ってのには、何かヒミツが<end_line>
-			かくされてるかもしれないんでしょ？<end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Don't worry about it.<end_line>
     There might be some kind of secret<end_line>
     behind that Crystal Pillar.<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			そんなこと気にしなくていいよ<end_line>
+			あの魔晶柱ってのには、何かヒミツが<end_line>
+			かくされてるかもしれないんでしょ？<end_line>
+		</sjis>
+    <ascii>
+    Don't worry about it.<end_line>
+    There might be some kind of secret<end_line>
+    behind that Crystal Pillar.<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -107,7 +112,7 @@
 	<portrait_l entry="player" eye="surprised_blush" mouth="tense">
 	<portrait_r entry="murno" eye="happy" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			え！　いや<three_dots><end_line>
 			そんなことないよ<three_dots><end_line>
 		</sjis>
@@ -115,9 +120,9 @@
       Eh! No<three_dots><end_line>
       I'm really not<three_dots><end_line>
     </ascii>
-	</male>
-	<female>
-		<sjis>
+  </male>
+  <female>
+    <sjis>
 			え！　あの<three_dots><end_line>
 			そんなことないよ<three_dots><end_line>
 		</sjis>
@@ -125,7 +130,7 @@
       Eh! Um<three_dots><end_line>
       I'm really not<three_dots><end_line>
     </ascii>
-	</female>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -146,23 +151,27 @@
 	<portrait_l entry="player" eye="sad" mouth="neutral">
 	<portrait_r entry="murno" eye="sad" mouth="neutral">
 	<male>
-		<sjis>
+    <sjis>
 			ホント、まんまと<end_line>
 			だまされちまったよなぁ<end_line>
 			かっこわるいぜ<three_dots><end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
+    <ascii>
+    Anise really fooled us<three_dots><end_line>
+    I'm so lame<three_dots><end_line>
+  </ascii>
+  </male>
+  <female>
+    <sjis>
 			ホント、まんまと<end_line>
 			だまされちゃったよね<three_dots><end_line>
 			かっこわるいよ<three_dots><end_line>
 		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Anise really fooled us<three_dots><end_line>
     I'm so lame<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="right">

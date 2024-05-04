@@ -1,10 +1,10 @@
 <location>
-	<sjis>
+  <sjis>
 		マーネイル宿場<end_line>
 	</sjis>
 </location>
 <location>
-	<sjis>
+  <sjis>
 		マーネイル宿場　ほほえみ亭前<end_line>
 	</sjis>
 </location>
@@ -12,15 +12,15 @@
 	<info box="simple">
 	<portrait_l name="player">
 	<male>
-		<sjis>
+    <sjis>
 			まずほほえみ亭って宿屋に行こう<end_line>
 		</sjis>
     <ascii>
       I should head to Smile Inn first.<end_line>
     </ascii>
-	</male>
-	<female>
-		<sjis>
+  </male>
+  <female>
+    <sjis>
 			先にほほえみ亭って<end_line>
 			宿屋に行きたいな<three_dots><end_line>
 		</sjis>
@@ -28,38 +28,41 @@
       I should really check out<end_line>
       this 'Smile Inn' first<three_dots><end_line>
     </ascii>
-	</female>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="player">
 	<male>
-		<sjis>
+    <sjis>
 			ほほえみ亭に戻るか<three_dots><end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			ほほえみ亭に戻ろう<three_dots><end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     Let's head back to the inn.<end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			ほほえみ亭に戻ろう<three_dots><end_line>
+		</sjis>
+    <ascii>
+    Let's head back to the inn.<end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="simple">
 	<portrait_l name="player">
 	<male>
-		<sjis>
+    <sjis>
 			まずほほえみ亭って宿屋に行こう<end_line>
 		</sjis>
     <ascii>
       I should head to Smile Inn first.<end_line>
     </ascii>
-	</male>
-	<female>
-		<sjis>
+  </male>
+  <female>
+    <sjis>
 			先にほほえみ亭って<end_line>
 			宿屋に行きたいな<three_dots><end_line>
 		</sjis>
@@ -67,7 +70,7 @@
       I should really check out<end_line>
       this 'Smile Inn' first<three_dots><end_line>
     </ascii>
-	</female>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -104,7 +107,7 @@
 		ところであなたは、鍛冶師みたいだけど<end_line>
 		強化の情報を聞いていかない？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		You're a Craftknight, aren't you?<end_line>
 		Want to hear about enhancement?<end_line>
 	</ascii>
@@ -136,7 +139,7 @@
 		使うと、必殺技の「二連撃」が武器に<end_line>
 		付加されるの<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Well, there's this special material.<end_line>
 		If you use it on your weapon,<end_line>
 		you'll get 'Double Attack'.<end_line>
@@ -150,7 +153,7 @@
 		必殺技が付加されない場合があるから<end_line>
 		気を付けてね<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Ah! But depending on the weapon type<end_line>
 		some abilities become unusable.<end_line>
 		So, watch out, okay?<end_line>
@@ -164,7 +167,7 @@
 		「加速ゼンマイ」を、３５０バームで<end_line>
 		販売中なの～<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		But anyway, I have this special<end_line>
 		material on sale right now,<end_line>
 		at a paltry price of 350 Boam~<end_line>
@@ -176,28 +179,28 @@
 	<sjis>
 		買ってくれます？<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Wanna buy it?<end_line>
 	</ascii>
 </dialogue>
 <choice>
 	<info box="simple">
 	<option>
-		<sjis>
+    <sjis>
 			買う<end_line>
 		</sjis>
-		<ascii>
+    <ascii>
 			Buy<end_line>
 		</ascii>
-	</option>
-	<option>
-		<sjis>
+  </option>
+  <option>
+    <sjis>
 			買わない<end_line>
 		</sjis>
-		<ascii>
+    <ascii>
 			Don't buy<end_line>
 		</ascii>
-	</option>
+  </option>
 </choice>
 <dialogue>
 	<info box="simple">
@@ -243,7 +246,7 @@
 		え～聞いてくれないの～<end_line>
 		せっかくのお客さんだと思ったのに～<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Eeh? You won't even listen?!<end_line>
 		Just when I thought<end_line>
 		I finally had a new client<three_dots><end_line>
@@ -257,7 +260,7 @@
 		薪割りを手伝って欲しいとか言いながら<end_line>
 		素人には任せられないって<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		That person is such a pain.<end_line>
 		He says he wants help chopping wood,<end_line>
 		but he wants a professional<three_dots><end_line>
@@ -271,7 +274,7 @@
 		どうすれば、いいんだよ<end_line>
 		薪割り入門書でもあるのかよ<end_line>
 	</sjis>
-	<ascii>
+  <ascii>
 		Everyone's an amateur at first.<end_line>
 		If I don't get a chance, how am I<end_line>
 		going to get experience at all?<end_line>

@@ -6,17 +6,21 @@
       なんだ、あれ<three_dots><end_line>
       剣？<end_line>
     </sjis>
+    <ascii>
+    What is that<three_dots><end_line>
+    A sword?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       なに、あれ<three_dots><end_line>
       剣？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     What is that<three_dots><end_line>
     A sword?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -104,15 +108,18 @@
     <sjis>
       こいつが、原因<three_dots>！<end_line>
     </sjis>
+    <ascii>
+    This is it<three_dots>!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       あいつが、原因<three_dots>！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     This is it<three_dots>!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -238,15 +245,18 @@
     <sjis>
       そこをどけ！<end_line>
     </sjis>
+    <ascii>
+    Move aside!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       そこをどいて！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Move aside!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -352,17 +362,21 @@
       エラそうなのはどっちだよ！<end_line>
       とにかくミューノを返せ！<end_line>
     </sjis>
+    <ascii>
+    No, that's you!<end_line>
+    Anyway, give Murno back!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       エラそうなのはどっちよ！<end_line>
       とにかくミューノを返して！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     No, that's you!<end_line>
     Anyway, give Murno back!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">

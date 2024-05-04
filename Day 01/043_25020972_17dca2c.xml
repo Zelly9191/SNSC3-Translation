@@ -212,6 +212,11 @@
       ほら、これ<three_dots><end_line>
       ミューノの熱にもきくかな？<end_line>
     </sjis>
+    <ascii>
+    Ah, right.<end_line>
+    Take a look at this.<end_line>
+    Will it work on Murno's fever?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -219,12 +224,12 @@
       はい、これ<end_line>
       ミューノの熱にもきくかな？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Ah, right.<end_line>
     Take a look at this.<end_line>
     Will it work on Murno's fever?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -246,17 +251,21 @@
       <partner>といっしょにとってきた<end_line>
       キッカの実で作ったんだぜ<end_line>
     </sjis>
+    <ascii>
+    Yeah. <partner> and I<end_line>
+    thought it would help.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       <partner>といっしょにとってきた<end_line>
       キッカの実で作ったんだよ<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Yeah. <partner> and I<end_line>
     thought it would help.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -401,17 +410,21 @@
       オレのことは<end_line>
       <player_nickname>でいいから<end_line>
     </sjis>
+    <ascii>
+    You can just<end_line>
+    call me <player_nickname>.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       わたしのことは<end_line>
       <player_nickname>でいいよ<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     You can just<end_line>
     call me <player_nickname>.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">

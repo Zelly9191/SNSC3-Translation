@@ -120,21 +120,25 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="vee" eye="decided" mouth="tense">
 	<male>
-		<sjis>
+    <sjis>
 			たしかにオレにも言ってたよ<end_line>
 			はぐれ狩りをやめる気はないって<three_dots><end_line>
 		</sjis>
-	</male>
-	<female>
-		<sjis>
-			たしかにわたしにも言ってたよ<end_line>
-			はぐれ狩りをやめる気はないって<three_dots><end_line>
-		</sjis>
-	</female>
-  <ascii>
+    <ascii>
     He said that to me too.<end_line>
     That he won't stop hunting Strays<three_dots><end_line>
   </ascii>
+  </male>
+  <female>
+    <sjis>
+			たしかにわたしにも言ってたよ<end_line>
+			はぐれ狩りをやめる気はないって<three_dots><end_line>
+		</sjis>
+    <ascii>
+    He said that to me too.<end_line>
+    That he won't stop hunting Strays<three_dots><end_line>
+  </ascii>
+  </female>
 </dialogue>
 <dialogue>
 	<info box="right">

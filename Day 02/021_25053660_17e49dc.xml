@@ -240,7 +240,7 @@
   </sjis>
   <ascii>
     The Invincible Jade!<end_line>
-  </ascii>	
+  </ascii>
 </dialogue>
 <dialogue>
   <player gender="male">
@@ -430,15 +430,18 @@
     <sjis>
       どうしてそうなるんだよ？<end_line>
     </sjis>
+    <ascii>
+    Why would you think that?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       どうしてそうなるの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Why would you think that?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -563,6 +566,10 @@
       こいつは<partner><end_line>
       オレの相方<three_dots>パートナーだよ<end_line>
     </sjis>
+    <ascii>
+    Yeah.<end_line>
+    This is <partner>, my partner.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -570,11 +577,11 @@
       この子は<partner><end_line>
       わたしの相方<three_dots>パートナーだよ<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Yeah.<end_line>
     This is <partner>, my partner.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -942,15 +949,18 @@
     <sjis>
       なんだってー！<end_line>
     </sjis>
+    <ascii>
+    What!?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       なんですとー！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     What!?<end_line>
   </ascii>
+  </female>
 </bigtext>
 <dialogue>
   <info box="right">

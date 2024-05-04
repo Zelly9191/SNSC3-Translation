@@ -239,17 +239,21 @@
       スゲェ！　だからアカバネか<three_dots><end_line>
       なんかカッコイイ<three_dots>！<end_line>
     </sjis>
+    <ascii>
+    Amazing! So that's why its "Red"<three_dots><end_line>
+    That's kinda cool<three_dots>!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       スゴイ！　だからアカバネか<three_dots><end_line>
       なんかカッコイイ<three_dots>！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Amazing! So that's why its "Red"<three_dots><end_line>
     That's kinda cool<three_dots>!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -525,17 +529,21 @@
       な！<end_line>
       オレだって！<end_line>
     </sjis>
+    <ascii>
+    Wha!<end_line>
+    Even I!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       な！<end_line>
       わたしだって！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Wha!<end_line>
     Even I!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -555,15 +563,18 @@
     <sjis>
       なんだよ、もう<three_dots><end_line>
     </sjis>
+    <ascii>
+    What the hell<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       なによ、もう<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     What the hell<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">

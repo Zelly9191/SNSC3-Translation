@@ -57,6 +57,11 @@
       じゃあ、お父さんが元気になって<end_line>
       村に戻れるのも、もうすぐだ<end_line>
     </sjis>
+    <ascii>
+    I see, that's great.<end_line>
+    So it won't be long until<end_line>
+    you can go back to your village.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -64,12 +69,12 @@
       じゃあ、お父さんが元気になって<end_line>
       村に戻れるのも、もうすぐだね<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I see, that's great.<end_line>
     So it won't be long until<end_line>
     you can go back to your village.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -96,6 +101,11 @@
       魔石を戻すまでは<end_line>
       終わっていないんだぜ<end_line>
     </sjis>
+    <ascii>
+    It's not over yet.<end_line>
+    Until we return the Demon Stone,<end_line>
+    this isn't over.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -103,12 +113,12 @@
       魔石を戻すまでは<end_line>
       終わっていないんだよ<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     It's not over yet.<end_line>
     Until we return the Demon Stone,<end_line>
     this isn't over.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -159,6 +169,11 @@
       オレが行きたいんだ<end_line>
       ダメだって言われてもついていくぞ<end_line>
     </sjis>
+    <ascii>
+    Sorry, Murno.<end_line>
+    I'm going with you.<end_line>
+    Even if you tell me not to.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -166,12 +181,12 @@
       わたしが行きたいんだ<end_line>
       ダメだって言われてもついていくから<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Sorry, Murno.<end_line>
     I'm going with you.<end_line>
     Even if you tell me not to.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -198,6 +213,11 @@
       ミューノと出会って色々あったなぁ<end_line>
       これまであっという間だったよ<end_line>
     </sjis>
+    <ascii>
+    Still<three_dots> Ever since we met,<end_line>
+    It's been quite a ride.<end_line>
+    Everything went by so fast.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -205,12 +225,12 @@
       ミューノと出会って色々あったね<end_line>
       これまであっという間だったよ<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Still<three_dots> Ever since we met,<end_line>
     It's been quite a ride.<end_line>
     Everything went by so fast.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -353,6 +373,11 @@
       そんなのお安いご用さ<three_dots><end_line>
       <three_dots>って待てよ<end_line>
     </sjis>
+    <ascii>
+    Eh! Is that it?<end_line>
+    That's an easy reque<three_dots><end_line>
+    <three_dots>Hey, wait.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -360,12 +385,12 @@
       そんなのお安いご用よ<three_dots><end_line>
       <three_dots>ってちょっと待って<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Eh! Is that it?<end_line>
     That's an easy reque<three_dots><end_line>
     <three_dots>Hey, wait.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -446,6 +471,11 @@
       いいに決まってるじゃないか！<end_line>
       じゃ、明日いっしょに作ろう！<end_line>
     </sjis>
+    <ascii>
+    Okay okay, I was joking!<end_line>
+    Of course it's okay!<end_line>
+    Let's do it tomorrow!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -453,12 +483,12 @@
       いいに決まってるじゃないの！<end_line>
       じゃ、明日いっしょに作ろうね！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Okay okay, I was joking!<end_line>
     Of course it's okay!<end_line>
     Let's do it tomorrow!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">

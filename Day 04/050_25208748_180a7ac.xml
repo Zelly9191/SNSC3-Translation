@@ -119,17 +119,21 @@
       あ、こっちはオレのパートナー<end_line>
       仲間なんです！<end_line>
     </sjis>
+    <ascii>
+    Ah, this is my partner,<end_line>
+    they're on our side!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       あ、こっちはわたしのパートナー<end_line>
       仲間なんです！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Ah, this is my partner,<end_line>
     they're on our side!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -214,6 +218,10 @@
       　なんだ<three_dots>っ！？<end_line>
       　このアタマ<three_dots>！？）<end_line>
     </sjis>
+    <ascii>
+    (What the<three_dots>!<end_line>
+     Is he crazy<three_dots>!?)<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -221,11 +229,11 @@
       　なによ<three_dots>っ！？<end_line>
       　このアタマ<three_dots>！？）<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     (What the<three_dots>!<end_line>
      Is he crazy<three_dots>!?)<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -313,17 +321,21 @@
       ち、ちがうよ！<end_line>
       オレのパートナーだ！<end_line>
     </sjis>
+    <ascii>
+    N-no!<end_line>
+    It's my partner!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       ち、ちがうわよ！<end_line>
       わたしのパートナーだよ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     N-no!<end_line>
     It's my partner!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -531,15 +543,18 @@
     <sjis>
       あいつ<three_dots>！<end_line>
     </sjis>
+    <ascii>
+    This guy<three_dots>!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       あの人<three_dots>！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     This guy<three_dots>!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -573,7 +588,7 @@
       コワいはぐれだって<end_line>
       おねーちゃん<three_dots><end_line>
     </sjis>
-     <ascii>
+    <ascii>
       A scary Stray<three_dots><end_line>
       Big sis<three_dots><end_line>
     </ascii>

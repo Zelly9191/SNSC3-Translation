@@ -108,6 +108,11 @@
       そんなキケンなところなのに<end_line>
       どうしてミューノは逃げないんだ？<end_line>
     </sjis>
+    <ascii>
+    That's true, but<three_dots><end_line>
+    Why didn't Murno want to<end_line>
+    run away if it's so dangerous?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -115,12 +120,12 @@
       そんなキケンなところなのに<end_line>
       どうしてミューノは逃げないの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     That's true, but<three_dots><end_line>
     Why didn't Murno want to<end_line>
     run away if it's so dangerous?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -146,6 +151,11 @@
       ま、いつもどおりヒミツ<end_line>
       なんだろうけどな<three_dots><end_line>
     </sjis>
+    <ascii>
+    If I just knew what<three_dots><end_line>
+    Well, she wants to keep it a secret,<end_line>
+    just like everything else<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -153,12 +163,12 @@
       ま、いつもどおりヒミツ<end_line>
       なんだろうけどね<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     If I just knew what<three_dots><end_line>
     Well, she wants to keep it a secret,<end_line>
     just like everything else<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -182,17 +192,21 @@
       はあ<three_dots><end_line>
       わからないことだらけだな<three_dots><end_line>
     </sjis>
+    <ascii>
+    Sigh<three_dots><end_line>
+    So many things I don't know<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       はあ<three_dots><end_line>
       わからないことだらけだよ<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Sigh<three_dots><end_line>
     So many things I don't know<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -374,6 +388,11 @@
       でもお前だって<end_line>
       鍛冶師の約束を<three_dots><end_line>
     </sjis>
+    <ascii>
+    <partner><three_dots><end_line>
+    Would you really break your<end_line>
+    oath as a Craftknight<three_dots>?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -381,12 +400,12 @@
       でもあなただって<end_line>
       鍛冶師の約束を<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     <partner><three_dots><end_line>
     Would you really break your<end_line>
     oath as a Craftknight<three_dots>?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -470,17 +489,21 @@
       油？<end_line>
       なんだよ、それ<three_dots><end_line>
     </sjis>
+    <ascii>
+    Piddling?<end_line>
+    What's that mean<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       油？<end_line>
       なによ、それ<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Piddling?<end_line>
     What's that mean<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -507,6 +530,11 @@
       そんなキケンなところなのに<end_line>
       どうしてミューノは逃げないんだ？<end_line>
     </sjis>
+    <ascii>
+    I know, but<three_dots><end_line>
+    Why didn't Murno want to<end_line>
+    run away if it's so dangerous?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -514,12 +542,12 @@
       そんなキケンなところなのに<end_line>
       どうしてミューノは逃げないの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I know, but<three_dots><end_line>
     Why didn't Murno want to<end_line>
     run away if it's so dangerous?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -547,6 +575,11 @@
       ま、いつもどおりヒミツ<end_line>
       なんだろうけどな<three_dots><end_line>
     </sjis>
+    <ascii>
+    If I just knew what<three_dots><end_line>
+    Well, she wants to keep it a secret,<end_line>
+    just like everything else<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -554,12 +587,12 @@
       ま、いつもどおりヒミツ<end_line>
       なんだろうけどね<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     If I just knew what<three_dots><end_line>
     Well, she wants to keep it a secret,<end_line>
     just like everything else<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -583,17 +616,21 @@
       はあ<three_dots><end_line>
       わからないことだらけだな<three_dots><end_line>
     </sjis>
+    <ascii>
+    Sigh<three_dots><end_line>
+    So many things I don't know<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       はあ<three_dots><end_line>
       わからないことだらけだよ<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Sigh<three_dots><end_line>
     So many things I don't know<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -761,6 +798,11 @@
       でもお前だって<end_line>
       鍛冶師の約束を<three_dots><end_line>
     </sjis>
+    <ascii>
+    <partner><three_dots><end_line>
+    Would you really break your<end_line>
+    oath as a Craftknight<three_dots>?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -768,12 +810,12 @@
       でもあなただって<end_line>
       鍛冶師の約束を<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     <partner><three_dots><end_line>
     Would you really break your<end_line>
     oath as a Craftknight<three_dots>?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -868,6 +910,11 @@
       そんなキケンなところなのに<end_line>
       どうしてミューノは逃げないんだ？<end_line>
     </sjis>
+    <ascii>
+    I was just wondering<three_dots><end_line>
+    Why didn't Murno want to<end_line>
+    run away if it's so dangerous?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -875,12 +922,12 @@
       そんなキケンなところなのに<end_line>
       どうしてミューノは逃げないの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I was just wondering<three_dots><end_line>
     Why didn't Murno want to<end_line>
     run away if it's so dangerous?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -906,17 +953,21 @@
       ヒミツってことか<end_line>
       ま、いつも通りだけど<three_dots><end_line>
     </sjis>
+    <ascii>
+    Another secret,<end_line>
+    just like always<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       ヒミツってことね<end_line>
       ま、いつも通りだけど<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Another secret,<end_line>
     just like always<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -940,17 +991,21 @@
       はあ<three_dots><end_line>
       わからないことだらけだな<three_dots><end_line>
     </sjis>
+    <ascii>
+    Sigh<three_dots><end_line>
+    So many things I don't know<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       はあ<three_dots><end_line>
       わからないことだらけだよ<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Sigh<three_dots><end_line>
     So many things I don't know<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -1118,6 +1173,11 @@
       でも、お前だって<end_line>
       鍛冶師の約束を<three_dots><end_line>
     </sjis>
+    <ascii>
+    <partner><three_dots><end_line>
+    Would you really break your<end_line>
+    oath as a Craftknight<three_dots>?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -1125,12 +1185,12 @@
       でも、あなただって<end_line>
       鍛冶師の約束を<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     <partner><three_dots><end_line>
     Would you really break your<end_line>
     oath as a Craftknight<three_dots>?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -1224,6 +1284,11 @@
       そんなキケンなところなのに<end_line>
       どうしてミューノは逃げないんだ？<end_line>
     </sjis>
+    <ascii>
+    I know, but<three_dots><end_line>
+    Why didn't Murno want to<end_line>
+    run away if it's so dangerous?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -1231,12 +1296,12 @@
       そんなキケンなところなのに<end_line>
       どうしてミューノは逃げないの？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I know, but<three_dots><end_line>
     Why didn't Murno want to<end_line>
     run away if it's so dangerous?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -1262,6 +1327,11 @@
       ま、いつもどおりヒミツ<end_line>
       なんだろうけどな<three_dots><end_line>
     </sjis>
+    <ascii>
+    If I just knew what<three_dots><end_line>
+    Well, she wants to keep it a secret,<end_line>
+    just like everything else<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -1269,12 +1339,12 @@
       ま、いつもどおりヒミツ<end_line>
       なんだろうけどね<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     If I just knew what<three_dots><end_line>
     Well, she wants to keep it a secret,<end_line>
     just like everything else<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -1296,17 +1366,21 @@
       はあ<three_dots><end_line>
       わからないことだらけだな<three_dots><end_line>
     </sjis>
+    <ascii>
+    Sigh<three_dots><end_line>
+    So many things I don't know<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       はあ<three_dots><end_line>
       わからないことだらけだよ<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Sigh<three_dots><end_line>
     So many things I don't know<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -1483,6 +1557,11 @@
       でもお前だって<end_line>
       鍛冶師の約束を<three_dots><end_line>
     </sjis>
+    <ascii>
+    <partner><three_dots><end_line>
+    Would you really break your<end_line>
+    oath as a Craftknight<three_dots>?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -1490,12 +1569,12 @@
       でもあなただって<end_line>
       鍛冶師の約束を<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     <partner><three_dots><end_line>
     Would you really break your<end_line>
     oath as a Craftknight<three_dots>?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">

@@ -19,17 +19,21 @@
       ああ、ティエ<end_line>
       よくここがわかったな<end_line>
     </sjis>
+    <ascii>
+    Oh, Tier.<end_line>
+    How'd you know we were here?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       あっ、ティエ<end_line>
       よくここがわかったね<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Oh, Tier.<end_line>
     How'd you know we were here?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <player gender="male">
@@ -197,17 +201,21 @@
       だまって帰ったのは悪かったよ<end_line>
       でも、アニキが来いって<three_dots><end_line>
     </sjis>
+    <ascii>
+    Sorry I didn't say anything.<end_line>
+    But Bro told me to go<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       ゴメン、だまって帰って<end_line>
       けど、アニキが来いって<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Sorry I didn't say anything.<end_line>
     But Bro told me to go<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -328,6 +336,11 @@
       この先に行きたいんだけど<end_line>
       コワイはぐれが出たらしくて<end_line>
     </sjis>
+    <ascii>
+    There's something I'm worried about.<end_line>
+    There's a Stray that's<end_line>
+    appeared further in.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -335,12 +348,12 @@
       この先に行きたいんだけど<end_line>
       コワイはぐれが出たらしくて<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     There's something I'm worried about.<end_line>
     There's a Stray that's<end_line>
     appeared further in.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -454,17 +467,21 @@
       ありがとう、ティエ<end_line>
       じゃあたのんだぜ<end_line>
     </sjis>
+    <ascii>
+    Thanks, Tier.<end_line>
+    i'm counting on you.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       ありがとう、ティエ<end_line>
       じゃあたのんだよ<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Thanks, Tier.<end_line>
     i'm counting on you.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -475,17 +492,21 @@
       エリエもあぶないから<end_line>
       気をつけてかえるんだぞ<end_line>
     </sjis>
+    <ascii>
+    I'll see you later then.<end_line>
+    Be careful on the way out.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       エリエもあぶないから<end_line>
       気をつけてかえるんだよ<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I'll see you later then.<end_line>
     Be careful on the way out.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">

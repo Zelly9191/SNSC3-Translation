@@ -43,17 +43,21 @@
       はあ<three_dots><end_line>
       そうか<three_dots><end_line>
     </sjis>
+    <ascii>
+    Oh<three_dots><end_line>
+    I see<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       はあ<three_dots><end_line>
       そっか<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Oh<three_dots><end_line>
     I see<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -241,17 +245,21 @@
       なんだと<three_dots>？<end_line>
       オレは真剣に悩んでたんだよ！<end_line>
     </sjis>
+    <ascii>
+    What<three_dots>?<end_line>
+    I'm taking this seriously over here!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       なんですって<three_dots>？<end_line>
       わたしは真剣に悩んでるのよ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     What<three_dots>?<end_line>
     I'm taking this seriously over here!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -288,17 +296,21 @@
       な<three_dots>、なんだよ！<end_line>
       ムカつく！<end_line>
     </sjis>
+    <ascii>
+    Wha<three_dots> What!<end_line>
+    You piss me off!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       な<three_dots>、なによ、それ！<end_line>
       ムカつく！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Wha<three_dots> What!<end_line>
     You piss me off!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
