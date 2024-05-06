@@ -8,7 +8,7 @@ using namespace std;
 class IScriptReader
 {
 public:
-	IScriptReader(string filename);
+	IScriptReader(filesystem::path filename);
 	string filename;
 	JEScript jeScript;
 

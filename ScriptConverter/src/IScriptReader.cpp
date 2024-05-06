@@ -1,9 +1,9 @@
 #include "IScriptReader.h"
 
-IScriptReader::IScriptReader(string filename)
+IScriptReader::IScriptReader(filesystem::path filename)
 {
-	IScriptReader::filename = filename;
-	jeScript.filename = "./jeman.xml";
+	IScriptReader::filename = filename.string();
+	jeScript.filename = "./" + filename.filename().stem().string() + ".xml";
 }
 
 void IScriptReader::readIScript()
