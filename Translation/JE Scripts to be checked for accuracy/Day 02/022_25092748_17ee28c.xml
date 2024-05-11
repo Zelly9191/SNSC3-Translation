@@ -32,7 +32,7 @@
 	</female>
   <ascii>
     Because<three_dots> I've gotten stronger<end_line>
-    since I got a partner.<end_line>
+    since I got a partner now.<end_line>
     And I<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -45,7 +45,7 @@
 		なに？<end_line>
 	</sjis>
 	<ascii>
-		<three_dots>?<end_line>
+		Oh<three_dots>?<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -73,7 +73,7 @@
 		オレは思うからな<end_line>
 	</sjis>
 	<ascii>
-    Well, I guess it's not<end_line>
+   		Well, I guess it's not<end_line>
 		like hating to lose<end_line>
 		to others is a bad thing.<end_line>
 	</ascii>
@@ -139,7 +139,7 @@
 	<ascii>
 		Wha!<end_line>
 		I train everyday!<end_line>
-    I'm sure if we had a match<three_dots><end_line>
+   		I'm sure if we had a match<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -196,7 +196,7 @@
 	<ascii>
     You're so childish<three_dots><end_line>
     This is why you'll<end_line>
-    always be an amateur.<end_line>
+    always be a half-baked amateur.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -214,7 +214,7 @@
 		</sjis>
 	</female>
   <ascii>
-    I'm not an amateur!<end_line>
+    I'm not a half-baked amateur!<end_line>
   </ascii>
 </dialogue>
 <dialogue>
@@ -310,7 +310,7 @@
 		</sjis>
 	</female>
   <ascii>
-    Wait a minute!<end_line>
+    Hold on a minute!<end_line>
     I'm not done yet<three_dots><end_line>
   </ascii>
 </dialogue>
@@ -323,7 +323,7 @@
 		行ッテシマイマシタ<end_line>
 	</sjis>
 	<ascii>
-		They Have Already Left.<end_line>
+		They Have Already Left The Area.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -335,7 +335,7 @@
 		行ってしまったぞ<end_line>
 	</sjis>
 	<ascii>
-		They're gone.<end_line>
+		He's gone.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -347,7 +347,7 @@
 		ヤツはもう行ったぞ<end_line>
 	</sjis>
 	<ascii>
-		They're already gone.<end_line>
+		He's already gone.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -359,7 +359,7 @@
 		行っちゃいましたよ<end_line>
 	</sjis>
 	<ascii>
-		They already left<three_dots><end_line>
+		He left<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
