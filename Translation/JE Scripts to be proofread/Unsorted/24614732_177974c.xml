@@ -2,11 +2,17 @@
 	<sjis>
 		プロスバンの町<end_line>
 	</sjis>
+	<ascii>
+		Prosban Town<end_line>
+	</ascii>
 </location>
 <location>
 	<sjis>
 		プロスバンの町　鉱業区<end_line>
 	</sjis>
+	<ascii>
+		Prosban Town　Mining District<end_line>
+	</ascii>
 </location>
 <dialogue>
 	<info box="simple">
@@ -16,6 +22,10 @@
 		何があってもはなれるワケには<end_line>
 		いかないぞ！<end_line>
 	</sjis>
+	<ascii>
+		I'm in charge here. No matter<end_line>
+		what happens, I may not leave!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -24,6 +34,10 @@
 		会員証をお持ちの方はどうぞ<end_line>
 		お通り下さい<end_line>
 	</sjis>
+	<ascii>
+		You need a member card to pass<end_line>
+		through here.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -33,6 +47,11 @@
 		許可された者しか通すわけには<end_line>
 		いかないな<end_line>
 	</sjis>
+	<ascii>
+		I apologize, but only those<end_line>
+		with permission may pass<end_line>
+		through here.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -41,6 +60,10 @@
 		ただし会員証を持っているなら<end_line>
 		話は別だがな<end_line>
 	</sjis>
+	<ascii>
+		However, if you've got member card,<end_line>
+		the story's different.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -49,4 +72,9 @@
 		最高の一時を差し上げます<end_line>
 		福引きしてみませんか？<end_line>
 	</sjis>
+	<ascii>
+		Only the chosen customers may<end_line>
+		have the best time here. Would<end_line>
+		you like to play the lottery?<end_line>
+	</ascii>
 </dialogue>
