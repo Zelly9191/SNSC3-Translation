@@ -2,11 +2,17 @@
 	<sjis>
 		ギャラハン工房　道具屋<end_line>
 	</sjis>
+	<ascii>
+		Gallahan's Workshop　Tool Shop<end_line>
+	</ascii>
 </location>
 <location>
 	<sjis>
 		ギャラハン工房　道具屋<end_line>
 	</sjis>
+	<ascii>
+		Gallahan's Workshop　Tool Shop<end_line>
+	</ascii>
 </location>
 <dialogue>
 	<info box="simple">
