@@ -2,6 +2,9 @@
 	<sjis>
 		ボスタフ工房　本部<end_line>
 	</sjis>
+	<ascii>
+		Bostaph's Workshop　Main Office<end_line>
+	</ascii>
 </location>
 <dialogue>
 	<info box="simple">

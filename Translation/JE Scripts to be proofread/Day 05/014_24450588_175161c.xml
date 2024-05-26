@@ -2,11 +2,17 @@
 	<sjis>
 		プロスバンの町<end_line>
 	</sjis>
+	<ascii>
+		Prosban<end_line>
+	</ascii>
 </location>
 <location>
 	<sjis>
 		プロスバンの町　北門前工房通り<end_line>
 	</sjis>
+	<ascii>
+		Prosban　North Workshop Street<end_line>
+	</ascii>
 </location>
 <dialogue>
 	<info box="simple">

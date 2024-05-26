@@ -2,6 +2,9 @@
 	<sjis>
 		プロスバンの町　駅<end_line>
 	</sjis>
+	<ascii>
+		Prosban　Station<end_line>
+	</ascii>
 </location>
 <dialogue>
 	<info box="simple">

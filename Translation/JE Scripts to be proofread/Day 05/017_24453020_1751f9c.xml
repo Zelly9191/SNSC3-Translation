@@ -2,6 +2,9 @@
 	<sjis>
 		プロスバンの町　商店通り<end_line>
 	</sjis>
+	<ascii>
+		Prosban　Shopping Street<end_line>
+	</ascii>
 </location>
 <dialogue>
 	<info box="simple">
