@@ -2,6 +2,9 @@
 	<sjis>
 		金の派閥　エントランス<end_line>
 	</sjis>
+	<ascii>
+		Gold Faction　Entrance<end_line>
+	</ascii>
 </location>
 <dialogue>
 	<info box="simple">
@@ -11,6 +14,11 @@
 		強い風が吹き上げる場所が<end_line>
 		あるから十分気をつけるように<end_line>
 	</sjis>
+	<ascii>
+		Spoat Grotto has a spot where<end_line>
+		strong wind blows, so be very<end_line>
+		careful.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -20,4 +28,8 @@
 		気をつけたところで<end_line>
 		どうにもならないよね<end_line>
 	</sjis>
+	<ascii>
+		But, you can't get anything<end_line>
+		done if your too careful.<end_line>
+	</ascii>
 </dialogue>
