@@ -6,6 +6,9 @@
 	<sjis>
 		アレハ！<end_line>
 	</sjis>
+	<ascii>
+		That Is!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -15,6 +18,9 @@
 	<sjis>
 		あやつ！<end_line>
 	</sjis>
+	<ascii>
+		That one!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -24,6 +30,9 @@
 	<sjis>
 		あいつ！<end_line>
 	</sjis>
+	<ascii>
+		That one!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -33,6 +42,9 @@
 	<sjis>
 		あれは！<end_line>
 	</sjis>
+	<ascii>
+		That is!<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -42,10 +54,16 @@
 		<sjis>
 			さっきのヤツだ！<end_line>
 		</sjis>
+		<ascii>
+			The one from before!<end_line>
+		</ascii>
 	</male>
 	<female>
 		<sjis>
 			さっきの召喚獣！<end_line>
 		</sjis>
+		<ascii>
+			The Summon Beast from before!<end_line>
+		</ascii>
 	</female>
 </dialogue>
