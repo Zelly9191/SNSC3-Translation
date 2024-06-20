@@ -2,9 +2,15 @@
 	<sjis>
 		スレンジ採掘場<end_line>
 	</sjis>
+	<ascii>
+		Surange Mine<end_line>
+	</ascii>
 </location>
 <location>
 	<sjis>
 		スレンジ採掘場　エリア５<end_line>
 	</sjis>
+	<ascii>
+		Surange Mine　Area 5<end_line>
+	</ascii>
 </location>
