@@ -1,17 +1,17 @@
 <location>
 	<sjis>
-		ベリートの森<end_line>
+		ピュビックの森<end_line>
 	</sjis>
 	<ascii>
-		Beleet Forest<end_line>
+		Pubick Forest<end_line>
 	</ascii>
 </location>
 <location>
 	<sjis>
-		ベリートの森　エリア４<end_line>
+		ピュビックの森　エリア３<end_line>
 	</sjis>
 	<ascii>
-		Beleet Forest　Area 4<end_line>
+		Pubick Forest　Area 3<end_line>
 	</ascii>
 </location>
 <dialogue>
@@ -20,9 +20,15 @@
 	<sjis>
 		にゃ？<end_line>
 	</sjis>
+	<ascii>
+	    Meow?<end_line>
+    </ascii>
 </dialogue>
 <popup>
 	<sjis>
 		迷いネコを保護した！<end_line>
 	</sjis>
+	<ascii>
+	    You found the lost cat!<end_line>
+    </ascii>
 </popup>

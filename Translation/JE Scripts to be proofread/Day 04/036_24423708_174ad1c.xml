@@ -3,7 +3,7 @@
 		プロスバンの町　福引き屋<end_line>
 	</sjis>
 	<ascii>
-		Prosban　Lottery<end_line>
+		Prosban Town　Lottery<end_line>
 	</ascii>
 </location>
 <dialogue>
@@ -12,6 +12,9 @@
 	<sjis>
 		これは賞品じゃないのかな？<end_line>
 	</sjis>
+	<ascii>
+	    Is this a prize?<end_line>
+    </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -20,4 +23,9 @@
 		福引き券１枚につき１回の福引きが<end_line>
 		ご利用頂けます<end_line>
 	</sjis>
+	<ascii>
+		Dear valued customers:<end_line>
+		In order to play the lottery<end_line>
+		1 ticket is needed.<end_line>
+	</ascii>
 </dialogue>

@@ -2,11 +2,17 @@
 	<sjis>
 		マーネイル宿場<end_line>
 	</sjis>
+	<ascii>
+	    Marnail Post Station<end_line>
+    </ascii>
 </location>
 <location>
 	<sjis>
 		マーネイル宿場　ほほえみ亭前<end_line>
 	</sjis>
+	<ascii>
+	    Marnail Post Station　Smile Inn<end_line>
+    </ascii>
 </location>
 <dialogue>
 	<info box="simple">
@@ -15,19 +21,19 @@
 		<sjis>
 			まずほほえみ亭って宿屋に行こう<end_line>
 		</sjis>
-    <ascii>
-      I should head to Smile Inn first.<end_line>
-    </ascii>
+    	<ascii>
+      		I should head to Smile Inn first.<end_line>
+    	</ascii>
 	</male>
 	<female>
 		<sjis>
 			先にほほえみ亭って<end_line>
 			宿屋に行きたいな<three_dots><end_line>
 		</sjis>
-    <ascii>
-      I should really check out<end_line>
-      this 'Smile Inn' first<three_dots><end_line>
-    </ascii>
+    	<ascii>
+      		I should really check out<end_line>
+      		this 'Smile Inn' first<three_dots><end_line>
+    	</ascii>
 	</female>
 </dialogue>
 <dialogue>
@@ -37,15 +43,18 @@
 		<sjis>
 			ほほえみ亭に戻るか<three_dots><end_line>
 		</sjis>
+		<ascii>
+    		Let's head back to the inn.<end_line>
+  		</ascii>
 	</male>
 	<female>
 		<sjis>
 			ほほえみ亭に戻ろう<three_dots><end_line>
 		</sjis>
-	</female>
-  <ascii>
-    Let's head back to the inn.<end_line>
-  </ascii>
+		<ascii>
+    		Let's go back to the inn.<end_line>
+  		</ascii>
+	</female>  	
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -54,19 +63,19 @@
 		<sjis>
 			まずほほえみ亭って宿屋に行こう<end_line>
 		</sjis>
-    <ascii>
-      I should head to Smile Inn first.<end_line>
-    </ascii>
+    	<ascii>
+      		I should head to Smile Inn first.<end_line>
+    	</ascii>
 	</male>
 	<female>
 		<sjis>
 			先にほほえみ亭って<end_line>
 			宿屋に行きたいな<three_dots><end_line>
 		</sjis>
-    <ascii>
-      I should really check out<end_line>
-      this 'Smile Inn' first<three_dots><end_line>
-    </ascii>
+    	<ascii>
+      		I should really check out<end_line>
+      		this 'Smile Inn' first<three_dots><end_line>
+    	</ascii>
 	</female>
 </dialogue>
 <dialogue>
@@ -77,11 +86,11 @@
 		今は２人で旅をして鍛冶師や職人に<end_line>
 		顔を売っている段階なんだって<end_line>
 	</sjis>
-  <ascii>
-    You know, my mom is a peddler.<end_line>
-    We're trying to make ourselves known<end_line>
-    with Craftknights and blacksmiths.<end_line>
-  </ascii>
+  	<ascii>
+    	You know, my mom is a peddler.<end_line>
+    	We're trying to make ourselves known<end_line>
+    	with Craftknights and blacksmiths.<end_line>
+  	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -91,11 +100,11 @@
 		だから、旅費は私が頑張って稼ぐしか<end_line>
 		無いってことなの<end_line>
 	</sjis>
-  <ascii>
-    We plan on opening a shop.<end_line>
-    That's why I have to work hard<end_line>
-    to save up money.<end_line>
-  </ascii>
+  	<ascii>
+    	We plan on opening a shop.<end_line>
+    	That's why I have to work hard<end_line>
+    	to save up money.<end_line>
+  	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -205,9 +214,9 @@
 	<sjis>
 		ありがと～<end_line>
 	</sjis>
-  <ascii>
-    Thanks~<end_line>
-  </ascii>
+  	<ascii>
+    	Thanks~<end_line>
+  	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -217,11 +226,11 @@
 		お金たりないの～<end_line>
 		商談不成立だよ～<end_line>
 	</sjis>
-  <ascii>
-    Ehh~ What's this~<end_line>
-    You don't have enough money~<end_line>
-    Transaction failed~<end_line>
-  </ascii>
+  	<ascii>
+    	Ehh~ What's this~<end_line>
+    	You don't have enough money~<end_line>
+    	Transaction failed~<end_line>
+  	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -230,11 +239,11 @@
 		え～聞くだけ聞いて買ってくれないの～<end_line>
 		ケチ～<end_line>
 	</sjis>
-  <ascii>
-    Eh~ You make me explain but<end_line>
-    aren't buying anything?<end_line>
-    Cheapskate~<end_line>
-  </ascii>
+  	<ascii>
+    	Eh~ You make me explain but<end_line>
+    	aren't buying anything?<end_line>
+    	Cheapskate~<end_line>
+  	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">

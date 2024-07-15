@@ -22,6 +22,11 @@
 		あ～～なっとらん<end_line>
 		と言ったらなっとらん<end_line>
 	</sjis>
+	<ascii>
+		Youngsters these days are<end_line>
+		no good.<end_line>
+		They're just no good.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -31,6 +36,10 @@
 		ゆうしゃになるんだ<end_line>
 		ゆうしゃはけんしより<end_line>
 	</sjis>
+	<ascii>
+		When I'm older, I'll be a hero.<end_line>
+		Hero are better than warriors.<end_line>
+	</ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -38,6 +47,10 @@
 	<sjis>
 		つよいんだよ<end_line>
 	</sjis>
+	<ascii>
+	    They're stronger.<end_line>
+    </ascii>
+	# I think this is a continuation of above lines.
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -46,4 +59,8 @@
 		この村も悪くないんだけど<end_line>
 		シゲキがないんだよね<end_line>
 	</sjis>
+	<ascii>
+	    This village isn't bad,<end_line>
+		but nothing happens here.<end_line>
+    </ascii>
 </dialogue>
