@@ -34,15 +34,18 @@
     <sjis>
       お<three_dots>？<end_line>
     </sjis>
+    <ascii>
+      Huh<three_dots>?<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       え<three_dots>？<end_line>
     </sjis>
+    <ascii>
+      Huh<three_dots>?<end_line>
+    </ascii>
   </female>
-  <ascii>
-    Huh<three_dots>?<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -69,17 +72,21 @@
       それなら<end_line>
       もう大丈夫そうだったぜ<end_line>
     </sjis>
+    <ascii>
+      Oh, don't worry about that.<end_line>
+      She looked fine.<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       それなら<end_line>
       もう大丈夫そうだったよ<end_line>
     </sjis>
+    <ascii>
+      Oh, don't worry about that.<end_line>
+      She looked fine.<end_line>
+    </ascii>
   </female>
-  <ascii>
-    Oh, don't worry about that.<end_line>
-    She looked fine.<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -104,17 +111,21 @@
       夜に会ったんだよ<end_line>
       元気そうだったぜ<end_line>
     </sjis>
+    <ascii>
+      I saw her last night.<end_line>
+      She seemed fine to me.<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       夜に会ったんだ<end_line>
       元気そうだったよ<end_line>
     </sjis>
+    <ascii>
+      I saw her last night.<end_line>
+      She seemed fine to me.<end_line>
+    </ascii>
   </female>
-  <ascii>
-    I saw her last night.<end_line>
-    She seemed fine to me.<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -141,17 +152,21 @@
       ぐっすり眠ってたみたいだし<end_line>
       もう大丈夫だろ？<end_line>
     </sjis>
+    <ascii>
+      I'm pretty sure she slept well.<end_line>
+      Murno's fine, okay?<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       ぐっすり眠ってたみたいだし<end_line>
       もう大丈夫でしょ？<end_line>
     </sjis>
+    <ascii>
+      I'm pretty sure she slept well.<end_line>
+      Murno's fine, okay?<end_line>
+    </ascii>
   </female>
-  <ascii>
-    I'm pretty sure she slept well.<end_line>
-    Murno's fine, okay?<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -178,6 +193,11 @@
       とにかくミューノのところへ<end_line>
       行きたいってことだろ？<end_line>
     </sjis>
+    <ascii>
+      Alright, alright.<end_line>
+      So you wanna head over<end_line>
+      to Murno's room, right?<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
@@ -185,12 +205,12 @@
       とにかくミューノのところへ<end_line>
       行きたいってことでしょ？<end_line>
     </sjis>
+    <ascii>
+      Alright, alright.<end_line>
+      So you wanna head over<end_line>
+      to Murno's room, right?<end_line>
+    </ascii>
   </female>
-  <ascii>
-    Alright, alright.<end_line>
-    So you wanna head over<end_line>
-    to Murno's room, right?<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -216,17 +236,21 @@
       な<three_dots><end_line>
       なんでだよ！？<end_line>
     </sjis>
+    <ascii>
+      Wh<three_dots><end_line>
+      Why do you think that!?<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       な<three_dots><end_line>
       なんでよ！？<end_line>
     </sjis>
+    <ascii>
+      Wh<three_dots><end_line>
+      Why do you think that!?<end_line>
+    </ascii>
   </female>
-  <ascii>
-    Wh<three_dots><end_line>
-    Why do you think that!?<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -309,17 +333,21 @@
       う<three_dots><end_line>
       仕方ないなあ<three_dots><end_line>
     </sjis>
+    <ascii>
+      Hn<three_dots><end_line>
+      Fine<three_dots><end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       う<three_dots><end_line>
       仕方ないわねぇ<three_dots><end_line>
     </sjis>
+    <ascii>
+      Hn<three_dots><end_line>
+      Fine<three_dots><end_line>
+    </ascii>
   </female>
-  <ascii>
-    Hn<three_dots><end_line>
-    Fine<three_dots><end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -344,17 +372,21 @@
       なんだ<end_line>
       気になるのか？<end_line>
     </sjis>
+    <ascii>
+      Huh?<end_line>
+      Are you worried?<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       なに<end_line>
       気になるの？<end_line>
     </sjis>
+    <ascii>
+      Huh?<end_line>
+      Are you worried?<end_line>
+    </ascii>
   </female>
-  <ascii>
-    Huh?<end_line>
-    Are you worried?<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -382,17 +414,21 @@
       それなら<end_line>
       もう大丈夫そうだったぜ<end_line>
     </sjis>
+    <ascii>
+      Oh, don't worry about that.<end_line>
+      She looked fine.<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       それなら<end_line>
       もう大丈夫そうだったよ<end_line>
     </sjis>
+    <ascii>
+      Oh, don't worry about that.<end_line>
+      She looked fine.<end_line>
+    </ascii>
   </female>
-  <ascii>
-    Oh, don't worry about that.<end_line>
-    She looked fine.<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -418,6 +454,9 @@
       元気そうだったから<end_line>
       きっと大丈夫だろ？<end_line>
     </sjis>
+    <ascii>
+      We went out for a walk last night.<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
@@ -425,10 +464,10 @@
       元気そうだったから<end_line>
       きっと大丈夫だよ<end_line>
     </sjis>
+    <ascii>
+      We went out for a walk last night.<end_line>
+    </ascii>
   </female>
-  <ascii>
-    We went out for a walk last night.<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -456,17 +495,21 @@
       いや<end_line>
       オレが連れ出したんじゃなくて<three_dots><end_line>
     </sjis>
+    <ascii>
+      I didn't do anything<three_dots><end_line>
+      It was just a coincidence<three_dots><end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       いや<end_line>
       わたしが連れ出したんじゃなくて<three_dots><end_line>
     </sjis>
+    <ascii>
+      I didn't do anything<three_dots><end_line>
+      It was just a coincidence<three_dots><end_line>
+    </ascii>
   </female>
-  <ascii>
-    I didn't do anything<three_dots><end_line>
-    It was just a coincidence<three_dots><end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -493,6 +536,10 @@
       ぐっすり眠ってたみたいだし<end_line>
       今日はもう、元気になってンだろ<end_line>
     </sjis>
+    <ascii>
+      She's sleeping soundly right now.<end_line>
+      That means she's fine, right?<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
@@ -500,11 +547,11 @@
       今日はもう、元気になってるんじゃ<end_line>
       ないかな？<end_line>
     </sjis>
+    <ascii>
+      She's sleeping soundly right now.<end_line>
+      That means she's fine, right?<end_line>
+    </ascii>
   </female>
-  <ascii>
-    She's sleeping soundly right now.<end_line>
-    That means she's fine, right?<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -530,17 +577,21 @@
       う<three_dots><end_line>
       悪かったよ<three_dots><end_line>
     </sjis>
+    <ascii>
+      <three_dots><end_line>
+      Sorry<three_dots><end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       う<three_dots><end_line>
       悪かったわよ<three_dots><end_line>
     </sjis>
+    <ascii>
+      <three_dots><end_line>
+      Sorry<three_dots><end_line>
+    </ascii>
   </female>
-  <ascii>
-    <three_dots><end_line>
-    Sorry<three_dots><end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -602,15 +653,18 @@
     <sjis>
       なんだよ、それ！<end_line>
     </sjis>
+    <ascii>
+      Wh-What!?<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       なによ、それ！<end_line>
     </sjis>
+    <ascii>
+      Wh-What!?<end_line>
+    </ascii>
   </female>
-  <ascii>
-    Wh-What!?<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -676,6 +730,11 @@
       悪い悪い<end_line>
       気になってたんだな<end_line>
     </sjis>
+    <ascii>
+      Oh, you mean Murno!<end_line>
+      Right, sorry.<end_line>
+      You must be worried sick.<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
@@ -683,12 +742,12 @@
       ごめんごめん<end_line>
       気になってたんだ<end_line>
     </sjis>
+    <ascii>
+      Oh, you mean Murno!<end_line>
+      Right, sorry.<end_line>
+      You must be worried sick.<end_line>
+    </ascii>
   </female>
-  <ascii>
-    Oh, you mean Murno!<end_line>
-    Right, sorry.<end_line>
-    You must be worried sick.<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -717,6 +776,10 @@
       じゃあミューノの様子を<end_line>
       見に行こうぜ<end_line>
     </sjis>
+    <ascii>
+      Yeah, yeah, I got it.<end_line>
+      Let's go see how she's doing.<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
@@ -724,11 +787,11 @@
       じゃあミューノの様子を<end_line>
       見に行こっか<end_line>
     </sjis>
+    <ascii>
+      Yeah, yeah, I got it.<end_line>
+      Let's go see how she's doing.<end_line>
+    </ascii>
   </female>
-  <ascii>
-    Yeah, yeah, I got it.<end_line>
-    Let's go see how she's doing.<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -811,17 +874,21 @@
       なんだ<end_line>
       気になるのか？<end_line>
     </sjis>
+    <ascii>
+      Hm?<end_line>
+      Are you worried?<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       なに<end_line>
       気になるの？<end_line>
     </sjis>
+    <ascii>
+      Hm?<end_line>
+      Are you worried?<end_line>
+    </ascii>
   </female>
-  <ascii>
-    Hm?<end_line>
-    Are you worried?<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -885,16 +952,19 @@
       夜に会ったんだよ<end_line>
       元気そうだったぜ<end_line>
     </sjis>
+    <ascii>
+      We went out for a walk last night.<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       夜に会ったんだ<end_line>
       元気そうだったよ<end_line>
     </sjis>
+    <ascii>
+      We went out for a walk last night.<end_line>
+    </ascii>
   </female>
-  <ascii>
-    We went out for a walk last night.<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -920,17 +990,21 @@
       いや<end_line>
       オレが連れ出したんじゃなくて<three_dots><end_line>
     </sjis>
+    <ascii>
+      I didn't do anything<three_dots><end_line>
+      It was just a coincidence<three_dots><end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       いや<end_line>
       わたしが連れ出したんじゃなくて<three_dots><end_line>
     </sjis>
+    <ascii>
+      I didn't do anything<three_dots><end_line>
+      It was just a coincidence<three_dots><end_line>
+    </ascii>
   </female>
-  <ascii>
-    I didn't do anything<three_dots><end_line>
-    It was just a coincidence<three_dots><end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -956,17 +1030,21 @@
       しっかりしてる人は<end_line>
       ちゃんと人の話を聞くもんだよな<end_line>
     </sjis>
+    <ascii>
+      If you wanna be responsible,<end_line>
+      maybe you should listen to others.<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       しっかりしてる人は<end_line>
       ちゃんと人の話を聞くもんだよ<end_line>
     </sjis>
+    <ascii>
+      If you wanna be responsible,<end_line>
+      maybe you should listen to others.<end_line>
+    </ascii>
   </female>
-  <ascii>
-    If you wanna be responsible,<end_line>
-    maybe you should listen to others.<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -1002,17 +1080,21 @@
       ぐっすり眠ってたみたいだし<end_line>
       きっと元気になってるさ<end_line>
     </sjis>
+    <ascii>
+      Anyway, she was sleeping soundly,<end_line>
+      so I'm sure she's fine.<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       ぐっすり眠ってたみたいだし<end_line>
       きっと元気になってるって<end_line>
     </sjis>
+    <ascii>
+      Anyway, she was sleeping soundly,<end_line>
+      so I'm sure she's fine.<end_line>
+    </ascii>
   </female>
-  <ascii>
-    Anyway, she was sleeping soundly,<end_line>
-    so I'm sure she's fine.<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -1082,14 +1164,16 @@
     <sjis>
       お、おう！<end_line>
     </sjis>
+    <ascii>
+      Right<three_dots><end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       う、うん！<end_line>
     </sjis>
+    <ascii>
+      Right<three_dots><end_line>
+    </ascii>
   </female>
-  <ascii>
-    Right<three_dots><end_line>
-  </ascii>
 </dialogue>
-

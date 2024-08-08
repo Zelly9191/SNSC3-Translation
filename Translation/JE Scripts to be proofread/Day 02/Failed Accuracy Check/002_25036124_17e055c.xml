@@ -289,8 +289,10 @@
   </sjis>
   <ascii>
     Umm<three_dots><end_line>
-    Ms. Vee<three_dots><end_line>
+    Ms. V.E<three_dots><end_line>
   </ascii>
+  # Failed Accuracy Check
+  # Changed "Vee" to V.E
 </dialogue>
 <dialogue>
   <info box="left">
@@ -576,8 +578,10 @@
     ヴィーさん<three_dots><end_line>
   </sjis>
   <ascii>
-    Um, Ms. Vee<three_dots><end_line>
+    Um, Ms. V.E<three_dots><end_line>
   </ascii>
+  # Failed Accuracy Check
+  # Changed "Vee" to V.E
 </dialogue>
 <dialogue>
   <info box="nobox">
@@ -1133,15 +1137,18 @@
     <sjis>
       なんだ、このフンイキ<three_dots>？<end_line>
     </sjis>
+    <ascii>
+      The atmosphere feels different<three_dots><end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       なに、このフンイキ<three_dots>？<end_line>
     </sjis>
+    <ascii>
+      The atmosphere feels different<three_dots><end_line>
+    </ascii>
   </female>
-  <ascii>
-    The atmosphere feels different<three_dots><end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -1309,10 +1316,12 @@
     なったのです<end_line>
   </sjis>
   <ascii>
-    I came across Vee,<end_line>
+    I came across V.E,<end_line>
     who very kindly decided<end_line>
     to hire me as an assistant.<end_line>
   </ascii>
+  # Failed Accuracy Check
+  # Changed "Vee" to V.E
 </dialogue>
 <dialogue>
   <info box="left">
@@ -1460,9 +1469,12 @@
   </sjis>
   <ascii>
     It's the perfect setting.<end_line>
-    People all over the Earth<end_line>
+    People all over<end_line>
     would be moved to tears!<end_line>
   </ascii>
+  # Failed Accuracy Check
+  # Changed "People all over the Earth" to remove reference to Earth
+  # I don't know think the world is also called Earth
 </dialogue>
 <dialogue>
   <info box="left">
@@ -1472,8 +1484,10 @@
     ぜんべい？<end_line>
   </sjis>
   <ascii>
-    Earth<three_dots>what<three_dots>?<end_line>
+    All<three_dots>over<three_dots>?<end_line>
   </ascii>
+  # Failed Accuracy Check
+  # Changed "Earth<three_dots>what<three_dots>?" to remove Earth reference
 </dialogue>
 <dialogue>
   <info box="right">
@@ -1576,16 +1590,19 @@
       <three_dots>しかし<end_line>
       あんなんで大丈夫なんだろうか？<end_line>
     </sjis>
+    <ascii>
+      Are they<three_dots><end_line>
+      Really going to be okay<three_dots>?<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       <three_dots>うーん<end_line>
       あんなんで大丈夫なのかな？<end_line>
     </sjis>
+    <ascii>
+      Are they<three_dots><end_line>
+      Really going to be okay<three_dots>?<end_line>
+    </ascii>
   </female>
-  <ascii>
-    Are they<three_dots><end_line>
-    Really going to be okay<three_dots>?<end_line>
-  </ascii>
 </dialogue>
-

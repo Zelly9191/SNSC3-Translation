@@ -22,6 +22,11 @@
 			オレも強くなったと思うし<three_dots><end_line>
 			それに<three_dots><end_line>
 		</sjis>
+  		<ascii>
+    		Because<three_dots> I've gotten stronger<end_line>
+    		since I got a partner now.<end_line>
+    		And I<three_dots><end_line>
+  		</ascii>
 	</male>
 	<female>
 		<sjis>
@@ -29,12 +34,12 @@
 			わたしも強くなったと思うし<three_dots><end_line>
 			それに<three_dots><end_line>
 		</sjis>
+  		<ascii>
+    		Because<three_dots> I've gotten stronger<end_line>
+    		since I got a partner now.<end_line>
+    		And I<three_dots><end_line>
+  		</ascii>
 	</female>
-  <ascii>
-    Because<three_dots> I've gotten stronger<end_line>
-    since I got a partner now.<end_line>
-    And I<three_dots><end_line>
-  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -86,15 +91,18 @@
 		<sjis>
 			なんだよ、それ<end_line>
 		</sjis>
+  		<ascii>
+    		What are you trying to say?<end_line>
+  		</ascii>
 	</male>
 	<female>
 		<sjis>
 			なによ、それ<end_line>
 		</sjis>
+  		<ascii>
+    		What are you trying to say?<end_line>
+  		</ascii>
 	</female>
-  <ascii>
-    What are you trying to say?<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -168,7 +176,7 @@
 	<ascii>
 		Wha!<end_line>
 		I train everyday!<end_line>
-    I'm sure if we had a match<three_dots><end_line>
+    	I'm sure if we had a match<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -181,7 +189,7 @@
 		強くなってるよ！<end_line>
 	</sjis>
 	<ascii>
-    I'm strong enough to beat you!<end_line>
+    	I'm strong enough to beat you!<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -194,9 +202,9 @@
 		半人前なんだよ<end_line>
 	</sjis>
 	<ascii>
-    You're so childish<three_dots><end_line>
-    This is why you'll<end_line>
-    always be a half-baked amateur.<end_line>
+    	You're so childish<three_dots><end_line>
+    	This is why you'll<end_line>
+    	always be a half-baked amateur.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -207,15 +215,18 @@
 		<sjis>
 			半人前って言うな！<end_line>
 		</sjis>
+  		<ascii>
+    		I'm not a half-baked amateur!<end_line>
+  		</ascii>
 	</male>
 	<female>
 		<sjis>
 			半人前って言わないで！<end_line>
 		</sjis>
+  		<ascii>
+    		I'm not a half-baked amateur!<end_line>
+  		</ascii>
 	</female>
-  <ascii>
-    I'm not a half-baked amateur!<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -227,7 +238,7 @@
 		僕、もう戻っていいですか？<end_line>
 	</sjis>
 	<ascii>
-    I don't have time for this.<end_line>
+    	I don't have time for this.<end_line>
 		May I leave now?<end_line>
 	</ascii>
 </dialogue>
@@ -266,8 +277,10 @@
 		話があるんでな<end_line>
 	</sjis>
 	<ascii>
-		I have some business with Vee.<end_line>
+		I have some business with V.E.<end_line>
 	</ascii>
+	# Failed Accuracy Check
+	# Changed Vee to V.E
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -278,9 +291,11 @@
 		家に戻ったみたいだぞ<end_line>
 	</sjis>
 	<ascii>
-		Vee was just at the Chief's house.<end_line>
+		V.E was just at the Chief's house.<end_line>
 		She might be back back home by now.<end_line>
 	</ascii>
+	# Failed Accuracy Check
+	# Changed Vee to V.E
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -302,17 +317,21 @@
 			ちょっと待てよ！<end_line>
 			こっちの話がまだ<three_dots><end_line>
 		</sjis>
+  		<ascii>
+    		Hold on a minute!<end_line>
+    		I'm not done yet<three_dots><end_line>
+  		</ascii>
 	</male>
 	<female>
 		<sjis>
 			ちょっと待ってよ！<end_line>
 			こっちの話がまだ<three_dots><end_line>
 		</sjis>
+  		<ascii>
+    		Hold on a minute!<end_line>
+    		I'm not done yet<three_dots><end_line>
+  		</ascii>
 	</female>
-  <ascii>
-    Hold on a minute!<end_line>
-    I'm not done yet<three_dots><end_line>
-  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -374,9 +393,11 @@
 	</sjis>
 	<ascii>
 		<three_dots><end_line>
-    What does he want with Vee?<end_line>
-    I'm kind of curious<three_dots><end_line>
+    	What does he want with V.E?<end_line>
+    	I'm kind of curious<three_dots><end_line>
 	</ascii>
+	# Failed Accuracy Check
+	# Changed Vee to V.E
 </dialogue>
 <dialogue>
 	<player gender="male">
@@ -402,8 +423,8 @@
 	</sjis>
 	<ascii>
 		<three_dots><end_line>
-    What does he want with V.E?<end_line>
-    I'm kind of curious<three_dots><end_line>
+    	What does he want with V.E?<end_line>
+    	I'm kind of curious<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>

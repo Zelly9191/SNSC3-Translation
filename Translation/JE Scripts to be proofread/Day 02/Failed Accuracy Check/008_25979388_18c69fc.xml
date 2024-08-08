@@ -8,8 +8,11 @@
   </sjis>
   <ascii>
     Cat error.<end_line>
-    PUSS-TEMP is not set.<end_line>
+    POS_TEMP is not set.<end_line>
   </ascii>
+  # Failed Accuracy Test
+  # Changed 2nd line from "PUSS-TEMP is not set."
+  # Its in english in the sjis section and doesnt correspond to any japanese, so may as well keep it.
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -20,9 +23,11 @@
     でも<three_dots><end_line>
   </sjis>
   <ascii>
-    Whitney has disappeared.<end_line>
+    Shiro has disappeared.<end_line>
     But<three_dots><end_line>
   </ascii>
+  # Failed Accuracy Test
+  # Changed cat name from Whitney to Shiro
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -104,8 +109,11 @@
     居なくなってしまった<end_line>
   </sjis>
   <ascii>
-    Hey, have you seen a white cat?<end_line>
+    Shiro has left.<end_line>
   </ascii>
+  # Failed Accuracy Test
+  # Changed from "Hey, have you seen a white cat?"
+  # It says the cat went away. "Shiro disappeared from before me." is the very direct translation.
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -115,8 +123,11 @@
     旅立つ決意を感じたんだ<end_line>
   </sjis>
   <ascii>
-    I think they're crying for help.<end_line>
+    But, they seemed full of<end_line>
+    determination when they left.<end_line>
   </ascii>
+  # Failed Accuracy Test
+  # Changed from "I think they're crying for help."
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -127,8 +138,10 @@
   </sjis>
   <ascii>
     It's hard being apart<end_line>
-    from Whitney.<end_line>
+    from Shiro.<end_line>
   </ascii>
+  # Failed Accuracy Test
+  # Changed cat name from Whitney to Shiro
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -160,8 +173,10 @@
     しまったのじゃろう<end_line>
   </sjis>
   <ascii>
-    Whitney went off somewhere<three_dots><end_line>
+    Shiro went off somewhere<three_dots><end_line>
   </ascii>
+  # Failed Accuracy Test
+  # Changed cat name from Whitney to Shiro
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -172,8 +187,12 @@
   </sjis>
   <ascii>
     Mysteriously, I'm at peace.<end_line>
-    I'm happy for them.<end_line>
+    I can feel they're happy,<end_line>
+    wherever they are.<end_line>
   </ascii>
+  # Failed Accuracy Test
+  # First line is good.
+  # Second line changed from "I'm happy for them."
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -279,8 +298,10 @@
     シロちゃん<end_line>
   </sjis>
   <ascii>
-    Welcome back, Whitney~<end_line>
+    Welcome back, Shiro~<end_line>
   </ascii>
+  # Failed Accuracy Test
+  # Changed cat name from Whitney to Shiro
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -334,9 +355,11 @@
     でも<three_dots><end_line>
   </sjis>
   <ascii>
-    Whitney has disappeared.<end_line>
+    Shiro has disappeared.<end_line>
     But<three_dots><end_line>
   </ascii>
+  # Failed Accuracy Test
+  # Changed cat name from Whitney to Shiro
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -441,8 +464,10 @@
     おお～シロや～～<end_line>
   </sjis>
   <ascii>
-    Ooh, Oh, Whitney~~<end_line>
+    Ooh, Oh, Shiro~~<end_line>
   </ascii>
+  # Failed Accuracy Test
+  # Changed cat name from Whitney to Shiro
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -474,10 +499,12 @@
     危ないところにいっちゃだめだよ～<end_line>
   </sjis>
   <ascii>
-    Alright Whitney,<end_line>
+    Alright Shiro,<end_line>
     no more getting yourself<end_line>
     into trouble now~<end_line>
   </ascii>
+  # Failed Accuracy Test
+  # Changed cat name from Whitney to Shiro
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -487,10 +514,12 @@
     危ないところにいっちゃだめだよ～<end_line>
   </sjis>
   <ascii>
-    Alright Whitney,<end_line>
+    Alright Shiro,<end_line>
     no more getting yourself<end_line>
     into trouble now~<end_line>
   </ascii>
+  # Failed Accuracy Test
+  # Changed cat name from Whitney to Shiro
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -500,8 +529,10 @@
     居なくなってしまった<end_line>
   </sjis>
   <ascii>
-    Hey, have you seen a white cat?<end_line>
+    Shiro has left.<end_line>
   </ascii>
+  # Failed Accuracy Test
+  # Changed from "Hey, have you seen a white cat?"
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -511,8 +542,11 @@
     旅立つ決意を感じたんだ<end_line>
   </sjis>
   <ascii>
-    I think they're crying for help.<end_line>
+    But, they seemed full of<end_line>
+    determination when they left.<end_line>
   </ascii>
+  # Failed Accuracy Test
+  # Changed from "I think they're crying for help."
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -523,8 +557,10 @@
   </sjis>
   <ascii>
     It's hard being apart<end_line>
-    from Whitney.<end_line>
+    from Shiro.<end_line>
   </ascii>
+  # Failed Accuracy Test
+  # Changed cat name from Whitney to Shiro
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -638,8 +674,10 @@
     しまったのじゃろう<end_line>
   </sjis>
   <ascii>
-    Whitney went off somewhere<three_dots><end_line>
+    Shiro went off somewhere<three_dots><end_line>
   </ascii>
+  # Failed Accuracy Test
+  # Changed cat name from Whitney to Shiro
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -650,8 +688,12 @@
   </sjis>
   <ascii>
     Mysteriously, I'm at peace.<end_line>
-    I'm happy for them.<end_line>
+    I can feel they're happy,<end_line>
+    wherever they are.<end_line>
   </ascii>
+  # Failed Accuracy Test
+  # First line is good.
+  # Second line changed from "I'm happy for them."
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -848,10 +890,12 @@
     まるで、猫の王国みたいね<end_line>
   </sjis>
   <ascii>
-    Whitney brought back<end_line>
+    Shiro brought back<end_line>
     a bunch of friends this time too.<end_line>
     It's like a kingdom of cats.<end_line>
   </ascii>
+  # Failed Accuracy Test
+  # Changed cat name from Whitney to Shiro
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -863,6 +907,3 @@
     Meow, meow~<end_line>
   </ascii>
 </dialogue>
-
-
-

@@ -7,17 +7,21 @@
 			楽勝！<end_line>
 			やっぱオレたちは強いな！<end_line>
 		</sjis>
+  		<ascii>
+    		Easy!<end_line>
+    		We really are strong!<end_line>
+  		</ascii>
 	</male>
 	<female>
 		<sjis>
 			楽勝！<end_line>
 			やっぱわたしたちって強いね！<end_line>
 		</sjis>
+  		<ascii>
+    		Easy!<end_line>
+    		We really are strong!<end_line>
+  		</ascii>
 	</female>
-  <ascii>
-    Easy!<end_line>
-    We really are strong!<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -41,7 +45,7 @@
 		もう少し歯ごたえが欲しかったな<end_line>
 	</sjis>
 	<ascii>
-    Indeed.<end_line>
+    	Indeed.<end_line>
 		Though I wouldn't have minded<end_line>
 		if it lasted a bit longer.<end_line>
 	</ascii>
@@ -82,16 +86,19 @@
 			それじゃ<end_line>
 			先に進もうぜ！<end_line>
 		</sjis>
+  		<ascii>
+    		Let's keep going then!<end_line>
+  		</ascii>
 	</male>
 	<female>
 		<sjis>
 			それじゃ<end_line>
 			先に行きましょう！<end_line>
 		</sjis>
+  		<ascii>
+    		Let's keep going then!<end_line>
+  		</ascii>
 	</female>
-  <ascii>
-    Let's keep going then!<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -101,15 +108,18 @@
 		<sjis>
 			ちょっと油断したぜ<three_dots><end_line>
 		</sjis>
+  		<ascii>
+    		I let my guard down<three_dots><end_line>
+  		</ascii>
 	</male>
 	<female>
 		<sjis>
 			ちょっと油断したかな<three_dots><end_line>
 		</sjis>
+  		<ascii>
+    		I let my guard down<three_dots><end_line>
+  		</ascii>
 	</female>
-  <ascii>
-    I let my guard down<three_dots><end_line>
-  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -124,7 +134,7 @@
 	<ascii>
 		If I Was Able To Use My Real Power,<end_line>
 		That Opponent Would Not<end_line>
-    Have Stood A Chance.<end_line>
+    	Have Stood A Chance.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -153,8 +163,8 @@
 	</sjis>
 	<ascii>
 		Tch<three_dots><end_line>
-    Letting an opponent like that<end_line>
-    throw you around so easily<three_dots><end_line>
+    	Letting an opponent like that<end_line>
+    	throw you around so easily<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -180,17 +190,21 @@
 			気を取り直して<end_line>
 			先に進もうぜ！<end_line>
 		</sjis>
+  		<ascii>
+    		We can't let this get us down.<end_line>
+    		Come on, let's go!<end_line>
+  		</ascii>
 	</male>
 	<female>
 		<sjis>
 			気を取り直して<end_line>
 			先に行きましょう！<end_line>
 		</sjis>
+  		<ascii>
+    		We can't let this get us down.<end_line>
+    		Come on, let's go!<end_line>
+  		</ascii>
 	</female>
-  <ascii>
-    We can't let this get us down.<end_line>
-    Come on, let's go!<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -200,15 +214,18 @@
 		<sjis>
 			ざっとこんなもんだな！<end_line>
 		</sjis>
+  		<ascii>
+    		We really did it!<end_line>
+  		</ascii>
 	</male>
 	<female>
 		<sjis>
 			ざっとこんなもんね！<end_line>
 		</sjis>
+  		<ascii>
+    		We really did it!<end_line>
+  		</ascii>
 	</female>
-  <ascii>
-    We really did it!<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -249,8 +266,8 @@
 		モタモタするとは<three_dots><end_line>
 	</sjis>
 	<ascii>
-    Tch<three_dots><end_line>
-    Should've been an easy win<three_dots><end_line>
+    	Tch<three_dots><end_line>
+    	Should've been an easy win<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -274,14 +291,17 @@
 			それじゃ<end_line>
 			先に進もうぜ！<end_line>
 		</sjis>
+  		<ascii>
+    		C'mon, let's keep moving!<end_line>
+  		</ascii>
 	</male>
 	<female>
 		<sjis>
 			それじゃ<end_line>
 			先に行きましょう！<end_line>
 		</sjis>
+  		<ascii>
+    		C'mon, let's keep moving!<end_line>
+  		</ascii>
 	</female>
-  <ascii>
-    C'mon, let's keep moving!<end_line>
-  </ascii>
 </dialogue>

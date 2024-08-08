@@ -8,8 +8,8 @@
 	</sjis>
 	<ascii>
 		Strays have appeared just ahead.<end_line>
-    It's too dangerous to go outside.<end_line>
-    Come back another time.<end_line>
+    	It's too dangerous to go outside.<end_line>
+    	Come back another time.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -20,16 +20,19 @@
 			オレもそのはぐれ退治を<end_line>
 			手伝いたいんだ<end_line>
 		</sjis>
+  		<ascii>
+    		I want to help hunt the Strays too.<end_line>
+  		</ascii>
 	</male>
 	<female>
 		<sjis>
 			わたしもそのはぐれ退治を<end_line>
 			手伝いたいんです<end_line>
 		</sjis>
+  		<ascii>
+    		I want to help hunt the Strays too.<end_line>
+  		</ascii>
 	</female>
-  <ascii>
-    I want to help hunt the Strays too.<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
 	<info box="simple">

@@ -321,8 +321,10 @@
 		ディックル鉱洞にあるものを<end_line>
 	</sjis>
 	<ascii>
-		Hmm<three_dots> Deikle Mine<three_dots><end_line>
+		Hmm<three_dots> Deckell Mine<three_dots><end_line>
 	</ascii>
+	# Failed Accuracy Check
+	# Changed "Deikle Mine"
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -341,8 +343,10 @@
 		コンシールの森にあるものを<end_line>
 	</sjis>
 	<ascii>
-		Hmm<three_dots> Consheel Forest<three_dots><end_line>
+		Hmm<three_dots> Conceal Forest<three_dots><end_line>
 	</ascii>
+	# Failed Accuracy Check
+	# Changed "Consheel Forest"
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -351,8 +355,10 @@
 		ピュビックの森にあるものを<end_line>
 	</sjis>
 	<ascii>
-		Hmm<three_dots> Pyubick Forest<three_dots><end_line>
+		Hmm<three_dots> Pubick Forest<three_dots><end_line>
 	</ascii>
+	# Failed Accuracy Check
+	# Changed "Pyubick Forest"
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -381,8 +387,10 @@
 		フラード洞窟にあるものを<end_line>
 	</sjis>
 	<ascii>
-		Hmm<three_dots> Hulard Cave<three_dots><end_line>
+		Hmm<three_dots> Flard Grotto<three_dots><end_line>
 	</ascii>
+	# Failed Accuracy Check
+	# Changed "Hulard Cave"
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -391,8 +399,10 @@
 		スレンジ採掘場にあるものを<end_line>
 	</sjis>
 	<ascii>
-		Hmm<three_dots> Slenh Mine<three_dots><end_line>
+		Hmm<three_dots> Surange Mine<three_dots><end_line>
 	</ascii>
+	# Failed Accuracy Check
+	# Changed "Slenh Mine"
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -411,8 +421,10 @@
 		ミシュースの廃墟にあるものを<end_line>
 	</sjis>
 	<ascii>
-		Hmm<three_dots> Mishus Ruins<three_dots><end_line>
+		Hmm<three_dots> Mishus Abandoned Site<three_dots><end_line>
 	</ascii>
+	# Failed Accuracy Check
+	# Changed "Mishus Ruins"
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -482,8 +494,10 @@
 		「超バトルアタック」が追加されます<end_line>
 	</sjis>
 	<ascii>
-		Save with an observation ticket, and<end_line>
-		"Super Battle Attack"<end_line>
+		Save with an <quote>Observation Ticket<quote>, and<end_line>
+		<quote>Super Battle Attack<quote><end_line>
 		will be unlocked in extras.<end_line>
 	</ascii>
+	# Failed Accuracy Check
+	# Added <quote> tags to items
 </dialogue>

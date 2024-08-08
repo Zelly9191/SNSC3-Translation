@@ -119,9 +119,11 @@
   </sjis>
   <ascii>
     Assigning Identification<end_line>
-    Code To "Enemy".<end_line>
+    Code To <quote>Enemy<quote>.<end_line>
     Entering Battle Mode.<end_line>
   </ascii>
+  # Failed Accuracy Check
+  # Added <quote> tag to "Enemy"
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -432,15 +434,18 @@
     <sjis>
       どうしてそうなるんだよ？<end_line>
     </sjis>
+    <ascii>
+      Why would you think that?<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       どうしてそうなるの？<end_line>
     </sjis>
+    <ascii>
+      Why would you think that?<end_line>
+    </ascii>
   </female>
-  <ascii>
-    Why would you think that?<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -565,6 +570,10 @@
       こいつは<partner><end_line>
       オレの相方<three_dots>パートナーだよ<end_line>
     </sjis>
+    <ascii>
+      Yeah.<end_line>
+      This is <partner>, my partner.<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
@@ -572,11 +581,11 @@
       この子は<partner><end_line>
       わたしの相方<three_dots>パートナーだよ<end_line>
     </sjis>
+    <ascii>
+      Yeah.<end_line>
+      This is <partner>, my partner.<end_line>
+    </ascii>
   </female>
-  <ascii>
-    Yeah.<end_line>
-    This is <partner>, my partner.<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -944,15 +953,18 @@
     <sjis>
       なんだってー！<end_line>
     </sjis>
+    <ascii>
+      W-what!?<end_line>
+    </ascii>
   </male>
   <female>
     <sjis>
       なんですとー！<end_line>
     </sjis>
+    <ascii>
+      W-what!?<end_line>
+    </ascii>
   </female>
-  <ascii>
-    W-what!?<end_line>
-  </ascii>
 </bigtext>
 <dialogue>
   <info box="right">

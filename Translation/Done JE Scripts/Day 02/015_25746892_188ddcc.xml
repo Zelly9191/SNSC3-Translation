@@ -22,18 +22,19 @@
 			うーん<end_line>
 			開かないなぁ<three_dots><end_line>
 		</sjis>
+		<ascii>
+		  Hnnnn<three_dots>!<end_line>
+		  It won't open<three_dots><end_line>
+		</ascii>
 	</male>
 	<female>
 		<sjis>
 			うーん<end_line>
 			開かないよぉ<three_dots><end_line>
 		</sjis>
+		<ascii>
+			Hnnnn<three_dots>!<end_line>
+			It won't open<three_dots><end_line>
+		</ascii>
 	</female>
-  <ascii>
-    Hnnnn<three_dots>!<end_line>
-    It won't open<three_dots><end_line>
-  </ascii>
 </dialogue>
-
-
-

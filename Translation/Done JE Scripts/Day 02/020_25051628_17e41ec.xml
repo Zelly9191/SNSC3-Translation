@@ -6,17 +6,21 @@
 			やった！<end_line>
 			出たぞ！<end_line>
 		</sjis>
+  		<ascii>
+    		Alright!<end_line>
+   		 	We made it out!<end_line>
+  		</ascii>
 	</male>
 	<female>
 		<sjis>
 			やった！<end_line>
 			外だ！<end_line>
 		</sjis>
+  		<ascii>
+    		Alright!<end_line>
+   		 	We made it out!<end_line>
+  		</ascii>
 	</female>
-  <ascii>
-    Alright!<end_line>
-    We made it out!<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -25,15 +29,18 @@
 		<sjis>
 			どうした？<end_line>
 		</sjis>
+  		<ascii>
+    		What's wrong?<end_line>
+  		</ascii>
 	</male>
 	<female>
 		<sjis>
 			どうしたの？<end_line>
 		</sjis>
+  		<ascii>
+    		What's wrong?<end_line>
+  		</ascii>
 	</female>
-  <ascii>
-    What's wrong?<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -113,8 +120,8 @@
 	</sjis>
 	<ascii>
 		<three_dots>That was tough wasn't it?<end_line>
-    Who would've thought the<end_line>
-    bridge would collapse?<end_line>
+    	Who would've thought the<end_line>
+    	bridge would collapse?<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -198,17 +205,21 @@
 			さっきのセリフ<end_line>
 			なんか、アニキみたいだったな<end_line>
 		</sjis>
+  		<ascii>
+    		That guy<three_dots><end_line>
+    		He kind of sounded like Bro.<end_line>
+  		</ascii>
 	</male>
 	<female>
 		<sjis>
 			さっきのセリフ、なんだか<end_line>
 			アニキみたいだったけど<three_dots><end_line>
 		</sjis>
+  		<ascii>
+    		That guy<three_dots><end_line>
+    		He kind of sounded like Bro.<end_line>
+  		</ascii>
 	</female>
-  <ascii>
-    That guy<three_dots><end_line>
-    He kind of sounded like Bro.<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -237,7 +248,7 @@
 	<ascii>
 		Oh, no, that's just a nickname.<end_line>
 		He's a friend of Master Rob.<end_line>
-    He's a blacksmith.<end_line>
+    	He's a blacksmith.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -251,8 +262,8 @@
 		昔はいっしょに修行もしたけど<three_dots><end_line>
 	</sjis>
 	<ascii>
-    I trained with him once a<end_line>
-    long time ago in Prosban<three_dots><end_line>
+    	I trained with him once a<end_line>
+    	long time ago in Prosban<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -303,17 +314,21 @@
 			さっきのセリフ<end_line>
 			なんか、アニキみたいだったな<end_line>
 		</sjis>
+  		<ascii>
+    		That guy<three_dots><end_line>
+    		He kind of sounded like Bro.<end_line>
+  		</ascii>
 	</male>
 	<female>
 		<sjis>
 			さっきのセリフ、なんだか<end_line>
 			アニキみたいだったけど<three_dots><end_line>
 		</sjis>
+  		<ascii>
+    		That guy<three_dots><end_line>
+    		He kind of sounded like Bro.<end_line>
+  		</ascii>
 	</female>
-  <ascii>
-    That guy<three_dots><end_line>
-    He kind of sounded like Bro.<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -342,7 +357,7 @@
 	<ascii>
 		Oh, no, that's just a nickname.<end_line>
 		He's a friend of Master Rob.<end_line>
-    He's a blacksmith.<end_line>
+    	He's a blacksmith.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -356,8 +371,8 @@
 		昔はいっしょに修行もしたけど<three_dots><end_line>
 	</sjis>
 	<ascii>
-    I trained with him once a<end_line>
-    long time ago in Prosban<three_dots><end_line>
+    	I trained with him once a<end_line>
+    	long time ago in Prosban<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -408,17 +423,21 @@
 			さっきのセリフ<end_line>
 			なんか、アニキみたいだったな<end_line>
 		</sjis>
+  		<ascii>
+    		That guy<three_dots><end_line>
+    		He kind of sounded like Bro.<end_line>
+  		</ascii>
 	</male>
 	<female>
 		<sjis>
 			さっきのセリフ、なんだか<end_line>
 			アニキみたいだったけど<three_dots><end_line>
 		</sjis>
+  		<ascii>
+    		That guy<three_dots><end_line>
+    		He kind of sounded like Bro.<end_line>
+  		</ascii>
 	</female>
-  <ascii>
-    That guy<three_dots><end_line>
-    He kind of sounded like Bro.<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -447,7 +466,7 @@
 	<ascii>
 		Oh, no, that's just a nickname.<end_line>
 		He's a friend of Master Rob.<end_line>
-    He's a blacksmith.<end_line>
+    	He's a blacksmith.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -461,8 +480,8 @@
 		昔はいっしょに修行もしたけど<three_dots><end_line>
 	</sjis>
 	<ascii>
-    I trained with him once a<end_line>
-    long time ago in Prosban<three_dots><end_line>
+    	I trained with him once a<end_line>
+    	long time ago in Prosban<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -487,9 +506,9 @@
 	<sjis>
 		そいつが来たのか？<end_line>
 	</sjis>
-  <ascii>
-    And he's here?<end_line>
-  </ascii>
+  	<ascii>
+    	And he's here?<end_line>
+  	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -499,9 +518,9 @@
 	<sjis>
 		みたいですね<end_line>
 	</sjis>
-  <ascii>
-    So it seems.<end_line>
-  </ascii>
+  	<ascii>
+    	So it seems.<end_line>
+  	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -513,17 +532,21 @@
 			さっきのセリフ<end_line>
 			なんか、アニキみたいだったな<end_line>
 		</sjis>
+  		<ascii>
+    		That guy<three_dots><end_line>
+    		He kind of sounded like Bro.<end_line>
+		</ascii>
 	</male>
 	<female>
 		<sjis>
 			さっきのセリフ、なんだか<end_line>
 			アニキみたいだったけど<three_dots><end_line>
 		</sjis>
+  		<ascii>
+    		That guy<three_dots><end_line>
+    		He kind of sounded like Bro.<end_line>
+		</ascii>
 	</female>
-  <ascii>
-    That guy<three_dots><end_line>
-    He kind of sounded like Bro.<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -535,10 +558,10 @@
 		あなたにもお兄さんが<end_line>
 		いたんですか？<end_line>
 	</sjis>
-  <ascii>
-    Bro?<end_line>
-    You had a brother?<end_line>
-  </ascii>
+  	<ascii>
+    	Bro?<end_line>
+    	You had a brother?<end_line>
+  	</ascii>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -553,7 +576,7 @@
 	<ascii>
 		Oh, no, that's just a nickname.<end_line>
 		He's a friend of Master Rob.<end_line>
-    He's a blacksmith.<end_line>
+    	He's a blacksmith.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -567,8 +590,8 @@
 		昔はいっしょに修行もしたけど<three_dots><end_line>
 	</sjis>
 	<ascii>
-    I trained with him once a<end_line>
-    long time ago in Prosban<three_dots><end_line>
+    	I trained with him once a<end_line>
+    	long time ago in Prosban<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -610,8 +633,8 @@
 	<ascii>
 		I don't know<three_dots><end_line>
 		Anyway, right now we need<end_line>
-    to take care of that Stray!<end_line>
-  </ascii>
+    	to take care of that Stray!<end_line>
+  	</ascii>
 </dialogue>
 <dialogue>
 	<info box="nobox">
@@ -620,17 +643,21 @@
 			さっきのセリフ<end_line>
 			なんか、アニキみたいだったな<end_line>
 		</sjis>
+  		<ascii>
+    		That guy<three_dots><end_line>
+   		 	He kind of sounded like Bro.<end_line>
+  		</ascii>
 	</male>
 	<female>
 		<sjis>
 			さっきのセリフ、なんだか<end_line>
 			アニキみたいだったけど<three_dots><end_line>
 		</sjis>
+  		<ascii>
+    		That guy<three_dots><end_line>
+   		 	He kind of sounded like Bro.<end_line>
+  		</ascii>
 	</female>
-  <ascii>
-    That guy<three_dots><end_line>
-    He kind of sounded like Bro.<end_line>
-  </ascii>
 </dialogue>
 <dialogue>
 	<info box="nobox">
@@ -642,7 +669,7 @@
 	<ascii>
 		Oh, no, that's just a nickname.<end_line>
 		He's a friend of Master Rob.<end_line>
-    He's a blacksmith.<end_line>
+    	He's a blacksmith.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -653,8 +680,8 @@
 		昔はいっしょに修行もしたけど<three_dots><end_line>
 	</sjis>
 	<ascii>
-    I trained with him once a<end_line>
-    long time ago in Prosban<three_dots><end_line>
+    	I trained with him once a<end_line>
+    	long time ago in Prosban<three_dots><end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -668,6 +695,3 @@
 		since Master Rob passed away<three_dots><end_line>
 	</ascii>
 </dialogue>
-
-
-

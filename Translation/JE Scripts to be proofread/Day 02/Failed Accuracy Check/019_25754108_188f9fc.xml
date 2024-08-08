@@ -3,8 +3,10 @@
 		森洞<end_line>
 	</sjis>
 	<ascii>
-		Cave<end_line>
+		Forest Cave<end_line>
 	</ascii>
+	# Failed Accuracy Check
+	# Changed from "Cave"
 </location>
 <location>
 	<sjis>
@@ -51,16 +53,20 @@
 		<sjis>
 			今戻ったら見つかるぞ<end_line>
 		</sjis>
+		<ascii>
+			If we go back now,<end_line>
+			they'll find us.<end_line>
+		</ascii>
 	</male>
 	<female>
 		<sjis>
 			今戻ると見つかっちゃうよお<end_line>
 		</sjis>
-	</female>
 		<ascii>
 			If we go back now,<end_line>
 			they'll find us.<end_line>
 		</ascii>
+	</female>
 </dialogue>
 <dialogue>
 	<info box="special">
