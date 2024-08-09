@@ -344,6 +344,11 @@
       急ごう！<end_line>
       お前も来い<end_line>
     </sjis>
+    <ascii>
+    We don't have time to argue.<end_line>
+    Let's hurry!<end_line>
+    You're coming too.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -351,12 +356,12 @@
       急ぐわよ！<end_line>
       あなたも来てよね<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     We don't have time to argue.<end_line>
     Let's hurry!<end_line>
     You're coming too.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">

@@ -108,6 +108,11 @@
       好きでコイツに会ってたんじゃないぞ<end_line>
       薬をうけとりに来ただけだよ<end_line>
     </sjis>
+    <ascii>
+    Yeah, he's right.<end_line>
+    We're only meeting up because<end_line>
+    he wanted to give me medicine.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -115,12 +120,12 @@
       好きでこの子に会ってたんじゃないの<end_line>
       薬をうけとりに来ただけだよ<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Yeah, he's right.<end_line>
     We're only meeting up because<end_line>
     he wanted to give me medicine.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -224,6 +229,11 @@
       別にどーだっていいだろ<end_line>
       そんなこと<end_line>
     </sjis>
+    <ascii>
+    Now, now<three_dots><end_line>
+    It's really not as big a deal<end_line>
+    as you're making it out to be.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -231,12 +241,12 @@
       別にどーだっていいじゃない<end_line>
       そんなこと<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Now, now<three_dots><end_line>
     It's really not as big a deal<end_line>
     as you're making it out to be.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -520,15 +530,18 @@
     <sjis>
       なんだと！<end_line>
     </sjis>
+    <ascii>
+    What's that supposed to mean!?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       なによ、それ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     What's that supposed to mean!?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -569,17 +582,21 @@
       お前なぁ<three_dots><end_line>
       言わせておけば<three_dots>！<end_line>
     </sjis>
+    <ascii>
+    You<three_dots><end_line>
+    I gave you an inch and you<three_dots>!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       あんた<three_dots><end_line>
       言わせておけば<three_dots>！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     You<three_dots><end_line>
     I gave you an inch and you<three_dots>!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -619,15 +636,18 @@
     <sjis>
       だめだ！<end_line>
     </sjis>
+    <ascii>
+    No, it's not okay!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       だめだよ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     No, it's not okay!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -650,6 +670,11 @@
       こうなったら絶対その薬を<end_line>
       受け取らせたくなったぜ<three_dots><end_line>
     </sjis>
+    <ascii>
+    This isn't just your problem now.<end_line>
+    He's taking the medicine,<end_line>
+    one way or another.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -657,12 +682,12 @@
       こうなったら絶対その薬を<end_line>
       受け取らせたくなったの<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     This isn't just your problem now.<end_line>
     He's taking the medicine,<end_line>
     one way or another.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -712,15 +737,18 @@
     <sjis>
       ち<three_dots>！<end_line>
     </sjis>
+    <ascii>	
+    Tch<three_dots>!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       く<three_dots>！<end_line>
     </sjis>
-  </female>
-  <ascii>	
+    <ascii>	
     Tch<three_dots>!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -861,15 +889,18 @@
     <sjis>
       約束、だからな<end_line>
     </sjis>
+    <ascii>
+    Then it's a deal.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       約束、だからね<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Then it's a deal.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">

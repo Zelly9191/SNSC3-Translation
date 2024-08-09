@@ -7,17 +7,21 @@
       <partner><end_line>
       大丈夫か！？<end_line>
     </sjis>
+    <ascii>
+    <partner>!<end_line>
+    Are you okay!?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       <partner><end_line>
       大丈夫！？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     <partner>!<end_line>
     Are you okay!?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -92,17 +96,21 @@
       ヒデェことしやがる<three_dots>！<end_line>
       待ってろ！　すぐ外してやるから！<end_line>
     </sjis>
+    <ascii>
+    How could they<three_dots>!<end_line>
+    Just wait! I'll get it off!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       なんてヒドイことを<three_dots>！<end_line>
       待ってて！　すぐ外してあげるから！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     How could they<three_dots>!<end_line>
     Just wait! I'll get it off!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -179,6 +187,11 @@
       アイツ、ひとりでアカバネと<three_dots>！<end_line>
       とにかく出るぞ！<end_line>
     </sjis>
+    <ascii>
+    Lemmy came to save us.<end_line>
+    He's facing Red Wing alone<three_dots>!<end_line>
+    We have to leave!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -186,10 +199,10 @@
       あいつ、ひとりでアカバネと<three_dots>！<end_line>
       とにかく出るよ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Lemmy came to save us.<end_line>
     He's facing Red Wing alone<three_dots>!<end_line>
     We have to leave!<end_line>
   </ascii>
+  </female>
 </dialogue>

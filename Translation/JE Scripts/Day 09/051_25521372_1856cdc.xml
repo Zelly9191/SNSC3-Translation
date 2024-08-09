@@ -6,17 +6,21 @@
       見つけたぞ、アニス！<end_line>
       ミューノを返せ！<end_line>
     </sjis>
+    <ascii>
+    Found you, Anise!<end_line>
+    Let Murno go!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       見つけたわよ、アニス！<end_line>
       ミューノを返して！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Found you, Anise!<end_line>
     Let Murno go!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -168,6 +172,11 @@
       ミューノを返せって<end_line>
       言ってンだろ！？<end_line>
     </sjis>
+    <ascii>
+    Wait!<end_line>
+    I told you to return Murno,<end_line>
+    didn't I!?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -175,12 +184,12 @@
       ミューノを返してって<end_line>
       言ってるでしょ！？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Wait!<end_line>
     I told you to return Murno,<end_line>
     didn't I!?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -340,17 +349,21 @@
       待て<three_dots><end_line>
       ミューノを返せ<three_dots><end_line>
     </sjis>
+    <ascii>
+    Wait<three_dots><end_line>
+    Let Murno go<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       待って<three_dots><end_line>
       ミューノを返して<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Wait<three_dots><end_line>
     Let Murno go<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -477,15 +490,18 @@
     <sjis>
       き<three_dots>、きっさま<three_dots>！<end_line>
     </sjis>
+    <ascii>
+    Y<three_dots> You<three_dots>!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       あ<three_dots>、あんたっ<three_dots>！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Y<three_dots> You<three_dots>!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">

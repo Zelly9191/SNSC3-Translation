@@ -595,6 +595,11 @@
       これからもよろしくな<end_line>
       <partner><end_line>
     </sjis>
+    <ascii>
+    Well<three_dots> I suppose<end_line>
+    I'll be continuing to rely on you,<end_line>
+    <partner>.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -602,12 +607,12 @@
       これからもよろしくね<end_line>
       <partner><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Well<three_dots> I suppose<end_line>
     I'll be continuing to rely on you,<end_line>
     <partner>.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">

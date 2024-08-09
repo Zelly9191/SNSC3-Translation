@@ -89,17 +89,21 @@
       う、うごくなよ！<end_line>
       うごくと<three_dots><end_line>
     </sjis>
+    <ascii>
+    D-don't move!<end_line>
+    Or else<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       う、うごかないで！<end_line>
       うごくと<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     D-don't move!<end_line>
     Or else<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -183,17 +187,21 @@
       そんな<three_dots><end_line>
       やめろ、<partner><three_dots>！<end_line>
     </sjis>
+    <ascii>
+    No<three_dots><end_line>
+    Stop, <partner><three_dots>!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       そんな<three_dots><end_line>
       やめて、<partner><three_dots>！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     No<three_dots><end_line>
     Stop, <partner><three_dots>!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <bigtext>
   <info box="right" effect="big">
@@ -605,17 +613,21 @@
       ご、ごめん<three_dots><end_line>
       レミィも悪かったな<end_line>
     </sjis>
+    <ascii>
+    S-sorry<three_dots><end_line>
+    I even made Lemmy worry about me.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       ご、ごめん<three_dots><end_line>
       レミィも心配かけちゃったね<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     S-sorry<three_dots><end_line>
     I even made Lemmy worry about me.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="left">

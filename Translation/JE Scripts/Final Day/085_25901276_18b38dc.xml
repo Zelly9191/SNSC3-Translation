@@ -15,13 +15,16 @@
     <sjis>
       こっちからは上に戻れないみたいだ<end_line>
     </sjis>
+    <ascii>
+    Can't go up this way.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       こっちからは上に戻れないみたい<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Can't go up this way.<end_line>
   </ascii>
+  </female>
 </dialogue>

@@ -7,17 +7,21 @@
       さあ<end_line>
       おとなしくしろ！<end_line>
     </sjis>
+    <ascii>
+    Now,<end_line>
+    still still!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       さあ<end_line>
       おとなしくするのよ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Now,<end_line>
     still still!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -115,6 +119,11 @@
       これで終わりだな<end_line>
       さあ、お前も<three_dots><end_line>
     </sjis>
+    <ascii>
+    This is the end<end_line>
+    of your schemes.<end_line>
+    Come, you too<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -122,12 +131,12 @@
       これで終わりね<end_line>
       さあ、あんたも<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     This is the end<end_line>
     of your schemes.<end_line>
     Come, you too<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -307,17 +316,21 @@
       てめぇ！<end_line>
       何してんだ！<end_line>
     </sjis>
+    <ascii>
+    You!<end_line>
+    What are you doing!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       あんたっ！<end_line>
       何するのよ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     You!<end_line>
     What are you doing!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="nobox">

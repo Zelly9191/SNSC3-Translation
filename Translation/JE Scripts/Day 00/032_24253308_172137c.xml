@@ -83,17 +83,21 @@
       　　　これからどこへ行くつもり　　　<end_line>
       　　　　だったんだろうか<three_dots>　　　　　<end_line>
     </sjis>
+    <ascii>
+      Where did they intend	<end_line>
+      to go from here<three_dots>?  　　　　<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       　　　これからどこへ行くつもり　　　<end_line>
       　　　　　だったんだろう<three_dots>　　　　　<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
       Where did they intend	<end_line>
       to go from here<three_dots>?  　　　　<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="nobox">
@@ -102,17 +106,21 @@
       　　薬のせいかどうかはしらないが　　<end_line>
       　　あれからミューノの熱も下がった　<end_line>
     </sjis>
+    <ascii>
+    After that, Murnos' fever went down.<end_line>
+    The medicine probably worked.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       　薬のせいかどうかはしらないけど　　<end_line>
       　あれからミューノの熱も下がった　　<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     After that, Murnos' fever went down.<end_line>
     The medicine probably worked.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="nobox">
@@ -207,6 +215,11 @@
       　　ティエのことをどうするか？　　　<end_line>
       　<three_dots>っていうのが、カッコワルイなぁ<three_dots><end_line>
     </sjis>
+    <ascii>
+    But, for now, the question is,<end_line>
+    what to do about Tier?<end_line>
+    <three_dots>Man, I'm so lame<three_dots><end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -214,12 +227,12 @@
       　　ティエのことをどうしよう？　　　<end_line>
       　<three_dots>っていうのが、カッコワルイなぁ<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     But, for now, the question is,<end_line>
     what to do about Tier?<end_line>
     <three_dots>Man, I'm so lame<three_dots><end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="nobox">

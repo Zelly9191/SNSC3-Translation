@@ -67,6 +67,11 @@
       はなせ！<end_line>
       はなせって！！<end_line>
     </sjis>
+    <ascii>
+    What are you doing!?<end_line>
+    Let go!<end_line>
+    Let me go!!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -74,12 +79,12 @@
       はなして！<end_line>
       はなしてよ！！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     What are you doing!?<end_line>
     Let go!<end_line>
     Let me go!!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -151,7 +156,7 @@
       You, Summon Beast, quiet down.<end_line>
       If you don't,<end_line>
       the girl's neck will<three_dots><end_line>
-    </ascii> 
+    </ascii>
   </female>
 </dialogue>
 <dialogue>
@@ -201,6 +206,11 @@
       はなせ！<end_line>
       気色悪い！<end_line>
     </sjis>
+    <ascii>
+    Why you! Stop!<end_line>
+    Let me go!<end_line>
+    You're disgusting!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -208,12 +218,12 @@
       はなして！<end_line>
       気色悪い！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Why you! Stop!<end_line>
     Let me go!<end_line>
     You're disgusting!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -235,17 +245,21 @@
       い、いて<three_dots><end_line>
       いてててて！<end_line>
     </sjis>
+    <ascii>
+    O, ow<three_dots><end_line>
+    Owowowow!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       い、いた<three_dots><end_line>
       いたたたた！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     O, ow<three_dots><end_line>
     Owowowow!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -267,15 +281,18 @@
     <sjis>
       いぃってぇえ！<end_line>
     </sjis>
+    <ascii>
+    Owww!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       いぃったぁい！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Owww!<end_line>
   </ascii>
+  </female>
 </bigtext>
 <dialogue>
   <info box="right">
@@ -328,17 +345,21 @@
       な、なんだと！<end_line>
       ダレがお前なんかに<three_dots>！<end_line>
     </sjis>
+    <ascii>
+    Wh, what!?<end_line>
+    Like I'd let you<three_dots>!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       な、なによ！<end_line>
       ダレがあんたなんかに<three_dots>！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Wh, what!?<end_line>
     Like I'd let you<three_dots>!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">

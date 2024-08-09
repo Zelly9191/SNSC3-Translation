@@ -63,15 +63,18 @@
     <sjis>
       なんだよ、これ！？<end_line>
     </sjis>
+    <ascii>
+    What's going on!?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       なによ、これ！？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     What's going on!?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -545,15 +548,18 @@
     <sjis>
       はいっ！<end_line>
     </sjis>
+    <ascii>
+    Yes!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       はいっ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Yes!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -626,6 +632,11 @@
       いくぞ<end_line>
       <partner>！<end_line>
     </sjis>
+    <ascii>
+    Like I'd let you!<end_line>
+    Let's go,<end_line>
+    <partner>!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -633,12 +644,12 @@
       いくよ<end_line>
       <partner>！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Like I'd let you!<end_line>
     Let's go,<end_line>
     <partner>!<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">

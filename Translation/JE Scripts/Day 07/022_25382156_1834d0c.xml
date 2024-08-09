@@ -90,15 +90,18 @@
     <sjis>
       どういうことだよ？<end_line>
     </sjis>
+    <ascii>
+    Hm?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       どういうこと？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Hm?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">

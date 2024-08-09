@@ -139,15 +139,18 @@
     <sjis>
       なんだと！<end_line>
     </sjis>
+    <ascii>
+    What was that!?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       なによ、それ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     What was that!?<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -383,6 +386,11 @@
       でも、あのギランってヤツは<end_line>
       オレにまかせて欲しいんだ<end_line>
     </sjis>
+    <ascii>
+    Sorry, Brother<three_dots><end_line>
+    But, I want you to leave<end_line>
+    that Gillan guy to me.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -390,12 +398,12 @@
       でも、あのギランって人は<end_line>
       わたしにまかせて欲しいんだ<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Sorry, Brother<three_dots><end_line>
     But, I want you to leave<end_line>
     that Gillan guy to me.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -446,6 +454,11 @@
       教わってないと思うんだ<end_line>
       それをアイツに証明したくて<three_dots><end_line>
     </sjis>
+    <ascii>
+    I want to prove it to them<three_dots><end_line>
+    That Master has never taught<end_line>
+    me anything wrong.<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
@@ -453,12 +466,12 @@
       教わってないと思うんだ<end_line>
       それをアイツに証明したくて<three_dots><end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     I want to prove it to them<three_dots><end_line>
     That Master has never taught<end_line>
     me anything wrong.<end_line>
   </ascii>
+  </female>
 </dialogue>
 <dialogue>
   <info box="right">

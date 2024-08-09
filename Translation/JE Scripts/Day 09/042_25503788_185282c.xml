@@ -75,13 +75,16 @@
     <sjis>
       行くぞ！<end_line>
     </sjis>
+    <ascii>
+    Here we go!<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       行くよ！<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     Here we go!<end_line>
   </ascii>
+  </female>
 </dialogue>

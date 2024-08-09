@@ -179,14 +179,17 @@
     <sjis>
       なんだよ！？<end_line>
     </sjis>
+    <ascii>
+    What's going on!?<end_line>
+  </ascii>
   </male>
   <female>
     <sjis>
       なによ！？<end_line>
     </sjis>
-  </female>
-  <ascii>
+    <ascii>
     What's going on!?<end_line>
   </ascii>
+  </female>
 </dialogue>
 
