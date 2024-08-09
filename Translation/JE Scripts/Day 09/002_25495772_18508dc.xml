@@ -80,19 +80,15 @@
       まったく！<end_line>
       こんな時に！<end_line>
     </sjis>
-    <ascii>
-    Oh, come on!<end_line>
-    What terrible timing!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       もう！<end_line>
       こんな時に！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Oh, come on!<end_line>
     What terrible timing!<end_line>
   </ascii>
-  </female>
 </dialogue>

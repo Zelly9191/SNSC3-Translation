@@ -18,21 +18,17 @@
       くっ<three_dots><end_line>
       キ<three_dots>キサマら<three_dots>！<end_line>
     </sjis>
-    <ascii>
-    Ugh<three_dots><end_line>
-    Y<three_dots>You guys<three_dots>!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       う<three_dots><end_line>
       あ<three_dots>あんたたち<three_dots>！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Ugh<three_dots><end_line>
     Y<three_dots>You guys<three_dots>!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -271,16 +267,13 @@
     <sjis>
       くそっ！<end_line>
     </sjis>
-    <ascii>
-    Crap!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       このっ！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Crap!<end_line>
   </ascii>
-  </female>
 </dialogue>

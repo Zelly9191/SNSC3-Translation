@@ -7,11 +7,6 @@
       わかるわけないよな<three_dots><end_line>
       もう帰ろっかな<three_dots><end_line>
     </sjis>
-    <ascii>
-    Well, even if I think about it,<end_line>
-    it's not like I'll understand it<three_dots><end_line>
-    Guess I'll head back<three_dots><end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -19,12 +14,12 @@
       わかるわけないよね<three_dots><end_line>
       もう帰ろっかな<three_dots><end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Well, even if I think about it,<end_line>
     it's not like I'll understand it<three_dots><end_line>
     Guess I'll head back<three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -35,11 +30,6 @@
       誰かいるのか？<end_line>
       まさか<three_dots><end_line>
     </sjis>
-    <ascii>
-    Hm?<end_line>
-    Is someone there?<end_line>
-    Could it be<three_dots><end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -47,12 +37,12 @@
       誰かいるの？<end_line>
       まさか<three_dots><end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Hm?<end_line>
     Is someone there?<end_line>
     Could it be<three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <menu>
   <option>

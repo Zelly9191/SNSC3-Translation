@@ -1,3 +1,4 @@
+#line 90
 <dialogue>
   <info box="left">
   <portrait_l entry="player" eye="decided" mouth="neutral">
@@ -8,11 +9,6 @@
       今日こそアニスたちを<end_line>
       とっつかまえてやるぜ！<end_line>
     </sjis>
-    <ascii>
-    Alright!<end_line>
-    Today is the day<end_line>
-    we catch Anise!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -20,12 +16,12 @@
       今日こそアニスたちを<end_line>
       捕まえてやるんだから！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Alright!<end_line>
     Today is the day<end_line>
     we catch Anise!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -84,11 +80,6 @@
       アニスたちに捕まったときのこと<end_line>
       怒ってるのか？<end_line>
     </sjis>
-    <ascii>
-    What?<end_line>
-    Are you still angry about<end_line>
-    the time we were captured?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -96,12 +87,12 @@
       アニスたちに捕まったときのこと<end_line>
       怒ってるの？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     What?<end_line>
     Are you still angry about<end_line>
     the time we were captured?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -129,11 +120,6 @@
       ま、とにかく落ちついて<end_line>
       行こうぜ<end_line>
     </sjis>
-    <ascii>
-    Really?<end_line>
-    Well, either way, calm down.<end_line>
-    Let's go.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -141,12 +127,12 @@
       ま、とにかく落ちついて<end_line>
       行こう<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Really?<end_line>
     Well, either way, calm down.<end_line>
     Let's go.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -174,21 +160,17 @@
       ハラが立つのはわかるけどさ<end_line>
       あんまりムチャなことするなよ<end_line>
     </sjis>
-    <ascii>
-    I know you're angry,<end_line>
-    but don't go too crazy.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       ハラが立つのはわかるけどさ<end_line>
       あんまりムチャなことしないでよ<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     I know you're angry,<end_line>
     but don't go too crazy.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -248,11 +230,6 @@
       ムチャはするなよな<end_line>
       落ちついて行こうぜ<end_line>
     </sjis>
-    <ascii>
-    Please, I'm begging you.<end_line>
-    Don't take this too far.<end_line>
-    Let's all calm down.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -260,12 +237,12 @@
       ムチャはしないでよ<end_line>
       落ちついて行こう<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Please, I'm begging you.<end_line>
     Don't take this too far.<end_line>
     Let's all calm down.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -293,21 +270,17 @@
       ハラが立つのはわかるけどさ<end_line>
       あんまりムチャなことするなよ<end_line>
     </sjis>
-    <ascii>
-    I know you're angry,<end_line>
-    but don't go too crazy.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       ハラが立つのはわかるけどさ<end_line>
       あんまりムチャなことしないでよ<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     I know you're angry,<end_line>
     but don't go too crazy.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -335,21 +308,17 @@
       だからムチャすんなって！<end_line>
       自警団の人もいるんだからさ<end_line>
     </sjis>
-    <ascii>
-    That's why I'm telling you!<end_line>
-    The Vigilante Corps will be there.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       だからムチャしないでって！<end_line>
       自警団の人もいるんだからさ<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     That's why I'm telling you!<end_line>
     The Vigilante Corps will be there.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -375,11 +344,6 @@
       人手が多い方がいいんだから<end_line>
       ガマンしろよ<end_line>
     </sjis>
-    <ascii>
-    What, you don't want to?<end_line>
-    The more people helping, the better.<end_line>
-    Deal with it.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -387,12 +351,12 @@
       人手が多い方がいいんだから<end_line>
       ガマンしてよ<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     What, you don't want to?<end_line>
     The more people helping, the better.<end_line>
     Deal with it.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -419,11 +383,6 @@
       ムチャはするなよな<end_line>
       落ちついて行こうぜ<end_line>
     </sjis>
-    <ascii>
-    Please, I'm begging you.<end_line>
-    Don't take this too far.<end_line>
-    Let's all calm down.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -431,12 +390,12 @@
       ムチャはしないでよ<end_line>
       落ちついて行こう<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Please, I'm begging you.<end_line>
     Don't take this too far.<end_line>
     Let's all calm down.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -464,21 +423,17 @@
       ハラが立つのはわかるけどさ<end_line>
       あんまりムチャなことするなよ<end_line>
     </sjis>
-    <ascii>
-    I know you're angry,<end_line>
-    but don't go too crazy.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       ハラが立つのはわかるけどさ<end_line>
       あんまりムチャなことしないでよ<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     I know you're angry,<end_line>
     but don't go too crazy.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -508,7 +463,7 @@
     Of course not!<end_line>
     We have to be able to hand them<end_line>
     over to the Vigilante Corps.<end_line>
-  </ascii>
+  </ascii> 
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -535,11 +490,6 @@
       ムチャはするなよな<end_line>
       落ちついて行こうぜ<end_line>
     </sjis>
-    <ascii>
-    Please, I'm begging you.<end_line>
-    Don't take this too far.<end_line>
-    Let's all calm down.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -547,10 +497,10 @@
       ムチャはしないでよ<end_line>
       落ちついて行こう<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Please, I'm begging you.<end_line>
     Don't take this too far.<end_line>
     Let's all calm down.<end_line>
   </ascii>
-  </female>
 </dialogue>

@@ -228,21 +228,17 @@
       なんだよ<three_dots>もう<three_dots>！<end_line>
       はりあいのないヤツだな！<end_line>
     </sjis>
-    <ascii>
-    Oh, c'mon<three_dots>!<end_line>
-    You don't get excited for anything!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       なによ<three_dots>もう<three_dots>！<end_line>
       はりあいがないなぁ！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Oh, c'mon<three_dots>!<end_line>
     You don't get excited for anything!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -463,11 +459,6 @@
       ハンマーこわがってたのにな<end_line>
       よくがんばったよ<end_line>
     </sjis>
-    <ascii>
-    You were so afraid of<end_line>
-    the hammer yesterday, but you<end_line>
-    worked really hard to overcome it.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -475,12 +466,12 @@
       ハンマーこわがってたのにね<end_line>
       よくがんばったよ<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     You were so afraid of<end_line>
     the hammer yesterday, but you<end_line>
     worked really hard to overcome it.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -507,11 +498,6 @@
       いいがかりって<three_dots><end_line>
       昨日はキャーキャー言ってただろ<end_line>
     </sjis>
-    <ascii>
-    Oh, is that true?<end_line>
-    Weren't you screaming<end_line>
-    your head off just yesterday?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -519,12 +505,12 @@
       昨日はキャーキャー<end_line>
       言ってたじゃない<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Oh, is that true?<end_line>
     Weren't you screaming<end_line>
     your head off just yesterday?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -813,18 +799,15 @@
     <sjis>
       オレも！？<end_line>
     </sjis>
-    <ascii>
-    Me too!?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       わたしも！？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Me too!?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -980,18 +963,15 @@
     <sjis>
       オレも！？<end_line>
     </sjis>
-    <ascii>
-    Me too!?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       わたしも！？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Me too!?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -1155,18 +1135,15 @@
     <sjis>
       オレも！？<end_line>
     </sjis>
-    <ascii>
-    Me too!?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       わたしも！？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Me too!?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -1318,18 +1295,15 @@
     <sjis>
       オレも！？<end_line>
     </sjis>
-    <ascii>
-      Me too!?<end_line>
-    </ascii>
   </male>
   <female>
     <sjis>
       わたしも！？<end_line>
     </sjis>
+  </female>
     <ascii>
       Me too!?<end_line>
     </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">

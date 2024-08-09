@@ -7,21 +7,17 @@
       ザック！？<end_line>
       お前、どうしたんだ！？<end_line>
     </sjis>
-    <ascii>
-    Zakk!?<end_line>
-    Hey, what happened!?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       ザック！？<end_line>
       あなた、どうしたの！？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Zakk!?<end_line>
     Hey, what happened!?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -196,11 +192,6 @@
       じゃあティエはザックをつれて<end_line>
       町にかえれ<end_line>
     </sjis>
-    <ascii>
-    Got it<three_dots><end_line>
-    Okay Tier, take Zakk<end_line>
-    and return to town.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -208,12 +199,12 @@
       じゃあティエはザックをつれて<end_line>
       町に戻ってて<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Got it<three_dots><end_line>
     Okay Tier, take Zakk<end_line>
     and return to town.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -236,10 +227,6 @@
       だからティエ、お前は<end_line>
       ザックをたのむ、な<end_line>
     </sjis>
-    <ascii>
-    We'll take care of the rest!<end_line>
-    So Tier, you watch over Zakk, okay?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -247,11 +234,11 @@
       だからティエ、あなたは<end_line>
       ザックをおねがい、ね<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     We'll take care of the rest!<end_line>
     So Tier, you watch over Zakk, okay?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -276,16 +263,13 @@
     <sjis>
       おう！<end_line>
     </sjis>
-    <ascii>
-    Yeah!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       うん！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Yeah!<end_line>
   </ascii>
-  </female>
 </dialogue>

@@ -6,18 +6,15 @@
     <sjis>
       まいったか！<end_line>
     </sjis>
-    <ascii>
-    Well, had enough?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       どう、まいった！？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Well, had enough?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -64,19 +61,16 @@
       負けたんだから約束通り<end_line>
       ザックの薬、受け取れよな！<end_line>
     </sjis>
-    <ascii>
-    Alright, now take the medicine!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       負けたんだから約束通り<end_line>
       ザックの薬、受け取りなさいよ！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Alright, now take the medicine!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -127,11 +121,6 @@
       ザックの気持ちがこもってるんだ<end_line>
       大事に使えよ<end_line>
     </sjis>
-    <ascii>
-    Hey, you know Zakk worked <end_line>
-    hard to get you that medicine.<end_line>
-    You should appreciate it.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -139,12 +128,12 @@
       ザックの気持ちがこもってるんだから<end_line>
       大事に使いなさいよ<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Hey, you know Zakk worked <end_line>
     hard to get you that medicine.<end_line>
     You should appreciate it.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -191,10 +180,6 @@
       こっちこそありがとな<end_line>
       ザック<end_line>
     </sjis>
-    <ascii>
-    Oh, right.<end_line>
-    You have my thanks too, Zakk.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -202,11 +187,11 @@
       こっちこそありがとね<end_line>
       ザック<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Oh, right.<end_line>
     You have my thanks too, Zakk.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">

@@ -68,21 +68,17 @@
       よし、やってみよう<end_line>
       たのむぜ、<partner><end_line>
     </sjis>
-    <ascii>
-    Alright, let's do this.<end_line>
-    I'm counting on you, <partner>.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       よし、やってみよう<end_line>
       たのむよ、<partner><end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Alright, let's do this.<end_line>
     I'm counting on you, <partner>.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">

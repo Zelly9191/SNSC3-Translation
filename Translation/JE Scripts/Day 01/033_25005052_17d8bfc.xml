@@ -7,11 +7,6 @@
       <partner>がいなかったら<end_line>
       いまごろオレは<three_dots><end_line>
     </sjis>
-    <ascii>
-    That was close<three_dots><end_line>
-    <partner>, if you weren't here,<end_line>
-    I'd be done for<three_dots><end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -19,12 +14,12 @@
       <partner>がいなかったら<end_line>
       いまごろわたし<three_dots><end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     That was close<three_dots><end_line>
     <partner>, if you weren't here,<end_line>
     I'd be done for<three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -105,11 +100,6 @@
       それにしても本当に<end_line>
       ブジでよかったぜ<end_line>
     </sjis>
-    <ascii>
-    So that's why you came from there<three_dots><end_line>
-    But more than that,<end_line>
-    I'm glad you're okay.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -117,12 +107,12 @@
       それにしても本当に<end_line>
       ブジでよかったよ<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     So that's why you came from there<three_dots><end_line>
     But more than that,<end_line>
     I'm glad you're okay.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -198,18 +188,15 @@
     <sjis>
       悪かったよ<end_line>
     </sjis>
-    <ascii>
-    I'm sorry too.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       ごめんね<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     I'm sorry too.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -236,11 +223,6 @@
       オレの失敗でもあるんだ<end_line>
       いっしょにあやまらなきゃな<end_line>
     </sjis>
-    <ascii>
-    My partner's mistake<end_line>
-    is my mistake too,<end_line>
-    so we apologize together.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -248,12 +230,12 @@
       わたしの失敗でもあるしね<end_line>
       いっしょにあやまらなきゃ<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     My partner's mistake<end_line>
     is my mistake too,<end_line>
     so we apologize together.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -302,18 +284,15 @@
     <sjis>
       今度は落ちないみたいだ<end_line>
     </sjis>
-    <ascii>
-    Looks like he'll be okay now.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       今度は大丈夫みたいだね<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Looks like he'll be okay now.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -337,21 +316,17 @@
       よし！<end_line>
       オレたちも行こう！<end_line>
     </sjis>
-    <ascii>
-    Alright!<end_line>
-    Let's go too!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       よぉし！<end_line>
       わたしたちも行こう！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Alright!<end_line>
     Let's go too!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -421,11 +396,6 @@
       それにしても本当に<end_line>
       ブジでよかったぜ<end_line>
     </sjis>
-    <ascii>
-    So that's why you came from there<three_dots><end_line>
-    But more than that,<end_line>
-    I'm glad you're okay.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -433,12 +403,12 @@
       それにしても本当に<end_line>
       ブジでよかったよ<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     So that's why you came from there<three_dots><end_line>
     But more than that,<end_line>
     I'm glad you're okay.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -514,18 +484,15 @@
     <sjis>
       悪かったな<end_line>
     </sjis>
-    <ascii>
-    I'm sorry too.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       ごめんね<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     I'm sorry too.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -552,11 +519,6 @@
       オレの失敗でもあるんだ<end_line>
       いっしょにあやまらなきゃな<end_line>
     </sjis>
-    <ascii>
-    My partner's mistake<end_line>
-    is my mistake too,<end_line>
-    so we apologize together.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -564,12 +526,12 @@
       わたしの失敗でもあるしね<end_line>
       いっしょにあやまらなきゃ<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     My partner's mistake<end_line>
     is my mistake too,<end_line>
     so we apologize together.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -618,18 +580,15 @@
     <sjis>
       今度は落ちないみたいだ<end_line>
     </sjis>
-    <ascii>
-    Looks like he'll be okay now.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       今度は大丈夫みたいだね<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Looks like he'll be okay now.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -655,21 +614,17 @@
       よし！<end_line>
       オレたちも行こう！<end_line>
     </sjis>
-    <ascii>
-    Alright!<end_line>
-    Let's go too!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       よぉし！<end_line>
       わたしたちも行こう！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Alright!<end_line>
     Let's go too!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -968,18 +923,15 @@
     <sjis>
       今度は落ちないみたいだ<end_line>
     </sjis>
-    <ascii>
-    Looks like he'll be okay now.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       今度は大丈夫みたいだね<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Looks like he'll be okay now.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -1003,21 +955,17 @@
       よし！<end_line>
       オレたちも行こう！<end_line>
     </sjis>
-    <ascii>
-    Alright!<end_line>
-    Let's get going!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       よぉし！<end_line>
       わたしたちも行こう！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Alright!<end_line>
     Let's get going!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -1089,11 +1037,6 @@
       それにしても本当に<end_line>
       ブジでよかったぜ<end_line>
     </sjis>
-    <ascii>
-    So that's why you came from there<three_dots><end_line>
-    But more than that,<end_line>
-    I'm glad you're okay.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -1101,12 +1044,12 @@
       それにしても本当に<end_line>
       ブジでよかったよ<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     So that's why you came from there<three_dots><end_line>
     But more than that,<end_line>
     I'm glad you're okay.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -1179,18 +1122,15 @@
     <sjis>
       悪かったな<end_line>
     </sjis>
-    <ascii>
-    I'm sorry too.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       ごめんね<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     I'm sorry too.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -1217,11 +1157,6 @@
       オレの失敗でもあるんだ<end_line>
       いっしょにあやまらなきゃな<end_line>
     </sjis>
-    <ascii>	
-    My partner's mistake<end_line>
-    is my mistake too,<end_line>
-    so we apologize together.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -1229,12 +1164,12 @@
       わたしの失敗でもあるしね<end_line>
       いっしょにあやまらなきゃ<end_line>
     </sjis>
-    <ascii>	
+  </female>
+  <ascii>	
     My partner's mistake<end_line>
     is my mistake too,<end_line>
     so we apologize together.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -1283,18 +1218,15 @@
     <sjis>
       今度は落ちないみたいだ<end_line>
     </sjis>
-    <ascii>
-    Looks like he'll be okay now.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       今度は大丈夫みたいだね<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Looks like he'll be okay now.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -1318,20 +1250,16 @@
       よし！<end_line>
       オレたちも行こう！<end_line>
     </sjis>
-    <ascii>
-    Alright!<end_line>
-    Let's go too!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       よぉし！<end_line>
       わたしたちも行こう！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Alright!<end_line>
     Let's go too!<end_line>
   </ascii>
-  </female>
 </dialogue>
 

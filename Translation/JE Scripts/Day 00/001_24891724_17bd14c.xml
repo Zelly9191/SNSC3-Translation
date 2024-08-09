@@ -9,7 +9,7 @@
     <ascii>
       Yes!<end_line>
       Victory!<end_line>
-    </ascii>
+    </ascii>	
   </male>
   <female>
     <sjis>
@@ -19,7 +19,7 @@
     <ascii>
       Yay!<end_line>
       I won!<end_line>
-    </ascii>
+    </ascii>	
   </female>
 </dialogue>
 <dialogue>
@@ -34,7 +34,7 @@
     You've grown strong<three_dots><end_line>
     I could feel your determination<end_line>
     with every blow.<end_line>
-  </ascii>
+  </ascii>	
 </dialogue>
 <dialogue>
   <info box="right">
@@ -44,7 +44,7 @@
   </sjis>
   <ascii>
     You were really cool, you know.<end_line>
-  </ascii>
+  </ascii>	
 </dialogue>
 <dialogue>
   <info box="left">
@@ -58,7 +58,7 @@
     <ascii>
       Ah<three_dots>! <end_line>
       Thank you, Sis V.E!<end_line>
-    </ascii>
+    </ascii>	
   </male>
   <female>
     <sjis>
@@ -79,7 +79,7 @@
   </sjis>
   <ascii>
     Well done, <player_name>!<end_line>
-  </ascii>
+  </ascii>	
 </dialogue>
 <dialogue>
   <info box="left">
@@ -167,7 +167,7 @@
     <ascii>
       Vee<three_dots><end_line>
       Are you crying?<end_line>
-    </ascii>
+    </ascii>		
   </male>
   <female>
     <sjis>
@@ -177,7 +177,7 @@
     <ascii>
       Vee is<three_dots><end_line>
       Crying?<end_line>
-    </ascii>
+    </ascii>		
   </female>
 </dialogue>
 <dialogue>
@@ -192,7 +192,7 @@
     When I found him,<end_line>
     it was already too late<three_dots><end_line>
     He asked me to give this to you<three_dots><end_line>
-  </ascii>
+  </ascii>	
 </dialogue>
 <dialogue>
   <info box="nobox">
@@ -203,7 +203,7 @@
   <ascii>
     That's<three_dots><end_line>
     Master Rob's<three_dots>!<end_line>
-  </ascii>
+  </ascii>			
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -213,7 +213,7 @@
   </sjis>
   <ascii>
     No way<three_dots><end_line>
-  </ascii>
+  </ascii>	
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -225,7 +225,7 @@
   <ascii>
     Rob was<three_dots><end_line>
     A Stray Summon Beast<three_dots><end_line>
-  </ascii>
+  </ascii>	
 </dialogue>
 <bigtext>
   <info box="nobox">
@@ -234,7 +234,7 @@
   </sjis>
   <ascii>
     Killed him!<end_line>
-  </ascii>
+  </ascii>	
 </bigtext>
 <bigtext>
   <info box="nobox" effect="big">
@@ -243,7 +243,7 @@
   </sjis>
   <ascii>
     Masteer!!<end_line>
-  </ascii>
+  </ascii>	
 </bigtext>
 <dialogue>
   <info box="right">
@@ -253,7 +253,7 @@
   </sjis>
   <ascii>
     What's wrong, <player_nickname>?<end_line>
-  </ascii>
+  </ascii>	
 </dialogue>
 <dialogue>
   <info box="left">
@@ -265,7 +265,7 @@
   <ascii>
     Uh<three_dots><end_line>
     Huh<three_dots>?<end_line>
-  </ascii>
+  </ascii>	
 </dialogue>
 <dialogue>
   <info box="right">
@@ -280,7 +280,7 @@
     You were taking forever<three_dots><end_line>
     To think you were lazing<end_line>
     about at your favorite spot <three_dots><end_line>
-  </ascii>
+  </ascii>	
 </dialogue>
 <dialogue>
   <info box="right">
@@ -291,7 +291,7 @@
   </sjis>
   <ascii>
     Aren't you easygoing<three_dots><end_line>
-  </ascii>
+  </ascii>	
 </dialogue>
 <dialogue>
   <info box="left">
@@ -302,21 +302,17 @@
       やっぱ、ひるねをするには<end_line>
       ここに限るね<three_dots><end_line>
     </sjis>
-    <ascii>
-    Yeah, this is a great<end_line>
-    place to relax and<three_dots><end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       やっぱ、おひるねするには<end_line>
       ここに限るわ<three_dots><end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Yeah, this is a great<end_line>
     place to relax and<three_dots><end_line>
-  </ascii>
-  </female>
+  </ascii>	
 </dialogue>
 <dialogue>
   <info box="left">
@@ -344,7 +340,7 @@
     Anyway, you were probably<end_line>
     having some idiotic dream,<end_line>
     weren't you?<end_line>
-  </ascii>
+  </ascii>	
 </dialogue>
 <dialogue>
   <info box="right">
@@ -355,7 +351,7 @@
   </sjis>
   <ascii>
     Like beating me in a fight?<end_line>
-  </ascii>
+  </ascii>	
 </dialogue>
 <dialogue>
   <info box="left">
@@ -370,7 +366,7 @@
     <ascii>
       Uwah!? Wow! <end_line>
       How'd you know, Sis Vee? <end_line>
-    </ascii>
+    </ascii>	
   </male>
   <female>
     <sjis>
@@ -381,7 +377,7 @@
     <ascii>
       Uwah!? Amazing! <end_line>
       How did you know, Sis Vee? <end_line>
-    </ascii>
+    </ascii>	
   </female>
 </dialogue>
 <dialogue>
@@ -396,8 +392,8 @@
     <ascii>
       <three_dots>Ouch!<end_line>
       What was that for!?<end_line>
-    </ascii>
-  </male>
+    </ascii>	
+  </male> 
   <female>
     <sjis>
       <three_dots>ったぁい！<end_line>
@@ -408,7 +404,7 @@
       <three_dots>Oww!<end_line>
       That's mean!<end_line>
       Why'd you do that!?<end_line>
-    </ascii>
+    </ascii>	
   </female>
 </dialogue>
 <dialogue>
@@ -425,7 +421,7 @@
       Sis Vee!?<end_line>
       I've told you to call me Master!<end_line>
       Master Vee!<end_line>
-    </ascii>
+    </ascii>	
   </male>
   <female>
     <sjis>
@@ -437,7 +433,7 @@
       Who's your sis!?<end_line>
       I've told you to call me Master!<end_line>
       Master Vee!<end_line>
-    </ascii>
+    </ascii>	
   </female>
 </dialogue>
 <dialogue>
@@ -452,7 +448,7 @@
     <ascii>
       Sorry, Master!<end_line>
       I just made a little mistake!<end_line>
-    </ascii>
+    </ascii>	
   </male>
   <female>
     <sjis>
@@ -463,7 +459,7 @@
     <ascii>
       I'm sorry, Master!<end_line>
       But it was just a little mistake!<end_line>
-    </ascii>
+    </ascii>	
   </female>
 </dialogue>
 <dialogue>
@@ -506,7 +502,7 @@
     </sjis>
     <ascii>
       I-I didn't mean it like that<three_dots>!<end_line>
-    </ascii>
+    </ascii>	
   </male>
   <female>
     <sjis>
@@ -541,7 +537,7 @@
   </sjis>
   <ascii>
     Th-That's right!<end_line>
-  </ascii>
+  </ascii>	
 </dialogue>
 <dialogue>
   <info box="right">
@@ -571,7 +567,7 @@
     I was summoned to this world as a<end_line>
     Craftknight's partner, even though<end_line>
     I'd never touched a forge before!<end_line>
-  </ascii>
+  </ascii>	
 </dialogue>
 <dialogue>
   <info box="right">
@@ -706,7 +702,7 @@
       Master's imagination is running<end_line>
       wild once again<three_dots><end_line>
       I better leave while I can.<end_line>
-    </ascii>
+    </ascii>	
   </female>
 </dialogue>
 <bigtext>
@@ -754,11 +750,6 @@
       お金だって、ほら！<end_line>
       買い物だってちゃんと！<end_line>
     </sjis>
-    <ascii>
-    Yeah, I already returned the sword!<end_line>
-    I got the money here, look!<end_line>
-    And I even did the shopping too!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -766,12 +757,12 @@
       お金だって、ほら！<end_line>
       お買い物だってちゃんと！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Yeah, I already returned the sword!<end_line>
     I got the money here, look!<end_line>
     And I even did the shopping too!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -798,11 +789,6 @@
       いやー、ひと仕事おわったんで<end_line>
       ちょっとひと休みしようと<three_dots><end_line>
     </sjis>
-    <ascii>
-    Hehehe<three_dots><end_line>
-    Well, after all that hard work,<end_line>
-    I deserve a break, right<three_dots>?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -810,12 +796,12 @@
       いやー、ひと仕事おわったんで<end_line>
       ちょっとひと休みしよっかなって<three_dots><end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Hehehe<three_dots><end_line>
     Well, after all that hard work,<end_line>
     I deserve a break, right<three_dots>?<end_line>
-  </ascii>
-  </female>
+  </ascii>    
 </dialogue>
 <dialogue>
   <info box="right">
@@ -842,7 +828,7 @@
   </sjis>
   <ascii>
     Don't call me an amateur!<end_line>
-  </ascii>
+  </ascii>	
 </dialogue>
 <dialogue>
   <player gender="male">
@@ -1251,7 +1237,7 @@
     <player_nickname> looks motivated.<end_line>
     A great example of the 'carrot and<end_line>
     the stick', if I may say so myself.<end_line>
-  </ascii>
+  </ascii>	
 </dialogue>
 <dialogue>
   <info box="right">
@@ -1273,19 +1259,15 @@
       よっし！<end_line>
       オレも出発だ！<end_line>
     </sjis>
-    <ascii>
-    Alright!<end_line>
-    Time to get moving!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       よぉし！<end_line>
       わたしも行こう！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Alright!<end_line>
     Time to get moving!<end_line>
   </ascii>
-  </female>
 </dialogue>

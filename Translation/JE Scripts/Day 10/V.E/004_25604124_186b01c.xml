@@ -7,19 +7,16 @@
       この武器に<end_line>
       オレと<partner>のすべてを<three_dots><end_line>
     </sjis>
-    <ascii>
-    With this weapon, I'm sure<three_dots><end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       この武器に<end_line>
       わたしと<partner>のすべてを<three_dots><end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     With this weapon, I'm sure<three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">

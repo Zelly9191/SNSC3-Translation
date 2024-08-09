@@ -7,11 +7,6 @@
       レミィ<end_line>
       何してんだよ？<end_line>
     </sjis>
-    <ascii>
-    Huh?<end_line>
-    Lemmy?<end_line>
-    What are you doing here?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -19,12 +14,12 @@
       レミィ<end_line>
       何してるの？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Huh?<end_line>
     Lemmy?<end_line>
     What are you doing here?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -47,11 +42,6 @@
       ここにはアカバネって<end_line>
       コワイはぐれがすんでるって話だぜ<end_line>
     </sjis>
-    <ascii>
-    You didn't know?<end_line>
-    They say a scary Stray named<end_line>
-    Red Wing lives here.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -59,12 +49,12 @@
       ここにはアカバネって<end_line>
       コワイはぐれがすんでるって話だよ<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     You didn't know?<end_line>
     They say a scary Stray named<end_line>
     Red Wing lives here.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -193,11 +183,6 @@
       わざわざアブナイとこで<end_line>
       鍛えてたのか<end_line>
     </sjis>
-    <ascii>
-    Oh! That's great!<end_line>
-    Deliberately training in<end_line>
-    such a dangerous place.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -205,12 +190,12 @@
       わざわざアブナイとこで<end_line>
       鍛えてたんだ<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Oh! That's great!<end_line>
     Deliberately training in<end_line>
     such a dangerous place.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -233,11 +218,6 @@
       ずっと怒ってるのかよ<three_dots><end_line>
       ホント感じ悪いなぁ<end_line>
     </sjis>
-    <ascii>
-    What's wrong with him?<end_line>
-    Is he always that angry?<end_line>
-    He gives me a bad feeling.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -245,12 +225,12 @@
       ずっと怒ってるの？<end_line>
       ホント感じ悪いなぁ<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     What's wrong with him?<end_line>
     Is he always that angry?<end_line>
     He gives me a bad feeling.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">

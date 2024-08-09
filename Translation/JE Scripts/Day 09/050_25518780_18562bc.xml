@@ -77,21 +77,17 @@
       さあ<end_line>
       親方にあやまれよ！<end_line>
     </sjis>
-    <ascii>
-    Go on,<end_line>
-    apologize to Master!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       さあ<end_line>
       親方にあやまってよ！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Go on,<end_line>
     apologize to Master!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -424,18 +420,15 @@
     <sjis>
       お、オレたちも急ごう<end_line>
     </sjis>
-    <ascii>
-    We should get going too.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       わたしたちも急ごう<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     We should get going too.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">

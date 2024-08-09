@@ -18,29 +18,24 @@
 	<portrait_l entry="murno" eye="sad" mouth="talk">
 	<portrait_r entry="player" eye="decided" mouth="tense">
 	<male>
-    <sjis>
+		<sjis>
 			ホント<end_line>
 			オレたちが悪いことしたワケじゃ<end_line>
 			ないってのに<three_dots><end_line>
 		</sjis>
-    <ascii>
-    Really.<end_line>
-    It's not like it's our fault<end_line>
-    any of this happened<three_dots><end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			ホント<end_line>
 			わたしたちが悪いことしたワケじゃ<end_line>
 			ないってのに<three_dots><end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Really.<end_line>
     It's not like it's our fault<end_line>
     any of this happened<three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -142,25 +137,21 @@
 	<portrait_l entry="murno" eye="sad" mouth="neutral">
 	<portrait_r entry="player" eye="serious" mouth="neutral">
 	<male>
-    <sjis>
+		<sjis>
 			それにあの魔石のおかげで<end_line>
 			オレはミューノに会えたんだし<three_dots><end_line>
 		</sjis>
-    <ascii>
-    And its because of the<end_line>
-    Demon Stone that I met you, Murno<three_dots><end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			それにあの魔石のおかげで<end_line>
 			わたしはミューノに会えたんだし<three_dots><end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     And its because of the<end_line>
     Demon Stone that I met you, Murno<three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -193,29 +184,24 @@
 	<portrait_l entry="murno" eye="decided" mouth="neutral">
 	<portrait_r entry="player" eye="decided" mouth="neutral">
 	<male>
-    <sjis>
+		<sjis>
 			うん、がんばろう<end_line>
 			オレももっともっと強くなる<end_line>
 			いっしょにがんばろう<end_line>
 		</sjis>
-    <ascii>
-    Yeah, you can do it!<end_line>
-    I'm still getting stronger too.<end_line>
-    Let's work at it together.<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			うん、がんばろう<end_line>
 			わたしももっともっと強くなる<end_line>
 			いっしょにがんばろう<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Yeah, you can do it!<end_line>
     I'm still getting stronger too.<end_line>
     Let's work at it together.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -237,29 +223,24 @@
 	<portrait_l entry="murno" eye="decided" mouth="talk">
 	<portrait_r entry="player" eye="decided" mouth="talk">
 	<male>
-    <sjis>
+		<sjis>
 			じゃあオレだって<end_line>
 			毎日ミューノを思いだして<end_line>
 			それ以上がんばる！<end_line>
 		</sjis>
-    <ascii>
-    Me too, I'll think about<end_line>
-    you every day Murno,<end_line>
-    and try even harder than that!<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			じゃあわたしだって<end_line>
 			毎日ミューノを思いだして<end_line>
 			それ以上がんばる！<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Me too, I'll think about<end_line>
     you every day Murno,<end_line>
     and try even harder than that!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -279,25 +260,21 @@
 	<portrait_l entry="murno" eye="happy" mouth="neutral">
 	<portrait_r entry="player" eye="happy" mouth="neutral">
 	<male>
-    <sjis>
+		<sjis>
 			なんだよ<end_line>
 			ミューノだって<end_line>
 		</sjis>
-    <ascii>
-    Hey,<end_line>
-    aren't you the same?<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			なによ<end_line>
 			ミューノだって<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Hey,<end_line>
     aren't you the same?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<info box="left">

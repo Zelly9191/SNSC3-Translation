@@ -46,18 +46,15 @@
     <sjis>
       オレもなんかできないかなって<three_dots><end_line>
     </sjis>
-    <ascii>
-    I thought I could do something<three_dots><end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       わたしもなんかできないかなって<three_dots><end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     I thought I could do something<three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -94,21 +91,17 @@
       なんだよ<end_line>
       そんな言い方ないだろ？<end_line>
     </sjis>
-    <ascii>
-    Come on,<end_line>
-    is that really enough?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       なによ<end_line>
       そんな言い方ないでしょ？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Come on,<end_line>
     is that really enough?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -176,11 +169,6 @@
       あれはアニキが悪いんじゃないよ！<end_line>
       オレがミューノを支えられてたら<three_dots><end_line>
     </sjis>
-    <ascii>
-    Come on!<end_line>
-    That wasn't your fault!<end_line>
-    If I had supported Murno<three_dots><end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -188,12 +176,12 @@
       あれはアニキが悪いんじゃないよ！<end_line>
       わたしがミューノを支えられてたら<three_dots><end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Come on!<end_line>
     That wasn't your fault!<end_line>
     If I had supported Murno<three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -256,21 +244,17 @@
       わ、わかったよ<three_dots><end_line>
       帰るよ<end_line>
     </sjis>
-    <ascii>
-    O-okay, fine<three_dots><end_line>
-    I'm going then.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       わ、わかったわよ<three_dots><end_line>
       帰るよ<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     O-okay, fine<three_dots><end_line>
     I'm going then.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">

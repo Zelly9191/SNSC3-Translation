@@ -791,16 +791,13 @@
     <sjis>
       おう！<end_line>
     </sjis>
-    <ascii>
-    Yeah!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       うん！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Yeah!<end_line>
   </ascii>
-  </female>
 </dialogue>

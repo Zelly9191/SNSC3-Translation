@@ -8,10 +8,6 @@
       ミューノのところに<end_line>
       案内してもらうぞ！<end_line>
     </sjis>
-    <ascii>
-    Now,<end_line>
-    take me to where Murno is!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -19,11 +15,11 @@
       ミューノのところに<end_line>
       案内してもらうわよ！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Now,<end_line>
     take me to where Murno is!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -87,21 +83,17 @@
       ちょっと<three_dots><end_line>
       なんなんだよ、コイツ<three_dots><end_line>
     </sjis>
-    <ascii>
-    Woah<three_dots><end_line>
-    What's up with him<three_dots><end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       ちょっと<three_dots><end_line>
       なんなのよ、コイツ<three_dots><end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Woah<three_dots><end_line>
     What's up with him<three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -177,21 +169,17 @@
       ちょ、ちょっと<three_dots>！<end_line>
       オレ<three_dots>！<end_line>
     </sjis>
-    <ascii>
-    W-wait<three_dots>!<end_line>
-    I<three_dots>!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       ちょ、ちょっと<three_dots>！<end_line>
       わたし<three_dots>！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     W-wait<three_dots>!<end_line>
     I<three_dots>!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -450,18 +438,15 @@
     <sjis>
       オ、オレたちも行こう！<end_line>
     </sjis>
-    <ascii>
-    L-let's go!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       わ、わたしたちも行こう！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     L-let's go!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">

@@ -19,11 +19,6 @@
       ごめん、親方<three_dots><end_line>
       オレ、またこわしちゃって<three_dots><end_line>
     </sjis>
-    <ascii>
-    Uwah<three_dots><end_line>
-    Sorry, Master<three_dots><end_line>
-    I broke it again<three_dots><end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -31,12 +26,12 @@
       ごめん、親方<three_dots><end_line>
       わたし、またこわしちゃって<three_dots><end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Uwah<three_dots><end_line>
     Sorry, Master<three_dots><end_line>
     I broke it again<three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -102,11 +97,6 @@
       オレ<three_dots><end_line>
       勝ったんだ<three_dots>！<end_line>
     </sjis>
-    <ascii>
-    I<three_dots><end_line>
-    I won<three_dots><end_line>
-    I really won<three_dots>!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -114,12 +104,12 @@
       わたし<three_dots><end_line>
       勝ったんだ<three_dots>！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     I<three_dots><end_line>
     I won<three_dots><end_line>
     I really won<three_dots>!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">

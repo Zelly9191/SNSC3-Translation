@@ -52,11 +52,6 @@
       ミューノの村じゃないのか？<end_line>
       魔石を戻しに行くんだろ？<end_line>
     </sjis>
-    <ascii>
-    Where<three_dots><end_line>
-    Murno's village, right?<end_line>
-    Aren't we returning the Demon Stone?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -64,12 +59,12 @@
       ミューノの村じゃないの？<end_line>
       魔石を戻しに行くんでしょ？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Where<three_dots><end_line>
     Murno's village, right?<end_line>
     Aren't we returning the Demon Stone?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -112,11 +107,6 @@
       ミューノの村じゃないのか？<end_line>
       魔石を戻しに行くんだろ？<end_line>
     </sjis>
-    <ascii>
-    Where<three_dots><end_line>
-    Murno's village, right?<end_line>
-    Aren't we returning the Demon Stone?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -124,12 +114,12 @@
       ミューノの村じゃないの？<end_line>
       魔石を戻しに行くんでしょ？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Where<three_dots><end_line>
     Murno's village, right?<end_line>
     Aren't we returning the Demon Stone?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -172,11 +162,6 @@
       ミューノの村じゃないのか？<end_line>
       魔石を戻しに行くんだろ？<end_line>
     </sjis>
-    <ascii>
-    What<three_dots><end_line>
-    Murno's village, right?<end_line>
-    Aren't we returning the Demon Stone?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -184,12 +169,12 @@
       ミューノの村じゃないの？<end_line>
       魔石を戻しに行くんでしょ？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     What<three_dots><end_line>
     Murno's village, right?<end_line>
     Aren't we returning the Demon Stone?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -230,11 +215,6 @@
       ミューノの村じゃないのか？<end_line>
       魔石を戻しに行くんだろ？<end_line>
     </sjis>
-    <ascii>
-    What<three_dots><end_line>
-    Murno's village, right?<end_line>
-    Aren't we returning the Demon Stone?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -242,12 +222,12 @@
       ミューノの村じゃないの？<end_line>
       魔石を戻しに行くんでしょ？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     What<three_dots><end_line>
     Murno's village, right?<end_line>
     Aren't we returning the Demon Stone?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -385,18 +365,15 @@
     <sjis>
       オレ、なんかヘンなこと言った？<end_line>
     </sjis>
-    <ascii>
-    Did I say something strange?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       わたし、なんかヘンなこと言った？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Did I say something strange?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -447,18 +424,15 @@
     <sjis>
       そんなにほめるなよ～<end_line>
     </sjis>
-    <ascii>
-    Don't praise me so much~<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       そんなにほめないでよ～<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Don't praise me so much~<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -507,18 +481,15 @@
     <sjis>
       そんなにほめるなよ～<end_line>
     </sjis>
-    <ascii>
-    Don't praise me so much~<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       そんなにほめないでよ～<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Don't praise me so much~<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -567,18 +538,15 @@
     <sjis>
       そんなにほめるなよ～<end_line>
     </sjis>
-    <ascii>
-    Don't praise me so much~<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       そんなにほめないでよ～<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Don't praise me so much~<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -627,18 +595,15 @@
     <sjis>
       そんなにほめるなよ～<end_line>
     </sjis>
-    <ascii>
-    Don't praise me so much~<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       そんなにほめないでよ～<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Don't praise me so much~<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">

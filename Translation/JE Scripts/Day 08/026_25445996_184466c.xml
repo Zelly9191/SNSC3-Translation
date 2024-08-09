@@ -118,10 +118,6 @@
       情報通って？<end_line>
       はじめて聞いたぞ<end_line>
     </sjis>
-    <ascii>
-    You're an informant?<end_line>
-    Haven't heard that before.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -129,11 +125,11 @@
       情報通って？<end_line>
       はじめて聞いたよ<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     You're an informant?<end_line>
     Haven't heard that before.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -265,11 +261,6 @@
       他に手がかりもないしな～<three_dots><end_line>
       とりあえず行ってみるか<three_dots>？<end_line>
     </sjis>
-    <ascii>
-    Hmm, is that so<three_dots><end_line>
-    Well, we've got no other leads<three_dots><end_line>
-    Shall we take a look<three_dots>?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -277,12 +268,12 @@
       他に手がかりもないしな～<three_dots><end_line>
       とりあえず行ってみようか<three_dots>？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Hmm, is that so<three_dots><end_line>
     Well, we've got no other leads<three_dots><end_line>
     Shall we take a look<three_dots>?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -474,18 +465,15 @@
     <sjis>
       気をつけてな<end_line>
     </sjis>
-    <ascii>
-    Take care.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       気をつけてね<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Take care.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="left">

@@ -70,21 +70,17 @@
       今日はありがとな<end_line>
       お前のおかげで助かったぜ<end_line>
     </sjis>
-    <ascii>
-    Thanks for today.<end_line>
-    You were a big help.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       今日はありがとね<end_line>
       おかげで助かったよ<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Thanks for today.<end_line>
     You were a big help.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -107,10 +103,6 @@
       あの時、アニスたちに<end_line>
       やられてたかもしれなかったんだぜ<end_line>
     </sjis>
-    <ascii>
-    Really, if you hadn't shown up,<end_line>
-    it might have been over for me<three_dots><end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -118,11 +110,11 @@
       あの時、アニスたちに<end_line>
       やられてたかもしれなかったんだよ<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Really, if you hadn't shown up,<end_line>
     it might have been over for me<three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -148,10 +140,6 @@
       アカバネだってオレたちだけだったら<end_line>
       勝てたかどうか、わかんないし<end_line>
     </sjis>
-    <ascii>
-    And with Red Wing. I don't know if<end_line>
-    we could have won without you.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -159,11 +147,11 @@
       わたしたちだけだったら<end_line>
       勝てたかどうか、わからないし<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     And with Red Wing. I don't know if<end_line>
     we could have won without you.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -185,21 +173,17 @@
       それにボスタフさんだって<end_line>
       お前がいたから<three_dots><end_line>
     </sjis>
-    <ascii>
-    And with Bostaph.<end_line>
-    Since you were there<three_dots><end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       それにボスタフさんを<end_line>
       説得できたのだって<three_dots><end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     And with Bostaph.<end_line>
     Since you were there<three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -221,21 +205,17 @@
       は<three_dots>？<end_line>
       どうぞ<end_line>
     </sjis>
-    <ascii>
-    Eh<three_dots>?<end_line>
-    Go ahead.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       え<three_dots>？<end_line>
       どうぞ<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Eh<three_dots>?<end_line>
     Go ahead.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -260,11 +240,6 @@
       助けられたのはオレたちの方だろ？<end_line>
       オレの話、聞いてたのか？<end_line>
     </sjis>
-    <ascii>
-    About what?<end_line>
-    You were the one who saved us.<end_line>
-    Were you listening?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -272,12 +247,12 @@
       わたしたちの方でしょ？<end_line>
       わたしの話、聞いてた？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     About what?<end_line>
     You were the one who saved us.<end_line>
     Were you listening?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -304,11 +279,6 @@
       お前にもわかってもらえて<end_line>
       ホント良かったよ！<end_line>
     </sjis>
-    <ascii>
-    Ah, right!<end_line>
-    I'm really happy<end_line>
-    that you understand now!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -316,12 +286,12 @@
       わかってもらえて<end_line>
       ホント良かったよ！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Ah, right!<end_line>
     I'm really happy<end_line>
     that you understand now!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -346,11 +316,6 @@
       これからはもう少し<end_line>
       オレの言うことを信じるんだな<end_line>
     </sjis>
-    <ascii>
-    I see.<end_line>
-    I hope you'll be able to<end_line>
-    trust me a bit more after this.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -358,12 +323,12 @@
       これからはもう少し<end_line>
       わたしの言うことを信じるのね<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     I see.<end_line>
     I hope you'll be able to<end_line>
     trust me a bit more after this.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -388,11 +353,6 @@
       素直じゃないなぁ<end_line>
       お前はいつもそんなんだから<three_dots><end_line>
     </sjis>
-    <ascii>
-    Consider it!?<end_line>
-    You aren't honest at all, huh.<end_line>
-    Because you're always like that<three_dots><end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -400,12 +360,12 @@
       素直じゃないなぁ<end_line>
       あんたはいつもそんなんだから<three_dots><end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Consider it!?<end_line>
     You aren't honest at all, huh.<end_line>
     Because you're always like that<three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">

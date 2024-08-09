@@ -83,18 +83,15 @@
     <sjis>
       なんだと！<end_line>
     </sjis>
-    <ascii>
-    What!?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       なによ、それ！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     What!?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -262,11 +259,6 @@
       オレには橋のちがいが<end_line>
       わからなかったからさ<three_dots><end_line>
     </sjis>
-    <ascii>
-    No, it's just that<end_line>
-    I couldn't tell the<end_line>
-    difference, so<three_dots><end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -274,12 +266,12 @@
       わたしにはちがいが<end_line>
       わからなかったから<three_dots><end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     No, it's just that<end_line>
     I couldn't tell the<end_line>
     difference, so<three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -307,11 +299,6 @@
       しり<three_dots>！？<end_line>
       オレのしりは青くないぞ！<end_line>
     </sjis>
-    <ascii>
-    Wha<three_dots>!?<end_line>
-    Green where!?<end_line>
-    Oh no, am I sick or something!?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -319,12 +306,12 @@
       わたしのおしりは<end_line>
       青くなんかないわよ！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Wha<three_dots>!?<end_line>
     Green where!?<end_line>
     Oh no, am I sick or something!?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -351,18 +338,15 @@
     <sjis>
       半人前っていうな！<end_line>
     </sjis>
-    <ascii>
-    No I'm not!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       半人前っていわないでよ！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     No I'm not!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -403,18 +387,15 @@
     <sjis>
       なんだと！<end_line>
     </sjis>
-    <ascii>
-    What the heck!?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       なによ、それ！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     What the heck!?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -513,21 +494,17 @@
       あぶねー<three_dots><end_line>
       橋が落ちたぞ<end_line>
     </sjis>
-    <ascii>
-    That was dangerous<three_dots><end_line>
-    The bridge collapsed<three_dots><end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       あっぶない<three_dots><end_line>
       橋が落ちちゃった<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     That was dangerous<three_dots><end_line>
     The bridge collapsed<three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -555,10 +532,6 @@
       橋が落ちそうなの<end_line>
       気付いてたのか！<end_line>
     </sjis>
-    <ascii>
-    What?<end_line>
-    You knew that would happen!?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -566,11 +539,11 @@
       橋が落ちそうなの<end_line>
       気付いてたの！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     What?<end_line>
     You knew that would happen!?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -605,18 +578,15 @@
     <sjis>
       教えてくれないんだよ？<end_line>
     </sjis>
-    <ascii>
-    why didn't you tell me?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       教えてくれないの？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     why didn't you tell me?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -642,11 +612,6 @@
       お前、オレのパートナーだってこと<end_line>
       忘れてんのか？<end_line>
     </sjis>
-    <ascii>
-    Huh!?<end_line>
-    We're supposed to be<end_line>
-    partners, remember?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -654,12 +619,12 @@
       あなた、わたしのパートナーに<end_line>
       なったこと忘れてるの？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Huh!?<end_line>
     We're supposed to be<end_line>
     partners, remember?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -822,10 +787,6 @@
       あっちが落ちた！<end_line>
       あぶねー<three_dots><end_line>
     </sjis>
-    <ascii>
-    Oh, you were right.<end_line>
-    That was dangerous<three_dots><end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -833,11 +794,11 @@
       あっちが落ちたね！<end_line>
       あっぶなかった<three_dots><end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Oh, you were right.<end_line>
     That was dangerous<three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -863,11 +824,6 @@
       オレには橋のちがいが<end_line>
       わからなかったからさ<three_dots><end_line>
     </sjis>
-    <ascii>
-    No, it's just that<end_line>
-    I couldn't tell the<end_line>
-    difference, so<three_dots><end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -875,12 +831,12 @@
       わたしにはちがいが<end_line>
       わからなかったから<three_dots><end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     No, it's just that<end_line>
     I couldn't tell the<end_line>
     difference, so<three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">

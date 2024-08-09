@@ -77,18 +77,15 @@
     <sjis>
       なんだよ！　あれ！？<end_line>
     </sjis>
-    <ascii>
-    What is that!?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       なによ！　あれ！？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     What is that!?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -230,11 +227,6 @@
       どうしたんだ<three_dots>？<end_line>
       暗くなってくぞ<three_dots>！？<end_line>
     </sjis>
-    <ascii>
-    Huh<three_dots>!?<end_line>
-    What's going on<three_dots>?<end_line>
-    It's getting dark<three_dots>!?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -242,12 +234,12 @@
       どうしたの<three_dots>？<end_line>
       暗くなってく<three_dots>！？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Huh<three_dots>!?<end_line>
     What's going on<three_dots>?<end_line>
     It's getting dark<three_dots>!?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -440,21 +432,17 @@
       お前が先だ！<end_line>
       行けぇっ！<end_line>
     </sjis>
-    <ascii>
-    You first!<end_line>
-    Go!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       あなたが先よ！<end_line>
       行ってぇっ！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     You first!<end_line>
     Go!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -516,21 +504,17 @@
       オレも<three_dots><end_line>
       間に合えっ<three_dots>！<end_line>
     </sjis>
-    <ascii>
-    I can<three_dots><end_line>
-    Make it<three_dots>!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       わたしも<three_dots><end_line>
       間に合って<three_dots>！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     I can<three_dots><end_line>
     Make it<three_dots>!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -1445,18 +1429,15 @@
     <sjis>
       何だ、今<three_dots><end_line>
     </sjis>
-    <ascii>
-    Just now, that was<three_dots><end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       何、今<three_dots><end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Just now, that was<three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -1579,11 +1560,6 @@
       みんなの元へ！<end_line>
       だから<three_dots>！<end_line>
     </sjis>
-    <ascii>
-    I'm going back!<end_line>
-    To where everyone is!<end_line>
-    So<three_dots>!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -1591,12 +1567,12 @@
       みんなの元へ！<end_line>
       だから<three_dots>！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     I'm going back!<end_line>
     To where everyone is!<end_line>
     So<three_dots>!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -1829,18 +1805,15 @@
     <sjis>
       開けっ！！！<end_line>
     </sjis>
-    <ascii>
-    Open!!!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       開いてっ！！！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Open!!!<end_line>
   </ascii>
-  </female>
 </bigtext>
 <dialogue>
   <info box="left">

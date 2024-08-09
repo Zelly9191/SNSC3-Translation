@@ -1,3 +1,4 @@
+#More branching dialogue here
 <dialogue>
   <partner name="run-dor">
   <info box="simple">
@@ -257,21 +258,17 @@
       あ、ああ<three_dots><end_line>
       オレは<three_dots>？<end_line>
     </sjis>
-    <ascii>
-    Ah, huh<three_dots><end_line>
-    I<three_dots>?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       あ、あれ<three_dots><end_line>
       わたし<three_dots>？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Ah, huh<three_dots><end_line>
     I<three_dots>?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -511,21 +508,17 @@
       あ、大丈夫だぜ～！<end_line>
       レミィ！<end_line>
     </sjis>
-    <ascii>
-    Ah, I'm fine~!<end_line>
-    Lemmy~!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       あ、大丈夫だよ～！<end_line>
       レミィ！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Ah, I'm fine~!<end_line>
     Lemmy~!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="simple">

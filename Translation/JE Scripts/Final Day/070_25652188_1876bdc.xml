@@ -1,3 +1,4 @@
+#401
 <dialogue>
   <info box="left">
   <portrait_l entry="player" eye="decided" mouth="yell">
@@ -7,11 +8,6 @@
       待てよ！<end_line>
       ミューノを返せ！<end_line>
     </sjis>
-    <ascii>
-    Hey!<end_line>
-    Wait!<end_line>
-    Let Murno go!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -19,12 +15,12 @@
       待ちなさい！<end_line>
       ミューノを返して！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Hey!<end_line>
     Wait!<end_line>
     Let Murno go!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -273,21 +269,17 @@
       あ！？<end_line>
       おい<three_dots><end_line>
     </sjis>
-    <ascii>
-    Ah!?<end_line>
-    Hey<three_dots><end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       あ！？<end_line>
       ちょっと<three_dots><end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Ah!?<end_line>
     Hey<three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -311,21 +303,17 @@
       な<three_dots><end_line>
       ちょっと待てよ！？<end_line>
     </sjis>
-    <ascii>
-    Wha<three_dots><end_line>
-    Will you just wait a second!?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       な<three_dots><end_line>
       ちょっと待ってよ！？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Wha<three_dots><end_line>
     Will you just wait a second!?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -374,18 +362,15 @@
     <sjis>
       な、なんだと！<end_line>
     </sjis>
-    <ascii>
-    What was that!?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       な、なんですって！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     What was that!?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -452,18 +437,15 @@
     <sjis>
       お、お前<three_dots>！？<end_line>
     </sjis>
-    <ascii>
-    A-anise<three_dots>!?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       あ、あんた<three_dots>！？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     A-anise<three_dots>!?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -551,11 +533,6 @@
       待て！<end_line>
       これはオレじゃない！<end_line>
     </sjis>
-    <ascii>
-    I-its mad!?<end_line>
-    Wait!<end_line>
-    I didn't do anything!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -563,12 +540,12 @@
       待って！<end_line>
       これはわたしじゃないの！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     I-its mad!?<end_line>
     Wait!<end_line>
     I didn't do anything!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <bigtext>
   <info box="left" effect="big">
@@ -893,11 +870,6 @@
       あつい、ぞ<three_dots>？<end_line>
       これ<three_dots>？<end_line>
     </sjis>
-    <ascii>
-    What<three_dots>?<end_line>
-    It's<three_dots> hot?<end_line>
-    This<three_dots>?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -905,12 +877,12 @@
       あつい、よ<three_dots>？<end_line>
       これ<three_dots>？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     What<three_dots>?<end_line>
     It's<three_dots> hot?<end_line>
     This<three_dots>?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -936,18 +908,15 @@
     <sjis>
       次はなんだよ！？<end_line>
     </sjis>
-    <ascii>
-    What is it this time!?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       今度はなんなのよ！？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     What is it this time!?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -988,11 +957,6 @@
       あつい、ぞ<three_dots>？<end_line>
       これ<three_dots>？<end_line>
     </sjis>
-    <ascii>
-    What<three_dots>?<end_line>
-    It's<three_dots> hot?<end_line>
-    This<three_dots>?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -1000,12 +964,12 @@
       あつい、よ<three_dots>？<end_line>
       これ<three_dots>？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     What<three_dots>?<end_line>
     It's<three_dots> hot?<end_line>
     This<three_dots>?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -1031,18 +995,15 @@
     <sjis>
       次はなんだよ！？<end_line>
     </sjis>
-    <ascii>
-    What is it this time!?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       今度はなんなのよ！？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     What is it this time!?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -1081,11 +1042,6 @@
       あつい、ぞ<three_dots>？<end_line>
       これ<three_dots>？<end_line>
     </sjis>
-    <ascii>
-    What<three_dots>?<end_line>
-    It's<three_dots> hot?<end_line>
-    This<three_dots>?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -1093,12 +1049,12 @@
       あつい、よ<three_dots>？<end_line>
       これ<three_dots>？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     What<three_dots>?<end_line>
     It's<three_dots> hot?<end_line>
     This<three_dots>?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -1124,18 +1080,15 @@
     <sjis>
       次はなんだよ！？<end_line>
     </sjis>
-    <ascii>
-    What is it this time!?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       今度はなんなのよ！？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     What is it this time!?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -1174,11 +1127,6 @@
       あつい、ぞ<three_dots>？<end_line>
       これ<three_dots>？<end_line>
     </sjis>
-    <ascii>
-    What<three_dots>?<end_line>
-    It's<three_dots> hot?<end_line>
-    This<three_dots>?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -1186,12 +1134,12 @@
       あつい、よ<three_dots>？<end_line>
       これ<three_dots>？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     What<three_dots>?<end_line>
     It's<three_dots> hot?<end_line>
     This<three_dots>?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -1217,18 +1165,15 @@
     <sjis>
       次はなんだよ！？<end_line>
     </sjis>
-    <ascii>
-    What is it this time!?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       今度はなんなのよ！？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     What is it this time!?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">

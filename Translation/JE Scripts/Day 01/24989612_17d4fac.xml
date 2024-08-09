@@ -43,21 +43,17 @@
       ああ、大丈夫<end_line>
       すぐもどるよ<end_line>
     </sjis>
-    <ascii>
-    Yeah, I'm fine.<end_line>
-    I'll be right up.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       うん、大丈夫<end_line>
       すぐもどるよ<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Yeah, I'm fine.<end_line>
     I'll be right up.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -105,21 +101,17 @@
       ああ、大丈夫<end_line>
       すぐもどるよ<end_line>
     </sjis>
-    <ascii>
-    Yeah, I'm fine.<end_line>
-    I'll be right up.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       うん、大丈夫<end_line>
       すぐもどるよ<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Yeah, I'm fine.<end_line>
     I'll be right up.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -195,18 +187,15 @@
     <sjis>
       どういうことだよ！<end_line>
     </sjis>
-    <ascii>
-    <partner><three_dots>!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       どういうこと！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     <partner><three_dots>!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -253,19 +242,15 @@
       ああ、大丈夫<end_line>
       すぐもどるよ<end_line>
     </sjis>
-    <ascii>
-    Yeah, I'm fine.<end_line>
-    I'll be right up.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       うん、大丈夫<end_line>
       すぐもどるよ<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Yeah, I'm fine.<end_line>
     I'll be right up.<end_line>
   </ascii>
-  </female>
 </dialogue>

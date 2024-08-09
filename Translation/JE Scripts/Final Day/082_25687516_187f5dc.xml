@@ -24,21 +24,17 @@
       オレがわかるのか、<partner>？<end_line>
       もとにもどったのか！<end_line>
     </sjis>
-    <ascii>
-    You recognize me, <partner>?<end_line>
-    You're back!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       わたしがわかるの、<partner>？<end_line>
       もとにもどったのね！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     You recognize me, <partner>?<end_line>
     You're back!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -78,18 +74,15 @@
     <sjis>
       あの遺跡だな！<end_line>
     </sjis>
-    <ascii>
-    The ruins, right!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       あの遺跡ね！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     The ruins, right!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -115,21 +108,17 @@
       よっしゃ！<end_line>
       やってみるか！<end_line>
     </sjis>
-    <ascii>
-    Alright!<end_line>
-    I'll give it a try!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       よぉし！<end_line>
       やってみよう！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Alright!<end_line>
     I'll give it a try!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -157,21 +146,17 @@
       オレがわかるのか、<partner>？<end_line>
       もとにもどったのか！<end_line>
     </sjis>
-    <ascii>
-    You recognize me, <partner>?<end_line>
-    You're back!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       わたしがわかるの、<partner>？<end_line>
       もとにもどったのね！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     You recognize me, <partner>?<end_line>
     You're back!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -210,18 +195,15 @@
     <sjis>
       あの遺跡だな！<end_line>
     </sjis>
-    <ascii>
-    The ruins, right!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       あの遺跡ね！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     The ruins, right!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -247,21 +229,17 @@
       よっしゃ！<end_line>
       やってみるか！<end_line>
     </sjis>
-    <ascii>
-    Alright!<end_line>
-    I'll give it a try!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       よぉし！<end_line>
       やってみよう！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Alright!<end_line>
     I'll give it a try!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -289,21 +267,17 @@
       オレがわかるのか、<partner>？<end_line>
       もとにもどったのか！<end_line>
     </sjis>
-    <ascii>
-    You recognize me, <partner>?<end_line>
-    You're back!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       わたしがわかるの、<partner>？<end_line>
       もとにもどったのね！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     You recognize me, <partner>?<end_line>
     You're back!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -344,18 +318,15 @@
     <sjis>
       あの遺跡だな！<end_line>
     </sjis>
-    <ascii>
-    The ruins, right!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       あの遺跡ね！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     The ruins, right!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -381,21 +352,17 @@
       よっしゃ！<end_line>
       やってみるか！<end_line>
     </sjis>
-    <ascii>
-    Alright!<end_line>
-    I'll give it a try!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       よぉし！<end_line>
       やってみよう！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Alright!<end_line>
     I'll give it a try!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -423,21 +390,17 @@
       オレがわかるのか、<partner>？<end_line>
       もとにもどったのか！<end_line>
     </sjis>
-    <ascii>
-    You recognize me, <partner>?<end_line>
-    You're back!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       わたしがわかるの、<partner>？<end_line>
       もとにもどったのね！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     You recognize me, <partner>?<end_line>
     You're back!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -476,18 +439,15 @@
     <sjis>
       あの遺跡だな！<end_line>
     </sjis>
-    <ascii>
-    The ruins, right!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       あの遺跡ね！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     The ruins, right!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -513,21 +473,17 @@
       よっしゃ！<end_line>
       やってみるか！<end_line>
     </sjis>
-    <ascii>
-    Alright!<end_line>
-    I'll give it a try!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       よぉし！<end_line>
       やってみよう！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Alright!<end_line>
     I'll give it a try!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -575,11 +531,6 @@
       いいところに来た！<end_line>
       アニスをたのむ！<end_line>
     </sjis>
-    <ascii>
-    Tier!<end_line>
-    Good timing!<end_line>
-    Take care of Anise for me!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -587,12 +538,12 @@
       いいところに来てくれたね！<end_line>
       アニスをおねがい！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Tier!<end_line>
     Good timing!<end_line>
     Take care of Anise for me!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -629,21 +580,17 @@
       レミィもウェルマンさんを<end_line>
       たのむ！<end_line>
     </sjis>
-    <ascii>
-    Lemmy, you take care of Wellman,<end_line>
-    please!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       レミィもウェルマンさんを<end_line>
       おねがい！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Lemmy, you take care of Wellman,<end_line>
     please!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -735,21 +682,17 @@
       さすが親方！　カッコイイ！<end_line>
       その調子でアニスもたのむよ！<end_line>
     </sjis>
-    <ascii>
-    That's my Master! So cool!<end_line>
-    I'll leave Anise to you!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       さすが親方！　カッコイイ！<end_line>
       その調子でアニスもおねがいね！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     That's my Master! So cool!<end_line>
     I'll leave Anise to you!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -775,21 +718,17 @@
       レミィもウェルマンさんを<end_line>
       たのむ！<end_line>
     </sjis>
-    <ascii>
-    Lemmy, you take care of Wellman,<end_line>
-    please!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       レミィもウェルマンさんを<end_line>
       おねがい！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Lemmy, you take care of Wellman,<end_line>
     please!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -871,11 +810,6 @@
       いいところに来てくれたよ！<end_line>
       アニスをたのむ！<end_line>
     </sjis>
-    <ascii>
-    Brother!<end_line>
-    Good timing!<end_line>
-    Take care of Anise for me!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -883,12 +817,12 @@
       いいところに来てくれたね！<end_line>
       アニスをおねがい！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Brother!<end_line>
     Good timing!<end_line>
     Take care of Anise for me!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -925,21 +859,17 @@
       レミィもウェルマンさんを<end_line>
       たのむ！<end_line>
     </sjis>
-    <ascii>
-    Lemmy, you take care of Wellman,<end_line>
-    please!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       レミィもウェルマンさんを<end_line>
       おねがい！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Lemmy, you take care of Wellman,<end_line>
     please!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -1051,18 +981,15 @@
     <sjis>
       いくぞ、<partner>！<end_line>
     </sjis>
-    <ascii>
-    Let's go, <partner>!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       いくよ、<partner>！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Let's go, <partner>!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">

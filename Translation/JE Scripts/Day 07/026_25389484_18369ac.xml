@@ -63,18 +63,15 @@
     <sjis>
       なんだよそれ！<end_line>
     </sjis>
-    <ascii>
-    How could they!?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       なによそれ！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     How could they!?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -246,18 +243,15 @@
     <sjis>
       カギはどこだよ！？<end_line>
     </sjis>
-    <ascii>
-    Is there a key!?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       カギはどこにあるの！？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Is there a key!?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -280,16 +274,13 @@
     <sjis>
       わかったよ<three_dots>！<end_line>
     </sjis>
-    <ascii>
-    Okay!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       わかったわよ<three_dots>！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Okay!<end_line>
   </ascii>
-  </female>
 </dialogue>

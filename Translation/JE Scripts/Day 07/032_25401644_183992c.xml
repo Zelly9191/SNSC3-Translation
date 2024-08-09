@@ -20,21 +20,17 @@
       なんだ、コレ？<end_line>
       ウロコ？<end_line>
     </sjis>
-    <ascii>
-    What's this?<end_line>
-    A scale?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       なに、コレ？<end_line>
       ウロコ？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     What's this?<end_line>
     A scale?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -59,11 +55,6 @@
       ありがとう<end_line>
       大事にするよ！<end_line>
     </sjis>
-    <ascii>
-    A charm<three_dots><end_line>
-    Thank you.<end_line>
-    I'll take good care of it!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -71,12 +62,12 @@
       ありがとう<end_line>
       大事にするね！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     A charm<three_dots><end_line>
     Thank you.<end_line>
     I'll take good care of it!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -100,21 +91,17 @@
       おう！<end_line>
       じゃ、元気で！<end_line>
     </sjis>
-    <ascii>
-    Sure!<end_line>
-    Stay healthy!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       うん！<end_line>
       じゃ、元気で！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Sure!<end_line>
     Stay healthy!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -140,6 +127,10 @@
       Farewell!<end_line>
     </ascii>
   </female>
+  <ascii>
+    You too, old man<three_dots><end_line>
+    Goodbye!<end_line>
+  </ascii>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -316,21 +307,17 @@
       おっちゃん<end_line>
       もしかして、泣いてるのか？<end_line>
     </sjis>
-    <ascii>
-    Wait,<end_line>
-    are you<three_dots> crying?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       おじさん<end_line>
       もしかして、泣いてるの？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Wait,<end_line>
     are you<three_dots> crying?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -356,21 +343,17 @@
       わかったよ！<end_line>
       じゃあ！<end_line>
     </sjis>
-    <ascii>
-    I know!<end_line>
-    Bye!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       わかったわよ！<end_line>
       じゃあね！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     I know!<end_line>
     Bye!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -404,18 +387,15 @@
     <sjis>
       やっぱり、息子さんのことを<three_dots><end_line>
     </sjis>
-    <ascii>
-    Like I thought, you're still<three_dots><end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       やっぱり、娘さんのことを<three_dots><end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Like I thought, you're still<three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="left">

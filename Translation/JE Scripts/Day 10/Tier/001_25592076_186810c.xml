@@ -7,21 +7,17 @@
       へー、そんなことが<three_dots><end_line>
       <player_nickname>くんも大変だねぇ<end_line>
     </sjis>
-    <ascii>
-    Huh, I see<three_dots><end_line>
-    You've got it hard too.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       へー、そんなことが<three_dots><end_line>
       <player_nickname>ちゃんも大変だねぇ<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Huh, I see<three_dots><end_line>
     You've got it hard too.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -86,21 +82,17 @@
       ちょっと待てよ！<end_line>
       今回は留守番じゃなかったのか？<end_line>
     </sjis>
-    <ascii>
-    Wait a minute!<end_line>
-    Didn't you say you'd watch the inn?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       ちょっと待ってよ！<end_line>
       今回は留守番じゃなかったの？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Wait a minute!<end_line>
     Didn't you say you'd watch the inn?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -275,21 +267,17 @@
       よしなさい、ティエ<end_line>
       <player_nickname>くんも困ってるだろう<end_line>
     </sjis>
-    <ascii>
-    Cut it out, Tier.<end_line>
-    You're troubling <player_nickname>.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       よしなさい、ティエ<end_line>
       <player_nickname>ちゃんも困ってるだろう<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Cut it out, Tier.<end_line>
     You're troubling <player_nickname>.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -323,18 +311,15 @@
     <sjis>
       <player_nickname>くん<three_dots><end_line>
     </sjis>
-    <ascii>
-    <player_nickname><three_dots><end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       <player_nickname>ちゃん<three_dots><end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     <player_nickname><three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -359,11 +344,6 @@
       勝負してやるぜ<end_line>
       ティエ！<end_line>
     </sjis>
-    <ascii>
-    Alright!<end_line>
-    Let's have a match,<end_line>
-    Tier!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -371,12 +351,12 @@
       勝負してあげるよ<end_line>
       ティエ！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Alright!<end_line>
     Let's have a match,<end_line>
     Tier!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">

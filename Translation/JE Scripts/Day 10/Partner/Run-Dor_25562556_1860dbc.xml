@@ -6,21 +6,17 @@
       どうだ？<end_line>
       なんか伝わっただろ？<end_line>
     </sjis>
-    <ascii>
-    How was that?<end_line>
-    You felt it, didn't you?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       どう？<end_line>
       なんか伝わったでしょ？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     How was that?<end_line>
     You felt it, didn't you?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -245,10 +241,6 @@
       ガーンときただろ？<end_line>
       ガーンと<end_line>
     </sjis>
-    <ascii>
-    Like, when you got hit,<end_line>
-    didn't it feel like a shock?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -256,11 +248,11 @@
       ガーンときたでしょ？<end_line>
       ガーンと<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Like, when you got hit,<end_line>
     didn't it feel like a shock?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -299,21 +291,17 @@
       あとはお前が<end_line>
       それを感じるだけだ！<end_line>
     </sjis>
-    <ascii>
-    All that's left is for<end_line>
-    you to feel it!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       あとはあなたが<end_line>
       それを感じるだけよ！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     All that's left is for<end_line>
     you to feel it!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -336,11 +324,6 @@
       相手の動きとか表情をみていれば<end_line>
       何を考えているか大体わかるだろ<end_line>
     </sjis>
-    <ascii>
-    That's right. You know how you can<end_line>
-    figure out what your opponent is<end_line>
-    thinking from their body language?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -348,12 +331,12 @@
       相手の動きとか表情をみていれば<end_line>
       何を考えているか大体わかるでしょ<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     That's right. You know how you can<end_line>
     figure out what your opponent is<end_line>
     thinking from their body language?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -466,10 +449,6 @@
       <partner>はやさしくて<end_line>
       いいやつだ<end_line>
     </sjis>
-    <ascii>
-    You are.<end_line>
-    <partner> is kind and gentle.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -477,11 +456,11 @@
       <partner>はやさしくて<end_line>
       いい子よ<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     You are.<end_line>
     <partner> is kind and gentle.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -516,21 +495,17 @@
       うわっ！　ちょっと！？<end_line>
       そんなに泣くなよ<end_line>
     </sjis>
-    <ascii>
-    Uwah! What!?<end_line>
-    Don't cry!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       うわっ！　ちょっと！？<end_line>
       そんなに泣かないで<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Uwah! What!?<end_line>
     Don't cry!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">

@@ -18,19 +18,16 @@
       アイツらの手がかりが<end_line>
       見つかったのか？<end_line>
     </sjis>
-    <ascii>
-    Find any clues?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       アイツらの手がかりが<end_line>
       見つかったの？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Find any clues?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -54,21 +51,17 @@
       なんだって<three_dots><end_line>
       まさか、あいつひとりで？<end_line>
     </sjis>
-    <ascii>
-    Zakk<three_dots><end_line>
-    You mean, alone?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       そんな<three_dots><end_line>
       まさか、ザックひとりで？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Zakk<three_dots><end_line>
     You mean, alone?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -148,19 +141,15 @@
       わかった！<end_line>
       急ごう！<end_line>
     </sjis>
-    <ascii>
-    Yeah!<end_line>
-    Let's hurry!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       うん！<end_line>
       急ごう！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Yeah!<end_line>
     Let's hurry!<end_line>
   </ascii>
-  </female>
 </dialogue>

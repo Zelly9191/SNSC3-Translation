@@ -179,18 +179,15 @@
     <sjis>
       なんだよ！？<end_line>
     </sjis>
-    <ascii>
-    Huh!?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       なによ！？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Huh!?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -425,11 +422,6 @@
       お前、そこにいたんだろ？<end_line>
       なにも見てないのか！？<end_line>
     </sjis>
-    <ascii>
-    I'm sure they went that way!<end_line>
-    You were there, right?<end_line>
-    You didn't see anything!?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -437,12 +429,12 @@
       あなた、そこにいたんでしょ？<end_line>
       なにも見てないの！？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     I'm sure they went that way!<end_line>
     You were there, right?<end_line>
     You didn't see anything!?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -465,11 +457,6 @@
       じゃあ、さっき光ったのは！？<end_line>
       本当は何してたんだ！？<end_line>
     </sjis>
-    <ascii>
-    What's with you!?<end_line>
-    Then, what was glowing earlier!?<end_line>
-    What are you really up to!?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -477,12 +464,12 @@
       じゃあ、さっき光ったのは！？<end_line>
       本当は何してたの！？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     What's with you!?<end_line>
     Then, what was glowing earlier!?<end_line>
     What are you really up to!?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -544,18 +531,15 @@
     <sjis>
       なんだと！？<end_line>
     </sjis>
-    <ascii>
-    What's your problem!?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       なによ、それ！？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     What's your problem!?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -579,11 +563,6 @@
       ちゃんと話せよ！<end_line>
       親方がケガしてるんだ！<end_line>
     </sjis>
-    <ascii>
-    What are you trying to say?<end_line>
-    Speak up!<end_line>
-    That Beast hurt my Master, you know!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -591,12 +570,12 @@
       ちゃんと話して！<end_line>
       親方がケガしてるんだよ！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     What are you trying to say?<end_line>
     Speak up!<end_line>
     That Beast hurt my Master, you know!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <player gender="male">
@@ -1307,18 +1286,15 @@
     <sjis>
       ちがうみたいだ<three_dots><end_line>
     </sjis>
-    <ascii>
-    Well that didn't work<three_dots><end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       ちがったみたい<three_dots><end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Well that didn't work<three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -1383,11 +1359,6 @@
       ついでに召喚獣の話も<end_line>
       聞き出してやろう！<end_line>
     </sjis>
-    <ascii>
-    I guess I'll give it back.<end_line>
-    While I'm at it, I'll make her<end_line>
-    tell me about the Summon Beast!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -1395,12 +1366,12 @@
       ついでに召喚獣の話も<end_line>
       聞き出してやるんだから！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     I guess I'll give it back.<end_line>
     While I'm at it, I'll make her<end_line>
     tell me about the Summon Beast!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <player gender="male">

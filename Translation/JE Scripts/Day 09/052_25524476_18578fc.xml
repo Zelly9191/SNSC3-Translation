@@ -76,21 +76,17 @@
       お前<three_dots><end_line>
       今、なにをした！？<end_line>
     </sjis>
-    <ascii>
-    Why you<three_dots><end_line>
-    What did you do!?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       あんた<three_dots><end_line>
       今、なにをしたの！？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Why you<three_dots><end_line>
     What did you do!?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -210,21 +206,17 @@
       アニスはオレが捕まえるから<end_line>
       親方たちは逃げたヤツらを！<end_line>
     </sjis>
-    <ascii>
-    I'll catch Anise,<end_line>
-    Master, go after the runners!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       アニスはわたしが捕まえるから<end_line>
       親方たちは逃げたふたりを！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     I'll catch Anise,<end_line>
     Master, go after the runners!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -514,21 +506,17 @@
       <partner><three_dots><end_line>
       いけるな？<end_line>
     </sjis>
-    <ascii>
-    <partner><three_dots><end_line>
-    Can you do it?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       <partner><three_dots><end_line>
       いけるね？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     <partner><three_dots><end_line>
     Can you do it?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -588,10 +576,6 @@
       お前はオレたちが<end_line>
       ぶっとばす！！！！！<end_line>
     </sjis>
-    <ascii>
-    Alright, prepare yourself!<end_line>
-    We're gonna destroy you!!!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -599,11 +583,11 @@
       あんたはわたしたちが<end_line>
       ぶっとばす！！！！！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Alright, prepare yourself!<end_line>
     We're gonna destroy you!!!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <bigtext>
   <info box="right" effect="big">

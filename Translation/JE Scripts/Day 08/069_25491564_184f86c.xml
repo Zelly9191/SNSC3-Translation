@@ -125,18 +125,15 @@
     <sjis>
       その言い方はやめろ！<end_line>
     </sjis>
-    <ascii>
-    Stop talking like that!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       その言い方はやめて！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Stop talking like that!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">

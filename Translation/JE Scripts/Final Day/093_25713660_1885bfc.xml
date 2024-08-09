@@ -29,11 +29,6 @@
       オレ<three_dots><end_line>
       戻ったんだ<three_dots><end_line>
     </sjis>
-    <ascii>
-    This is<three_dots><end_line>
-    I<three_dots><end_line>
-    I'm back<three_dots><end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -41,12 +36,12 @@
       わたし<three_dots><end_line>
       戻ったんだ<three_dots><end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     This is<three_dots><end_line>
     I<three_dots><end_line>
     I'm back<three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -228,11 +223,6 @@
       わからないよ！<end_line>
       だから<three_dots>！<end_line>
     </sjis>
-    <ascii>
-    I won't know<end_line>
-    until I try!<end_line>
-    So<three_dots>!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -240,12 +230,12 @@
       わからないですよ！<end_line>
       だから<three_dots>！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     I won't know<end_line>
     until I try!<end_line>
     So<three_dots>!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <bigtext>
   <info box="left" effect="big">
@@ -519,11 +509,6 @@
       ありがとう<three_dots>！<end_line>
       オレ、絶対にあきらめないぜ！<end_line>
     </sjis>
-    <ascii>
-    Everyone<three_dots><end_line>
-    Thank you<three_dots>!<end_line>
-    I will never give up!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -531,12 +516,12 @@
       ありがとう<three_dots>！<end_line>
       わたし、絶対にあきらめないよ！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Everyone<three_dots><end_line>
     Thank you<three_dots>!<end_line>
     I will never give up!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -981,8 +966,7 @@
   <portrait_r entry="jade" eye="decided" mouth="talk">
   <sjis>
     おう<end_line>
-  </sjis>
-  <ascii>
+  </sjis><ascii>
     Yeah.<end_line>
   </ascii>
 </dialogue>

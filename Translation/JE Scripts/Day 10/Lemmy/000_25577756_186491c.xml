@@ -6,21 +6,17 @@
       あれ？<end_line>
       <partner>、ドコ行くんだよ<end_line>
     </sjis>
-    <ascii>
-    Huh?<end_line>
-    <partner>, where are you going?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       あれ？<end_line>
       <partner>、ドコ行くの？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Huh?<end_line>
     <partner>, where are you going?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -94,11 +90,6 @@
       そうだな<three_dots><end_line>
       わかったよ<end_line>
     </sjis>
-    <ascii>
-    Oh<three_dots><end_line>
-    Okay<three_dots><end_line>
-    Understood.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -106,12 +97,12 @@
       そうだね<three_dots><end_line>
       わかったよ<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Oh<three_dots><end_line>
     Okay<three_dots><end_line>
     Understood.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <player gender="male">
@@ -182,7 +173,7 @@
     わたしはわたしでミューノの村へ行く<end_line>
     準備をすすめておこう<end_line>
   </sjis>
-  <ascii>
+   <ascii>
     Oh well.<end_line>
     I need to get my own<end_line>
     things ready too.<end_line>

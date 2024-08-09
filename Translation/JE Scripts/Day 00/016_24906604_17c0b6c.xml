@@ -17,21 +17,17 @@
       親方、ケガ！？<end_line>
       さっきのヤツが！？<end_line>
     </sjis>
-    <ascii>
-    Master, are you hurt!?<end_line>
-    Was it that Summon Beast!?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       親方、ケガしてるの！？<end_line>
       さっきのアイツのせい！？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Master, are you hurt!?<end_line>
     Was it that Summon Beast!?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -93,11 +89,6 @@
       親方がやられたんだぜ<end_line>
       だまってられるかよ！<end_line>
     </sjis>
-    <ascii>
-    Why!?<end_line>
-    You got beat up, Master!<end_line>
-    I can't stand here and do nothing!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -105,12 +96,12 @@
       親方がやられたんだよ<end_line>
       だまってられないよ！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Why!?<end_line>
     You got beat up, Master!<end_line>
     I can't stand here and do nothing!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -240,18 +231,15 @@
     <sjis>
       どうしてそんなこと、わかるのさ？<end_line>
     </sjis>
-    <ascii>
-    How do you know that?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       どうしてそんなこと、わかるの？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     How do you know that?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -336,11 +324,6 @@
       ムカつくよな！<end_line>
       どうしよっかな？<end_line>
     </sjis>
-    <ascii>
-    As if I could sit still<three_dots>!<end_line>
-    I'm so mad<three_dots>!<end_line>
-    What do I do?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -348,10 +331,10 @@
       ムカつくよ<three_dots>！<end_line>
       どうしよっかな？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     As if I could sit still<three_dots>!<end_line>
     I'm so mad<three_dots>!<end_line>
     What do I do?<end_line>
   </ascii>
-  </female>
 </dialogue>

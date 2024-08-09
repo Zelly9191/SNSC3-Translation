@@ -159,11 +159,6 @@
       おそくなっちゃって<three_dots><end_line>
       本当に、ごめん<three_dots><end_line>
     </sjis>
-    <ascii>
-    I'm the one who should apologize<three_dots><end_line>
-    I was late<three_dots><end_line>
-    I'm really sorry<three_dots><end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -171,12 +166,12 @@
       おそくなっちゃって<three_dots><end_line>
       本当に、ごめんね<three_dots><end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     I'm the one who should apologize<three_dots><end_line>
     I was late<three_dots><end_line>
     I'm really sorry<three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -396,18 +391,15 @@
     <sjis>
       なにするんだ！<end_line>
     </sjis>
-    <ascii>
-    What are you doing!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       なにするの！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     What are you doing!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="left">

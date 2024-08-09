@@ -441,19 +441,16 @@
       なんだよ<end_line>
       その言い方<three_dots><end_line>
     </sjis>
-    <ascii>
-    What's your problem<three_dots>?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       なによ<end_line>
       その言い方<three_dots><end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     What's your problem<three_dots>?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -473,21 +470,17 @@
       うわ！？<end_line>
       なんだよ！？<end_line>
     </sjis>
-    <ascii>
-    Uwah!?<end_line>
-    What is it!?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       うわ！？<end_line>
       なによ！？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Uwah!?<end_line>
     What is it!?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">

@@ -70,21 +70,17 @@
       ごめん<end_line>
       心配かけたみたいで<end_line>
     </sjis>
-    <ascii>
-    Sorry.<end_line>
-    We've made you worry.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       ごめんね<end_line>
       心配かけちゃって<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Sorry.<end_line>
     We've made you worry.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">

@@ -36,11 +36,6 @@
       きっとまだどこかに<end_line>
       残ってるはずだ！<end_line>
     </sjis>
-    <ascii>
-    It's too early to give up.<end_line>
-    There should still be<end_line>
-    some left somewhere!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -48,12 +43,12 @@
       きっとまだどこかに<end_line>
       残ってるって！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     It's too early to give up.<end_line>
     There should still be<end_line>
     some left somewhere!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -77,10 +72,6 @@
       大丈夫<end_line>
       オレたちが追っ払ってやる<end_line>
     </sjis>
-    <ascii>
-    It's alright.<end_line>
-    We'll drive it away.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -88,11 +79,11 @@
       わたしたちが<end_line>
       追っ払ってあげるわ<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     It's alright.<end_line>
     We'll drive it away.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -116,21 +107,17 @@
       大丈夫だ<end_line>
       鍛冶師は強くなきゃいけないからな！<end_line>
     </sjis>
-    <ascii>
-    We'll be okay.<end_line>
-    A Craftknight must be strong!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       大丈夫<end_line>
       鍛冶師は強くなきゃいけないもん！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     We'll be okay.<end_line>
     A Craftknight must be strong!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -152,19 +139,16 @@
       よし！　いくぞ<end_line>
       <partner>！<end_line>
     </sjis>
-    <ascii>
-    Okay! Let's do this, <partner>!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       よし！　いこう<end_line>
       <partner>！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Okay! Let's do this, <partner>!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">

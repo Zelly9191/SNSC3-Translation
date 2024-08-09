@@ -4,29 +4,24 @@
 	<portrait_l entry="partner" eye="serious" mouth="neutral">
 	<portrait_r entry="player" eye="serious" mouth="neutral">
 	<male>
-    <sjis>
+		<sjis>
 			ミューノと出会って<end_line>
 			<partner>の召喚石を拾って<end_line>
 			ホントに色んなコトがあったな<end_line>
 		</sjis>
-    <ascii>
-    A lot's happened since I<end_line>
-    met Murno and picked<end_line>
-    up your Summonstone.<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			ミューノと出会って<end_line>
 			あなたの召喚石を拾って<end_line>
 			ホントに色んなコトがあったね<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     A lot's happened since I<end_line>
     met Murno and picked<end_line>
     up your Summonstone.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -50,29 +45,24 @@
 	<portrait_l entry="partner" eye="serious" mouth="neutral">
 	<portrait_r entry="player" eye="decided" mouth="tense">
 	<male>
-    <sjis>
+		<sjis>
 			なんだよ、そんなこと<three_dots><end_line>
 			<three_dots><end_line>
 			あるかな<end_line>
 		</sjis>
-    <ascii>
-    Hey, that<three_dots><end_line>
-    <three_dots><end_line>
-    Is true.<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			なによ、そんなこと<three_dots><end_line>
 			<three_dots><end_line>
 			あるかな<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Hey, that<three_dots><end_line>
     <three_dots><end_line>
     Is true.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -128,29 +118,24 @@
 	<portrait_l entry="partner" eye="serious" mouth="neutral">
 	<portrait_r entry="player" eye="decided" mouth="neutral">
 	<male>
-    <sjis>
+		<sjis>
 			あはは<three_dots>、ズバリ言うなぁ<end_line>
 			でも、そうだな！<end_line>
 			これからもよろしくたのむぜ！<end_line>
 		</sjis>
-    <ascii>
-    Ahaha<three_dots> How blunt.<end_line>
-    But you're right!<end_line>
-    Let's continue to work hard!<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			あはは<three_dots>、ズバリ言うねぇ<end_line>
 			でも、そうだね！<end_line>
 			これからもよろしくたのむよ！<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Ahaha<three_dots> How blunt.<end_line>
     But you're right!<end_line>
     Let's continue to work hard!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -202,29 +187,24 @@
 	<portrait_l entry="partner" eye="surprised" mouth="neutral">
 	<portrait_r entry="player" eye="decided" mouth="neutral">
 	<male>
-    <sjis>
+		<sjis>
 			そ、そうか、気合いだな<three_dots><end_line>
 			わかったぜ！<end_line>
 			そういうときはアレだな！<end_line>
 		</sjis>
-    <ascii>
-    R-right<three_dots> It's all about spirit<three_dots><end_line>
-    Okay!<end_line>
-    This is the perfect time for that!<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			そ、そうか、気合いだね<three_dots><end_line>
 			わかった！<end_line>
 			そういうときはアレだね！<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     R-right<three_dots> It's all about spirit<three_dots><end_line>
     Okay!<end_line>
     This is the perfect time for that!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -294,29 +274,24 @@
 	<portrait_l entry="partner" eye="serious" mouth="neutral">
 	<portrait_r entry="player" eye="happy" mouth="neutral">
 	<male>
-    <sjis>
+		<sjis>
 			ありがとう、<partner><end_line>
 			いっしょに叫んでくれるなんて<end_line>
 			すっごくうれしいぜ！<end_line>
 		</sjis>
-    <ascii>
-    Thanks, <partner>!<end_line>
-    I'm so happy you<end_line>
-    joined me this time!<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			ありがとう、<partner><end_line>
 			いっしょに叫んでくれるなんて<end_line>
 			すっごいうれしいよ！<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Thanks, <partner>!<end_line>
     I'm so happy you<end_line>
     joined me this time!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -336,29 +311,24 @@
 	<portrait_l entry="partner" eye="serious" mouth="neutral">
 	<portrait_r entry="player" eye="decided" mouth="talk">
 	<male>
-    <sjis>
+		<sjis>
 			もちろん！<end_line>
 			燃えてきたぜ！<end_line>
 			よっしゃ、がんばるぞ！<end_line>
 		</sjis>
-    <ascii>
-    Of course!<end_line>
-    I'm all fired up!<end_line>
-    Alright, let's work hard!<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			もちろん！<end_line>
 			燃えてくるわ！<end_line>
 			よぉし、がんばるぞ！<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Of course!<end_line>
     I'm all fired up!<end_line>
     Alright, let's work hard!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -378,29 +348,24 @@
 	<portrait_l entry="partner" eye="serious" mouth="neutral">
 	<portrait_r entry="player" eye="serious" mouth="neutral">
 	<male>
-    <sjis>
+		<sjis>
 			ミューノと出会って<end_line>
 			<partner>の召喚石を拾って<end_line>
 			ホントに色んなコトがあったな<end_line>
 		</sjis>
-    <ascii>
-    A lot's happened since I<end_line>
-    met Murno and picked<end_line>
-    up your Summonstone.<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			ミューノと出会って<end_line>
 			あなたの召喚石を拾って<end_line>
 			ホントに色んなコトがあったね<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     A lot's happened since I<end_line>
     met Murno and picked<end_line>
     up your Summonstone.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -466,29 +431,24 @@
 	<portrait_l entry="partner" eye="serious" mouth="neutral">
 	<portrait_r entry="player" eye="decided" mouth="neutral">
 	<male>
-    <sjis>
+		<sjis>
 			なに言ってるんだよ、<partner><end_line>
 			ホントはオレがいなくたって<end_line>
 			自分が助けたとか思ってるだろ？<end_line>
 		</sjis>
-    <ascii>
-    What's that?<end_line>
-    You're thinking could've done<end_line>
-    it without me too, right?<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			なに言ってるのよ、<partner><end_line>
 			ホントはわたしがいなくたって<end_line>
 			自分が助けたとか思ってるでしょ？<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     What's that?<end_line>
     You're thinking could've done<end_line>
     it without me too, right?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -612,29 +572,24 @@
 	<portrait_l entry="partner" eye="decided" mouth="yell">
 	<portrait_r entry="player" eye="decided" mouth="neutral">
 	<male>
-    <sjis>
+		<sjis>
 			そ、そうか、気合いだな<three_dots><end_line>
 			わかったぜ！<end_line>
 			そういうときはアレだな！<end_line>
 		</sjis>
-    <ascii>
-    R-right<three_dots> It's all about spirit<three_dots><end_line>
-    Okay!<end_line>
-    This is the perfect time for that!<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			そ、そうか、気合いだね<three_dots><end_line>
 			わかった！<end_line>
 			そういうときはアレだね！<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     R-right<three_dots> It's all about spirit<three_dots><end_line>
     Okay!<end_line>
     This is the perfect time for that!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -704,29 +659,24 @@
 	<portrait_l entry="partner" eye="serious" mouth="neutral">
 	<portrait_r entry="player" eye="happy" mouth="talk">
 	<male>
-    <sjis>
+		<sjis>
 			ありがとう、<partner><end_line>
 			いっしょに叫んでくれるなんて<end_line>
 			すっごくうれしいぜ！<end_line>
 		</sjis>
-    <ascii>
-    Thanks, <partner>!<end_line>
-    I'm so happy you<end_line>
-    joined me this time!<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			ありがとう、<partner><end_line>
 			いっしょに叫んでくれるなんて<end_line>
 			すっごいうれしいよ！<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Thanks, <partner>!<end_line>
     I'm so happy you<end_line>
     joined me this time!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -750,29 +700,24 @@
 	<portrait_l entry="partner" eye="serious" mouth="neutral">
 	<portrait_r entry="player" eye="serious" mouth="neutral">
 	<male>
-    <sjis>
+		<sjis>
 			ミューノと出会って<end_line>
 			<partner>の召喚石を拾って<end_line>
 			ホントに色んなコトがあったな<end_line>
 		</sjis>
-    <ascii>
-    A lot's happened since I<end_line>
-    met Murno and picked<end_line>
-    up your Summonstone.<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			ミューノと出会って<end_line>
 			あなたの召喚石を拾って<end_line>
 			ホントに色んなコトがあったね<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     A lot's happened since I<end_line>
     met Murno and picked<end_line>
     up your Summonstone.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -796,29 +741,24 @@
 	<portrait_l entry="partner" eye="serious" mouth="talk">
 	<portrait_r entry="player" eye="decided" mouth="tense">
 	<male>
-    <sjis>
+		<sjis>
 			なんだよ、そんなこと<three_dots><end_line>
 			<three_dots><end_line>
 			あるかな<end_line>
 		</sjis>
-    <ascii>
-    Hey, that<three_dots><end_line>
-    <three_dots><end_line>
-    Is true.<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			なによ、そんなこと<three_dots><end_line>
 			<three_dots><end_line>
 			あるかな<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Hey, that<three_dots><end_line>
     <three_dots><end_line>
     Is true.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -854,29 +794,24 @@
 	<portrait_l entry="partner" eye="sad" mouth="tense">
 	<portrait_r entry="player" eye="decided" mouth="serious">
 	<male>
-    <sjis>
+		<sjis>
 			なんだよ、それ<end_line>
 			少しぐらい良いことだって<end_line>
 			あっただろ？<end_line>
 		</sjis>
-    <ascii>
-    Come on,<end_line>
-    there has to be something good<end_line>
-    worth mentioning, right?<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			なによ、それ<end_line>
 			少しぐらい良いことだって<end_line>
 			あったでしょ？<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Come on,<end_line>
     there has to be something good<end_line>
     worth mentioning, right?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -898,29 +833,24 @@
 	<portrait_l entry="partner" eye="decided" mouth="serious">
 	<portrait_r entry="player" eye="decided" mouth="yell">
 	<male>
-    <sjis>
+		<sjis>
 			なんだよ！　オレはあるぞ！<end_line>
 			<partner>がいてくれたおかげで<end_line>
 			スゴイ武器だってつくれたし<end_line>
 		</sjis>
-    <ascii>
-    Well, I have one!<end_line>
-    Thanks to you, I was able to make<end_line>
-    some really amazing weapons!<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			なによ！　わたしはあるよ！<end_line>
 			<partner>がいてくれたおかげで<end_line>
 			スゴイ武器だってつくれたし<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Well, I have one!<end_line>
     Thanks to you, I was able to make<end_line>
     some really amazing weapons!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -970,29 +900,24 @@
 	<portrait_l entry="partner" eye="surprised_blush" mouth="stressed">
 	<portrait_r entry="player" eye="decided" mouth="neutral">
 	<male>
-    <sjis>
+		<sjis>
 			どうだ、<partner>！<end_line>
 			お前もいっこくらい良いこと<end_line>
 			思いつくだろ？　言えよ！<end_line>
 		</sjis>
-    <ascii>
-    How's that, <partner>!<end_line>
-    You must have one good<end_line>
-    thing to say! Speak up!<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			どう、<partner>！<end_line>
 			あなたもいっこくらい良いこと<end_line>
 			思いつくでしょ？　言って！<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     How's that, <partner>!<end_line>
     You must have one good<end_line>
     thing to say! Speak up!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1014,21 +939,18 @@
 	<portrait_l entry="partner" eye="decided_blush" mouth="serious">
 	<portrait_r entry="player" eye="decided" mouth="talk">
 	<male>
-    <sjis>
+		<sjis>
 			言えよ！<end_line>
 		</sjis>
-    <ascii>
-    Say it!<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			言って！<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Say it!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1068,25 +990,21 @@
 	<portrait_l entry="partner" eye="decided_blush" mouth="tense">
 	<portrait_r entry="player" eye="serious" mouth="talk">
 	<male>
-    <sjis>
+		<sjis>
 			また、なに言ってんだよ<end_line>
 			ホントは自分で守りたかったくせに<end_line>
 		</sjis>
-    <ascii>
-    Oh, come on. You really wanted<end_line>
-    to do that yourself, right?.<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			また、なに言ってんのよ<end_line>
 			ホントは自分で守りたかったくせに<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Oh, come on. You really wanted<end_line>
     to do that yourself, right?.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1110,29 +1028,24 @@
 	<portrait_l entry="partner" eye="surprised_blush" mouth="yell">
 	<portrait_r entry="player" eye="happy" mouth="neutral">
 	<male>
-    <sjis>
+		<sjis>
 			あはは<three_dots><end_line>
 			ごめんごめん<end_line>
 			そんなに怒るなよ～<end_line>
 		</sjis>
-    <ascii>
-    Ahaha<three_dots><end_line>
-    Sorry, sorry.<end_line>
-    Don't be so angry~<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			あはは<three_dots><end_line>
 			ごめんごめん<end_line>
 			そんなに怒らないでよ～<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Ahaha<three_dots><end_line>
     Sorry, sorry.<end_line>
     Don't be so angry~<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1156,25 +1069,21 @@
 	<portrait_l entry="partner" eye="decided" mouth="serious">
 	<portrait_r entry="player" eye="sad" mouth="serious">
 	<male>
-    <sjis>
+		<sjis>
 			１００万バームって言ってもな～<end_line>
 			やっぱムリだろ？<end_line>
 		</sjis>
-    <ascii>
-    About that~<end_line>
-    Isn't that impossible?<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			１００万バームって言ってもね～<end_line>
 			やっぱムリでしょ？<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     About that~<end_line>
     Isn't that impossible?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1198,29 +1107,24 @@
 	<portrait_l entry="partner" eye="special" mouth="yell">
 	<portrait_r entry="player" eye="surprised" mouth="tense">
 	<male>
-    <sjis>
+		<sjis>
 			そ、そうか<three_dots><end_line>
 			とりあえずは気合い、かな<three_dots><end_line>
 			そういうときはアレだな！<end_line>
 		</sjis>
-    <ascii>
-    R-right<three_dots><end_line>
-    We'll start with motivation<three_dots><end_line>
-    This is the perfect time for that!<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			そ、そうね<three_dots><end_line>
 			とりあえずは気合い、かな<three_dots><end_line>
 			そういうときはアレだね！<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     R-right<three_dots><end_line>
     We'll start with motivation<three_dots><end_line>
     This is the perfect time for that!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1290,29 +1194,24 @@
 	<portrait_l entry="partner" eye="neutral_blush" mouth="neutral">
 	<portrait_r entry="player" eye="happy" mouth="talk">
 	<male>
-    <sjis>
+		<sjis>
 			まさか<partner>がいっしょに<end_line>
 			叫んでくれるなんて、ユメみたいだ！<end_line>
 			すっごくうれしいぜ！<end_line>
 		</sjis>
-    <ascii>
-    I never thought you'd<end_line>
-    join me, <partner>!<end_line>
-    This is awesome!<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			まさか<partner>がいっしょに<end_line>
 			叫んでくれるなんて、ユメみたい！<end_line>
 			すっごいうれしいよ！<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     I never thought you'd<end_line>
     join me, <partner>!<end_line>
     This is awesome!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1361,29 +1260,24 @@
 	<info box="right">
 	<portrait_r name="player">
 	<male>
-    <sjis>
+		<sjis>
 			ミューノと出会って<end_line>
 			<partner>の召喚石を拾って<end_line>
 			ホントに色んなコトがあったな<end_line>
 		</sjis>
-    <ascii>
-    A lot's happened since I<end_line>
-    met Murno and picked<end_line>
-    up your Summonstone.<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			ミューノと出会って<end_line>
 			あなたの召喚石を拾って<end_line>
 			ホントに色んなコトがあったね<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     A lot's happened since I<end_line>
     met Murno and picked<end_line>
     up your Summonstone.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1405,29 +1299,24 @@
 	<info box="right">
 	<portrait_r name="player">
 	<male>
-    <sjis>
+		<sjis>
 			なんだよ、そんなこと<three_dots><end_line>
 			<three_dots><end_line>
 			あるかな<end_line>
 		</sjis>
-    <ascii>
-    Hey, that<three_dots><end_line>
-    <three_dots><end_line>
-    Is true.<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			なによ、そんなこと<three_dots><end_line>
 			<three_dots><end_line>
 			あるかな<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Hey, that<three_dots><end_line>
     <three_dots><end_line>
     Is true.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1553,29 +1442,24 @@
 	<info box="right">
 	<portrait_r name="player">
 	<male>
-    <sjis>
+		<sjis>
 			そうだね<three_dots><end_line>
 			１００万バームをかせがないと<end_line>
 			ならないしな<three_dots><end_line>
 		</sjis>
-    <ascii>
-    Right<three_dots><end_line>
-    We still have to earn<end_line>
-    one million boam<three_dots><end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			そうだね<three_dots><end_line>
 			１００万バームをかせがないと<end_line>
 			ならないし<three_dots><end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Right<three_dots><end_line>
     We still have to earn<end_line>
     one million boam<three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1597,29 +1481,24 @@
 	<info box="right">
 	<portrait_r name="player">
 	<male>
-    <sjis>
+		<sjis>
 			そ、そうか、気合いだな<three_dots><end_line>
 			わかったぜ！<end_line>
 			そういうときはアレだな！<end_line>
 		</sjis>
-    <ascii>
-    R-right, it's all about spirit<three_dots><end_line>
-    Okay!<end_line>
-    This is the perfect time for that!<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			そ、そうか、気合いだね<three_dots><end_line>
 			わかった！<end_line>
 			そういうときはアレだね！<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     R-right, it's all about spirit<three_dots><end_line>
     Okay!<end_line>
     This is the perfect time for that!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1685,29 +1564,24 @@
 	<portrait_l entry="partner" eye="serious" mouth="neutral">
 	<portrait_r entry="player" eye="happy" mouth="talk">
 	<male>
-    <sjis>
+		<sjis>
 			ありがとう、<partner><end_line>
 			いっしょに叫んでくれるなんて<end_line>
 			すっごくうれしいぜ！<end_line>
 		</sjis>
-    <ascii>
-    Thanks, <partner>!<end_line>
-    I'm so happy you<end_line>
-    joined me this time!<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			ありがとう、<partner><end_line>
 			いっしょに叫んでくれるなんて<end_line>
 			すっごいうれしいよ！<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Thanks, <partner>!<end_line>
     I'm so happy you<end_line>
     joined me this time!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1731,27 +1605,23 @@
 	<portrait_l entry="partner" eye="happy" mouth="neutral">
 	<portrait_r entry="player" eye="decided" mouth="neutral">
 	<male>
-    <sjis>
+		<sjis>
 			そうだな<end_line>
 			これからもふたりで<end_line>
 			がんばろうぜ<end_line>
 		</sjis>
-    <ascii>
-    Right.<end_line>
-    Let's do our best!<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			そうだね<end_line>
 			これからもふたりで<end_line>
 			がんばろう<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Right.<end_line>
     Let's do our best!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">

@@ -9,10 +9,6 @@
       お前にオレの魂を<end_line>
       伝えてやるぜ！<end_line>
     </sjis>
-    <ascii>
-    With this weapon<three_dots><end_line>
-    I'll show you my determination!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -20,11 +16,11 @@
       あなたにわたしの魂を<end_line>
       伝えてあげる！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     With this weapon<three_dots><end_line>
     I'll show you my determination!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -48,21 +44,17 @@
       お前の本気、見せてもらうぜ<end_line>
       <partner><three_dots><end_line>
     </sjis>
-    <ascii>
-    Show me what you're made of,<end_line>
-    <partner><three_dots><end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       あなたの本気、見せてもらうわ<end_line>
       <partner><three_dots><end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Show me what you're made of,<end_line>
     <partner><three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -88,21 +80,17 @@
       手加減はいらないぜ<end_line>
       <partner><three_dots><end_line>
     </sjis>
-    <ascii>
-    Don't hold back,<end_line>
-    <partner><three_dots><end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       手加減はいらないわよ<end_line>
       <partner><three_dots><end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Don't hold back,<end_line>
     <partner><three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -130,21 +118,17 @@
       この武器ならお前も<end_line>
       手加減してられないだろ？<end_line>
     </sjis>
-    <ascii>
-    With this weapon, you won't be<end_line>
-    able to hold back, right?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       この武器ならあなたも<end_line>
       手加減してられないでしょ？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     With this weapon, you won't be<end_line>
     able to hold back, right?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">

@@ -29,10 +29,6 @@
       ちょっと出かけてくるんで<end_line>
       ミューノのことたのみます！<end_line>
     </sjis>
-    <ascii>
-    We'll be going out for a bit.<end_line>
-    Please take care of Murno!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -40,11 +36,11 @@
       ちょっと出かけてくるんで<end_line>
       ミューノのことたのみます！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     We'll be going out for a bit.<end_line>
     Please take care of Murno!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -111,21 +107,17 @@
       <three_dots>なんか、通じ合ってるみたいだ<end_line>
       少しくやしい<three_dots><end_line>
     </sjis>
-    <ascii>
-    <three_dots>They get along well.<end_line>
-    It's a bit frustrating<three_dots><end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       <three_dots>なんか、通じ合ってるみたい<end_line>
       少しくやしい<three_dots><end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     <three_dots>They get along well.<end_line>
     It's a bit frustrating<three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -184,21 +176,17 @@
       <three_dots><end_line>
       ダメだ<three_dots><end_line>
     </sjis>
-    <ascii>
-    <three_dots><end_line>
-    I can't do it<three_dots><end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       <three_dots><end_line>
       ダメかぁ<three_dots><end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     <three_dots><end_line>
     I can't do it<three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -261,18 +249,15 @@
     <sjis>
       ダメか<three_dots><end_line>
     </sjis>
-    <ascii>
-    No good<three_dots><end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       ダメかぁ<three_dots><end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     No good<three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -335,18 +320,15 @@
     <sjis>
       ダメか<three_dots><end_line>
     </sjis>
-    <ascii>
-    No good<three_dots><end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       ダメかぁ<three_dots><end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     No good<three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -409,18 +391,15 @@
     <sjis>
       ダメか<three_dots><end_line>
     </sjis>
-    <ascii>
-    No good<three_dots><end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       ダメかぁ<three_dots><end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     No good<three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -469,10 +448,6 @@
       アニスたちのかくれ場所を<end_line>
       さがしに行くぞ！<end_line>
     </sjis>
-    <ascii>
-    Alright!<end_line>
-    Time to look for Anise!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -480,9 +455,9 @@
       アニスたちのかくれ場所を<end_line>
       さがしに行こう！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Alright!<end_line>
     Time to look for Anise!<end_line>
   </ascii>
-  </female>
 </dialogue>

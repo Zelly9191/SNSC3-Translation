@@ -7,23 +7,18 @@
       ヘンだな<three_dots>？<end_line>
       この辺だけ草が枯れてるぞ？<end_line>
     </sjis>
-    <ascii>
-    That's strange<three_dots><end_line>
-    The grass is withered,<end_line>
-    but only around here, see?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       ヘンだね<three_dots>？<end_line>
       この辺だけ草が枯れてるよ？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     That's strange<three_dots><end_line>
     The grass is withered,<end_line>
     but only around here, see?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">

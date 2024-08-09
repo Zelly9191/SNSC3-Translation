@@ -117,11 +117,6 @@
       絶対持って行くさ！<end_line>
       看病だってするよ！<end_line>
     </sjis>
-    <ascii>
-    T-That's not true!<end_line>
-    Of course I would!<end_line>
-    I'd even nurse you personally!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -129,12 +124,12 @@
       絶対持って行くって！<end_line>
       看病だってするよ！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     T-That's not true!<end_line>
     Of course I would!<end_line>
     I'd even nurse you personally!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -161,11 +156,6 @@
       でも、今まで親方が病気になったの<end_line>
       見たことない<three_dots><end_line>
     </sjis>
-    <ascii>
-    Leave it to me!<end_line>
-    You know, I've never actually<end_line>
-    seen you sick before, Master.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -173,12 +163,12 @@
       でも、今まで親方が病気になったの<end_line>
       見たことない<three_dots><end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Leave it to me!<end_line>
     You know, I've never actually<end_line>
     seen you sick before, Master.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -189,21 +179,17 @@
       いった！<end_line>
       なんでだよ！？<end_line>
     </sjis>
-    <ascii>
-    Ow!<end_line>
-    What was that for?!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       いった！<end_line>
       なんでよ！？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Ow!<end_line>
     What was that for?!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">

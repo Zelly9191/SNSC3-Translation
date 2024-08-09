@@ -66,11 +66,6 @@
       第一ロックって、名も無き世界の<end_line>
       音楽なんだろ？<end_line>
     </sjis>
-    <ascii>
-    I really don't get it<three_dots><end_line>
-    First of all, rock is music from<end_line>
-    the Nameless World, right?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -78,12 +73,12 @@
       第一ロックって、名も無き世界の<end_line>
       音楽なんでしょ？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     I really don't get it<three_dots><end_line>
     First of all, rock is music from<end_line>
     the Nameless World, right?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="left">

@@ -21,10 +21,6 @@
       オレのパートナー<end_line>
       いっしょに鍛冶をするんだ！<end_line>
     </sjis>
-    <ascii>
-    Uh, this is <partner>, my partner!<end_line>
-    We'll be training together!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -32,11 +28,11 @@
       わたしのパートナー<end_line>
       いっしょに鍛冶をするんだよ！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Uh, this is <partner>, my partner!<end_line>
     We'll be training together!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -425,11 +421,6 @@
       お前が問題起こすと<end_line>
       ミューノまで困るんだぞ！<end_line>
     </sjis>
-    <ascii>
-    Cut it out<three_dots><end_line>
-    You'll just cause more<end_line>
-    trouble for Murno!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -437,12 +428,12 @@
       あなたが問題起こすと<end_line>
       ミューノまで困るんだよ！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Cut it out<three_dots><end_line>
     You'll just cause more<end_line>
     trouble for Murno!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">

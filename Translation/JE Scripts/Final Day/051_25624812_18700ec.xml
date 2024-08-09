@@ -7,11 +7,6 @@
       こわれた家が多いな<three_dots><end_line>
       何があったんだろ<three_dots><end_line>
     </sjis>
-    <ascii>
-    There's quite a lot of<end_line>
-    wrecked homes here<three_dots><end_line>
-    I wonder what happened<three_dots><end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -19,12 +14,12 @@
       こわれた家が多いね<three_dots><end_line>
       何があったんだろ<three_dots><end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     There's quite a lot of<end_line>
     wrecked homes here<three_dots><end_line>
     I wonder what happened<three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -110,21 +105,17 @@
       ゴヴァンの遺跡だな<three_dots>！<end_line>
       急ぐぞ！<end_line>
     </sjis>
-    <ascii>
-    The Govan Ruins<three_dots>!<end_line>
-    Let's hurry!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       ゴヴァンの遺跡だね<three_dots>！<end_line>
       急ごう！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     The Govan Ruins<three_dots>!<end_line>
     Let's hurry!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -210,21 +201,17 @@
       ゴヴァンの遺跡だな<three_dots>！<end_line>
       急ぐぞ！<end_line>
     </sjis>
-    <ascii>
-    The Govan Ruins<three_dots>!<end_line>
-    Let's hurry!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       ゴヴァンの遺跡だね<three_dots>！<end_line>
       急ごう！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     The Govan Ruins<three_dots>!<end_line>
     Let's hurry!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -309,21 +296,17 @@
       ゴヴァンの遺跡だな<three_dots>！<end_line>
       急ぐぞ！<end_line>
     </sjis>
-    <ascii>
-    The Govan Ruins<three_dots>!<end_line>
-    Let's hurry!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       ゴヴァンの遺跡だね<three_dots>！<end_line>
       急ごう！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     The Govan Ruins<three_dots>!<end_line>
     Let's hurry!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -409,19 +392,15 @@
       ゴヴァンの遺跡だな<three_dots>！<end_line>
       急ぐぞ！<end_line>
     </sjis>
-    <ascii>
-    The Govan Ruins<three_dots>!<end_line>
-    Let's hurry!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       ゴヴァンの遺跡だね<three_dots>！<end_line>
       急ごう！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     The Govan Ruins<three_dots>!<end_line>
     Let's hurry!<end_line>
   </ascii>
-  </female>
 </dialogue>

@@ -32,29 +32,24 @@
 	<portrait_l entry="player" eye="happy" mouth="tense">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-    <sjis>
+		<sjis>
 			それは、そうだけど<three_dots><end_line>
 			あまりムチャなことは<end_line>
 			考えないようにな<end_line>
 		</sjis>
-    <ascii>
-    Well, yeah<three_dots><end_line>
-    Don't do anything<end_line>
-    too reckless.<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			それは、そうだけど<three_dots><end_line>
 			あまりムチャなことは<end_line>
 			考えないようにね<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Well, yeah<three_dots><end_line>
     Don't do anything<end_line>
     too reckless.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -90,25 +85,21 @@
 	<portrait_l entry="player" eye="happy" mouth="tense">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
-    <sjis>
+		<sjis>
 			あまりムチャなことは<end_line>
 			考えないようにな<end_line>
 		</sjis>
-    <ascii>
-    Don't do anything<end_line>
-    too crazy.<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			あまりムチャなことは<end_line>
 			考えないようにね<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Don't do anything<end_line>
     too crazy.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -144,25 +135,21 @@
 	<portrait_l entry="player" eye="happy" mouth="tense">
 	<portrait_r entry="partner" eye="decided" mouth="talk">
 	<male>
-    <sjis>
+		<sjis>
 			あまりムチャなことは<end_line>
 			考えないようにな<end_line>
 		</sjis>
-    <ascii>
-    Don't do anything<end_line>
-    too crazy.<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			あまりムチャなことは<end_line>
 			考えないようにね<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Don't do anything<end_line>
     too crazy.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -195,25 +182,21 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-    <sjis>
+		<sjis>
 			あまりムチャなことは<end_line>
 			考えないようにな<end_line>
 		</sjis>
-    <ascii>
-    Don't do anything<end_line>
-    too reckless.<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			あまりムチャなことは<end_line>
 			考えないようにね<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Don't do anything<end_line>
     too reckless.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -251,21 +234,18 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-    <sjis>
+		<sjis>
 			そうだな<three_dots><end_line>
 		</sjis>
-    <ascii>
-    Right<three_dots><end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			そうだね<three_dots><end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Right<three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -315,21 +295,18 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="tense">
 	<male>
-    <sjis>
+		<sjis>
 			そうだな<three_dots><end_line>
 		</sjis>
-    <ascii>
-    Right<three_dots><end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			そうだね<three_dots><end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Right<three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -381,21 +358,18 @@
 	<portrait_l entry="player" eye="sad" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="tense">
 	<male>
-    <sjis>
+		<sjis>
 			わかったよ<end_line>
 		</sjis>
-    <ascii>
-    Alright, fine.<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			わかったわよ、もう<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Alright, fine.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -444,21 +418,18 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-    <sjis>
+		<sjis>
 			そうだな<three_dots><end_line>
 		</sjis>
-    <ascii>
-    Right<three_dots><end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			そうだね<three_dots><end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Right<three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -507,29 +478,24 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="sad" mouth="neutral">
 	<male>
-    <sjis>
+		<sjis>
 			ミューノなら大丈夫だよ<end_line>
 			ベンソン親方もついてるしさ<end_line>
 			オレたちもできることをやらなきゃ！<end_line>
 		</sjis>
-    <ascii>
-    Murno will be fine.<end_line>
-    Master Benson is with her.<end_line>
-    We have to do what we can!<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			ミューノなら大丈夫だよ<end_line>
 			ベンソン親方もついてるしさ<end_line>
 			わたしたちもできることをやらなきゃ！<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Murno will be fine.<end_line>
     Master Benson is with her.<end_line>
     We have to do what we can!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -581,29 +547,24 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="partner" eye="decided" mouth="tense">
 	<male>
-    <sjis>
+		<sjis>
 			ミューノなら大丈夫だよ<end_line>
 			ベンソン親方もついてるしさ<end_line>
 			オレたちもできることをやらなきゃ！<end_line>
 		</sjis>
-    <ascii>
-    Murno will be fine.<end_line>
-    Master Benson is with her.<end_line>
-    We have to do what we can!<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			ミューノなら大丈夫だよ<end_line>
 			ベンソン親方もついてるしさ<end_line>
 			わたしたちもできることをやらなきゃ！<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Murno will be fine.<end_line>
     Master Benson is with her.<end_line>
     We have to do what we can!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -655,29 +616,24 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
-    <sjis>
+		<sjis>
 			ミューノなら大丈夫だよ<end_line>
 			ベンソン親方もついてるしさ<end_line>
 			オレたちもできることをやらなきゃ！<end_line>
 		</sjis>
-    <ascii>
-    Murno will be fine.<end_line>
-    Master Benson is with her.<end_line>
-    We have to do what we can!<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			ミューノなら大丈夫だよ<end_line>
 			ベンソン親方もついてるしさ<end_line>
 			わたしたちもできることをやらなきゃ！<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Murno will be fine.<end_line>
     Master Benson is with her.<end_line>
     We have to do what we can!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -728,29 +684,24 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-    <sjis>
+		<sjis>
 			ミューノなら大丈夫だよ<end_line>
 			ベンソン親方もついてるしさ<end_line>
 			オレたちもできることをやらなきゃ！<end_line>
 		</sjis>
-    <ascii>
-    Murno will be fine.<end_line>
-    Master Benson is with her.<end_line>
-    We have to do what we can!<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			ミューノなら大丈夫だよ<end_line>
 			ベンソン親方もついてるしさ<end_line>
 			わたしたちもできることをやらなきゃ！<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Murno will be fine.<end_line>
     Master Benson is with her.<end_line>
     We have to do what we can!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -773,29 +724,24 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
-    <sjis>
+		<sjis>
 			アニスの仲間がリュート岩窟に<end_line>
 			いたみたいだ！<end_line>
 			急ぐぞ！<end_line>
 		</sjis>
-    <ascii>
-    Anise must be hiding<end_line>
-    out in Lute Cave!<end_line>
-    Let's go!<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			アニスの仲間がリュート岩窟に<end_line>
 			いたみたい！<end_line>
 			急ごう！<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Anise must be hiding<end_line>
     out in Lute Cave!<end_line>
     Let's go!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -817,25 +763,21 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-    <sjis>
+		<sjis>
 			よっし！<end_line>
 			行くぜ！<end_line>
 		</sjis>
-    <ascii>
-    Right!<end_line>
-    Come on!<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			よぉし！<end_line>
 			行こう！<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Right!<end_line>
     Come on!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -843,29 +785,24 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
-    <sjis>
+		<sjis>
 			アニスの仲間がリュート岩窟に<end_line>
 			いたみたいだ！<end_line>
 			急ぐぞ！<end_line>
 		</sjis>
-    <ascii>
-    Anise must be hiding<end_line>
-    out in Lute Cave!<end_line>
-    Let's go!<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			アニスの仲間がリュート岩窟に<end_line>
 			いたみたい！<end_line>
 			急ごう！<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Anise must be hiding<end_line>
     out in Lute Cave!<end_line>
     Let's go!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -889,25 +826,21 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="decided" mouth="neutral">
 	<male>
-    <sjis>
+		<sjis>
 			よっし！<end_line>
 			行くぜ！<end_line>
 		</sjis>
-    <ascii>
-    Right!<end_line>
-    Come on!<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			よぉし！<end_line>
 			行こう！<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Right!<end_line>
     Come on!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -915,29 +848,24 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
-    <sjis>
+		<sjis>
 			アニスの仲間がリュート岩窟に<end_line>
 			いたみたいだ！<end_line>
 			急ぐぞ！<end_line>
 		</sjis>
-    <ascii>
-    Anise must be hiding<end_line>
-    out in Lute Cave!<end_line>
-    Let's go!<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			アニスの仲間がリュート岩窟に<end_line>
 			いたみたい！<end_line>
 			急ごう！<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Anise must be hiding<end_line>
     out in Lute Cave!<end_line>
     Let's go!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -959,54 +887,45 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="special" mouth="talk">
 	<male>
-    <sjis>
+		<sjis>
 			よっし！<end_line>
 			行くぜ！<end_line>
 		</sjis>
-    <ascii>
-    Right!<end_line>
-    Come on!<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			よぉし！<end_line>
 			行こう！<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Right!<end_line>
     Come on!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-    <sjis>
+		<sjis>
 			アニスの仲間がリュート岩窟に<end_line>
 			いたみたいだ！<end_line>
 			急ぐぞ！<end_line>
 		</sjis>
-    <ascii>
-    Anise must be hiding<end_line>
-    out in Lute Cave!<end_line>
-    Let's go!<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			アニスの仲間がリュート岩窟に<end_line>
 			いたみたい！<end_line>
 			急ごう！<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Anise must be hiding<end_line>
     out in Lute Cave!<end_line>
     Let's go!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1026,25 +945,21 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-    <sjis>
+		<sjis>
 			よっし！<end_line>
 			行くぜ！<end_line>
 		</sjis>
-    <ascii>
-    Right!<end_line>
-    Come on!<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			よぉし！<end_line>
 			行こう！<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Right!<end_line>
     Come on!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1052,29 +967,24 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="serious" mouth="tense">
 	<male>
-    <sjis>
+		<sjis>
 			スポート洞窟に入っていった<end_line>
 			アニスの仲間を追いかけよう<end_line>
 			きっとヤツらのアジトがあるはずだ<end_line>
 		</sjis>
-    <ascii>
-    Let's follow Anise's<end_line>
-    comrades to Spoat Grotto.<end_line>
-    Their hideout must be there.<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			スポート洞窟に入っていった<end_line>
 			アニスの仲間を追いかけよう<end_line>
 			きっとアジトが見つかるハズよ<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Let's follow Anise's<end_line>
     comrades to Spoat Grotto.<end_line>
     Their hideout must be there.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1098,25 +1008,21 @@
 	<portrait_l entry="player" eye="happy" mouth="tense">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-    <sjis>
+		<sjis>
 			う<three_dots><end_line>
 			イタイとこ突くなぁ<three_dots><end_line>
 		</sjis>
-    <ascii>
-    Ugh<three_dots><end_line>
-    You hit where it hurts<three_dots><end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			う<three_dots><end_line>
 			イタイとこ突くわね<three_dots><end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Ugh<three_dots><end_line>
     You hit where it hurts<three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1124,29 +1030,24 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="serious" mouth="tense">
 	<male>
-    <sjis>
+		<sjis>
 			スポート洞窟に入っていった<end_line>
 			アニスの仲間を追いかけよう<end_line>
 			きっとヤツらのアジトがあるはずだ<end_line>
 		</sjis>
-    <ascii>
-    Let's follow Anise's<end_line>
-    comrades to Spoat Grotto.<end_line>
-    Their hideout must be there.<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			スポート洞窟に入っていった<end_line>
 			アニスの仲間を追いかけよう<end_line>
 			きっとアジトが見つかるハズよ<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Let's follow Anise's<end_line>
     comrades to Spoat Grotto.<end_line>
     Their hideout must be there.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1170,25 +1071,21 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="partner" eye="decided" mouth="tense">
 	<male>
-    <sjis>
+		<sjis>
 			また何かむずかしい言葉で<end_line>
 			責められてるぞ<three_dots><end_line>
 		</sjis>
-    <ascii>
-    Again with the difficult<end_line>
-    to understand phrases<three_dots><end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			また何かむずかしい言葉で<end_line>
 			責められてる<three_dots><end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Again with the difficult<end_line>
     to understand phrases<three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1196,29 +1093,24 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="serious" mouth="tense">
 	<male>
-    <sjis>
+		<sjis>
 			スポート洞窟に入っていった<end_line>
 			アニスの仲間を追いかけよう<end_line>
 			きっとヤツらのアジトがあるはずだ<end_line>
 		</sjis>
-    <ascii>
-    Let's follow Anise's<end_line>
-    comrades to Spoat Grotto.<end_line>
-    Their hideout must be there.<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			スポート洞窟に入っていった<end_line>
 			アニスの仲間を追いかけよう<end_line>
 			きっとアジトが見つかるハズよ<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Let's follow Anise's<end_line>
     comrades to Spoat Grotto.<end_line>
     Their hideout must be there.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1242,54 +1134,45 @@
 	<portrait_l entry="player" eye="happy" mouth="tense">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
-    <sjis>
+		<sjis>
 			う<three_dots><end_line>
 			わかったよ<three_dots><end_line>
 		</sjis>
-    <ascii>
-    Ugh<three_dots><end_line>
-    Okay<three_dots><end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			う<three_dots><end_line>
 			わかったわよ<three_dots><end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Ugh<three_dots><end_line>
     Okay<three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-    <sjis>
+		<sjis>
 			スポート洞窟に入っていった<end_line>
 			アニスの仲間を追いかけよう<end_line>
 			きっとヤツらのアジトがあるはずだ<end_line>
 		</sjis>
-    <ascii>
-    Let's follow Anise's<end_line>
-    comrades to Spoat Grotto.<end_line>
-    Their hideout must be there.<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			スポート洞窟に入っていった<end_line>
 			アニスの仲間を追いかけよう<end_line>
 			きっとアジトが見つかるハズよ<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Let's follow Anise's<end_line>
     comrades to Spoat Grotto.<end_line>
     Their hideout must be there.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1311,21 +1194,18 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-    <sjis>
+		<sjis>
 			まかせとけって！<end_line>
 		</sjis>
-    <ascii>
-    Leave it to me!<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			まかせといてよ！<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Leave it to me!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1333,29 +1213,24 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="partner" eye="sad" mouth="serious">
 	<male>
-    <sjis>
+		<sjis>
 			アニスの仲間がスポート洞窟の奥に<end_line>
 			逃げていったぞ！<end_line>
 			急いで追いかけよう！<end_line>
 		</sjis>
-    <ascii>
-    Anise's comrades fled further<end_line>
-    in to Spoat Grotto.<end_line>
-    After them!<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			アニスの仲間がスポート洞窟の奥に<end_line>
 			逃げていったよ！<end_line>
 			急いで追いかけよう！<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Anise's comrades fled further<end_line>
     in to Spoat Grotto.<end_line>
     After them!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -1375,26 +1250,22 @@
 	<portrait_l entry="player" eye="happy" mouth="tense">
 	<portrait_r entry="partner" eye="sad" mouth="neutral">
 	<male>
-    <sjis>
+		<sjis>
 			だ、だからオレは何もしてないって！<end_line>
 			見つかったのはオレのせいじゃない<end_line>
 		</sjis>
-    <ascii>
-    H-hey, I didn't do anything!<end_line>
-    It's not my fault!<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			だ、だからわたし、何もしてないよ！<end_line>
 			見つかったのはわたしのせいじゃ<end_line>
 			ないもん！<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     H-hey, I didn't do anything!<end_line>
     It's not my fault!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1402,29 +1273,24 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="partner" eye="sad" mouth="serious">
 	<male>
-    <sjis>
+		<sjis>
 			アニスの仲間がスポート洞窟の奥に<end_line>
 			逃げていったぞ！<end_line>
 			急いで追いかけよう！<end_line>
 		</sjis>
-    <ascii>
-    Anise's comrades fled further<end_line>
-    in to Spoat Grotto.<end_line>
-    After them!<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			アニスの仲間がスポート洞窟の奥に<end_line>
 			逃げていったよ！<end_line>
 			急いで追いかけよう！<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Anise's comrades fled further<end_line>
     in to Spoat Grotto.<end_line>
     After them!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -1446,26 +1312,22 @@
 	<portrait_l entry="player" eye="happy" mouth="tense">
 	<portrait_r entry="partner" eye="sad" mouth="tense">
 	<male>
-    <sjis>
+		<sjis>
 			だ、だからオレは何もしてないって！<end_line>
 			見つかったのはオレのせいじゃない<end_line>
 		</sjis>
-    <ascii>
-    H-hey, I didn't do anything!<end_line>
-    It's not my fault!<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			だ、だからわたし、何もしてないよ！<end_line>
 			見つかったのはわたしのせいじゃ<end_line>
 			ないもん！<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     H-hey, I didn't do anything!<end_line>
     It's not my fault!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1473,29 +1335,24 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="partner" eye="sad" mouth="serious">
 	<male>
-    <sjis>
+		<sjis>
 			アニスの仲間がスポート洞窟の奥に<end_line>
 			逃げていったぞ！<end_line>
 			急いで追いかけよう！<end_line>
 		</sjis>
-    <ascii>
-    Anise's comrades fled further<end_line>
-    in to Spoat Grotto.<end_line>
-    After them!<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			アニスの仲間がスポート洞窟の奥に<end_line>
 			逃げていったよ！<end_line>
 			急いで追いかけよう！<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Anise's comrades fled further<end_line>
     in to Spoat Grotto.<end_line>
     After them!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1517,55 +1374,46 @@
 	<portrait_l entry="player" eye="happy" mouth="tense">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
-    <sjis>
+		<sjis>
 			だ、だからオレは何もしてないって！<end_line>
 			見つかったのはオレのせいじゃない<end_line>
 		</sjis>
-    <ascii>
-    H-hey, I didn't do anything!<end_line>
-    It's not my fault!<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			だ、だからわたし、何もしてないよ！<end_line>
 			見つかったのはわたしのせいじゃ<end_line>
 			ないもん！<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     H-hey, I didn't do anything!<end_line>
     It's not my fault!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-    <sjis>
+		<sjis>
 			アニスの仲間がスポート洞窟の奥に<end_line>
 			逃げていったぞ！<end_line>
 			急いで追いかけよう！<end_line>
 		</sjis>
-    <ascii>
-    Anise's comrades fled further<end_line>
-    in to Spoat Grotto.<end_line>
-    After them!<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			アニスの仲間がスポート洞窟の奥に<end_line>
 			逃げていったよ！<end_line>
 			急いで追いかけよう！<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Anise's comrades fled further<end_line>
     in to Spoat Grotto.<end_line>
     After them!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1585,24 +1433,20 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-    <sjis>
+		<sjis>
 			だ、だからオレは何もしてないって！<end_line>
 			見つかったのはオレのせいじゃない<end_line>
 		</sjis>
-    <ascii>
-    H-hey, I didn't do anything!<end_line>
-    It's not my fault!<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			だ、だからわたし、何もしてないよ！<end_line>
 			見つかったのはわたしのせいじゃ<end_line>
 			ないもん！<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     H-hey, I didn't do anything!<end_line>
     It's not my fault!<end_line>
   </ascii>
-  </female>
 </dialogue>

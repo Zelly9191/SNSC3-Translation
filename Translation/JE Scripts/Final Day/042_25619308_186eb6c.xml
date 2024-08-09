@@ -183,29 +183,24 @@
 	<portrait_l entry="player" eye="decided" mouth="yell">
 	<portrait_r entry="murno" eye="sad" mouth="stressed">
 	<male>
-    <sjis>
+		<sjis>
 			行っちゃダメだ！<end_line>
 			本当はミューノだって<end_line>
 			そう思ってるんだろ！<end_line>
 		</sjis>
-    <ascii>
-    Don't go!<end_line>
-    I'm sure that deep down,<end_line>
-    this isn't what you want!<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			行っちゃダメだよ！<end_line>
 			本当はミューノだって<end_line>
 			そう思ってるんでしょ！<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Don't go!<end_line>
     I'm sure that deep down,<end_line>
     this isn't what you want!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -431,19 +426,19 @@
 	<info box="right">
 	<portrait_r entry="jade" eye="special" mouth="yell">
 	<male>
-    <sjis>
+		<sjis>
 			オレが見込んだ男だからだ！<end_line>
 		</sjis>
     <ascii>
       a man I can respect!<end_line>
     </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			オレが見込んだ女だからだ！<end_line>
 		</sjis>
     <ascii>
       a woman I can respect!<end_line>
     </ascii>
-  </female>
+	</female>
 </dialogue>

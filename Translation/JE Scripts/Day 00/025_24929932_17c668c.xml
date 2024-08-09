@@ -146,21 +146,17 @@
       え？<end_line>
       そうなのか？<end_line>
     </sjis>
-    <ascii>
-    Eh?<end_line>
-    Really?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       え？<end_line>
       そうなの？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Eh?<end_line>
     Really?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -185,11 +181,6 @@
       けど、よかったな<end_line>
       あんなのにつきあわなくてすんで<end_line>
     </sjis>
-    <ascii>
-    I can't tell<three_dots><end_line>
-    But anyway, it's great that it ended<end_line>
-    without you having to go along!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -197,12 +188,12 @@
       けど、よかったね<end_line>
       あんなのにつきあわなくてすんで<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     I can't tell<three_dots><end_line>
     But anyway, it's great that it ended<end_line>
     without you having to go along!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -440,11 +431,6 @@
       まあ、よかったじゃないか<end_line>
       あいつらを追っ払えて<end_line>
     </sjis>
-    <ascii>
-    I don't really get it, but<three_dots><end_line>
-    Well, isn't it fine!<end_line>
-    We managed to chase them off!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -452,12 +438,12 @@
       まあ、よかったじゃない！<end_line>
       あいつらは追っ払えたし<end_line>
     </sjis>
-    <ascii>
+  </female>	
+  <ascii>
     I don't really get it, but<three_dots><end_line>
     Well, isn't it fine!<end_line>
     We managed to chase them off!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -546,21 +532,17 @@
       お前、小さいのに強いんだな！<end_line>
       かっこよかったぜ！<end_line>
     </sjis>
-    <ascii>
-    Hey, you're stronger than you look!<end_line>
-    That was pretty cool!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       ボク、小さいのに強いんだね！<end_line>
       かっこよかったよ！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Hey, you're stronger than you look!<end_line>
     That was pretty cool!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -623,18 +605,15 @@
     <sjis>
       なんだと！<end_line>
     </sjis>
-    <ascii>
-    What!? Why?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       なによ、それ！？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     What!? Why?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -673,11 +652,6 @@
       あいつらは追っ払えたことだし<end_line>
       よかったな<end_line>
     </sjis>
-    <ascii>
-    Well, anyway<three_dots><end_line>
-    We drove them off,<end_line>
-    so it's all good.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -685,12 +659,12 @@
       あいつらは追っ払えたことだし<end_line>
       よかったね<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Well, anyway<three_dots><end_line>
     We drove them off,<end_line>
     so it's all good.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -824,11 +798,6 @@
       最初出たときの方が<end_line>
       強そうだったな<end_line>
     </sjis>
-    <ascii>
-    Yeah,<end_line>
-    you looked much stronger<end_line>
-    when you first showed up.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -836,12 +805,12 @@
       最初出たときの方が<end_line>
       強そうだったよね<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Yeah,<end_line>
     you looked much stronger<end_line>
     when you first showed up.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -912,11 +881,6 @@
       あいつらを追っ払えたし<end_line>
       まあ、よかったじゃないか<end_line>
     </sjis>
-    <ascii>
-    Besides,<end_line>
-    we drove them off.<end_line>
-    Well, I'd say it's all good!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -924,12 +888,12 @@
       あいつらを追っ払えたし<end_line>
       まあ、よかったじゃない！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Besides,<end_line>
     we drove them off.<end_line>
     Well, I'd say it's all good!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -1051,21 +1015,17 @@
       武器作りの名人で<end_line>
       剣の達人さ！<end_line>
     </sjis>
-    <ascii>
-    An expert in crafting weapons<end_line>
-    and a master of the sword!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       武器作りの名人で<end_line>
       剣の達人だよ！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     An expert in crafting weapons<end_line>
     and a master of the sword!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -1161,10 +1121,6 @@
       おそったんだ<three_dots><end_line>
       親方にケガさせたんだ<three_dots>！<end_line>
     </sjis>
-    <ascii>
-    This one attacked my Master<three_dots><end_line>
-    She was injured<three_dots>!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -1172,11 +1128,11 @@
       おそったんだよ<three_dots><end_line>
       親方にケガさせたんだ<three_dots>！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     This one attacked my Master<three_dots><end_line>
     She was injured<three_dots>!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -1269,11 +1225,6 @@
       見つけたぜ<end_line>
       親方にケガさせた召喚獣<end_line>
     </sjis>
-    <ascii>
-    Master!<end_line>
-    I found the Summon Beast<end_line>
-    that hurt you.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -1281,12 +1232,12 @@
       見つけたよ<end_line>
       親方にケガさせた召喚獣<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Master!<end_line>
     I found the Summon Beast<end_line>
     that hurt you.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -1309,18 +1260,15 @@
     <sjis>
       こいつだよ<end_line>
     </sjis>
-    <ascii>
-    Right here.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       この子だよ<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Right here.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="left">

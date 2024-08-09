@@ -20,21 +20,17 @@
       平気平気<end_line>
       楽勝だぜ！<end_line>
     </sjis>
-    <ascii>
-    No worries.<end_line>
-    That was almost too easy!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       平気平気<end_line>
       楽勝だよ！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     No worries.<end_line>
     That was almost too easy!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -58,19 +54,16 @@
       で、さっきのアニスの仲間<end_line>
       どこ行ったんだ？<end_line>
     </sjis>
-    <ascii>
-    So, where did Anise's buddies go?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       で、さっきのアニスの仲間<end_line>
       どこ行ったの？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     So, where did Anise's buddies go?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -107,21 +100,17 @@
       エリエまで<end_line>
       どうしたんだ！？<end_line>
     </sjis>
-    <ascii>
-    Elieze!?<end_line>
-    What's going on!?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       エリエまで<end_line>
       どうしたの！？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Elieze!?<end_line>
     What's going on!?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -387,19 +376,16 @@
       ミューノの方はオレたちに<end_line>
       まかせてくれ！<end_line>
     </sjis>
-    <ascii>
-    Leave Murno to us!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       ミューノの方はわたしたちに<end_line>
       まかせて！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Leave Murno to us!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -535,21 +521,17 @@
       あ、そうか<end_line>
       それがいいよ！<end_line>
     </sjis>
-    <ascii>
-    Ah, right,<end_line>
-    that sounds good!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       あ、そっか<end_line>
       それがいいよ！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Ah, right,<end_line>
     that sounds good!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -602,21 +584,17 @@
       よっし！<end_line>
       オレたちも行こう！<end_line>
     </sjis>
-    <ascii>
-    Okay!<end_line>
-    Let's get moving!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       よぉし！<end_line>
       わたしたちも行こう！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Okay!<end_line>
     Let's get moving!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">

@@ -86,21 +86,17 @@
       名前<three_dots>？<end_line>
       名前か<three_dots>！<end_line>
     </sjis>
-    <ascii>
-    Name<three_dots>?<end_line>
-    Your name, huh<three_dots>！<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       名前<three_dots>？<end_line>
       名前ね<three_dots>！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Name<three_dots>?<end_line>
     Your name, huh<three_dots>！<end_line>
   </ascii>
-  </female>
 </dialogue>
 <bigtext>
   <partner name="run-dor">
@@ -243,18 +239,15 @@
     <sjis>
       うぉおおおお！！<end_line>
     </sjis>
-    <ascii>
-    Uwaaaah!!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       うぁああああ！！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Uwaaaah!!<end_line>
   </ascii>
-  </female>
 </bigtext>
 <dialogue>
   <info box="left">
@@ -276,21 +269,17 @@
       こいつは<three_dots><end_line>
       さっきの召喚獣<three_dots>！！！<end_line>
     </sjis>
-    <ascii>
-    That's<three_dots><end_line>
-    The Summon Beast from earlier<three_dots>!!!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       まさか<three_dots><end_line>
       さっきの召喚獣<three_dots>！！！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     That's<three_dots><end_line>
     The Summon Beast from earlier<three_dots>!!!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -315,21 +304,17 @@
       か<three_dots>、かわった！？<end_line>
       なんでだ？<end_line>
     </sjis>
-    <ascii>
-    It<three_dots>, it changed!?<end_line>
-    Why?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       か<three_dots>、かわった！？<end_line>
       なんで？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     It<three_dots>, it changed!?<end_line>
     Why?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -1307,21 +1292,17 @@
       子供になった！？<end_line>
       なんでだよ？<end_line>
     </sjis>
-    <ascii>
-    H-He became a kid!?<end_line>
-    Why?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       こ、子供になっちゃった！？<end_line>
       どうして？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     H-He became a kid!?<end_line>
     Why?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -1689,21 +1670,17 @@
       どうしたんだ？<end_line>
       弱そうになったぞ<end_line>
     </sjis>
-    <ascii>
-    What happened?<end_line>
-    You're looking weaker now.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       どうしたの？<end_line>
       弱そうになっちゃった<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     What happened?<end_line>
     You're looking weaker now.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">

@@ -46,18 +46,15 @@
     <sjis>
       じっとしてらんないよ<end_line>
     </sjis>
-    <ascii>
-    I can't just sit still.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       じっとしてられないよ<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     I can't just sit still.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -148,18 +145,15 @@
     <sjis>
       な、なんだよ！？<end_line>
     </sjis>
-    <ascii>
-    W-what!?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       な、なによ！？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     W-what!?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">

@@ -29,29 +29,24 @@
 	<info box="right">
 	<portrait_r entry="player" eye="decided" mouth="tense">
 	<male>
-    <sjis>
+		<sjis>
 			<three_dots>ってことは<end_line>
 			ふたりで出かけたってことか？<end_line>
 			ドコへ？<end_line>
 		</sjis>
-    <ascii>
-    <three_dots>Which means,<end_line>
-    they left together?<end_line>
-    Where to?<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			<three_dots>ってことは<end_line>
 			ふたりで出かけたってこと？<end_line>
 			ドコへ？<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     <three_dots>Which means,<end_line>
     they left together?<end_line>
     Where to?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -137,25 +132,21 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
-    <sjis>
+		<sjis>
 			そうだな<end_line>
 			もう少しこの辺りもさがしてみよう<end_line>
 		</sjis>
-    <ascii>
-    You're right.<end_line>
-    Let's look around for a bit longer.<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			そうだね<end_line>
 			もう少しこの辺りもさがしてみよう<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     You're right.<end_line>
     Let's look around for a bit longer.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<info box="right">

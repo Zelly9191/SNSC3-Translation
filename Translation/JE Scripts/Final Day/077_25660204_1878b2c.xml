@@ -7,10 +7,6 @@
       <partner>！<end_line>
       大丈夫か？<end_line>
     </sjis>
-    <ascii>
-    <partner>,<end_line>
-    what's wrong!?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -18,11 +14,11 @@
       <partner>！<end_line>
       大丈夫？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     <partner>,<end_line>
     what's wrong!?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -97,19 +93,15 @@
       お、おう<three_dots><end_line>
       わかった！<end_line>
     </sjis>
-    <ascii>
-    Y-yeah<three_dots><end_line>
-    I will!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       う、うん<three_dots><end_line>
       わかった！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Y-yeah<three_dots><end_line>
     I will!<end_line>
   </ascii>
-  </female>
 </dialogue>

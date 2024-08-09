@@ -22,21 +22,17 @@
       初心忘れるべからず！<end_line>
       だろ？<end_line>
     </sjis>
-    <ascii>
-    Never forget the basics!<end_line>
-    Right?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       初心忘れるべからず！<end_line>
       でしょ？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Never forget the basics!<end_line>
     Right?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -114,7 +110,7 @@
     Shapestone determines weapon type,<end_line>
     while the additional materials<end_line>
     determines strength and appearance.<end_line>
-  </ascii>
+  </ascii> 
 </dialogue>
 <dialogue>
   <info box="left">

@@ -36,21 +36,17 @@
       なんだよ！？<end_line>
       どうしたんだ！？<end_line>
     </sjis>
-    <ascii>
-    Master!<end_line>
-    What's wrong!?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       なによ！？<end_line>
       どうしたの！？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Master!<end_line>
     What's wrong!?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -62,11 +58,6 @@
       ドリルあたま！？<end_line>
       召喚獣！<end_line>
     </sjis>
-    <ascii>
-    What is that!?<end_line>
-    A drill for a head!?<end_line>
-    A Summon Beast!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -74,12 +65,12 @@
       ドリルあたま！？<end_line>
       召喚獣！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     What is that!?<end_line>
     A drill for a head!?<end_line>
     A Summon Beast!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -91,11 +82,6 @@
       エリマキけもの！？<end_line>
       召喚獣！<end_line>
     </sjis>
-    <ascii>
-    What is that!?<end_line>
-    An animal with a scarf!?<end_line>
-    A Summon Beast!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -103,12 +89,12 @@
       エリマキけもの！？<end_line>
       召喚獣！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     What is that!?<end_line>
     An animal with a scarf!?<end_line>
     A Summon Beast!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -120,11 +106,6 @@
       ハネはえてる！？<end_line>
       召喚獣！<end_line>
     </sjis>
-    <ascii>
-    What is that!?<end_line>
-    It's got wings!?<end_line>
-    A Summon Beast!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -132,12 +113,12 @@
       ハネはえてる！？<end_line>
       召喚獣！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     What is that!?<end_line>
     It's got wings!?<end_line>
     A Summon Beast!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -149,11 +130,6 @@
       ばくはつあたま！？<end_line>
       召喚獣！<end_line>
     </sjis>
-    <ascii>
-    What is that!?<end_line>
-    A blown-up hairstyle!?<end_line>
-    A Summon Beast!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -161,12 +137,12 @@
       ばくはつあたま！？<end_line>
       召喚獣！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     What is that!?<end_line>
     A blown-up hairstyle!?<end_line>
     A Summon Beast!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="left">

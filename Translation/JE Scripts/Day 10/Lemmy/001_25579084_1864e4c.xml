@@ -6,21 +6,17 @@
       あれ<three_dots>？<end_line>
       何やってんだ？<end_line>
     </sjis>
-    <ascii>
-    Huh<three_dots>?<end_line>
-    What's going on?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       あれ<three_dots>？<end_line>
       何やってんだろ？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Huh<three_dots>?<end_line>
     What's going on?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -155,11 +151,6 @@
       普通、心配するだろ？<end_line>
       母親だぜ？<end_line>
     </sjis>
-    <ascii>
-    It's normal to worry when your<end_line>
-    child might be in danger, isn't it?<end_line>
-    That's what a mother does.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -167,12 +158,12 @@
       普通、心配するでしょ？<end_line>
       母親だよ？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     It's normal to worry when your<end_line>
     child might be in danger, isn't it?<end_line>
     That's what a mother does.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -199,11 +190,6 @@
       <partner>がいなくたって<end_line>
       オレは<three_dots>！<end_line>
     </sjis>
-    <ascii>
-    What's that!?<end_line>
-    Even without <partner>,<end_line>
-    I'm<three_dots><end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -211,12 +197,12 @@
       <partner>がいなくたって<end_line>
       わたしは<three_dots>！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     What's that!?<end_line>
     Even without <partner>,<end_line>
     I'm<three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -256,11 +242,6 @@
       オレひとりだってお前くらい<end_line>
       たおせるさ！<end_line>
     </sjis>
-    <ascii>
-    Well, look who's talking!<end_line>
-    I could beat someone like<end_line>
-    you alone, easy!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -268,12 +249,12 @@
       わたしひとりだってあんたくらい<end_line>
       たおしてみせるわ！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Well, look who's talking!<end_line>
     I could beat someone like<end_line>
     you alone, easy!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -300,11 +281,6 @@
       一度お前とは１対１で<end_line>
       勝負してみたかったんだ！<end_line>
     </sjis>
-    <ascii>
-    Shut up!<end_line>
-    I've always wanted to fight you,<end_line>
-    one on one!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -312,12 +288,12 @@
       一度あんたとは１対１で<end_line>
       勝負してみたかったのよ！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Shut up!<end_line>
     I've always wanted to fight you,<end_line>
     one on one!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -395,11 +371,6 @@
       わかった<end_line>
       待ってろよ！<end_line>
     </sjis>
-    <ascii>
-    The North Gate.<end_line>
-    Okay!<end_line>
-    I'll be there!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -407,10 +378,10 @@
       わかったわ<end_line>
       待ってなさいよ！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     The North Gate.<end_line>
     Okay!<end_line>
     I'll be there!<end_line>
   </ascii>
-  </female>
 </dialogue>

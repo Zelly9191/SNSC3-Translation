@@ -1,10 +1,10 @@
 <location>
-  <sjis>
+	<sjis>
 		プロスバンの町<end_line>
 	</sjis>
 </location>
 <location>
-  <sjis>
+	<sjis>
 		プロスバンの町　北門前工房通り<end_line>
 	</sjis>
 </location>
@@ -12,29 +12,24 @@
 	<info box="simple">
 	<portrait_l name="player">
 	<male>
-    <sjis>
+		<sjis>
 			ねらわれてるミューノをつれて<end_line>
 			あまりウロウロしない方がいいな<three_dots><end_line>
 			とにかく工房に行こう<end_line>
 		</sjis>
-    <ascii>
-    I shouldn't wander around while<end_line>
-    Murno is still in danger<three_dots><end_line>
-    Let's head to the workshop.<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			ねらわれてるミューノをつれて<end_line>
 			あまりウロウロしない方がいいよね<three_dots><end_line>
 			とにかく工房に行こう<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     I shouldn't wander around while<end_line>
     Murno is still in danger<three_dots><end_line>
     Let's head to the workshop.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<info box="simple">

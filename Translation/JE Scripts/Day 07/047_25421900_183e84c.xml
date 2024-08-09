@@ -65,29 +65,24 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="partner" eye="sad" mouth="tense">
 	<male>
-    <sjis>
+		<sjis>
 			でもさぁ、アニスたちは今でも<end_line>
 			どこかでミューノを狙ってるんだぜ<end_line>
 			ジッとしてられなくてさ<three_dots><end_line>
 		</sjis>
-    <ascii>
-    I know, but Anise is still out<end_line>
-    somewhere, aiming for Murno.<end_line>
-    I can't just sit still<three_dots><end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			でもさ、アニスたちは今でも<end_line>
 			どこかでミューノを狙ってるんだよ<end_line>
 			ジッとしてられなくて<three_dots><end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     I know, but Anise is still out<end_line>
     somewhere, aiming for Murno.<end_line>
     I can't just sit still<three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -207,29 +202,24 @@
 	<portrait_l entry="player" eye="serious" mouth="talk">
 	<portrait_r entry="partner" eye="happy" mouth="neutral">
 	<male>
-    <sjis>
+		<sjis>
 			よっし！<end_line>
 			これからが、本番ってワケだな<three_dots><end_line>
 			初心に返って、気合い入れるか！<end_line>
 		</sjis>
-    <ascii>
-    Alright!<end_line>
-    We're finally at the main act<three_dots><end_line>
-    For starters, let's get fired up!<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			よおーし！<end_line>
 			これからが、本番ってワケだね<three_dots><end_line>
 			初心に返って、気合い入れよっか！<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Alright!<end_line>
     We're finally at the main act<three_dots><end_line>
     For starters, let's get fired up!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -241,7 +231,7 @@
 	</sjis>
   <ascii>
     Fired<three_dots> Up?<end_line>
-  </ascii>
+  </ascii> 
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -249,29 +239,24 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="partner" eye="surprised" mouth="neutral">
 	<male>
-    <sjis>
+		<sjis>
 			そうだよ<end_line>
 			覚えてるだろ？<end_line>
 			最初に叫んだアレだ！<end_line>
 		</sjis>
-    <ascii>
-    Yep.<end_line>
-    You remember, don't you?<end_line>
-    The Craftknight's mantra!<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			そうだよ<end_line>
 			覚えてるでしょ？<end_line>
 			最初に叫んだアレよ！<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Yep.<end_line>
     You remember, don't you?<end_line>
     The Craftknight's mantra!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -315,21 +300,18 @@
 	<portrait_l entry="player" eye="surprised" mouth="tense">
 	<portrait_r entry="partner" eye="sad" mouth="neutral">
 	<male>
-    <sjis>
+		<sjis>
 			<three_dots>ってどうしたんだよ？<end_line>
 		</sjis>
-    <ascii>
-    <three_dots>Hey, what's wrong?<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			<three_dots>ってどうしたの？<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     <three_dots>Hey, what's wrong?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -353,29 +335,24 @@
 	<portrait_l entry="player" eye="decided" mouth="talk">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-    <sjis>
+		<sjis>
 			だから<end_line>
 			叫ぶと、こう<end_line>
 			ハラの中から<three_dots><end_line>
 		</sjis>
-    <ascii>
-    I told you,<end_line>
-    the power comes<end_line>
-    from your stomach<three_dots><end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			だから<end_line>
 			叫ぶと、こう<end_line>
 			おなかの中から<three_dots><end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     I told you,<end_line>
     the power comes<end_line>
     from your stomach<three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -427,29 +404,24 @@
 	<portrait_l entry="player" eye="decided" mouth="tense">
 	<portrait_r entry="partner" eye="sad" mouth="tense">
 	<male>
-    <sjis>
+		<sjis>
 			でもさぁ、アニスたちは今でも<end_line>
 			どこかでミューノを狙ってるんだぜ<end_line>
 			ジッとしてられなくてさ<three_dots><end_line>
 		</sjis>
-    <ascii>
-    I know, but Anise is still out<end_line>
-    somewhere, aiming for Murno.<end_line>
-    I can't just sit still<three_dots><end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			でもさ、アニスたちは今でも<end_line>
 			どこかでミューノを狙ってるんだよ<end_line>
 			ジッとしてられなくて<three_dots><end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     I know, but Anise is still out<end_line>
     somewhere, aiming for Murno.<end_line>
     I can't just sit still<three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -567,29 +539,24 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="partner" eye="happy" mouth="neutral">
 	<male>
-    <sjis>
+		<sjis>
 			よっし！<end_line>
 			これからが、本番ってワケだな<three_dots><end_line>
 			初心に返って、気合い入れるか！<end_line>
 		</sjis>
-    <ascii>
-    Alright!<end_line>
-    We're finally at the main act<three_dots><end_line>
-    For starters, let's get fired up!<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			よおーし！<end_line>
 			これからが、本番ってワケだね<three_dots><end_line>
 			初心に返って、気合い入れよっか！<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Alright!<end_line>
     We're finally at the main act<three_dots><end_line>
     For starters, let's get fired up!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -611,29 +578,24 @@
 	<portrait_l entry="player" eye="serious" mouth="talk">
 	<portrait_r entry="partner" eye="decided" mouth="serious">
 	<male>
-    <sjis>
+		<sjis>
 			そうだよ<end_line>
 			覚えてるだろ？<end_line>
 			最初に叫んだアレだ！<end_line>
 		</sjis>
-    <ascii>
-    Yep.<end_line>
-    You remember, don't you?<end_line>
-    The Craftknight's mantra!<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			そうだよ<end_line>
 			覚えてるでしょ？<end_line>
 			最初に叫んだアレよ！<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Yep.<end_line>
     You remember, don't you?<end_line>
     The Craftknight's mantra!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -677,21 +639,18 @@
 	<portrait_l entry="player" eye="surprised" mouth="tense">
 	<portrait_r entry="partner" eye="sad" mouth="neutral">
 	<male>
-    <sjis>
+		<sjis>
 			<three_dots>ってどうしたんだよ？<end_line>
 		</sjis>
-    <ascii>
-    <three_dots>Hey, what's wrong?<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			<three_dots>ってどうしたの？<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     <three_dots>Hey, what's wrong?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -773,29 +732,24 @@
 	<portrait_l entry="player" eye="decided" mouth="serious">
 	<portrait_r entry="partner" eye="sad" mouth="tense">
 	<male>
-    <sjis>
+		<sjis>
 			だけどアニスたちは今でも<end_line>
 			どこかでミューノを狙ってるんだぜ<end_line>
 			ジッとしてられなくてさ<three_dots><end_line>
 		</sjis>
-    <ascii>
-    I know, but Anise is still out<end_line>
-    somewhere, aiming for Murno.<end_line>
-    I can't just sit still<three_dots><end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			でもアニスたちは今でも<end_line>
 			どこかでミューノを狙ってるんだよ<end_line>
 			ジッとしてられなくて<three_dots><end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     I know, but Anise is still out<end_line>
     somewhere, aiming for Murno.<end_line>
     I can't just sit still<three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -913,29 +867,24 @@
 	<portrait_l entry="player" eye="serious" mouth="talk">
 	<portrait_r entry="partner" eye="decided" mouth="neutral">
 	<male>
-    <sjis>
+		<sjis>
 			なに言ってんだよ<end_line>
 			これからが本番ってことだろ？<end_line>
 			初心に返って、気合い入れるか！<end_line>
 		</sjis>
-    <ascii>
-    We're just getting started!<end_line>
-    It's finally time for the main act!<end_line>
-    For starters, let's get fired up!<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			なに言ってるのよ<end_line>
 			これからが本番ってことでしょ？<end_line>
 			初心に返って、気合い入れよっか！<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     We're just getting started!<end_line>
     It's finally time for the main act!<end_line>
     For starters, let's get fired up!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -957,29 +906,24 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="surprised" mouth="tense">
 	<male>
-    <sjis>
+		<sjis>
 			そうだよ<end_line>
 			覚えてるだろ？<end_line>
 			最初に叫んだアレだ！<end_line>
 		</sjis>
-    <ascii>
-    Yep.<end_line>
-    You remember, don't you?<end_line>
-    The Craftknight's mantra!<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			そうだよ<end_line>
 			覚えてるでしょ？<end_line>
 			最初に叫んだアレよ！<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Yep.<end_line>
     You remember, don't you?<end_line>
     The Craftknight's mantra!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1023,21 +967,18 @@
 	<portrait_l entry="player" eye="serious" mouth="tense">
 	<portrait_r entry="partner" eye="decided" mouth="neutral">
 	<male>
-    <sjis>
+		<sjis>
 			<three_dots>ってどうしたんだよ？<end_line>
 		</sjis>
-    <ascii>
-    <three_dots>Hey, what's wrong?<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			<three_dots>ってどうしたの？<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     <three_dots>Hey, what's wrong?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -1059,29 +1000,24 @@
 	<portrait_l entry="player" eye="surprised" mouth="stressed">
 	<portrait_r entry="partner" eye="sad" mouth="tense">
 	<male>
-    <sjis>
+		<sjis>
 			え<three_dots>！？<end_line>
 			<partner>がオレにお願いなんて<three_dots><end_line>
 			そんなにイヤなのか<three_dots><end_line>
 		</sjis>
-    <ascii>
-    Eh<three_dots>!?<end_line>
-    <partner> is begging me<three_dots><end_line>
-    Do you hate it that much<three_dots>?<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			え<three_dots>！？<end_line>
 			<partner>がわたしにお願いなんて<three_dots><end_line>
 			そんなにイヤなの<three_dots><end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Eh<three_dots>!?<end_line>
     <partner> is begging me<three_dots><end_line>
     Do you hate it that much<three_dots>?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1103,29 +1039,24 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-    <sjis>
+		<sjis>
 			でもさぁ、アニスたちは今でも<end_line>
 			どこかでミューノを狙ってるんだぜ<end_line>
 			ジッとしてられなくてさ<three_dots><end_line>
 		</sjis>
-    <ascii>
-    I know, but Anise is still out<end_line>
-    somewhere, aiming for Murno.<end_line>
-    I can't just sit still<three_dots><end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			でもさ、アニスたちは今でも<end_line>
 			どこかでミューノを狙ってるんだよ<end_line>
 			ジッとしてられなくて<three_dots><end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     I know, but Anise is still out<end_line>
     somewhere, aiming for Murno.<end_line>
     I can't just sit still<three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1235,29 +1166,24 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-    <sjis>
+		<sjis>
 			よっし！<end_line>
 			これからが、本番ってワケだな<three_dots><end_line>
 			初心に返って、気合い入れるか！<end_line>
 		</sjis>
-    <ascii>
-    Alright!<end_line>
-    We're finally at the main act<three_dots><end_line>
-    For starters, let's get fired up!<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			よおーし！<end_line>
 			これからが、本番ってワケだね<three_dots><end_line>
 			初心に返って、気合い入れよっか！<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Alright!<end_line>
     We're finally at the main act<three_dots><end_line>
     For starters, let's get fired up!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1277,29 +1203,24 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-    <sjis>
+		<sjis>
 			そうだよ<end_line>
 			覚えてるだろ？<end_line>
 			最初に叫んだアレだ！<end_line>
 		</sjis>
-    <ascii>
-    Yep.<end_line>
-    You remember, don't you?<end_line>
-    The Craftknight's mantra!<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			そうだよ<end_line>
 			覚えてるでしょ？<end_line>
 			最初に叫んだアレよ！<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Yep.<end_line>
     You remember, don't you?<end_line>
     The Craftknight's mantra!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -1339,21 +1260,18 @@
 	<info box="left">
 	<portrait_l name="player">
 	<male>
-    <sjis>
+		<sjis>
 			<three_dots>ってどうしたんだよ？<end_line>
 		</sjis>
-    <ascii>
-    <three_dots>Hey, what's wrong?<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			<three_dots>ってどうしたの？<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     <three_dots>Hey, what's wrong?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">

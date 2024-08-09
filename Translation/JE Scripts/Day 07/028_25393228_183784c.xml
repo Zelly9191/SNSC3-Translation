@@ -15,18 +15,15 @@
     <sjis>
       アニスをつれてきたぞ！<end_line>
     </sjis>
-    <ascii>
-    I brought Anise!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       アニスをつれてきたよ！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     I brought Anise!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -48,18 +45,15 @@
     <sjis>
       今度は何だ！？<end_line>
     </sjis>
-    <ascii>
-    What was that!?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       今度は何！？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     What was that!?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -463,18 +457,15 @@
     <sjis>
       そう<three_dots>なのか<three_dots>？<end_line>
     </sjis>
-    <ascii>
-    Is<three_dots>that so<three_dots>?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       そう<three_dots>なの<three_dots>？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Is<three_dots>that so<three_dots>?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="simple">

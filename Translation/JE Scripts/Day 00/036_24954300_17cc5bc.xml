@@ -311,21 +311,17 @@
       そうだね<end_line>
       オレ、がんばるよ！<end_line>
     </sjis>
-    <ascii>
-    That's right!<end_line>
-    I'll do my best!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       そうだね<end_line>
       わたし、がんばるよ！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     That's right!<end_line>
     I'll do my best!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -376,11 +372,6 @@
       オレも<partner>を信頼する<end_line>
       <three_dots>ってことだよな<end_line>
     </sjis>
-    <ascii>
-    Trusting each other means that<end_line>
-    I need to trust <partner>, too.<end_line>
-    <three_dots>That's how it is, huh.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -388,11 +379,11 @@
       わたしも<partner>を信頼する<end_line>
       <three_dots>ってことだよね<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Trusting each other means that<end_line>
     I need to trust <partner>, too.<end_line>
     <three_dots>That's how it is, huh.<end_line>
   </ascii>
-  </female>
 </dialogue>
 

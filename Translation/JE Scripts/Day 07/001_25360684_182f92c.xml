@@ -3,25 +3,21 @@
 	<portrait_l entry="player" eye="decided" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="serious">
 	<male>
-    <sjis>
+		<sjis>
 			いよいよトラムとの勝負だ<end_line>
 			絶対に勝つぞ！<end_line>
 		</sjis>
-    <ascii>
-    It's time for our match with Tram.<end_line>
-    I'm definitely going to win!<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			いよいよトラムとの勝負だね<end_line>
 			絶対に勝つよ！<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     It's time for our match with Tram.<end_line>
     I'm definitely going to win!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -43,7 +39,7 @@
 	<portrait_l entry="player" eye="serious" mouth="talk">
 	<portrait_r entry="partner" eye="serious" mouth="tense">
 	<male>
-    <sjis>
+		<sjis>
 			なんだよ、心配してくれるのか？<end_line>
 			ありがとう<end_line>
 			大丈夫だって！<end_line>
@@ -53,9 +49,9 @@
       Thanks.<end_line>
       I'll be fine!<end_line>
     </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			心配してくれるの？<end_line>
 			ありがとう<end_line>
 			大丈夫だよ！<end_line>
@@ -65,7 +61,7 @@
       Thanks.<end_line>
       I'll be fine!<end_line>
     </ascii>
-  </female>
+	</female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -183,21 +179,18 @@
 	<portrait_l entry="player" eye="surprised" mouth="talk">
 	<portrait_r entry="partner" eye="happy" mouth="neutral">
 	<male>
-    <sjis>
+		<sjis>
 			お前<three_dots><end_line>
 		</sjis>
-    <ascii>
-    You<three_dots><end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			あなた<three_dots><end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     You<three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="run-dor">
@@ -235,7 +228,7 @@
 	<portrait_l entry="player" eye="serious" mouth="neutral">
 	<portrait_r entry="partner" eye="serious" mouth="tense">
 	<male>
-    <sjis>
+		<sjis>
 			なんだよ、心配してくれるのか？<end_line>
 			ありがとう<end_line>
 			大丈夫だって！<end_line>
@@ -245,9 +238,9 @@
       Thanks.<end_line>
       I'll be fine!<end_line>
     </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			心配してくれるの？<end_line>
 			ありがとう<end_line>
 			大丈夫だよ！<end_line>
@@ -257,7 +250,7 @@
       Thanks.<end_line>
       I'll be fine!<end_line>
     </ascii>
-  </female>
+	</female>
 </dialogue>
 <dialogue>
 	<partner name="enzi">
@@ -401,25 +394,21 @@
 	<portrait_l entry="player" eye="serious" mouth="tense">
 	<portrait_r entry="partner" eye="serious" mouth="tense">
 	<male>
-    <sjis>
+		<sjis>
 			なんだよそれ？<end_line>
 			もしかして心配してくれるのか？<end_line>
 		</sjis>
-    <ascii>
-    What's that supposed to mean?<end_line>
-    Are you worried about me?<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			なによそれ？<end_line>
 			もしかして心配してくれるの？<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     What's that supposed to mean?<end_line>
     Are you worried about me?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="killfith">
@@ -569,7 +558,7 @@
 	<portrait_l entry="player" eye="serious" mouth="talk">
 	<portrait_r entry="partner" eye="decided" mouth="talk">
 	<male>
-    <sjis>
+		<sjis>
 			なんだよ、心配してくれるのか？<end_line>
 			ありがとう<end_line>
 			大丈夫だって！<end_line>
@@ -579,9 +568,9 @@
       Thanks.<end_line>
       I'll be fine!<end_line>
     </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			心配してくれるの？<end_line>
 			ありがとう<end_line>
 			大丈夫だよ！<end_line>
@@ -591,7 +580,7 @@
       Thanks.<end_line>
       I'll be fine!<end_line>
     </ascii>
-  </female>
+	</female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -629,29 +618,24 @@
 	<portrait_l entry="player" eye="serious" mouth="tense">
 	<portrait_r entry="partner" eye="sad" mouth="tense">
 	<male>
-    <sjis>
+		<sjis>
 			てなわけで<end_line>
 			そろそろオレは行くけど<end_line>
 			<partner>はどうする？<end_line>
 		</sjis>
-    <ascii>
-    Now then,<end_line>
-    it's about time for me to go.<end_line>
-    What will you do, <partner>?<end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			そんなわけで<end_line>
 			そろそろわたしは行くけど<end_line>
 			<partner>はどうする？<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Now then,<end_line>
     it's about time for me to go.<end_line>
     What will you do, <partner>?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -685,21 +669,18 @@
 	<portrait_l entry="player" eye="surprised" mouth="talk">
 	<portrait_r entry="partner" eye="serious" mouth="neutral">
 	<male>
-    <sjis>
+		<sjis>
 			お前<three_dots><end_line>
 		</sjis>
-    <ascii>
-    You<three_dots><end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			あなた<three_dots><end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     You<three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
 	<partner name="rufeel">
@@ -722,21 +703,18 @@
 	<portrait_l entry="player" eye="sad" mouth="neutral">
 	<portrait_r entry="partner" eye="sad" mouth="serious">
 	<male>
-    <sjis>
+		<sjis>
 			そういうことか<three_dots><end_line>
 			わかったよ<end_line>
 		</sjis>
-    <ascii>
-    Oh, that's what you meant<three_dots><end_line>
-  </ascii>
-  </male>
-  <female>
-    <sjis>
+	</male>
+	<female>
+		<sjis>
 			そういうことね<three_dots><end_line>
 			わかったわよ<end_line>
 		</sjis>
-    <ascii>
+	</female>
+  <ascii>
     Oh, that's what you meant<three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>

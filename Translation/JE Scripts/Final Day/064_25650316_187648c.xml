@@ -7,11 +7,6 @@
       さっきとあんまり<end_line>
       変わんないみたいだけど<three_dots><end_line>
     </sjis>
-    <ascii>
-    Is<three_dots>this it?<end_line>
-    It doesn't seem any<end_line>
-    different from before<three_dots><end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -19,12 +14,12 @@
       さっきとあんまり<end_line>
       変わらないみたいだけど<three_dots><end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Is<three_dots>this it?<end_line>
     It doesn't seem any<end_line>
     different from before<three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -53,11 +48,6 @@
       幻龍鬼とかマグドラドがいた<end_line>
       ルイーズ村の迷宮に、似てるな<three_dots><end_line>
     </sjis>
-    <ascii>
-    Actually, this place<three_dots><end_line>
-    It's quite similar to the<end_line>
-    labyrinth in Louise Village.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -65,12 +55,12 @@
       幻龍鬼とかマグドラドがいた<end_line>
       ルイーズ村の迷宮に、似てるね<three_dots><end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Actually, this place<three_dots><end_line>
     It's quite similar to the<end_line>
     labyrinth in Louise Village.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -98,11 +88,6 @@
       とにかく前へ進むぞ！<end_line>
       ミューノを取り返すんだ！<end_line>
     </sjis>
-    <ascii>
-    I don't really get it, but anyway,<end_line>
-    let's keep moving!<end_line>
-    We're gonna get Murno back!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -110,12 +95,12 @@
       とにかく前へ進もう！<end_line>
       ミューノを取り返すのよ！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     I don't really get it, but anyway,<end_line>
     let's keep moving!<end_line>
     We're gonna get Murno back!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -168,11 +153,6 @@
       幻龍鬼とかマグドラドがいた<end_line>
       ルイーズ村の迷宮に、似てるな<three_dots><end_line>
     </sjis>
-    <ascii>
-    Actually, this place<three_dots><end_line>
-    It's quite similar to the<end_line>
-    labyrinth in Louise Village.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -180,12 +160,12 @@
       幻龍鬼とかマグドラドがいた<end_line>
       ルイーズ村の迷宮に、似てるね<three_dots><end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Actually, this place<three_dots><end_line>
     It's quite similar to the<end_line>
     labyrinth in Louise Village.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -214,11 +194,6 @@
       とにかく前へ進むぞ！<end_line>
       ミューノを取り返すんだ！<end_line>
     </sjis>
-    <ascii>
-    I don't really get it, but anyway,<end_line>
-    let's keep moving!<end_line>
-    We're gonna get Murno back!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -226,12 +201,12 @@
       とにかく前へ進もう！<end_line>
       ミューノを取り返すのよ！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     I don't really get it, but anyway,<end_line>
     let's keep moving!<end_line>
     We're gonna get Murno back!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="enzi">
@@ -286,11 +261,6 @@
       幻龍鬼とかマグドラドがいた<end_line>
       ルイーズ村の迷宮に、似てるな<three_dots><end_line>
     </sjis>
-    <ascii>
-    Actually, this place<three_dots><end_line>
-    It's quite similar to the<end_line>
-    labyrinth in Louise Village.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -298,12 +268,12 @@
       幻龍鬼とかマグドラドがいた<end_line>
       ルイーズ村の迷宮に、似てるね<three_dots><end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Actually, this place<three_dots><end_line>
     It's quite similar to the<end_line>
     labyrinth in Louise Village.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -332,11 +302,6 @@
       とにかく前へ進むぞ！<end_line>
       ミューノを取り返すんだ！<end_line>
     </sjis>
-    <ascii>
-    I don't really get it, but anyway,<end_line>
-    let's keep moving!<end_line>
-    We're gonna get Murno back!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -344,12 +309,12 @@
       とにかく前へ進もう！<end_line>
       ミューノを取り返すのよ！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     I don't really get it, but anyway,<end_line>
     let's keep moving!<end_line>
     We're gonna get Murno back!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="killfith">
@@ -404,11 +369,6 @@
       幻龍鬼とかマグドラドがいた<end_line>
       ルイーズ村の迷宮に、似てるな<three_dots><end_line>
     </sjis>
-    <ascii>
-    Actually, this place<three_dots><end_line>
-    It's quite similar to the<end_line>
-    labyrinth in Louise Village.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -416,12 +376,12 @@
       幻龍鬼とかマグドラドがいた<end_line>
       ルイーズ村の迷宮に、似てるね<three_dots><end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Actually, this place<three_dots><end_line>
     It's quite similar to the<end_line>
     labyrinth in Louise Village.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">
@@ -448,11 +408,6 @@
       とにかく前へ進むぞ！<end_line>
       ミューノを取り返すんだ！<end_line>
     </sjis>
-    <ascii>
-    I don't really get it, but anyway,<end_line>
-    let's keep moving!<end_line>
-    We're gonna get Murno back!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -460,12 +415,12 @@
       とにかく前へ進もう！<end_line>
       ミューノを取り返すのよ！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     I don't really get it, but anyway,<end_line>
     let's keep moving!<end_line>
     We're gonna get Murno back!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="rufeel">

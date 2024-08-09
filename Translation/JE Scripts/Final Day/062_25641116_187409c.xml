@@ -7,21 +7,17 @@
       これまでだ！<end_line>
       ミューノを返せ！<end_line>
     </sjis>
-    <ascii>
-    That's it!<end_line>
-    Let Murno go!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       ここまでよ！<end_line>
       ミューノを返して！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     That's it!<end_line>
     Let Murno go!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -234,21 +230,17 @@
       なんだと<three_dots><end_line>
       今なんて<three_dots><end_line>
     </sjis>
-    <ascii>
-    What<three_dots>?<end_line>
-    What was that<three_dots><end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       なによそれ<three_dots>？<end_line>
       今なんて<three_dots><end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     What<three_dots>?<end_line>
     What was that<three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <bigtext>
   <info box="simple" effect="big">
@@ -485,11 +477,6 @@
       おい<three_dots><end_line>
       大丈夫か！？<end_line>
     </sjis>
-    <ascii>
-    <partner><three_dots>!<end_line>
-    Hey<three_dots><end_line>
-    Are you okay!?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -497,12 +484,12 @@
       ねえ<three_dots><end_line>
       大丈夫！？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     <partner><three_dots>!<end_line>
     Hey<three_dots><end_line>
     Are you okay!?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
@@ -612,18 +599,15 @@
     <sjis>
       あ、待て<three_dots>！<end_line>
     </sjis>
-    <ascii>
-    Ah, wait<three_dots>!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       あ、待って<three_dots>！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Ah, wait<three_dots>!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="simple">

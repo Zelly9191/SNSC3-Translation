@@ -123,21 +123,17 @@
       あいつ、逃げ出したのか！？<end_line>
       追いかけないと！<end_line>
     </sjis>
-    <ascii>
-    She ran away!?<end_line>
-    We have to find her!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       あいつ、逃げ出したの！？<end_line>
       追いかけなきゃ！<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     She ran away!?<end_line>
     We have to find her!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">

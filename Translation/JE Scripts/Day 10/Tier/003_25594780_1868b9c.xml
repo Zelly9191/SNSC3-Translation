@@ -8,11 +8,6 @@
       これで自分の力がわかっただろ？<end_line>
       やっぱ留守番してろよ<end_line>
     </sjis>
-    <ascii>
-    Now then<three_dots><end_line>
-    Do you understand?<end_line>
-    You really should stay home.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -20,12 +15,12 @@
       これで自分の力がわかったでしょ？<end_line>
       やっぱり留守番してなよ<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Now then<three_dots><end_line>
     Do you understand?<end_line>
     You really should stay home.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -61,21 +56,17 @@
       なんだと？<end_line>
       どうして<three_dots><end_line>
     </sjis>
-    <ascii>
-    What?<end_line>
-    Why<three_dots><end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       なによ、それ？<end_line>
       どうして<three_dots><end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     What?<end_line>
     Why<three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -167,11 +158,6 @@
       それほどまでに<end_line>
       <player_nickname>くんを<three_dots><end_line>
     </sjis>
-    <ascii>
-    Tier<three_dots><end_line>
-    You care for <player_nickname><end_line>
-    that much<three_dots><end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -179,12 +165,12 @@
       それほどまでに<end_line>
       <player_nickname>ちゃんを<three_dots><end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Tier<three_dots><end_line>
     You care for <player_nickname><end_line>
     that much<three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -196,11 +182,6 @@
       悪いがティエをいっしょに<end_line>
       連れて行ってくれないか？<end_line>
     </sjis>
-    <ascii>
-    <player_nickname>,<end_line>
-    I'm sorry, but could you<end_line>
-    take her with you?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -208,12 +189,12 @@
       悪いがティエをいっしょに<end_line>
       連れて行ってくれないか？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     <player_nickname>,<end_line>
     I'm sorry, but could you<end_line>
     take her with you?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -293,11 +274,6 @@
       そんな、あの<end_line>
       すみません、オレ、あの<end_line>
     </sjis>
-    <ascii>
-    Wha,<end_line>
-    well, um,<end_line>
-    sorry, I<three_dots><end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -305,12 +281,12 @@
       そんな、あの<end_line>
       すみません、わたし、あの<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Wha,<end_line>
     well, um,<end_line>
     sorry, I<three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -357,11 +333,6 @@
       良かったなティエ<end_line>
       さあ、元気だしなさい<end_line>
     </sjis>
-    <ascii>
-    Thank you, <player_nickname>.<end_line>
-    Isn't that great, Tier?<end_line>
-    Now, cheer up, alright?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -369,12 +340,12 @@
       良かったなティエ<end_line>
       さあ、元気だしなさい<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Thank you, <player_nickname>.<end_line>
     Isn't that great, Tier?<end_line>
     Now, cheer up, alright?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="left">
@@ -385,21 +356,17 @@
       だから、ほら<end_line>
       もう泣くなよ<end_line>
     </sjis>
-    <ascii>
-    Yeah, come on,<end_line>
-    don't cry.<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       だから、ほら<end_line>
       もう泣かないで<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Yeah, come on,<end_line>
     don't cry.<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -550,10 +517,6 @@
       なんとも<three_dots><end_line>
       すまない、<player_nickname>くん<three_dots><end_line>
     </sjis>
-    <ascii>
-    Our daughter is just so<three_dots><end_line>
-    I'm sorry, <player_nickname><three_dots><end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
@@ -561,11 +524,11 @@
       なんとも<three_dots><end_line>
       すまない、<player_nickname>ちゃん<three_dots><end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Our daughter is just so<three_dots><end_line>
     I'm sorry, <player_nickname><three_dots><end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">

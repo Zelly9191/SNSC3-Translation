@@ -163,21 +163,17 @@
       やっぱ<end_line>
       たおすしかないか<three_dots>！<end_line>
     </sjis>
-    <ascii>
-    All we can do<end_line>
-    is take them out<three_dots>!<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       やっぱ<end_line>
       たおすしかないの<three_dots>！？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     All we can do<end_line>
     is take them out<three_dots>!<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <info box="right">
@@ -188,21 +184,17 @@
       なんだ？<end_line>
       見張る気ないのか？<end_line>
     </sjis>
-    <ascii>
-    Huh?<end_line>
-    Why's it leaving?<end_line>
-  </ascii>
   </male>
   <female>
     <sjis>
       なに？<end_line>
       見張る気ないの？<end_line>
     </sjis>
-    <ascii>
+  </female>
+  <ascii>
     Huh?<end_line>
     Why's it leaving?<end_line>
   </ascii>
-  </female>
 </dialogue>
 <dialogue>
   <partner name="run-dor">
