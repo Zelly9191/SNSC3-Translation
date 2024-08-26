@@ -23,8 +23,6 @@
 	<ascii>
 		Let's train in the usual place.<end_line>
 	</ascii>
-	# Failed Accuracy Test
-	# Was "Training's as usual."
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -138,8 +136,6 @@
 		I'll sell you an <quote>Electric Battery<quote><end_line>
 		for a mere 200 boam!<end_line>
 	</ascii>
-	# Failed Accuracy Test
-	# Changed 'Electric Battery' to <quote>Electric Battery<quote>
 </dialogue>
 <dialogue>
 	<info box="simple">

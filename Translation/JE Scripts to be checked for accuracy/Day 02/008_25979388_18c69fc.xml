@@ -10,9 +10,6 @@
     Cat error.<end_line>
     POS_TEMP is not set.<end_line>
   </ascii>
-  # Failed Accuracy Test
-  # Changed 2nd line from "PUSS-TEMP is not set."
-  # Its in english in the sjis section and doesnt correspond to any japanese, so may as well keep it.
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -26,8 +23,6 @@
     Shiro has disappeared.<end_line>
     But<three_dots><end_line>
   </ascii>
-  # Failed Accuracy Test
-  # Changed cat name from Whitney to Shiro
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -111,9 +106,6 @@
   <ascii>
     Shiro has left.<end_line>
   </ascii>
-  # Failed Accuracy Test
-  # Changed from "Hey, have you seen a white cat?"
-  # It says the cat went away. "Shiro disappeared from before me." is the very direct translation.
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -126,8 +118,6 @@
     But, they seemed full of<end_line>
     determination when they left.<end_line>
   </ascii>
-  # Failed Accuracy Test
-  # Changed from "I think they're crying for help."
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -140,8 +130,6 @@
     It's hard being apart<end_line>
     from Shiro.<end_line>
   </ascii>
-  # Failed Accuracy Test
-  # Changed cat name from Whitney to Shiro
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -175,8 +163,6 @@
   <ascii>
     Shiro went off somewhere<three_dots><end_line>
   </ascii>
-  # Failed Accuracy Test
-  # Changed cat name from Whitney to Shiro
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -190,9 +176,6 @@
     I can feel they're happy,<end_line>
     wherever they are.<end_line>
   </ascii>
-  # Failed Accuracy Test
-  # First line is good.
-  # Second line changed from "I'm happy for them."
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -300,8 +283,6 @@
   <ascii>
     Welcome back, Shiro~<end_line>
   </ascii>
-  # Failed Accuracy Test
-  # Changed cat name from Whitney to Shiro
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -358,8 +339,6 @@
     Shiro has disappeared.<end_line>
     But<three_dots><end_line>
   </ascii>
-  # Failed Accuracy Test
-  # Changed cat name from Whitney to Shiro
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -466,8 +445,6 @@
   <ascii>
     Ooh, Oh, Shiro~~<end_line>
   </ascii>
-  # Failed Accuracy Test
-  # Changed cat name from Whitney to Shiro
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -503,8 +480,6 @@
     no more getting yourself<end_line>
     into trouble now~<end_line>
   </ascii>
-  # Failed Accuracy Test
-  # Changed cat name from Whitney to Shiro
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -518,8 +493,6 @@
     no more getting yourself<end_line>
     into trouble now~<end_line>
   </ascii>
-  # Failed Accuracy Test
-  # Changed cat name from Whitney to Shiro
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -531,8 +504,6 @@
   <ascii>
     Shiro has left.<end_line>
   </ascii>
-  # Failed Accuracy Test
-  # Changed from "Hey, have you seen a white cat?"
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -545,8 +516,6 @@
     But, they seemed full of<end_line>
     determination when they left.<end_line>
   </ascii>
-  # Failed Accuracy Test
-  # Changed from "I think they're crying for help."
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -559,8 +528,6 @@
     It's hard being apart<end_line>
     from Shiro.<end_line>
   </ascii>
-  # Failed Accuracy Test
-  # Changed cat name from Whitney to Shiro
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -676,8 +643,6 @@
   <ascii>
     Shiro went off somewhere<three_dots><end_line>
   </ascii>
-  # Failed Accuracy Test
-  # Changed cat name from Whitney to Shiro
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -691,9 +656,6 @@
     I can feel they're happy,<end_line>
     wherever they are.<end_line>
   </ascii>
-  # Failed Accuracy Test
-  # First line is good.
-  # Second line changed from "I'm happy for them."
 </dialogue>
 <dialogue>
   <info box="simple">
@@ -894,8 +856,6 @@
     a bunch of friends this time too.<end_line>
     It's like a kingdom of cats.<end_line>
   </ascii>
-  # Failed Accuracy Test
-  # Changed cat name from Whitney to Shiro
 </dialogue>
 <dialogue>
   <info box="simple">

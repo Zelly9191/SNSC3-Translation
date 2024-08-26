@@ -291,8 +291,6 @@
     Umm<three_dots><end_line>
     Ms. V.E<three_dots><end_line>
   </ascii>
-  # Failed Accuracy Check
-  # Changed "Vee" to V.E
 </dialogue>
 <dialogue>
   <info box="left">
@@ -580,8 +578,6 @@
   <ascii>
     Um, Ms. V.E<three_dots><end_line>
   </ascii>
-  # Failed Accuracy Check
-  # Changed "Vee" to V.E
 </dialogue>
 <dialogue>
   <info box="nobox">
@@ -1320,8 +1316,6 @@
     who very kindly decided<end_line>
     to hire me as an assistant.<end_line>
   </ascii>
-  # Failed Accuracy Check
-  # Changed "Vee" to V.E
 </dialogue>
 <dialogue>
   <info box="left">
@@ -1469,12 +1463,12 @@
   </sjis>
   <ascii>
     It's the perfect setting.<end_line>
-    People all over<end_line>
+    People all over the World<end_line>
     would be moved to tears!<end_line>
   </ascii>
-  # Failed Accuracy Check
-  # Changed "People all over the Earth" to remove reference to Earth
-  # I don't know think the world is also called Earth
+  # Proofread 2
+  # Changed to replace Earth with World
+  # It's supposed to be an expression, so "World" gives a similar extreme feeling
 </dialogue>
 <dialogue>
   <info box="left">
@@ -1484,10 +1478,8 @@
     ぜんべい？<end_line>
   </sjis>
   <ascii>
-    All<three_dots>over<three_dots>?<end_line>
+    The<three_dots>world<three_dots>?<end_line>
   </ascii>
-  # Failed Accuracy Check
-  # Changed "Earth<three_dots>what<three_dots>?" to remove Earth reference
 </dialogue>
 <dialogue>
   <info box="right">
