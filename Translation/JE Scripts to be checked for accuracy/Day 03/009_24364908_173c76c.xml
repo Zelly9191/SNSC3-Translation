@@ -63,8 +63,9 @@
 		つよいんだよ<end_line>
 	</sjis>
 	<ascii>
-		I wanna be a hero when I grow up.<end_line>
-		Heroes are stronger than<end_line>
-		simple craftsmen.<end_line>
+		I wanna be a hero when I<end_line>
+		grow up. Heroes are stronger<end_line>
+		than simple craftsmen.<end_line>
 	</ascii>
+	# First line over 30 characters.
 </dialogue>

@@ -35,10 +35,11 @@
 		ダンジョンの元の場所に戻れます<end_line>
 	</sjis>
 	<ascii>
-    You can then return to the point<end_line>
-    you used the stone by<end_line>
-		pressing A in front of this portal.<end_line>
+    	You can return to the point you<end_line>
+    	used the stone from by pressing<end_line>
+		A in front of this portal.<end_line>
 	</ascii>
+	# Line 3 was over 30 characters (35)
 </dialogue>
 <dialogue>
 	<info box="special">

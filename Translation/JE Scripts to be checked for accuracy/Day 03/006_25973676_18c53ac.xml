@@ -37,15 +37,16 @@
 			渡す<end_line>
 		</sjis>
 		<ascii>
-			Hand over<end_line>
+			Hand it over<end_line>
 		</ascii>
+		# Sounds better
 	</option>
 	<option>
 		<sjis>
 			渡さない<end_line>
 		</sjis>
 		<ascii>
-			Don't hand it over<end_line>
+			Keep it<end_line>
 		</ascii>
 	</option>
 </menu>
@@ -56,8 +57,9 @@
 		お礼に、これを上げよう<end_line>
 	</sjis>
 	<ascii>
-		I'll give you this in thanks.<end_line>
+		I'll give you this as thanks.<end_line>
 	</ascii>
+	# Sounds better
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -86,7 +88,7 @@
 		ミガ石、持ってきてくれたのか<end_line>
 	</sjis>
 	<ascii>
-		Did you bring the Mika Stone?<end_line>
+		Did you bring the Miga Stone?<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -114,16 +116,18 @@
 			渡す<end_line>
 		</sjis>
 		<ascii>
-			Hand over<end_line>
+			Hand it over<end_line>
 		</ascii>
+		# Sounds better
 	</option>
 	<option>
 		<sjis>
 			渡さない<end_line>
 		</sjis>
 		<ascii>
-			Don't hand over<end_line>
+			Keep it<end_line>
 		</ascii>
+		# Sounds better
 	</option>
 </menu>
 <dialogue>
@@ -174,7 +178,7 @@
 		探してきてくれない<end_line>
 	</sjis>
 	<ascii>
-		Hey, could you find me <end_line>
+		Hey, could you find me<end_line>
 		some Catin Ore?<end_line>
 	</ascii>
 </dialogue>
@@ -218,16 +222,18 @@
 			渡す<end_line>
 		</sjis>
 		<ascii>
-			Hand over<end_line>
+			Hand it over<end_line>
 		</ascii>
+		# Sounds better
 	</option>
 	<option>
 		<sjis>
 			渡さない<end_line>
 		</sjis>
 		<ascii>
-			Don't hand over<end_line>
+			Keep it<end_line>
 		</ascii>
+		# Sounds better
 	</option>
 </menu>
 <dialogue>
@@ -257,8 +263,9 @@
 		ねぇ、カティン鉱石<end_line>
 	</sjis>
 	<ascii>
-		Hey, the Catin Ore,<end_line>
+		Hey, the Catin Ore<three_dots><end_line>
 	</ascii>
+	# Sounds better
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -296,16 +303,18 @@
 			渡す<end_line>
 		</sjis>
 		<ascii>
-			Hand over<end_line>
+			Hand it over<end_line>
 		</ascii>
+		# Sounds better
 	</option>
 	<option>
 		<sjis>
 			渡さない<end_line>
 		</sjis>
 		<ascii>
-			Don't hand over<end_line>
+			Keep it<end_line>
 		</ascii>
+		# Sounds better
 	</option>
 </menu>
 <dialogue>
@@ -357,10 +366,12 @@
 		探してきてくれぬかのぉ<end_line>
 	</sjis>
 	<ascii>
-    I'm in need of<end_line>
-    some Kicca medicine<three_dots><end_line>
-		Would you find some for me?<end_line>
+    	I'm in need of<end_line>
+    	a Kicker Potion<three_dots><end_line>
+		Could you find some for me?<end_line>
 	</ascii>
+	# I assume it's referring to the Kicker Potion
+	# Original line said Kicca medicine
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -388,16 +399,18 @@
 			渡す<end_line>
 		</sjis>
 		<ascii>
-			Hand over<end_line>
+			Hand it over<end_line>
 		</ascii>
+		# Sounds better
 	</option>
 	<option>
 		<sjis>
 			渡さない<end_line>
 		</sjis>
 		<ascii>
-			Don't hand over?<end_line>
+			Keep it?<end_line>
 		</ascii>
+		# Sounds better
 	</option>
 </menu>
 <dialogue>
@@ -407,7 +420,7 @@
 		お礼に、これを上げよう<end_line>
 	</sjis>
 	<ascii>
-		I'll give you this in thanks.<end_line>
+		I'll give you this as thanks.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -427,8 +440,9 @@
 		なんじゃ、渡してくれぬのか<end_line>
 	</sjis>
 	<ascii>
-		Oh, you're not going to give it?<end_line>
+		Oh, you won't give it to me?<end_line>
 	</ascii>
+	# Line over 30 characters (32)
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -439,9 +453,11 @@
 		ないかの～<end_line>
 	</sjis>
 	<ascii>
-		Is there any<end_line>
-		Kikka medicine anywhere<three_dots>?<end_line>
+		Are there any<end_line>
+		Kicker Potions anywhere<three_dots>?<end_line>
 	</ascii>
+	# I think its referring to Kicker Potions
+	# Original said Kikka medicine
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -469,16 +485,18 @@
 			渡す<end_line>
 		</sjis>
 		<ascii>
-			Hand over<end_line>
+			Hand it over<end_line>
 		</ascii>
+		# Sounds better
 	</option>
 	<option>
 		<sjis>
 			渡さない<end_line>
 		</sjis>
 		<ascii>
-			Don't hand over<end_line>
+			Keep it<end_line>
 		</ascii>
+		# Sounds better
 	</option>
 </menu>
 <dialogue>
@@ -488,8 +506,9 @@
 		お礼に、これを上げよう<end_line>
 	</sjis>
 	<ascii>
-		I'll give you this in thanks.<end_line>
+		I'll give you this as thanks.<end_line>
 	</ascii>
+	# Sounds better
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -508,8 +527,9 @@
 		なんじゃ、渡してくれぬのか<end_line>
 	</sjis>
 	<ascii>
-		Oh, you're not going to give it?<end_line>
+		Oh, you wont give it to me?<end_line>
 	</ascii>
+	# Line over 30 characters (32)
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -543,10 +563,11 @@
 		どこかに無いかな～<end_line>
 	</sjis>
 	<ascii>
-		Recently, I've been really worried<end_line>
+		Recently, I've been worried<end_line>
 		about my safety.<end_line>
 		Where could it be<three_dots>?<end_line>
 	</ascii>
+	# First line over 30 characters (34)
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -574,16 +595,18 @@
 			渡す<end_line>
 		</sjis>
 		<ascii>
-			Hand over<end_line>
+			Hand it over<end_line>
 		</ascii>
+		# Sounds better
 	</option>
 	<option>
 		<sjis>
 			渡さない<end_line>
 		</sjis>
 		<ascii>
-			Don't hand over<end_line>
+			Keep it<end_line>
 		</ascii>
+		# Sounds better
 	</option>
 </menu>
 <dialogue>
@@ -613,8 +636,9 @@
 		しょうがない、他を探すよ<end_line>
 	</sjis>
 	<ascii>
-		Okay then, I'll look for another.<end_line>
+		Okay then, I'll find another.<end_line>
 	</ascii>
+	# Line over 30 characters (33)
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -654,16 +678,18 @@
 			渡す<end_line>
 		</sjis>
 		<ascii>
-			Hand over<end_line>
+			Hand it over<end_line>
 		</ascii>
+		# Sounds better
 	</option>
 	<option>
 		<sjis>
 			渡さない<end_line>
 		</sjis>
 		<ascii>
-			Don't hand over<end_line>
+			Keep it<end_line>
 		</ascii>
+		# Sounds better
 	</option>
 </menu>
 <dialogue>
@@ -693,8 +719,9 @@
 		しょうがない、他を探すよ<end_line>
 	</sjis>
 	<ascii>
-		Okay then. I'll look for another.<end_line>
+		Okay then. I'll find another.<end_line>
 	</ascii>
+	# Line over 30 characters (33)
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -716,9 +743,10 @@
 	</sjis>
 	<ascii>
 		Going out for something?<end_line>
-		While you're out, <end_line>
-		could you find me a Backlight Lamp?<end_line>
+		While you're out, could<end_line>
+		you find me a Backlight Lamp?<end_line>
 	</ascii>
+	# Last line over 30 characters (35)
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -730,8 +758,9 @@
 	<ascii>
 		In exchange, I'll give you<end_line>
 		something quite nice.<end_line>
-		I can't tell what it is now though.<end_line>
+		I can't say what it is though.<end_line>
 	</ascii>
+	# Last line over 30 characters (35)
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -757,16 +786,18 @@
 			渡す<end_line>
 		</sjis>
 		<ascii>
-			Hand over<end_line>
+			Hand it over<end_line>
 		</ascii>
+		# Sounds better
 	</option>
 	<option>
 		<sjis>
 			渡さない<end_line>
 		</sjis>
 		<ascii>
-			Don't hand over<end_line>
+			Keep it<end_line>
 		</ascii>
+		# Sounds better
 	</option>
 </menu>
 <dialogue>
@@ -801,9 +832,10 @@
 		アハハハハ<end_line>
 	</sjis>
 	<ascii>
-		Well, I'm pretty good at business.<end_line>
+		I thought it was a great deal.<end_line>
 		Ahahaha.<end_line>
 	</ascii>
+	# First line over 30 characters (34)
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -824,8 +856,10 @@
 	</sjis>
 	<ascii>
 		Ahh.<end_line>
-		Too bad, it's actually pretty good.<end_line>
+		Too bad, it's actually pretty<end_line>
+		good.<end_line>
 	</ascii>
+	# Second line over 30 characters (35)
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -837,9 +871,10 @@
 	</sjis>
 	<ascii>
 		It's fine if you're busy,<end_line>
-		but I'd really appreciate it if<end_line>
-		you could find me a Backlight Lamp.<end_line>
+		but I'd appreciate it if you<end_line>
+		could find me a Backlight Lamp.<end_line>
 	</ascii>
+	# Last line over 30 characters (35)
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -878,16 +913,18 @@
 			渡す<end_line>
 		</sjis>
 		<ascii>
-			Hand over<end_line>
+			Hand it over<end_line>
 		</ascii>
+		# Sounds better
 	</option>
 	<option>
 		<sjis>
 			渡さない<end_line>
 		</sjis>
 		<ascii>
-			Don't hand over<end_line>
+			Keep it<end_line>
 		</ascii>
+		# Sounds better
 	</option>
 </menu>
 <dialogue>
@@ -922,9 +959,10 @@
 		アハハハハ<end_line>
 	</sjis>
 	<ascii>
-		Well, I'm pretty good at business.<end_line>
+		I thought it was a great deal.<end_line>
 		Ahahahaha.<end_line>
 	</ascii>
+	# First line over 30 characters (35)
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -935,8 +973,10 @@
 	</sjis>
 	<ascii>
 		Ahh~<end_line>
-		Too bad, it really is quite good.<end_line>
+		Too bad, it really is<end_line>
+		quite good.<end_line>
 	</ascii>
+	# Second line over 30 characters (33)
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -955,8 +995,10 @@
 		まだ、しばらく、こっちにいるかい？<end_line>
 	</sjis>
 	<ascii>
-		Will you be staying here for awhile?<end_line>
+		Will you be staying here<end_line>
+		for a while?<end_line>
 	</ascii>
+	# First line over 30 characters (36)
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -969,8 +1011,9 @@
 	<ascii>
 		If you are, then<end_line>
 		could you take the opportunity<end_line>
-		to find some black ore for me?<end_line>
+		to find some Black Ore for me?<end_line>
 	</ascii>
+	# Capitalized the item
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -979,8 +1022,10 @@
 		良いものと交換してやるよ<end_line>
 	</sjis>
 	<ascii>
-		I'll give you something good for it.<end_line>
+		I'll give you something good<end_line>
+		for it.<end_line>
 	</ascii>
+	# First line over 30 characters (36)
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -1007,16 +1052,18 @@
 			渡す<end_line>
 		</sjis>
 		<ascii>
-			Hand over<end_line>
+			Hand it over<end_line>
 		</ascii>
+		# Sounds better
 	</option>
 	<option>
 		<sjis>
 			渡さない<end_line>
 		</sjis>
 		<ascii>
-			Don't hand over<end_line>
+			Keep it<end_line>
 		</ascii>
+		# Sounds better
 	</option>
 </menu>
 <dialogue>
@@ -1050,8 +1097,9 @@
 		とほほ、駄目かい<end_line>
 	</sjis>
 	<ascii>
-		Tohoho, no good?<end_line>
+		Hohoho, no good?<end_line>
 	</ascii>
+	# Sounds better
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -1062,8 +1110,8 @@
 	</sjis>
 	<ascii>
 		If you're in a hurry, it's fine.<end_line>
-    Let me know if you find<end_line>
-    any Black Ore though.<end_line>
+    	Let me know if you find<end_line>
+    	any Black Ore though.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -1091,16 +1139,18 @@
 			渡す<end_line>
 		</sjis>
 		<ascii>
-			Hand over<end_line>
+			Hand it over<end_line>
 		</ascii>
+		# Sounds better
 	</option>
 	<option>
 		<sjis>
 			渡さない<end_line>
 		</sjis>
 		<ascii>
-			Don't hand over<end_line>
+			Keep it<end_line>
 		</ascii>
+		# Sounds better
 	</option>
 </menu>
 <dialogue>
@@ -1134,8 +1184,9 @@
 		とほほ、駄目かい<end_line>
 	</sjis>
 	<ascii>
-		Tohoho, no good?<end_line>
+		Hohoho, no good?<end_line>
 	</ascii>
+	# Sounds better
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -1159,9 +1210,10 @@
 	</sjis>
 	<ascii>
 		Are you about to go out?<end_line>
-		Could you find me a Blood-Sucking<end_line>
-		Pump from out there?<end_line>
+		Could you find a Blood-Sucking<end_line>
+		Pump from out there for me?<end_line>
 	</ascii>
+	# Second line over 30 characters (33)
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -1172,10 +1224,11 @@
 		交換だ<end_line>
 	</sjis>
 	<ascii>
-		In exchange, <end_line>
-		I'll give you something really good.<end_line>
-		Can't tell you what it is just yet.<end_line>
+		In exchange,<end_line>
+		I'll give you something good.<end_line>
+		Can't say what it is just yet.<end_line>
 	</ascii>
+	# Both lines over 30 characters
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -1201,16 +1254,18 @@
 			渡す<end_line>
 		</sjis>
 		<ascii>
-			Hand over<end_line>
+			Hand it over<end_line>
 		</ascii>
+		# Sounds better
 	</option>
 	<option>
 		<sjis>
 			渡さない<end_line>
 		</sjis>
 		<ascii>
-			Don't hand over<end_line>
+			Keep it<end_line>
 		</ascii>
+		# Sounds better
 	</option>
 </menu>
 <dialogue>
@@ -1244,8 +1299,10 @@
 	</sjis>
 	<ascii>
 		Ah~<end_line>
-		Too bad, it really is quite good.<end_line>
+		Too bad, it really is quite<end_line>
+		good.<end_line>
 	</ascii>
+	# Second line over 30 characters (33)
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -1285,16 +1342,18 @@
 			渡す<end_line>
 		</sjis>
 		<ascii>
-			Hand over<end_line>
+			Hand it over<end_line>
 		</ascii>
+		# Sounds better
 	</option>
 	<option>
 		<sjis>
 			渡さない<end_line>
 		</sjis>
 		<ascii>
-			Don't hand over<end_line>
+			Keep it<end_line>
 		</ascii>
+		# Sounds better
 	</option>
 </menu>
 <dialogue>
@@ -1328,8 +1387,10 @@
 	</sjis>
 	<ascii>
 		Ah~<end_line>
-		Too bad, it's actually pretty good.<end_line>
+		Too bad, it's actually pretty<end_line>
+		good.<end_line>
 	</ascii>
+	# Second line over 30 characters (34)
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -1349,9 +1410,10 @@
 		卵かけ飯が喰いたい～<end_line>
 	</sjis>
 	<ascii>
-		Ah~ I want to eat Rice with<end_line>
-		ridiculous amounts of Eggs on it.<end_line>
+		Ah~ I want to eat rice with<end_line>
+		absurd amounts of eggs on it.<end_line>
 	</ascii>
+	# Second line over 30 characters (33)
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -1360,8 +1422,9 @@
 		でも、ここから離れられない～<end_line>
 	</sjis>
 	<ascii>
-		But, I can't move away from here~<end_line>
+		But, I can't leave my post~<end_line>
 	</ascii>
+	# Line over 30 characters (33)
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -1389,16 +1452,18 @@
 			渡す<end_line>
 		</sjis>
 		<ascii>
-			Hand over<end_line>
+			Hand it over<end_line>
 		</ascii>
+		# Sounds better
 	</option>
 	<option>
 		<sjis>
 			渡さない<end_line>
 		</sjis>
 		<ascii>
-			Don't hand over<end_line>
+			Keep it<end_line>
 		</ascii>
+		# Sounds better
 	</option>
 </menu>
 <dialogue>
@@ -1481,16 +1546,18 @@
 			渡す<end_line>
 		</sjis>
 		<ascii>
-			Hand over<end_line>
+			Hand it over<end_line>
 		</ascii>
+		# Sounds better
 	</option>
 	<option>
 		<sjis>
 			渡さない<end_line>
 		</sjis>
 		<ascii>
-			Don't hand over<end_line>
+			Keep it<end_line>
 		</ascii>
+		# Sounds better
 	</option>
 </menu>
 <dialogue>
@@ -1558,8 +1625,9 @@
 	</sjis>
 	<ascii>
 		If I had that,<end_line>
-		I think I could make it. Maybe.<end_line>
+		I could make something. Maybe.<end_line>
 	</ascii>
+	# Second line over 30 characters (31)
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -1585,16 +1653,18 @@
 			渡す<end_line>
 		</sjis>
 		<ascii>
-			Hand over<end_line>
+			Hand it over<end_line>
 		</ascii>
+		# Sounds better
 	</option>
 	<option>
 		<sjis>
 			渡さない<end_line>
 		</sjis>
 		<ascii>
-			Don't hand over<end_line>
+			Keep it<end_line>
 		</ascii>
+		# Sounds better
 	</option>
 </menu>
 <dialogue>
@@ -1616,9 +1686,10 @@
 		ごめんなさいね<end_line>
 	</sjis>
 	<ascii>
-		I'm really sorry about asking for<end_line>
+		I'm sorry about asking for<end_line>
 		something so unreasonable<three_dots><end_line>
 	</ascii>
+	# First line over 30 characters (33)
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -1649,8 +1720,9 @@
 		それよ、ねぇ私に譲ってよ<end_line>
 	</sjis>
 	<ascii>
-		There it is. Please give it to me.<end_line>
+		There. Please give it to me.<end_line>
 	</ascii>
+	# Line over 30 characters (34)
 </dialogue>
 <menu>
 	<title>
@@ -1666,16 +1738,18 @@
 			渡す<end_line>
 		</sjis>
 		<ascii>
-			Hand over<end_line>
+			Hand it over<end_line>
 		</ascii>
+		# Sounds better
 	</option>
 	<option>
 		<sjis>
 			渡さない<end_line>
 		</sjis>
 		<ascii>
-			Don't hand over<end_line>
+			Keep it<end_line>
 		</ascii>
+		# Sounds better
 	</option>
 </menu>
 <dialogue>
@@ -1697,9 +1771,10 @@
 		ごめんなさいね<end_line>
 	</sjis>
 	<ascii>
-		I'm really sorry about asking for<end_line>
+		I'm sorry about asking for<end_line>
 		something so unreasonable.<end_line>
 	</ascii>
+	# First line over 30 characters (33)
 </dialogue>
 <dialogue>
 	<info box="simple">
@@ -1719,9 +1794,10 @@
 		ごめんなさいね<end_line>
 	</sjis>
 	<ascii>
-		I'm really sorry about asking for<end_line>
+		I'm sorry about asking for<end_line>
 		something so unreasonable.<end_line>
 	</ascii>
+	# First line over 30 characters (33)
 </dialogue>
 <menu>
 	<title>
@@ -1737,15 +1813,17 @@
 			渡す<end_line>
 		</sjis>
 		<ascii>
-			Hand over <end_line>
+			Hand it over<end_line>
 		</ascii>
+		# Sounds better
 	</option>
 	<option>
 		<sjis>
 			渡さない<end_line>
 		</sjis>
 		<ascii>
-			Don't hand over<end_line>
+			Keep it<end_line>
 		</ascii>
+		# Sounds better
 	</option>
 </menu>

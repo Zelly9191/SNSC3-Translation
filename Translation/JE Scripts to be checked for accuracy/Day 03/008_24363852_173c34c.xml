@@ -23,8 +23,9 @@
 		質は良くないからそれなりなんだよね<end_line>
 	</sjis>
 	<ascii>
-    Selling ore can make you<end_line>
-    some decent money, but the payout<end_line>
-		depends on the quality of the ore.<end_line>
+    	Selling ore can make some<end_line>
+    	decent money, but the payout<end_line>
+		depends on the ore's quality.<end_line>
 	</ascii>
+	# Lines were over 30 characters
 </dialogue>
