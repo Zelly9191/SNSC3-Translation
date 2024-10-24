@@ -32,9 +32,10 @@
 	</sjis>
 	<ascii>
 		Alright. In that case,<end_line>
-    we'll need to keep those<end_line>
-    two from doing anything stupid.<end_line>
+    	we'll need to keep those<end_line>
+    	two in line.<end_line>
 	</ascii>
+	# Third line was over 30 characters (32)
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -57,10 +58,11 @@
 		ダメなんだからね<end_line>
 	</sjis>
 	<ascii>
-    Don't get all depressed on me now.<end_line>
-    I'm going to need your help.<end_line>
-    Okay?<end_line>
+    	Don't get apologetic on me now.<end_line>
+    	I'm going to need your help.<end_line>
+    	Okay?<end_line>
 	</ascii>
+	# First line was over 30 characters (34)
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -94,8 +96,8 @@
 	</sjis>
 	<ascii>
 		Ah, <player_nickname>.<end_line>
-    I'm ready for you any time.<end_line>
-    Come outside when you're done.<end_line>
+    	I'm ready for you any time.<end_line>
+    	Come outside when you're done.<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -120,9 +122,10 @@
 	</sjis>
 	<ascii>
 		Jade's already left,<end_line>
-		and I don't have much free time.<end_line>
+		and the clock's ticking.<end_line>
 		Can't wait forever, you know.<end_line>
 	</ascii>
+	# Second line over 30 characters (32)
 </dialogue>
 <dialogue>
 	<info box="right">
@@ -228,7 +231,7 @@
 		ありがとう、がんばるよ！<end_line>
 	</sjis>
 	<ascii>
-		Thanks. I will!<end_line>
+		Thanks! I will!<end_line>
 	</ascii>
 </dialogue>
 <dialogue>
@@ -290,8 +293,9 @@
 		なーんか引っかかるけど<end_line>
 	</sjis>
 	<ascii>
-		That wasn't directed towards you<three_dots><end_line>
+		She didn't say it for you<three_dots><end_line>
 	</ascii>
+	# Line over 30 characters (35)
 </dialogue>
 <dialogue>
 	<info box="left">
@@ -302,15 +306,19 @@
 			まあいい！<end_line>
 			絶対勝つぞ！<end_line>
 		</sjis>
+		<ascii>
+    		Well, whatever!<end_line>
+    		Let's do this!<end_line>
+  		</ascii>
 	</male>
 	<female>
 		<sjis>
 			まあいいか！<end_line>
 			絶対勝つよ！<end_line>
 		</sjis>
+		<ascii>
+    		Well, whatever!<end_line>
+    		Let's do this!<end_line>
+  		</ascii>
 	</female>
-  <ascii>
-    Well, whatever!<end_line>
-    Let's do this!<end_line>
-  </ascii>
 </dialogue>
