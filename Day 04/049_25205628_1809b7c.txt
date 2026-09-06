@@ -39,27 +39,27 @@ code047d        1, 120
 call            @Func_2218
 call            @Func_2114
 jumpz           @Cond_0210, ($b002 == 0)
-dialogtxt       "Um, okay, first,"
-dialogtxt       "everyone calm down."
+dialogtxt       "Um, okay. First things first,"
+dialogtxt       "everyone, please calm down."
 dialogtxt       "You're scaring Eliez!"
 code047b        
 code0309        
 code0479        0, 2, 16
 dialogtxt       "If Master has done something bad,"
-dialogtxt       "I'll apologize in her stead."
-dialogtxt       "Tell me what's going on."
+dialogtxt       "I'll apologize on her behalf."
+dialogtxt       "Tell me what's going on!"
 goto            @Label_02b4
 
 @Cond_0210:
-dialogtxt       "Hey, first,"
-dialogtxt       "everyone calm down."
+dialogtxt       "Alright, alright. First things first,"
+dialogtxt       "everyone, please calm down."
 dialogtxt       "You're scaring Eliez!"
 code047b        
 code0309        
 code0479        0, 2, 16
 dialogtxt       "If Master has done something bad,"
-dialogtxt       "I'll apologize in her stead."
-dialogtxt       "Tell me what's going on."
+dialogtxt       "I'll apologize on her behalf."
+dialogtxt       "Tell me what's going on!"
 goto            @Label_02b4
 
 @Label_02b4:
@@ -77,9 +77,9 @@ code0333        2, 30
 code047d        1, 110
 code0301        8, 5
 code047e        1, 1
-dialogtxt       "Yes, why dont you tell them?"
-dialogtxt       "The whole story."
-code0309        
+dialogtxt       "Yes, why dont you tell"
+dialogtxt       "them the whole story?"
+code0309		
 code047e        1, 0
 code0302        5
 code0439        3
@@ -136,8 +136,8 @@ code047d        0, 120
 call            @Func_21ec
 code0479        1, 0, 16
 call            @Func_219e
-dialogtxt       "She hit you because you"
-dialogtxt       "insulted Rob and her apprentice,"
+dialogtxt       "You got hit because you insulted"
+dialogtxt       "Rob and [NAME 2],"
 dialogtxt       "isn't that right?"
 code047b        
 code0309        
@@ -150,7 +150,7 @@ call            @Func_2168
 code0479        1, 0, 12
 call            @Func_219e
 dialogtxt       "Furthermore, the one who hit"
-dialogtxt       "you wasn't their master."
+dialogtxt       "you wasn't even their master."
 dialogtxt       "It was Master Bostaph. Correct?"
 code0309        
 call            @Func_21d4
@@ -161,16 +161,15 @@ code0309
 call            @Func_2168
 code0479        1, 4, 13
 call            @Func_219e
-dialogtxt       "Aren't you shifting"
-dialogtxt       "the blame to someone else?"
-dialogtxt       "It's pathetic."
+dialogtxt       "Blaming her for your own poor"
+dialogtxt       "behavior is completely unreasonable."
+dialogtxt       "How pathetic."
 code0309        
 call            @Func_21d4
 code0479        0, 0, 14
 call            @Func_2132
-dialogtxt       "Bastard..."
-dialogtxt       "You're defending a Summon Beast!?"
-dialogtxt       "You traitor!"
+dialogtxt       "Bastard... You're defending that"
+dialogtxt       "Summon Beast? You're a traitor!"
 code0309        
 call            @Func_2168
 code0479        1, 2, 14
@@ -189,8 +188,8 @@ code0334
 code0331        40, 256
 code0479        1, 2, 15
 call            @Func_219e
-dialogtxt       "Just which one of us is a traitor!"
-code0309        
+dialogtxt       "Who's really the traitor here?!"
+code0309		
 call            @Func_226e
 call            @Func_21bc
 code047b        
@@ -214,16 +213,16 @@ code047d        0, 120
 code0479        1, 2, 16
 call            @Func_2218
 call            @Func_2180
-dialogtxt       "You really don't understand!?"
-dialogtxt       "You are tarnishing"
-dialogtxt       "Master Bostaph's reputation!"
+dialogtxt       "Are you really that dense?!"
+dialogtxt       "You're the ones dragging Master"
+dialogtxt       "Bostaph's reputation through the mud!"
 code047b        
 code0309        
 code0479        1, 2, 14
 dialogtxt       "If you intend to disgrace him"
 dialogtxt       "or our workshop any further..."
-dialogtxt       "I will be your opponent."
-code0309        
+dialogtxt       "I'll deal with you personally."
+code0309	
 call            @Func_21d4
 code0479        0, 0, 14
 call            @Func_2132
@@ -261,7 +260,7 @@ goto            @Cond_0b8c
 
 @Cond_0b8c:
 jumpz           @Cond_0bbe, ($b003 == 1)
-dialogtxt       "Oh ho..."
+dialogtxt       "Oh ho ho..."
 dialogtxt       "Well said."
 goto            @Cond_0bbe
 
@@ -269,13 +268,13 @@ goto            @Cond_0bbe
 jumpz           @Cond_0bfc, ($b003 == 2)
 dialogtxt       "Hm..."
 dialogtxt       "The radiance of his soul..."
-dialogtxt       "Interesting..."
+dialogtxt       "How interesting."
 goto            @Cond_0bfc
 
 @Cond_0bfc:
 jumpz           @Cond_0c36, ($b003 == 3)
 dialogtxt       "Ohh..."
-dialogtxt       "He's kind of cool."
+dialogtxt       "He's kind of cool!"
 goto            @Cond_0c36
 
 @Cond_0c36:
@@ -303,13 +302,13 @@ call            @Func_2218
 code0333        2, 30
 call            @Func_2114
 jumpz           @Cond_0d88, ($b002 == 0)
-dialogtxt       "Sorry."
-dialogtxt       "You saved us."
+dialogtxt       "Sorry about all this."
+dialogtxt       "You really saved us there."
 goto            @Label_0da6
 
 @Cond_0d88:
-dialogtxt       "Thanks."
-dialogtxt       "You saved us."
+dialogtxt       "Thanks, Lemmy."
+dialogtxt       "You really saved us!"
 goto            @Label_0da6
 
 @Label_0da6:
@@ -320,25 +319,24 @@ code0334
 code0331        38, 256
 code0479        1, 2, 12
 call            @Func_219e
-dialogtxt       "Saved you..."
+dialogtxt       "Saved you...?"
 dialogtxt       "I only did that for"
 dialogtxt       "Master Bostaph."
 code0309        
 code0479        1, 2, 16
-dialogtxt       "Helping you was not"
-dialogtxt       "my intention."
-code0309        
+dialogtxt       "I had no intention of helping you."
+code0309		
 call            @Func_21d4
 code0479        0, 4, 12
 call            @Func_2132
 jumpz           @Cond_0ea8, ($b002 == 0)
-dialogtxt       "Seriously..."
-dialogtxt       "You're always like this..."
+dialogtxt       "Seriously...?"
+dialogtxt       "Why are you always like this?"
 goto            @Label_0ed6
 
 @Cond_0ea8:
 dialogtxt       "Sigh..."
-dialogtxt       "Jeez, you're always like this..."
+dialogtxt       "Geez, why are you always like this?"
 goto            @Label_0ed6
 
 @Label_0ed6:
@@ -373,12 +371,12 @@ code0479        0, 2, 14
 call            @Func_2132
 jumpz           @Cond_105c, ($b002 == 0)
 dialogtxt       "I didn't bring her with me."
-dialogtxt       "Eliez said she wanted to go."
+dialogtxt       "Eliez was the one who wanted to go."
 goto            @Label_10a6
 
 @Cond_105c:
 dialogtxt       "I didn't bring her with me."
-dialogtxt       "Eliez said she wanted to go."
+dialogtxt       "Eliez was the one who wanted to go."
 goto            @Label_10a6
 
 @Label_10a6:
@@ -404,12 +402,12 @@ code047d        1, 0
 call            @Func_2202
 call            @Func_219e
 jumpz           @Cond_1198, ($b002 == 0)
-dialogtxt       "Oh, sorry,"
-dialogtxt       "that's not what I meant."
+dialogtxt       "Oh, sorry!"
+dialogtxt       "That's not what I meant."
 goto            @Label_11c8
 
 @Cond_1198:
-dialogtxt       "... !"
+dialogtxt       "N-No, that's not what I meant!"
 dialogtxt       "I'm not saying it's your fault."
 goto            @Label_11c8
 
@@ -432,15 +430,15 @@ code047d        1, 110
 call            @Func_2218
 call            @Func_2114
 jumpz           @Cond_12d8, ($b002 == 0)
-dialogtxt       "I was, uh, free, since Master's"
-dialogtxt       "at your place, and Murno's"
-dialogtxt       "at the Gold Faction..."
+dialogtxt       "Master was at your place, and Murno"
+dialogtxt       "was at the Gold Faction, so, uh,"
+dialogtxt       "I was free..."
 goto            @Label_133c
 
 @Cond_12d8:
-dialogtxt       "I was, uh, free, since Master's"
-dialogtxt       "at your place, and Murno's"
-dialogtxt       "at the Gold Faction..."
+dialogtxt       "Master was at your place, and Murno"
+dialogtxt       "was at the Gold Faction, so, uh,"
+dialogtxt       "I was free..."
 goto            @Label_133c
 
 @Label_133c:
@@ -449,22 +447,22 @@ code0309
 call            @Func_2168
 code0479        1, 5, 16
 call            @Func_219e
-dialogtxt       "Gold Faction?"
+dialogtxt       "Murno is at the Gold Faction?"
 dialogtxt       "What business does she have?"
 code0309        
 call            @Func_21d4
 code0479        0, 0, 14
 call            @Func_2132
 jumpz           @Cond_13f6, ($b002 == 0)
-dialogtxt       "That I don't know,"
-dialogtxt       "but it's got something to"
-dialogtxt       "do with that Velvoren guy..."
+dialogtxt       "Your guess is as good as mine."
+dialogtxt       "Seems like it's got something to do"
+dialogtxt       "with that Velvoren guy."
 goto            @Label_1432
 
 @Cond_13f6:
-dialogtxt       "I don't know."
-dialogtxt       "Something to do with"
-dialogtxt       "that Velvoren guy, I think..."
+dialogtxt       "No clue."
+dialogtxt       "Something to do with that"
+dialogtxt       "Velvoren guy, I think."
 goto            @Label_1432
 
 @Label_1432:
@@ -529,14 +527,13 @@ code0479        1, 2, 14
 code047d        1, 110
 call            @Func_2202
 call            @Func_219e
-dialogtxt       "Velvoren..."
-dialogtxt       "He's a useless Summoner! He only"
-dialogtxt       "had power because of his lineage..."
-code0309        
+dialogtxt       "Velvoren... What a useless Summoner!"
+dialogtxt       "He can't even summon anything, but "
+dialogtxt       "his parents left him in charge..."
+code0309		
 code0479        1, 4, 13
-dialogtxt       "I don't care for him,"
-dialogtxt       "but you might get along"
-dialogtxt       "with him just fine..."
+dialogtxt       "I don't care for him, but"
+dialogtxt       "maybe you'd get along with him."
 code0309        
 call            @Func_21d4
 code0479        0, 2, 14
@@ -600,8 +597,8 @@ code0309
 call            @Func_21d4
 code0479        0, 0, 12
 call            @Func_2132
-dialogtxt       "Um..."
-dialogtxt       "Okay..."
+dialogtxt       "Huh...?"
+dialogtxt       "Okay."
 code0309        
 call            @Func_226e
 call            @Func_2150
@@ -623,15 +620,15 @@ code047d        0, 138
 call            @Func_2218
 call            @Func_2180
 jumpz           @Cond_19e8, ($b002 == 0)
-dialogtxt       "He's so weird."
+dialogtxt       "He's so weird..."
 dialogtxt       "What do you want to do, Eliez?"
-dialogtxt       "Continue on?"
+dialogtxt       "Do you want to keep going?"
 goto            @Label_1a2a
 
 @Cond_19e8:
-dialogtxt       "He's so weird."
+dialogtxt       "He's so weird..."
 dialogtxt       "What do you want to do, Eliez?"
-dialogtxt       "Continue on?"
+dialogtxt       "Do you want to keep going?"
 goto            @Label_1a2a
 
 @Label_1a2a:
@@ -891,4 +888,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

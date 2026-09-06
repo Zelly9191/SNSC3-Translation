@@ -55,8 +55,7 @@ code047d        1, 120
 call            @Func_1266
 call            @Func_1266
 call            @Func_11e4
-dialogtxt       "So, there's something"
-dialogtxt       "I'd like to ask you."
+dialogtxt       "There's something I'd like to ask you."
 code047b        
 code0309        
 call            @Func_1238
@@ -100,26 +99,26 @@ code047d        0, 2
 call            @Func_1250
 call            @Func_1196
 jumpz           @Cond_04ce, ($b003 == 0)
-dialogtxt       "They Are The Ones Who"
+dialogtxt       "These Are The Ones Who"
 dialogtxt       "Were Following Us."
 goto            @Cond_04ce
 
 @Cond_04ce:
 jumpz           @Cond_0502, ($b003 == 1)
-dialogtxt       "So these are the ones"
-dialogtxt       "following us..."
+dialogtxt       "So these are the people"
+dialogtxt       "who were following us..."
 goto            @Cond_0502
 
 @Cond_0502:
 jumpz           @Cond_0536, ($b003 == 2)
-dialogtxt       "Tch..."
-dialogtxt       "These guys again..."
+dialogtxt       "Tch... It was these guys"
+dialogtxt       "following us, huh?"
 goto            @Cond_0536
 
 @Cond_0536:
 jumpz           @Cond_057a, ($b003 == 3)
 dialogtxt       "So you were the ones"
-dialogtxt       "following us..."
+dialogtxt       "following us, huh?"
 goto            @Cond_057a
 
 @Cond_057a:
@@ -155,13 +154,13 @@ code043c        0, 2
 code0479        1, 2, 12
 call            @Func_1202
 jumpz           @Cond_06b4, ($b002 == 0)
-dialogtxt       "I know..."
+dialogtxt       "I know...!"
 dialogtxt       "Don't worry."
 goto            @Label_06d4
 
 @Cond_06b4:
-dialogtxt       "It'll be okay!"
 dialogtxt       "Don't worry."
+dialogtxt       "It'll be okay!"
 goto            @Label_06d4
 
 @Label_06d4:
@@ -176,7 +175,7 @@ code047d        1, 120
 call            @Func_1266
 call            @Func_11e4
 dialogtxt       "Are you [NAME 0]?"
-dialogtxt       "That Summon's apprentice?"
+dialogtxt       "That Summon Beast's apprentice?"
 code047b        
 code0309        
 call            @Func_1238
@@ -186,15 +185,13 @@ code047d        0, 0
 call            @Func_1250
 call            @Func_1196
 jumpz           @Cond_07d8, ($b002 == 0)
-dialogtxt       "That outfit..."
-dialogtxt       "You must be from"
-dialogtxt       "Bostaph's workshop..."
+dialogtxt       "That outfit... You must be"
+dialogtxt       "from Bostaph's workshop."
 goto            @Label_0810
 
 @Cond_07d8:
-dialogtxt       "That outfit..."
-dialogtxt       "You must be from"
-dialogtxt       "Bostaph's workshop..."
+dialogtxt       "That outfit... You must be"
+dialogtxt       "from Bostaph's workshop."
 goto            @Label_0810
 
 @Label_0810:
@@ -203,23 +200,22 @@ code0309
 call            @Func_11cc
 code0479        1, 0, 14
 call            @Func_1202
-dialogtxt       "That woman is a total pain."
-dialogtxt       "She's caused a lot"
-dialogtxt       "of trouble for us."
+dialogtxt       "That woman is a huge pain."
+dialogtxt       "She's really been making us suffer!"
 code0309        
 call            @Func_1238
 code0479        0, 4, 12
 call            @Func_1196
 jumpz           @Cond_08e0, ($b002 == 0)
-dialogtxt       "I knew it..."
-dialogtxt       "Master's punches hurt, don't they?"
-dialogtxt       "I feel bad for you..."
+dialogtxt       "Yep, that checks out..."
+dialogtxt       "Master throws a hard punch, huh?"
+dialogtxt       "I feel bad for you."
 goto            @Label_092c
 
 @Cond_08e0:
-dialogtxt       "I knew it..."
-dialogtxt       "Master's punches hurt, don't they?"
-dialogtxt       "I feel bad for you..."
+dialogtxt       "Yep, that checks out..."
+dialogtxt       "Master throws a hard punch, huh?"
+dialogtxt       "I feel bad for you."
 goto            @Label_092c
 
 @Label_092c:
@@ -227,43 +223,40 @@ code0309
 call            @Func_11cc
 code0479        1, 0, 15
 call            @Func_1202
-dialogtxt       "Stop screwing around!"
-dialogtxt       "As her apprentice,"
-dialogtxt       "you've got some stake in this too!"
+dialogtxt       "Quit screwing around!"
+dialogtxt       "As her apprentice, her actions"
+dialogtxt       "are your responsibility, too!"
 code0309        
 call            @Func_1238
 code0479        0, 0, 16
 call            @Func_1196
 dialogtxt       "Okay okay, calm down."
-dialogtxt       "Let's talk about it..."
+dialogtxt       "We can work this out."
 code0309        
 call            @Func_11cc
 code0479        1, 0, 14
 call            @Func_1202
-dialogtxt       "Talk...?"
+dialogtxt       "You want to talk about it...?"
 code0309        
 call            @Func_1238
 code0479        0, 0, 12
 call            @Func_1196
 jumpz           @Cond_0aec, ($b002 == 0)
-dialogtxt       "Yeah,"
-dialogtxt       "Master taught me not to fight"
-dialogtxt       "when it's not necessary..."
+dialogtxt       "Yeah. Master taught me not to fight"
+dialogtxt       "unless it's necessary."
 code0309        
 code0479        0, 0, 16
-dialogtxt       "And there's a little"
-dialogtxt       "girl here too, right?"
-dialogtxt       "So..."
+dialogtxt       "Plus, there's a little girl right"
+dialogtxt       "there. We shouldn't scare her."
 goto            @Label_0b78
 
 @Cond_0aec:
-dialogtxt       "Yeah,"
-dialogtxt       "Master taught me not to fight"
-dialogtxt       "when it's not necessary..."
+dialogtxt       "Yeah. Master taught me not to fight"
+dialogtxt       "unless it's necessary."
 code0309        
 code0479        0, 0, 16
-dialogtxt       "And there's a"
-dialogtxt       "little girl here too, right?"
+dialogtxt       "Plus, there's a little girl right"
+dialogtxt       "there. We shouldn't scare her."
 goto            @Label_0b78
 
 @Label_0b78:
@@ -495,4 +488,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-
