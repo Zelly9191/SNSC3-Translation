@@ -27,30 +27,27 @@ goto            @Label_00f2
 code047d        1, 2
 call            @Func_0cb4
 call            @Func_0bdc
-dialogtxt       "(I know Murno doesn't"
-dialogtxt       "intend to skip town"
-dialogtxt       "just yet.)"
+dialogtxt       "(I know Murno doesn't intend"
+dialogtxt       "to skip town just yet, but...)"
 code047b        
 code0309        
 code0479        0, 2, 16
 jumpz           @Cond_0206, ($b002 == 0)
-dialogtxt       "(But as for why that is..."
-dialogtxt       "I have no idea..."
-dialogtxt       "And neither does [NAME 1]...)"
+dialogtxt       "(I honestly have no idea why that is."
+dialogtxt       "And [NAME 1] won't tell me...)"
 code0309        
 code0479        0, 4, 16
 dialogtxt       "*Sigh*"
-dialogtxt       "What am I supposed to do...?"
+dialogtxt       "What am I supposed to do?"
 goto            @Label_0292
 
 @Cond_0206:
-dialogtxt       "(But as for why that is..."
-dialogtxt       "　I have no idea..."
-dialogtxt       "　And neither does [NAME 1]...)"
+dialogtxt       "(I honestly have no idea why that is."
+dialogtxt       "And [NAME 1] won't tell me...)"
 code0309        
 code0479        0, 4, 16
 dialogtxt       "*Sigh*"
-dialogtxt       "What am I supposed to do..."
+dialogtxt       "What am I supposed to do?"
 goto            @Label_0292
 
 @Label_0292:
@@ -80,42 +77,42 @@ call            @Func_0cca
 call            @Func_0c66
 jumpz           @Cond_03e0, ($b003 == 0)
 dialogtxt       "As Long As We Are Here,"
-dialogtxt       "The Possibility Of Lady Murno"
-dialogtxt       "Will Be Discovered Is High."
+dialogtxt       "Lady Murno Has A High"
+dialogtxt       "Probability Of Being Discovered."
 code047b        
 code0309        
 code0479        1, 0, 12
-dialogtxt       "We Must Stay Vigilant."
+dialogtxt       "We Must Be Cautious."
 goto            @Cond_03e0
 
 @Cond_03e0:
 jumpz           @Cond_046a, ($b003 == 1)
-dialogtxt       "As long as we're here,"
+dialogtxt       "As long as we remain here,"
 dialogtxt       "it's very likely Murno"
 dialogtxt       "will be found out."
 code047b        
 code0309        
 code0479        1, 2, 14
-dialogtxt       "We must be cautious!"
+dialogtxt       "We must stay vigilant!"
 goto            @Cond_046a
 
 @Cond_046a:
 jumpz           @Cond_04e8, ($b003 == 2)
-dialogtxt       "That girl..."
-dialogtxt       "This place is crawling with enemies."
+dialogtxt       "This place is crawling with enemies,"
+dialogtxt       "but she still wants to stay here."
 dialogtxt       "How long can she keep this up?"
 code047b        
 goto            @Cond_04e8
 
 @Cond_04e8:
 jumpz           @Cond_0578, ($b003 == 3)
-dialogtxt       "As long as we are here,"
-dialogtxt       "there is always the chance that"
+dialogtxt       "As long as we're staying here,"
+dialogtxt       "there's always a chance that"
 dialogtxt       "Lady Murno could be discovered!"
 code047b        
 code0309        
 code0479        1, 2, 14
-dialogtxt       "We must be cautious!"
+dialogtxt       "We must stay cautious!"
 goto            @Cond_0578
 
 @Cond_0578:
@@ -124,12 +121,12 @@ call            @Func_0c9c
 code0479        0, 2, 14
 call            @Func_0bfa
 jumpz           @Cond_05de, ($b002 == 0)
-dialogtxt       "Right..."
+dialogtxt       "Right."
 dialogtxt       "I can't just sit here all day."
 goto            @Label_061c
 
 @Cond_05de:
-dialogtxt       "Right..."
+dialogtxt       "Right."
 dialogtxt       "I can't just sit here all day."
 goto            @Label_061c
 
@@ -355,4 +352,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-
