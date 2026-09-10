@@ -62,11 +62,11 @@ code047d        0, 0
 call            @Func_176c
 call            @Func_1694
 jumpz           @Cond_02a6, ($b002 == 0)
-dialogtxt       "W—What!?"
+dialogtxt       "W-What!?"
 goto            @Label_02c0
 
 @Cond_02a6:
-dialogtxt       "W—What!?"
+dialogtxt       "W-What!?"
 goto            @Label_02c0
 
 @Label_02c0:
@@ -105,24 +105,23 @@ code0309
 call            @Func_16e8
 code0479        1, 2, 17
 call            @Func_171e
-dialogtxt       "You again!"
-dialogtxt       "I told you to stay away."
-dialogtxt       "Do you want to get beat up?"
+dialogtxt       "You again! I told you to stay away, kid."
+dialogtxt       "It's like you want me to beat you up."
 code0309        
 call            @Func_1754
 code0479        0, 2, 16
 call            @Func_16b2
-dialogtxt       "S—Sorry."
-dialogtxt       "Um..."
-dialogtxt       "I was thinking, maybe I could help?"
+dialogtxt       "S-Sorry."
+dialogtxt       "Um... I was just wondering if"
+dialogtxt       "I could maybe help?"
 code0309        
 call            @Func_16e8
 jumpz           @Cond_05b4, ($b003 == 0)
 code0479        1, 0, 14
 call            @Func_171e
 dialogtxt       "Help!?"
-dialogtxt       "How's that piece of junk"
-dialogtxt       "gonna help me at all?"
+dialogtxt       "How are you planning to help with"
+dialogtxt       "that rust-bucket of a Summon?"
 code0309        
 call            @Func_17c2
 call            @Func_1754
@@ -132,15 +131,14 @@ code0479        0, 0, 12
 code047d        0, 2
 call            @Func_176c
 call            @Func_16b2
-dialogtxt       "I Am Not A"
-dialogtxt       "Piece Of Junk."
+dialogtxt       "I Am Not A \"Rust-Bucket.\""
 code047b        
 code0309        
 call            @Func_16e8
 code0479        1, 2, 15
 call            @Func_171e
-dialogtxt       "Know your place,"
-dialogtxt       "you damn Summon Beast!"
+dialogtxt       "Shut up!"
+dialogtxt       "Know your place, Summon Beast!"
 code0309        
 call            @Func_1754
 goto            @Cond_05b4
@@ -150,8 +148,7 @@ jumpz           @Cond_0702, ($b003 == 1)
 code0479        1, 0, 14
 call            @Func_171e
 dialogtxt       "Help!?"
-dialogtxt       "How's a cat going"
-dialogtxt       "to help me at all?"
+dialogtxt       "How's a cat supposed to help me?"
 code0309        
 call            @Func_17c2
 call            @Func_1754
@@ -169,8 +166,8 @@ code0309
 call            @Func_16e8
 code0479        1, 2, 15
 call            @Func_171e
-dialogtxt       "Know your place,"
-dialogtxt       "you damn Summon Beast!"
+dialogtxt       "Shut up!"
+dialogtxt       "Know your place, Summon Beast!"
 code0309        
 call            @Func_1754
 goto            @Cond_0702
@@ -180,8 +177,8 @@ jumpz           @Cond_0882, ($b003 == 2)
 code0479        1, 0, 14
 call            @Func_171e
 dialogtxt       "Help!?"
-dialogtxt       "How's that little kid going"
-dialogtxt       "to help me at all?"
+dialogtxt       "You're just a bunch of little kids."
+dialogtxt       "How are you supposed to help!"
 code0309        
 call            @Func_17c2
 call            @Func_1754
@@ -192,16 +189,16 @@ code047d        0, 2
 call            @Func_176c
 code0479        0, 2, 14
 call            @Func_16b2
-dialogtxt       "Bastard!"
-dialogtxt       "I am not a child!"
+dialogtxt       "Screw you! I'm not a child!"
+dialogtxt       "How is it that you talk even"
+dialogtxt       "dumber than you look?!"
 code047b        
 code0309        
 call            @Func_16e8
 code0479        1, 2, 15
 call            @Func_171e
-dialogtxt       "What the hell!?"
-dialogtxt       "Know your place,"
-dialogtxt       "you damn Summon Beast!"
+dialogtxt       "Excuse me?!"
+dialogtxt       "Know your place, Summon Beast!"
 code0309        
 call            @Func_1754
 goto            @Cond_0882
@@ -210,10 +207,10 @@ goto            @Cond_0882
 jumpz           @Cond_09d6, ($b003 == 3)
 code0479        1, 0, 14
 call            @Func_171e
-dialogtxt       "Help!?"
-dialogtxt       "How's a girly Summon like that"
-dialogtxt       "going to help me at all?"
-code0309        
+dialogtxt       "Help!? Your Summon Beast is just"
+dialogtxt       "a little girl in a frilly dress!"
+dialogtxt       "How is she supposed to help?"
+code0309		
 call            @Func_17c2
 call            @Func_1754
 code047b        
@@ -223,15 +220,15 @@ code047d        0, 2
 call            @Func_176c
 code0479        0, 2, 12
 call            @Func_16b2
-dialogtxt       "D—Despite my appearance,"
+dialogtxt       "D-Despite my appearance,"
 dialogtxt       "I am quite capable."
 code047b        
 code0309        
 call            @Func_16e8
 code0479        1, 2, 15
 call            @Func_171e
-dialogtxt       "Know your place,"
-dialogtxt       "you damn Summon Beast!"
+dialogtxt       "Shut up!"
+dialogtxt       "Know your place, Summon Beast!"
 code0309        
 call            @Func_1754
 goto            @Cond_09d6
@@ -268,12 +265,12 @@ goto            @Cond_0aa6
 
 @Cond_0aa6:
 jumpz           @Cond_0ac6, ($b003 == 2)
-dialogtxt       "What the hell!?"
+dialogtxt       "What!?"
 goto            @Cond_0ac6
 
 @Cond_0ac6:
 jumpz           @Cond_0aec, ($b003 == 3)
-dialogtxt       "Wha—!?"
+dialogtxt       "H-Huh!?"
 goto            @Cond_0aec
 
 @Cond_0aec:
@@ -287,8 +284,8 @@ code047d        0, 0
 call            @Func_176c
 code0479        1, 2, 14
 call            @Func_171e
-dialogtxt       "You're that thing's owner,"
-dialogtxt       "you have to train it correctly."
+dialogtxt       "You're that thing's owner, so take"
+dialogtxt       "some responsibility and train it!"
 code047b        
 code0309        
 call            @Func_1754
@@ -296,14 +293,14 @@ code0479        0, 2, 16
 call            @Func_16b2
 jumpz           @Cond_0bf4, ($b002 == 0)
 dialogtxt       "\"Owner!?\""
-dialogtxt       "I'm [NAME 1]'s equal..."
 dialogtxt       "We're partners!"
+dialogtxt       "I'm [NAME 1]'s equal!"
 goto            @Label_0c3c
 
 @Cond_0bf4:
 dialogtxt       "\"Owner!?\""
-dialogtxt       "I'm [NAME 1]'s equal..."
 dialogtxt       "We're partners!"
+dialogtxt       "I'm [NAME 1]'s equal!"
 goto            @Label_0c3c
 
 @Label_0c3c:
@@ -311,29 +308,29 @@ code0309
 call            @Func_16e8
 code0479        1, 4, 16
 call            @Func_171e
-dialogtxt       "Partners?"
-dialogtxt       "You two are hopeless..."
-dialogtxt       "Fine then..."
-code0309        
+dialogtxt       "\"Partners?\""
+dialogtxt       "How pathetic. You've completely"
+dialogtxt       "failed to train your pet."
+code0309		
 code0479        1, 2, 15
 dialogtxt       "Listen up! Summon Beasts are tools!"
-dialogtxt       "Tools shouldn't talk back!"
-dialogtxt       "A Summon that does, is a failure."
+dialogtxt       "And a tool shouldn't talk back! A"
+dialogtxt       "Summon that won't shut up is a failure."
 code0309        
 call            @Func_1754
 code0479        0, 5, 15
 call            @Func_16b2
-dialogtxt       "Wha—!?"
+dialogtxt       "Huh!?"
 code0309        
 call            @Func_16e8
 code0479        1, 2, 12
 call            @Func_171e
-dialogtxt       "This is perfect."
+dialogtxt       "This is a perfect opportunity."
 dialogtxt       "I'll teach you some manners in"
-dialogtxt       "place of your useless master."
+dialogtxt       "place of your useless master!"
 code0309        
 code0479        1, 2, 13
-dialogtxt       "Today you'll learn that Summons"
+dialogtxt       "Today's lesson: Summon Beasts"
 dialogtxt       "who disobey are to be punished!"
 code0309        
 call            @Func_17c2
@@ -369,22 +366,21 @@ goto            @Cond_0ef8
 
 @Cond_0ef8:
 jumpz           @Cond_0f44, ($b003 == 1)
-dialogtxt       "Oho..."
-dialogtxt       "Fiesty, aren't you?"
-dialogtxt       "This could be fun."
+dialogtxt       "Oho... Feisty, aren't you?"
+dialogtxt       "This should be fun."
 goto            @Cond_0f44
 
 @Cond_0f44:
 jumpz           @Cond_0faa, ($b003 == 2)
-dialogtxt       "No, you will learn what"
-dialogtxt       "happens when one speaks to"
-dialogtxt       "me with such insolence."
+dialogtxt       "No, YOU will learn what"
+dialogtxt       "happens when you speak to"
+dialogtxt       "me with such insolence!"
 goto            @Cond_0faa
 
 @Cond_0faa:
 jumpz           @Cond_100c, ($b003 == 3)
-dialogtxt       "I... am most definitely..."
-dialogtxt       "not something to be used!"
+dialogtxt       "I-I am most definitely"
+dialogtxt       "not \"something to be used!\""
 dialogtxt       "Reflect on your words!"
 goto            @Cond_100c
 
@@ -394,9 +390,10 @@ code0309
 call            @Func_16e8
 code0479        1, 2, 15
 call            @Func_171e
-dialogtxt       "This one's lively."
-dialogtxt       "Let's play together!"
-code0309        
+dialogtxt       "You sure are lively."
+dialogtxt       "Keep that up, and let's see"
+dialogtxt       "if you can entertain me a bit!"
+code0309		
 call            @Func_17c2
 call            @Func_1754
 code047b        
@@ -406,11 +403,11 @@ code047d        0, 0
 call            @Func_176c
 call            @Func_16b2
 jumpz           @Cond_10dc, ($b002 == 0)
-dialogtxt       "Argh!"
+dialogtxt       "Damn it!"
 goto            @Label_10ea
 
 @Cond_10dc:
-dialogtxt       "Argh!"
+dialogtxt       "Ugh!"
 goto            @Label_10ea
 
 @Label_10ea:
@@ -637,4 +634,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

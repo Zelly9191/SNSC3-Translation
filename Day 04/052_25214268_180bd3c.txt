@@ -2,7 +2,7 @@ code047d        0, 106
 code0301        8, 7
 code047e        0, 1
 dialogtxt       "Not enough..."
-dialogtxt       "I need more..."
+dialogtxt       "I don't feel a thing...!"
 code0309        
 code047e        0, 0
 code0302        7
@@ -37,13 +37,11 @@ code047d        1, 2
 call            @Func_0926
 call            @Func_084e
 jumpz           @Cond_0192, ($b002 == 0)
-dialogtxt       "What was that?"
-dialogtxt       "That voice..."
+dialogtxt       "Huh? What was that voice...?"
 goto            @Label_01ac
 
 @Cond_0192:
-dialogtxt       "What was that?"
-dialogtxt       "That voice..."
+dialogtxt       "Huh? What was that voice...?"
 goto            @Label_01ac
 
 @Label_01ac:
@@ -53,21 +51,20 @@ call            @Func_08a2
 call            @Func_093c
 call            @Func_08d8
 jumpz           @Cond_01f8, ($b003 == 0)
-dialogtxt       "This Waveform..."
-dialogtxt       "It Is the Voice Of The"
-dialogtxt       "Man We Met Earlier."
+dialogtxt       "This Waveform Matches The Voice"
+dialogtxt       "Of The Man We Met Earlier."
 goto            @Cond_01f8
 
 @Cond_01f8:
 jumpz           @Cond_023c, ($b003 == 1)
-dialogtxt       "I can feel it with my whiskers..."
-dialogtxt       "It's the man from earlier."
+dialogtxt       "I can feel it in my whiskers."
+dialogtxt       "That's the man we met earlier."
 goto            @Cond_023c
 
 @Cond_023c:
 jumpz           @Cond_0278, ($b003 == 2)
-dialogtxt       "How unpleasant..."
-dialogtxt       "It's the human from earlier."
+dialogtxt       "It's the human from earlier..."
+dialogtxt       "How unpleasant."
 goto            @Cond_0278
 
 @Cond_0278:
@@ -293,4 +290,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

@@ -2,8 +2,8 @@ code0333        2, 30
 code047d        0, 109
 code0301        8, 4
 code047e        0, 1
-dialogtxt       "Ah! There you are!"
-dialogtxt       "[NAME 2]!"
+dialogtxt       "Ah! [NAME 2]!"
+dialogtxt       "There you are!"
 code0309        
 code047e        0, 0
 code0302        4
@@ -70,9 +70,9 @@ code0309
 call            @Func_1a58
 code0479        1, 2, 12
 call            @Func_1a8e
-dialogtxt       "I'm Tier."
-dialogtxt       "I'm currently dating [NAME 2],"
-dialogtxt       "with the intent to marry."
+dialogtxt       "Hi, I'm Tier!"
+dialogtxt       "I'm currently dating [NAME 2]."
+dialogtxt       "Actually, we're already engaged!"
 code0309        
 call            @Func_1b32
 call            @Func_1ac4
@@ -106,9 +106,9 @@ code0309
 call            @Func_1a58
 code0479        1, 0, 12
 call            @Func_1a8e
-dialogtxt       "I'm Tier."
-dialogtxt       "[NAME 2] and I will be working"
-dialogtxt       "together in the future."
+dialogtxt       "Hi, I'm Tier."
+dialogtxt       "[NAME 2] and I will be"
+dialogtxt       "working together in the future."
 code0309        
 call            @Func_1b32
 call            @Func_1ac4
@@ -137,19 +137,19 @@ dialogtxt       "and I didn't get a single boam"
 dialogtxt       "out of it."
 code0309        
 code0479        1, 1, 17
-dialogtxt       "I'm so unlucky~!"
+dialogtxt       "What rotten luck!"
 code0309        
 call            @Func_1ac4
 code0479        0, 0, 16
 call            @Func_1a22
 jumpz           @Cond_072a, ($b002 == 0)
-dialogtxt       "Sorry I didn't say anything."
-dialogtxt       "But bro told me to go..."
+dialogtxt       "Sorry I didn't let you know."
+dialogtxt       "Bro told me I should just go."
 goto            @Label_0764
 
 @Cond_072a:
-dialogtxt       "Sorry I didn't say anything."
-dialogtxt       "But bro told me to go..."
+dialogtxt       "Sorry I didn't let you know."
+dialogtxt       "Bro told me I should just go."
 goto            @Label_0764
 
 @Label_0764:
@@ -186,14 +186,13 @@ goto            @Cond_085c
 
 @Cond_085c:
 jumpz           @Cond_089e, ($b003 == 1)
-dialogtxt       "By the way,"
-dialogtxt       "how is Murno doing?"
+dialogtxt       "By the way, how is Murno doing?"
 goto            @Cond_089e
 
 @Cond_089e:
 jumpz           @Cond_08e0, ($b003 == 2)
 dialogtxt       "Enough with the chatter."
-dialogtxt       "What about Murno?"
+dialogtxt       "What's up with Murno?"
 goto            @Cond_08e0
 
 @Cond_08e0:
@@ -208,9 +207,8 @@ code0309
 call            @Func_1a58
 code0479        1, 0, 12
 call            @Func_1a8e
-dialogtxt       "She's still talking to that"
-dialogtxt       "Velvoren guy."
-dialogtxt       "V.E's not done either."
+dialogtxt       "She's still talking to that Velvoren guy."
+dialogtxt       "V.E's not done, either."
 code0309        
 call            @Func_1b32
 call            @Func_1ac4
@@ -238,21 +236,21 @@ code0309
 call            @Func_1a58
 code0479        1, 0, 14
 call            @Func_1a8e
-dialogtxt       "And what are you up to now?"
+dialogtxt       "What are you up?"
 code0309        
 call            @Func_1ac4
 code0479        0, 2, 16
 call            @Func_1a22
 jumpz           @Cond_0b3a, ($b002 == 0)
-dialogtxt       "There's something I'm worried about."
-dialogtxt       "There's a Stray that's appeared"
-dialogtxt       "further in."
+dialogtxt       "Apparently there's a tough Stray"
+dialogtxt       "further in. I'm concerned about it,"
+dialogtxt       "so I want to go check it out."
 goto            @Label_0b9a
 
 @Cond_0b3a:
-dialogtxt       "There's something I'm worried about."
-dialogtxt       "There's a Stray that's appeared"
-dialogtxt       "further in."
+dialogtxt       "Apparently there's a tough Stray"
+dialogtxt       "further in. I'm concerned about it,"
+dialogtxt       "so I want to go check it out."
 goto            @Label_0b9a
 
 @Label_0b9a:
@@ -260,13 +258,14 @@ code0309
 call            @Func_1a58
 code0479        1, 2, 15
 call            @Func_1a8e
-dialogtxt       "Then it'd be dangerous"
-dialogtxt       "for you to stay too!"
-code0309        
+dialogtxt       "And you want me to keep this kid safe?"
+dialogtxt       "If it's that dangerous, you two should"
+dialogtxt       "be worried about yourselves!"
+code0309		
 call            @Func_1ac4
 code0479        0, 2, 14
 call            @Func_1a22
-dialogtxt       "True, but..."
+dialogtxt       "That's true, but..."
 code0309        
 call            @Func_1b32
 call            @Func_1a58
@@ -300,8 +299,7 @@ goto            @Cond_0d1e
 
 @Cond_0d1e:
 jumpz           @Cond_0d62, ($b003 == 1)
-dialogtxt       "I swear upon this topknot,"
-dialogtxt       "I must go."
+dialogtxt       "I swear upon my topknot, I must go."
 goto            @Cond_0d62
 
 @Cond_0d62:
@@ -311,7 +309,7 @@ goto            @Cond_0d8c
 
 @Cond_0d8c:
 jumpz           @Cond_0dc0, ($b003 == 3)
-dialogtxt       "I cannot go back now."
+dialogtxt       "I can't just turn back now."
 goto            @Cond_0dc0
 
 @Cond_0dc0:
@@ -320,13 +318,12 @@ code0309
 call            @Func_1a58
 code0479        1, 0, 14
 call            @Func_1a8e
-dialogtxt       "I see..."
+dialogtxt       "So that's how it is..."
 dialogtxt       "Sigh..."
 code0309        
 code0479        1, 4, 12
-dialogtxt       "Okay, okay..."
-dialogtxt       "Fine then."
-dialogtxt       "I'll take her back."
+dialogtxt       "Okay, fine. If you're gonna"
+dialogtxt       "be like that, I'll take her back."
 code0309        
 call            @Func_1b32
 call            @Func_1ac4
@@ -338,12 +335,12 @@ call            @Func_1adc
 call            @Func_1a22
 jumpz           @Cond_0ec8, ($b002 == 0)
 dialogtxt       "Thanks, Tier."
-dialogtxt       "I'm counting on you."
+dialogtxt       "I'm counting on you!"
 goto            @Label_0ef6
 
 @Cond_0ec8:
 dialogtxt       "Thanks, Tier."
-dialogtxt       "I'm counting on you."
+dialogtxt       "I'm counting on you!"
 goto            @Label_0ef6
 
 @Label_0ef6:
@@ -365,13 +362,13 @@ code0479        0, 0, 12
 call            @Func_1b08
 call            @Func_1a04
 jumpz           @Cond_0ffc, ($b002 == 0)
-dialogtxt       "I'll see you later then."
-dialogtxt       "Be careful on the way out."
+dialogtxt       "Eliez, it's still dangerous here."
+dialogtxt       "Be careful on your way out!"
 goto            @Label_1032
 
 @Cond_0ffc:
-dialogtxt       "I'll see you later then."
-dialogtxt       "Be careful on the way out."
+dialogtxt       "Eliez, it's still dangerous here."
+dialogtxt       "Be careful on your way out!"
 goto            @Label_1032
 
 @Label_1032:
@@ -391,9 +388,9 @@ code0479        1, 2, 12
 code047d        1, 109
 call            @Func_1af2
 call            @Func_1a8e
-dialogtxt       "In exchange, you're going to"
-dialogtxt       "be working with me later."
-dialogtxt       "Make sure to pay back your debts."
+dialogtxt       "You've gotta repay your debts, though."
+dialogtxt       "I'll help you now, but that means"
+dialogtxt       "you've gotta work with me later!"
 code047b        
 code0309        
 call            @Func_1ac4
@@ -455,7 +452,7 @@ goto            @Cond_1352
 
 @Cond_1352:
 jumpz           @Cond_1374, ($b003 == 2)
-dialogtxt       "I'm going ahead."
+dialogtxt       "I'm going on ahead."
 goto            @Cond_1374
 
 @Cond_1374:
@@ -471,11 +468,11 @@ code043c        0, 4
 code0479        0, 2, 14
 call            @Func_1a22
 jumpz           @Cond_13ee, ($b002 == 0)
-dialogtxt       "Y—Yeah!"
+dialogtxt       "Y-Yeah!"
 goto            @Label_1400
 
 @Cond_13ee:
-dialogtxt       "O—Okay!"
+dialogtxt       "O-Okay!"
 goto            @Label_1400
 
 @Label_1400:
@@ -711,4 +708,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-
