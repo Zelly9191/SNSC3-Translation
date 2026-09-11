@@ -4,14 +4,14 @@ code047d        0, 0
 call            @Func_089e
 call            @Func_07c6
 jumpz           @Cond_009c, ($b002 == 0)
-dialogtxt       "... Hanging around here"
-dialogtxt       "isn't going to resolve anything."
+dialogtxt       "... Hanging around here isn't"
+dialogtxt       "going to change anything."
 dialogtxt       "I might as well head back..."
 goto            @Label_00f0
 
 @Cond_009c:
-dialogtxt       "... Hanging around here"
-dialogtxt       "isn't going to resolve anything."
+dialogtxt       "... Hanging around here isn't"
+dialogtxt       "going to change anything."
 dialogtxt       "I might as well head back..."
 goto            @Label_00f0
 
@@ -284,4 +284,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

@@ -21,8 +21,8 @@ code047d        1, 108
 call            @Func_12b6
 call            @Func_121e
 dialogtxt       "Oh, good, you're safe."
-dialogtxt       "Chasing after Strays again?"
-dialogtxt       "You're so reckless."
+dialogtxt       "Out chasing Strays again?"
+dialogtxt       "God, you're so reckless!"
 code047b        
 code0309        
 call            @Func_12f6
@@ -38,9 +38,9 @@ dialogtxt       "Just leave the Strays"
 dialogtxt       "to the militia."
 code0309        
 code0479        1, 2, 16
-dialogtxt       "But really, who would've"
-dialogtxt       "thought some idiots would"
-dialogtxt       "forget to sound the alarm."
+dialogtxt       "But seriously, who would've"
+dialogtxt       "thought those idiots would"
+dialogtxt       "forget to sound the alarm?"
 code0309        
 call            @Func_130c
 call            @Func_125a
@@ -72,25 +72,22 @@ code047d        1, 108
 call            @Func_12b6
 call            @Func_11b2
 jumpz           @Cond_03a4, ($b003 == 0)
-dialogtxt       "Master,"
-dialogtxt       "Has Lady Murno Returned?"
+dialogtxt       "Master, Has Lady Murno Returned?"
 goto            @Cond_03a4
 
 @Cond_03a4:
 jumpz           @Cond_03e2, ($b003 == 1)
-dialogtxt       "By the way,"
-dialogtxt       "has Murno returned?"
+dialogtxt       "By the way, has Murno returned?"
 goto            @Cond_03e2
 
 @Cond_03e2:
 jumpz           @Cond_0412, ($b003 == 2)
-dialogtxt       "Has Murno returned?"
+dialogtxt       "Is Murno back yet?"
 goto            @Cond_0412
 
 @Cond_0412:
 jumpz           @Cond_0454, ($b003 == 3)
-dialogtxt       "Excuse me,"
-dialogtxt       "has Murno returned?"
+dialogtxt       "Excuse me, has Murno returned?"
 goto            @Cond_0454
 
 @Cond_0454:
@@ -99,8 +96,8 @@ code0309
 call            @Func_1206
 code0479        1, 0, 16
 call            @Func_123c
-dialogtxt       "Y—Yeah, she's back."
-dialogtxt       "I think she's inside..."
+dialogtxt       "Uh, yeah, she's back."
+dialogtxt       "I think she's inside."
 code0309        
 call            @Func_1272
 jumpz           @Cond_04d4, ($b003 == 0)
@@ -130,9 +127,8 @@ goto            @Cond_0576
 
 @Cond_0576:
 jumpz           @Cond_05c0, ($b003 == 1)
-dialogtxt       "I see..."
-dialogtxt       "Excuse me, I must have"
-dialogtxt       "a word with her."
+dialogtxt       "Noted. Excuse me, but"
+dialogtxt       "I must have a word with her."
 goto            @Cond_05c0
 
 @Cond_05c0:
@@ -142,7 +138,7 @@ goto            @Cond_05de
 
 @Cond_05de:
 jumpz           @Cond_063e, ($b003 == 3)
-dialogtxt       "Is that so..."
+dialogtxt       "Is that so?"
 dialogtxt       "Please excuse me, I must"
 dialogtxt       "speak with her."
 goto            @Cond_063e
@@ -178,7 +174,7 @@ code0446        2
 code0479        1, 0, 14
 call            @Func_12a0
 call            @Func_121e
-dialogtxt       "You're acting strange."
+dialogtxt       "You're acting weird."
 dialogtxt       "What's this about?"
 code047b        
 code0309        
@@ -188,15 +184,15 @@ code0479        0, 4, 16
 code047d        0, 0
 call            @Func_128a
 call            @Func_11d0
-dialogtxt       "Well, uh..."
-dialogtxt       "That is, [NAME 1] wants"
-dialogtxt       "to skip town..."
+dialogtxt       "Well, uh... It's just,"
+dialogtxt       "[NAME 1] wants to skip town..."
 code047b        
 code0309        
 call            @Func_1206
 code0479        1, 5, 17
 call            @Func_123c
-dialogtxt       "W—Wait, why?"
+dialogtxt       "Wait, what?"
+dialogtxt       "We just got here!"
 code0309        
 code0479        1, 4, 14
 dialogtxt       "I still haven't finished"
@@ -232,13 +228,13 @@ dialogtxt       "　　　　 In the end, I couldn't"
 dialogtxt       "　　　　  give her an answer..."
 code030a        6, 1
 jumpz           @Cond_0aa2, ($b002 == 0)
-dialogtxt       "　　　　I can't just up and say,"
+dialogtxt       "　　　I can't just tell her that"
 dialogtxt       "　　　Murno may have caused the"
 dialogtxt       "　　　　Strays to go berserk..."
 goto            @Label_0b1e
 
 @Cond_0aa2:
-dialogtxt       "　　　　I can't just up and say,"
+dialogtxt       "　　　I can't just tell her that"
 dialogtxt       "　　　Murno may have caused the"
 dialogtxt       "　　　　Strays to go berserk..."
 goto            @Label_0b1e
@@ -246,7 +242,7 @@ goto            @Label_0b1e
 @Label_0b1e:
 code030a        6, 1
 dialogtxt       "　　　　And that it's her fault"
-dialogtxt       "　　　　　Master Rob was......"
+dialogtxt       "　　　　　Master Rob died......"
 code030a        6, 1
 code0304        0
 code0334        
