@@ -44,7 +44,6 @@ code0479        1, 0, 16
 code047d        1, 110
 call            @Func_0f42
 call            @Func_0eaa
-dialogtxt       "Hrm?"
 dialogtxt       "Why are you here?"
 code047b        
 code0309        
@@ -52,15 +51,15 @@ call            @Func_0efe
 code0479        0, 4, 16
 call            @Func_0e5c
 jumpz           @Cond_02f4, ($b002 == 0)
-dialogtxt       "I don't really know either."
+dialogtxt       "I don't really know, either."
 dialogtxt       "I went for a walk and just"
-dialogtxt       "kinda ended up here..."
+dialogtxt       "kinda ended up here."
 goto            @Label_0330
 
 @Cond_02f4:
-dialogtxt       "I don't really know either."
+dialogtxt       "I don't really know, either."
 dialogtxt       "I went for a walk and just"
-dialogtxt       "kinda ended up here..."
+dialogtxt       "kinda ended up here."
 goto            @Label_0330
 
 @Label_0330:
@@ -69,8 +68,8 @@ call            @Func_0e92
 code0479        1, 2, 12
 call            @Func_0ec8
 dialogtxt       "\"Just kinda?\""
-dialogtxt       "I won't help you if you wander"
-dialogtxt       "your way into trouble again."
+dialogtxt       "I won't help you if you"
+dialogtxt       "wander into trouble again."
 code0309        
 call            @Func_0efe
 code0479        0, 0, 14
@@ -90,26 +89,26 @@ code0309
 call            @Func_0e92
 code0479        1, 11, 17
 call            @Func_0ec8
-dialogtxt       "N—No, I'm not!"
+dialogtxt       "N-No, I'm not!"
 code0309        
 code0479        1, 2, 16
 dialogtxt       "I'm just on patrol."
 dialogtxt       "Our workshop is part"
-dialogtxt       "of the militia too."
+dialogtxt       "of the militia, too."
 code0309        
 call            @Func_0efe
 code0479        0, 0, 16
 call            @Func_0e5c
 jumpz           @Cond_0568, ($b002 == 0)
-dialogtxt       "Hmm... So just like bro, then."
-dialogtxt       "By the way, do you patrol"
-dialogtxt       "around Lute Cave too?"
+dialogtxt       "Hmm... Just like bro, then."
+dialogtxt       "Hey, does that mean you patrol"
+dialogtxt       "around Lute Cave, too?"
 goto            @Label_05ba
 
 @Cond_0568:
-dialogtxt       "Ooh... So just like bro, then."
-dialogtxt       "By the way, do you patrol"
-dialogtxt       "around Lute Cave too?"
+dialogtxt       "Ooh... Just like bro, then."
+dialogtxt       "Hey, does that mean you patrol"
+dialogtxt       "around Lute Cave, too?"
 goto            @Label_05ba
 
 @Label_05ba:
@@ -120,7 +119,7 @@ call            @Func_0ec8
 dialogtxt       "Well..."
 code0309        
 code0479        1, 2, 12
-dialogtxt       "That's right."
+dialogtxt       "Yeah, that's right."
 code0309        
 call            @Func_0efe
 code0479        0, 1, 12
@@ -132,9 +131,9 @@ dialogtxt       "thanks to you then."
 goto            @Label_06ca
 
 @Cond_067e:
-dialogtxt       "I see, must be hard..."
-dialogtxt       "Well, we got out of there okay,"
-dialogtxt       "thanks to you then."
+dialogtxt       "I see. That must be tough."
+dialogtxt       "Well, I guess it's thanks to"
+dialogtxt       "you that we made it out okay."
 goto            @Label_06ca
 
 @Label_06ca:
@@ -150,15 +149,15 @@ code0479        1, 2, 12
 code0479        0, 2, 16
 call            @Func_0e5c
 jumpz           @Cond_07aa, ($b002 == 0)
-dialogtxt       "You did it for Bostaph, right..."
-dialogtxt       "In that case, we may"
-dialogtxt       "have to have another match."
+dialogtxt       "You did it for Bostaph, right?"
+dialogtxt       "In that case, we may end up"
+dialogtxt       "having another match."
 goto            @Label_07fe
 
 @Cond_07aa:
-dialogtxt       "You did it for Bostaph, right..."
-dialogtxt       "In that case, we may"
-dialogtxt       "have to have another match."
+dialogtxt       "You did it for Bostaph, right?"
+dialogtxt       "In that case, we may end up"
+dialogtxt       "having another match."
 goto            @Label_07fe
 
 @Label_07fe:
@@ -176,9 +175,10 @@ code0309
 call            @Func_0e92
 code0479        1, 2, 13
 call            @Func_0ec8
-dialogtxt       "Fine by me."
-dialogtxt       "But I won't lose."
-code0309        
+dialogtxt       "Well, fine by me."
+dialogtxt       "But if it comes to that,"
+dialogtxt       "I won't lose."
+code0309		
 call            @Func_0f98
 call            @Func_0ee6
 code047b        
@@ -396,4 +396,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

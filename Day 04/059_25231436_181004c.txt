@@ -14,8 +14,8 @@ code0482
 code047d        0, 108
 code0301        16, 3
 code047e        0, 1
-dialogtxt       "I was wondering where you'd gone..."
-code0309        
+dialogtxt       "I was wondering where went!"
+code0309		
 code047e        0, 0
 code0302        3
 code040d        15
@@ -50,16 +50,17 @@ code0309
 call            @Func_1102
 code0479        0, 4, 16
 call            @Func_1060
-dialogtxt       "Ah, sorry..."
-dialogtxt       "I went out for a walk,"
-dialogtxt       "and just ended up here..."
+dialogtxt       "Oh, sorry."
+dialogtxt       "I went out for a walk, and I"
+dialogtxt       "just kinda ended up here."
 code0309        
 call            @Func_1096
 code0479        1, 4, 12
 call            @Func_10cc
-dialogtxt       "Lots of things happened today."
-dialogtxt       "Don't make me worry so much..."
-code0309        
+dialogtxt       "A lot's happened today."
+dialogtxt       "Don't give me one more thing"
+dialogtxt       "to worry about."
+code0309		
 call            @Func_1102
 code0479        0, 4, 14
 call            @Func_1060
@@ -69,7 +70,7 @@ code0309
 call            @Func_1096
 code0479        1, 2, 12
 call            @Func_10cc
-dialogtxt       "Hmm? Something wrong?"
+dialogtxt       "Hmm? What's wrong?"
 dialogtxt       "This isn't like you."
 code0309        
 call            @Func_1102
@@ -88,19 +89,19 @@ code0479        0, 0, 14
 code0479        1, 2, 16
 dialogtxt       "We still have to deal with Bostaph."
 dialogtxt       "That guy has no intention of"
-dialogtxt       "listening to what I have to say..."
+dialogtxt       "listening to anything I say."
 code0309        
 call            @Func_1102
 code0479        0, 2, 16
 call            @Func_1060
 jumpz           @Cond_0570, ($b002 == 0)
-dialogtxt       "He said that to me too."
-dialogtxt       "That he won't stop hunting Strays..."
+dialogtxt       "He said that to me, too."
+dialogtxt       "That he won't stop hunting Strays."
 goto            @Label_05b8
 
 @Cond_0570:
-dialogtxt       "He said that to me too."
-dialogtxt       "That he won't stop hunting Strays..."
+dialogtxt       "He said that to me, too."
+dialogtxt       "That he won't stop hunting Strays."
 goto            @Label_05b8
 
 @Label_05b8:
@@ -113,34 +114,32 @@ code0309
 call            @Func_1102
 code0479        0, 5, 17
 call            @Func_1060
-dialogtxt       "Ah!"
-dialogtxt       "Yeah..."
+dialogtxt       "Oh! Yeah."
 code0309        
 call            @Func_1096
 code0479        1, 2, 16
 call            @Func_10cc
-dialogtxt       "He just walked out on me."
-dialogtxt       "Was that to exterminate Strays?"
-dialogtxt       "No, wait..."
+dialogtxt       "He just walked out in the middle of"
+dialogtxt       "our conversation. Was he going to"
+dialogtxt       "exterminate the Strays?"
 code0309        
 code0479        0, 0, 16
 code0479        1, 2, 14
-dialogtxt       "... How could he"
-dialogtxt       "have known about them?"
+dialogtxt       "... No, that doesn't make sense."
+dialogtxt       "How would he have known about them?"
 code0309        
 call            @Func_1102
 code0479        0, 2, 16
 call            @Func_1060
 dialogtxt       "Come to think of it..."
-dialogtxt       "Bro didn't know"
-dialogtxt       "about them either..."
+dialogtxt       "Bro didn't know about them, either."
 code0309        
 call            @Func_1096
 code0479        1, 2, 16
 call            @Func_10cc
 dialogtxt       "[NAME 2]..."
 dialogtxt       "What happened with you today?"
-dialogtxt       "Do you have some part in this?"
+dialogtxt       "Are you involved in all this?"
 code0309        
 call            @Func_1102
 code0479        0, 4, 14
@@ -155,9 +154,8 @@ dialogtxt       "I never thought you'd have"
 dialogtxt       "something to hide."
 code0309        
 code0479        1, 4, 12
-dialogtxt       "Good grief..."
-dialogtxt       "That's the only part of"
-dialogtxt       "you that's grown."
+dialogtxt       "Good grief... Why is this the"
+dialogtxt       "only way you've grown up?"
 code0309        
 call            @Func_1102
 code0479        0, 4, 16
@@ -167,15 +165,15 @@ code0309
 call            @Func_1096
 code0479        1, 0, 12
 call            @Func_10cc
-dialogtxt       "Well, you have your reasons, right?"
-dialogtxt       "That's fine."
-dialogtxt       "I'll try asking Bostaph tomorrow."
+dialogtxt       "Well, I'm sure you have your"
+dialogtxt       "reasons. That's fine. I'll"
+dialogtxt       "try asking Bostaph tomorrow."
 code0309        
 code0479        1, 2, 16
-dialogtxt       "But try not to worry"
-dialogtxt       "about it too much."
-dialogtxt       "Or you might go crazy..."
-code0309        
+dialogtxt       "But, try not to worry about it"
+dialogtxt       "all on your own. You keep doing"
+dialogtxt       "that, and you're gonna go crazy."
+code0309		
 call            @Func_1102
 code0479        0, 2, 14
 call            @Func_1060
@@ -184,18 +182,18 @@ code0309
 call            @Func_1096
 code0479        1, 0, 12
 call            @Func_10cc
-dialogtxt       "Don't forget,"
-dialogtxt       "I will always be there for you,"
-dialogtxt       "like I am now."
+dialogtxt       "Don't forget."
+dialogtxt       "I'm here for you anytime, okay?"
+dialogtxt       "Just like I am right now."
 code0309        
 code0479        1, 1, 13
-dialogtxt       "You aren't alone."
+dialogtxt       "You're not alone."
 code0309        
 call            @Func_1102
 code0479        0, 0, 12
 call            @Func_1060
 dialogtxt       "Yeah..."
-dialogtxt       "Thanks, Master..."
+dialogtxt       "Thanks, Master."
 code0309        
 call            @Func_119c
 call            @Func_107e
@@ -414,4 +412,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

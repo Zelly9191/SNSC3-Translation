@@ -52,15 +52,15 @@ call            @Func_0da6
 code0479        0, 4, 16
 call            @Func_0d04
 dialogtxt       "Oh, uh, sorry..."
-dialogtxt       "I took a walk, and somehow"
-dialogtxt       "ended up coming here..."
+dialogtxt       "I took a walk, and somehow,"
+dialogtxt       "I ended up coming here."
 code0309        
 call            @Func_0d3a
 code0479        1, 0, 16
 call            @Func_0d70
 dialogtxt       "You look down."
 dialogtxt       "You've been zoning out"
-dialogtxt       "ever since you got back."
+dialogtxt       "ever since you got back..."
 code0309        
 call            @Func_0da6
 code0479        0, 4, 14
@@ -75,7 +75,7 @@ dialogtxt       "Are you cheating on me?"
 goto            @Label_03e6
 
 @Cond_03ce:
-dialogtxt       "Are you betraying me?"
+dialogtxt       "Have you betrayed me?"
 goto            @Label_03e6
 
 @Label_03e6:
@@ -100,7 +100,7 @@ call            @Func_0d3a
 code0479        1, 2, 15
 call            @Func_0d70
 dialogtxt       "[NAME 2], you're going to"
-dialogtxt       "work with ME at the Inn."
+dialogtxt       "work with ME, at the Inn!"
 dialogtxt       "Not Eliez!"
 code0309        
 code0479        1, 2, 14
@@ -113,12 +113,12 @@ code0479        0, 7, 15
 call            @Func_0d04
 jumpz           @Cond_05c6, ($b002 == 0)
 dialogtxt       "Forgot what?"
-dialogtxt       "You're not making any sense!"
+dialogtxt       "I never promised you anything!"
 goto            @Label_0602
 
 @Cond_05c6:
 dialogtxt       "Forgot what?"
-dialogtxt       "You're not making any sense!"
+dialogtxt       "I never promised you anything!"
 goto            @Label_0602
 
 @Label_0602:
@@ -126,9 +126,8 @@ code0309
 call            @Func_0d3a
 code0479        1, 0, 13
 call            @Func_0d70
-dialogtxt       "Fufu..."
-dialogtxt       "That's it, [NAME 2],"
-dialogtxt       "that's how you should be!"
+dialogtxt       "Fufu... There we go."
+dialogtxt       "Back to your old self!"
 code0309        
 call            @Func_0da6
 code0479        0, 5, 16
@@ -145,8 +144,8 @@ code0309
 call            @Func_0da6
 code0479        0, 0, 12
 call            @Func_0d04
-dialogtxt       "I don't really get it,"
-dialogtxt       "but I do feel better."
+dialogtxt       "I don't know why, but for some"
+dialogtxt       "reason, I do feel better now."
 dialogtxt       "Thanks, Tier."
 code0309        
 call            @Func_0e40
@@ -366,4 +365,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

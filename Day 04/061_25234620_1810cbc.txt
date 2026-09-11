@@ -44,27 +44,26 @@ code0479        1, 0, 16
 code047d        1, 132
 call            @Func_0e2e
 call            @Func_0d96
-dialogtxt       "So..."
-dialogtxt       "You were here."
+dialogtxt       "So this is where you were."
 code047b        
 code0309        
 call            @Func_0dea
 code0479        0, 4, 12
 call            @Func_0d48
-dialogtxt       "Yeah."
-dialogtxt       "I took a walk, and somehow..."
+dialogtxt       "Yeah. I took a walk,"
+dialogtxt       "and somehow, I wound up here."
 code0309        
 call            @Func_0d7e
 code0479        1, 4, 12
 call            @Func_0db4
-dialogtxt       "I see..."
-dialogtxt       "I was a bit worried..."
+dialogtxt       "I see... I was a bit worried."
 code0309        
 code0479        0, 0, 16
 code0479        1, 4, 12
-dialogtxt       "You'd said Murno wanted to leave,"
-dialogtxt       "so I thought maybe you would too..."
-code0309        
+dialogtxt       "You'd said Murno might leave all of"
+dialogtxt       "a sudden, so I thought you might've"
+dialogtxt       "gone with her."
+code0309		
 call            @Func_0dea
 code0479        0, 4, 14
 call            @Func_0d48
@@ -90,7 +89,7 @@ code0309
 call            @Func_0dea
 code0479        0, 4, 14
 call            @Func_0d48
-dialogtxt       "Sorry, bro..."
+dialogtxt       "Sorry, bro."
 code0309        
 call            @Func_0d7e
 code0479        1, 0, 16
@@ -122,13 +121,13 @@ code0309
 call            @Func_0d7e
 code0479        1, 2, 16
 call            @Func_0db4
-dialogtxt       "You're not a resident here."
+dialogtxt       "You're not from around here."
 dialogtxt       "There's no need to push yourself."
 code0309        
 code0479        1, 4, 12
-dialogtxt       "Even in normal situations,"
-dialogtxt       "you always act so reckless."
-dialogtxt       "I'm worried about you, y'know."
+dialogtxt       "You always act so reckless,"
+dialogtxt       "even when everything's fine."
+dialogtxt       "I worry about you, y'know!"
 code0309        
 call            @Func_0dea
 code0479        0, 4, 14
@@ -138,14 +137,12 @@ code0309
 call            @Func_0d7e
 code0479        1, 5, 17
 call            @Func_0db4
-dialogtxt       "Ah, no,"
-dialogtxt       "it's not like I'm mad at you."
+dialogtxt       "Ah, no, it's not like I'm mad at you."
 code0309        
 call            @Func_0dea
 code0479        0, 4, 12
 call            @Func_0d48
-dialogtxt       "Yeah."
-dialogtxt       "I know."
+dialogtxt       "Yeah. I know."
 code0309        
 call            @Func_0e84
 call            @Func_0d66
@@ -364,4 +361,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

@@ -248,13 +248,13 @@ code0302        7
 code0301        8, 7
 code047d        0, 106
 code047e        0, 1
-dialogtxt       "I am but a passerby,"
+dialogtxt       "I am but a passerby."
 jumpz           @Cond_0c08, ($b002 == 0)
-dialogtxt       "one who loves the bow!"
+dialogtxt       "One who loves the bow!"
 goto            @Label_0c28
 
 @Cond_0c08:
-dialogtxt       "one who loves the bow!"
+dialogtxt       "One who loves the bow!"
 goto            @Label_0c28
 
 @Label_0c28:
@@ -287,13 +287,13 @@ goto            @Label_0d1a
 @Label_0d1a:
 code0309        
 jumpz           @Cond_0d66, ($b002 == 0)
-dialogtxt       "I offer this to you"
+dialogtxt       "I offer this to you,"
 dialogtxt       "as a sign of our camaraderie."
 goto            @Label_0d96
 
 @Cond_0d66:
-dialogtxt       "You may have this"
-dialogtxt       "as a sign of our camaraderie!"
+dialogtxt       "You may have this as"
+dialogtxt       "a sign of our camaraderie!"
 goto            @Label_0d96
 
 @Label_0d96:
@@ -418,11 +418,11 @@ code0301        8, 7
 code047d        0, 143
 code047e        0, 1
 jumpz           @Cond_123c, ($b002 == 0)
-dialogtxt       "You've shot all the targets."
+dialogtxt       "Looks like you've hit all the targets."
 goto            @Label_125e
 
 @Cond_123c:
-dialogtxt       "You've shot all the targets."
+dialogtxt       "Looks like you've hit all the targets."
 goto            @Label_125e
 
 @Label_125e:
@@ -446,7 +446,7 @@ dialogtxt       "Until we meet again."
 goto            @Label_1362
 
 @Cond_1338:
-dialogtxt       "Until next we meet!"
+dialogtxt       "'Til next we meet!"
 goto            @Label_1362
 
 @Label_1362:
@@ -475,4 +475,3 @@ goto            @Cond_140a
 
 @Cond_140a:
 done            
-
