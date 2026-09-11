@@ -42,17 +42,17 @@ code047d        0, 2
 code0301        16, 3
 code047e        0, 1
 jumpz           @Cond_01ca, ($b003 == 0)
-dialogtxt       "Found You..."
+dialogtxt       "Target Located."
 goto            @Label_0246
 
 @Cond_01ca:
 jumpz           @Cond_01f2, ($b003 == 1)
-dialogtxt       "So this is where you were..."
+dialogtxt       "So this is where you were."
 goto            @Label_0246
 
 @Cond_01f2:
 jumpz           @Cond_0224, ($b003 == 2)
-dialogtxt       "I was wondering where you'd gone..."
+dialogtxt       "I was wondering where you'd gone."
 goto            @Label_0246
 
 @Cond_0224:
@@ -107,20 +107,21 @@ code047d        1, 2
 call            @Func_2f50
 jumpz           @Cond_0d20, ($b003 == 0)
 call            @Func_2eb8
-dialogtxt       "So This Is Where You Were..."
+dialogtxt       "So This Is Where You Were."
 code047b        
 code0309        
 call            @Func_2f0c
 code0479        0, 4, 12
 call            @Func_2e6a
 dialogtxt       "Yeah..."
-dialogtxt       "I went out for a walk, and..."
+dialogtxt       "I went out for a walk, and I"
+dialogtxt       "just kinda ended up here."
 code0309        
 call            @Func_2ea0
 code0479        0, 0, 14
 code0479        1, 0, 12
 call            @Func_2ed6
-dialogtxt       "What Are You Doing Here?"
+dialogtxt       "Why Are You Here?"
 dialogtxt       "Bostaph's Workshop Is In"
 dialogtxt       "Close Proximity."
 code0309        
@@ -132,15 +133,15 @@ call            @Func_2f0c
 code0479        0, 0, 16
 call            @Func_2e6a
 jumpz           @Cond_05e2, ($b002 == 0)
-dialogtxt       "That's true, but..."
-dialogtxt       "Why didn't Murno want to"
-dialogtxt       "run away if it's so dangerous?"
+dialogtxt       "That's true, but... if it's"
+dialogtxt       "so dangerous in Prosban, why"
+dialogtxt       "doesn't Murno want to run away?"
 goto            @Label_063e
 
 @Cond_05e2:
-dialogtxt       "That's true, but..."
-dialogtxt       "Why didn't Murno want to"
-dialogtxt       "run away if it's so dangerous?"
+dialogtxt       "That's true, but... if it's"
+dialogtxt       "so dangerous in Prosban, why"
+dialogtxt       "doesn't Murno want to run away?"
 goto            @Label_063e
 
 @Label_063e:
@@ -155,14 +156,14 @@ call            @Func_2f0c
 code0479        0, 4, 12
 call            @Func_2e6a
 jumpz           @Cond_06fe, ($b002 == 0)
-dialogtxt       "If I just knew what..."
-dialogtxt       "Well, she wants to keep it a secret,"
+dialogtxt       "I just wish I knew what."
+dialogtxt       "But she wants to keep it a secret,"
 dialogtxt       "just like everything else..."
 goto            @Label_074a
 
 @Cond_06fe:
-dialogtxt       "If I just knew what..."
-dialogtxt       "Well, she wants to keep it a secret,"
+dialogtxt       "I just wish I knew what."
+dialogtxt       "But she wants to keep it a secret,"
 dialogtxt       "just like everything else..."
 goto            @Label_074a
 
@@ -178,12 +179,12 @@ code0479        0, 4, 17
 call            @Func_2e6a
 jumpz           @Cond_07c8, ($b002 == 0)
 dialogtxt       "Sigh..."
-dialogtxt       "So many things I don't know..."
+dialogtxt       "So many things I don't know."
 goto            @Label_07f4
 
 @Cond_07c8:
 dialogtxt       "Sigh..."
-dialogtxt       "So many things I don't know..."
+dialogtxt       "So many things I don't know."
 goto            @Label_07f4
 
 @Label_07f4:
@@ -192,14 +193,14 @@ call            @Func_2ea0
 code0479        0, 5, 14
 code0479        1, 0, 12
 call            @Func_2ed6
-dialogtxt       "Then Will You Be Unable"
+dialogtxt       "Then, Will You Be Unable"
 dialogtxt       "To Protect Lady Murno?"
 code0309        
 call            @Func_2f0c
 code0479        0, 0, 16
 call            @Func_2e6a
 jumpz           @Cond_093a, ($b002 == 0)
-dialogtxt       "It's not like that..."
+dialogtxt       "It's not like that."
 dialogtxt       "As Master put it, a Craftknight's"
 dialogtxt       "word is stronger than steel."
 code0309        
@@ -209,8 +210,8 @@ dialogtxt       "I will protect her."
 goto            @Label_09ec
 
 @Cond_093a:
-dialogtxt       "It's not like that..."
-dialogtxt       "As Master put it, a Craftknight's "
+dialogtxt       "It's not like that."
+dialogtxt       "As Master put it, a Craftknight's"
 dialogtxt       "word is stronger than steel."
 code0309        
 code0479        0, 2, 12
@@ -235,8 +236,8 @@ call            @Func_2ea0
 code0479        1, 0, 12
 call            @Func_2ed6
 dialogtxt       "As I Thought."
-dialogtxt       "There Would Be Problems With"
-dialogtxt       "Your Capability To Protect Her."
+dialogtxt       "You Would Lack The"
+dialogtxt       "Capacity To Protect Her."
 code0309        
 code0479        1, 4, 12
 dialogtxt       "At That Time,"
@@ -246,8 +247,8 @@ code0309
 call            @Func_2f0c
 code0479        0, 5, 17
 call            @Func_2e6a
-dialogtxt       "Wha— !"
-dialogtxt       "Why!?"
+dialogtxt       "What...?"
+dialogtxt       "Why?!"
 code0309        
 call            @Func_2ea0
 code0479        1, 0, 12
@@ -278,7 +279,7 @@ code0479        1, 0, 12
 call            @Func_2ed6
 dialogtxt       "If It Is Required To"
 dialogtxt       "Protect Lady Murno,"
-dialogtxt       "I Have No Qualms."
+dialogtxt       "I Have No Objections."
 code0309        
 call            @Func_2f0c
 code0479        0, 4, 14
@@ -293,34 +294,34 @@ goto            @Cond_0d20
 @Cond_0d20:
 jumpz           @Cond_16f0, ($b003 == 1)
 call            @Func_2eb8
-dialogtxt       "I was wondering where you'd gone..."
+dialogtxt       "I was looking for you."
 code047b        
 code0309        
 call            @Func_2f0c
 code0479        0, 4, 12
 call            @Func_2e6a
-dialogtxt       "Ah, sorry..."
-dialogtxt       "I went out for a walk,"
-dialogtxt       "and just ended up here..."
+dialogtxt       "Oh, sorry."
+dialogtxt       "I went out for a walk, and I"
+dialogtxt       "just kinda ended up here."
 code0309        
 call            @Func_2ea0
 code0479        1, 2, 16
 call            @Func_2ed6
 dialogtxt       "What are you thinking?"
-dialogtxt       "Piddling around nearby"
-dialogtxt       "Bostaph's workshop..."
-code0309        
+dialogtxt       "Mucking about right by"
+dialogtxt       "Bostaph's Workshop..."
+code0309		
 call            @Func_2f0c
 code0479        0, 5, 16
 call            @Func_2e6a
 jumpz           @Cond_0e88, ($b002 == 0)
-dialogtxt       "Piddling?"
-dialogtxt       "What's that mean..."
+dialogtxt       "Mucking?"
+dialogtxt       "What's that mean...?"
 goto            @Label_0ea6
 
 @Cond_0e88:
-dialogtxt       "Piddling?"
-dialogtxt       "What's that mean..."
+dialogtxt       "Mucking?"
+dialogtxt       "What's that mean...?"
 goto            @Label_0ea6
 
 @Label_0ea6:
@@ -328,23 +329,23 @@ code0309
 call            @Func_2ea0
 code0479        1, 2, 15
 call            @Func_2ed6
-dialogtxt       "Forget that,"
-dialogtxt       "you must protect Murno!"
+dialogtxt       "Forget that!"
+dialogtxt       "You must protect Murno!"
 code0309        
 call            @Func_2f0c
 code0479        1, 2, 14
 code0479        0, 0, 16
 call            @Func_2e6a
 jumpz           @Cond_0f9e, ($b002 == 0)
-dialogtxt       "That's true, but..."
-dialogtxt       "Why didn't Murno want to"
-dialogtxt       "run away if it's so dangerous?"
+dialogtxt       "That's true, but... if it's"
+dialogtxt       "so dangerous in Prosban, why"
+dialogtxt       "doesn't Murno want to run away?"
 goto            @Label_0ffa
 
 @Cond_0f9e:
-dialogtxt       "That's true, but..."
-dialogtxt       "Why didn't Murno want to"
-dialogtxt       "run away if it's so dangerous?"
+dialogtxt       "That's true, but... if it's"
+dialogtxt       "so dangerous in Prosban, why"
+dialogtxt       "doesn't Murno want to run away?"
 goto            @Label_0ffa
 
 @Label_0ffa:
@@ -352,22 +353,21 @@ code0309
 call            @Func_2ea0
 code0479        1, 4, 16
 call            @Func_2ed6
-dialogtxt       "That is because..."
-dialogtxt       "it seems she still"
-dialogtxt       "has business here..."
+dialogtxt       "Well... It seems she still"
+dialogtxt       "has business in Prosban."
 code0309        
 call            @Func_2f0c
 code0479        0, 4, 12
 call            @Func_2e6a
 jumpz           @Cond_10d0, ($b002 == 0)
-dialogtxt       "If I just knew what..."
-dialogtxt       "Well, she wants to keep it a secret,"
+dialogtxt       "I just wish I knew what."
+dialogtxt       "But she wants to keep it a secret,"
 dialogtxt       "just like everything else..."
 goto            @Label_111c
 
 @Cond_10d0:
-dialogtxt       "If I just knew what..."
-dialogtxt       "Well, she wants to keep it a secret,"
+dialogtxt       "I just wish I knew what."
+dialogtxt       "But she wants to keep it a secret,"
 dialogtxt       "just like everything else..."
 goto            @Label_111c
 
@@ -383,12 +383,12 @@ code0479        0, 4, 17
 call            @Func_2e6a
 jumpz           @Cond_119e, ($b002 == 0)
 dialogtxt       "Sigh..."
-dialogtxt       "So many things I don't know..."
+dialogtxt       "So many things I don't know."
 goto            @Label_11ca
 
 @Cond_119e:
 dialogtxt       "Sigh..."
-dialogtxt       "So many things I don't know..."
+dialogtxt       "So many things I don't know."
 goto            @Label_11ca
 
 @Label_11ca:
@@ -397,15 +397,15 @@ call            @Func_2ea0
 code0479        0, 5, 14
 code0479        1, 2, 15
 call            @Func_2ed6
-dialogtxt       "What's that?"
-dialogtxt       "You lack the resolve to"
-dialogtxt       "protect her, is that it!?"
-code0309        
+dialogtxt       "You would give up so easily?!"
+dialogtxt       "Do you lack the resolve to"
+dialogtxt       "continue protecting her?"
+code0309	
 call            @Func_2f0c
 code0479        0, 0, 16
 call            @Func_2e6a
 jumpz           @Cond_1346, ($b002 == 0)
-dialogtxt       "It's not like that..."
+dialogtxt       "It's not like that."
 dialogtxt       "As Master put it, a Craftknight's"
 dialogtxt       "word is stronger than steel."
 code0309        
@@ -416,8 +416,8 @@ dialogtxt       "I will protect her."
 goto            @Label_140c
 
 @Cond_1346:
-dialogtxt       "It's not like that..."
-dialogtxt       "As Master put it, a Craftknight's "
+dialogtxt       "It's not like that."
+dialogtxt       "As Master put it, a Craftknight's"
 dialogtxt       "word is stronger than steel."
 code0309        
 code0479        1, 0, 14
@@ -431,9 +431,10 @@ code0309
 call            @Func_2ea0
 code0479        1, 2, 16
 call            @Func_2ed6
-dialogtxt       "Even if, hypothetically,"
-dialogtxt       "she was behind Rob's death?"
-code0309        
+dialogtxt       "And hypothetically, you would"
+dialogtxt       "continue even if she was"
+dialogtxt       "responsible for Rob's death?"
+code0309		
 call            @Func_2f0c
 code0479        0, 4, 16
 call            @Func_2e6a
@@ -442,23 +443,23 @@ code0309
 call            @Func_2ea0
 code0479        1, 4, 13
 call            @Func_2ed6
-dialogtxt       "Well, I suppose you wouldn't."
-dialogtxt       "At that time, I will quit"
-dialogtxt       "being your partner."
+dialogtxt       "Well, that's only natural."
+dialogtxt       "If it comes to that, I will"
+dialogtxt       "cease to be your partner."
 code0309        
 call            @Func_2f0c
 code0479        0, 5, 17
 call            @Func_2e6a
-dialogtxt       "Wha— !"
-dialogtxt       "Why!?"
+dialogtxt       "What...?"
+dialogtxt       "Why?!"
 code0309        
 call            @Func_2ea0
 code0479        1, 4, 12
 call            @Func_2ed6
-dialogtxt       "If I do that,"
-dialogtxt       "you will no longer be"
-dialogtxt       "bound by your word, right?"
-code0309        
+dialogtxt       "If I were to do that,"
+dialogtxt       "you would no longer be bound"
+dialogtxt       "by your word, right?"
+code0309		
 call            @Func_2f0c
 code0479        0, 2, 16
 call            @Func_2e6a
@@ -479,7 +480,7 @@ code0309
 call            @Func_2ea0
 code0479        1, 2, 15
 call            @Func_2ed6
-dialogtxt       "Promise or not,"
+dialogtxt       "Oath or not,"
 dialogtxt       "I will do whatever it"
 dialogtxt       "takes to keep her safe!"
 code0309        
@@ -496,21 +497,22 @@ goto            @Cond_16f0
 @Cond_16f0:
 jumpz           @Cond_1f44, ($b003 == 2)
 call            @Func_2eb8
-dialogtxt       "So you were here..."
+dialogtxt       "So that's where you were."
 code047b        
 code0309        
 call            @Func_2f0c
 code0479        0, 4, 12
 call            @Func_2e6a
-dialogtxt       "Ah, yeah..."
-dialogtxt       "I went out for a walk, and..."
+dialogtxt       "Yeah..."
+dialogtxt       "I went out for a walk, and I"
+dialogtxt       "just kinda ended up here."
 code0309        
 call            @Func_2ea0
 code0479        1, 2, 16
 call            @Func_2ed6
-dialogtxt       "Is that alright?"
-dialogtxt       "Bostaph's workshop is close by."
-dialogtxt       "Spacing out in a place like this,"
+dialogtxt       "Are you sure that's okay? Bostaph's"
+dialogtxt       "Workshop is right over there. If you're"
+dialogtxt       "gonna space out in a place like this..."
 code0309        
 code0479        1, 3, 14
 dialogtxt       "Can you really protect Murno?"
@@ -519,15 +521,15 @@ call            @Func_2f0c
 code0479        0, 4, 16
 call            @Func_2e6a
 jumpz           @Cond_18a6, ($b002 == 0)
-dialogtxt       "That's true, but..."
-dialogtxt       "Why didn't Murno want to"
-dialogtxt       "run away if it's so dangerous?"
+dialogtxt       "We are pretty close, but... if it's"
+dialogtxt       "so dangerous in Prosban, why"
+dialogtxt       "doesn't Murno want to run away?"
 goto            @Label_1902
 
 @Cond_18a6:
-dialogtxt       "That's true, but..."
-dialogtxt       "Why didn't Murno want to"
-dialogtxt       "run away if it's so dangerous?"
+dialogtxt       "We are pretty close, but... if it's"
+dialogtxt       "so dangerous in Prosban, why"
+dialogtxt       "doesn't Murno want to run away?"
 goto            @Label_1902
 
 @Label_1902:
@@ -535,20 +537,17 @@ code0309
 call            @Func_2ea0
 code0479        1, 0, 12
 call            @Func_2ed6
-dialogtxt       "That..."
-dialogtxt       "Is her decision alone."
+dialogtxt       "That... is her decision to make."
 code0309        
 call            @Func_2f0c
 code0479        0, 4, 12
 call            @Func_2e6a
 jumpz           @Cond_19a2, ($b002 == 0)
-dialogtxt       "Another secret,"
-dialogtxt       "just like always..."
+dialogtxt       "Another secret, just like always..."
 goto            @Label_19d4
 
 @Cond_19a2:
-dialogtxt       "Another secret,"
-dialogtxt       "just like always..."
+dialogtxt       "Another secret, just like always..."
 goto            @Label_19d4
 
 @Label_19d4:
@@ -563,12 +562,12 @@ code0479        0, 4, 17
 call            @Func_2e6a
 jumpz           @Cond_1a56, ($b002 == 0)
 dialogtxt       "Sigh..."
-dialogtxt       "So many things I don't know..."
+dialogtxt       "So many things I don't know."
 goto            @Label_1a82
 
 @Cond_1a56:
 dialogtxt       "Sigh..."
-dialogtxt       "So many things I don't know..."
+dialogtxt       "So many things I don't know."
 goto            @Label_1a82
 
 @Label_1a82:
@@ -584,7 +583,7 @@ call            @Func_2f0c
 code0479        0, 2, 16
 call            @Func_2e6a
 jumpz           @Cond_1bd4, ($b002 == 0)
-dialogtxt       "It's not like that..."
+dialogtxt       "It's not like that."
 dialogtxt       "As Master put it, a Craftknight's"
 dialogtxt       "word is stronger than steel."
 code0309        
@@ -595,8 +594,8 @@ dialogtxt       "I will protect her."
 goto            @Label_1c9a
 
 @Cond_1bd4:
-dialogtxt       "It's not like that..."
-dialogtxt       "As Master put it, a Craftknight's "
+dialogtxt       "It's not like that."
+dialogtxt       "As Master put it, a Craftknight's"
 dialogtxt       "word is stronger than steel."
 code0309        
 code0479        1, 0, 12
@@ -621,22 +620,22 @@ code0309
 call            @Func_2ea0
 code0479        1, 0, 12
 call            @Func_2ed6
-dialogtxt       "If you ever hesitate,"
-dialogtxt       "I will end our partnership"
-dialogtxt       "right then and there."
+dialogtxt       "If you ever hesitate, I"
+dialogtxt       "will end our partnership,"
+dialogtxt       "then and there."
 code0309        
 call            @Func_2f0c
 code0479        0, 5, 17
 call            @Func_2e6a
-dialogtxt       "Wha— !"
-dialogtxt       "Why!?"
+dialogtxt       "What...?"
+dialogtxt       "Why?!"
 code0309        
 call            @Func_2ea0
 code0479        1, 3, 12
 call            @Func_2ed6
-dialogtxt       "Then you will have"
-dialogtxt       "no reason to protect her,"
-dialogtxt       "isn't that right?"
+dialogtxt       "Then you'll have no"
+dialogtxt       "reason to protect her."
+dialogtxt       "Isn't that right?"
 code0309        
 call            @Func_2f0c
 code0479        0, 2, 16
@@ -658,9 +657,8 @@ code0309
 call            @Func_2ea0
 code0479        1, 2, 14
 call            @Func_2ed6
-dialogtxt       "That kind of thing"
-dialogtxt       "does not concern me."
-code0309        
+dialogtxt       "Why would I care about that?"
+code0309		
 call            @Func_2f0c
 code0479        0, 4, 14
 call            @Func_2e6a
@@ -681,35 +679,34 @@ code0309
 call            @Func_2f0c
 code0479        0, 4, 12
 call            @Func_2e6a
-dialogtxt       "Ah, sorry..."
-dialogtxt       "I went out for a walk,"
-dialogtxt       "and just ended up here..."
+dialogtxt       "Ah, sorry."
+dialogtxt       "I went out for a walk, and I"
+dialogtxt       "just kinda ended up here."
 code0309        
 call            @Func_2ea0
 code0479        1, 2, 16
 call            @Func_2ed6
-dialogtxt       "What are you thinking?"
+dialogtxt       "What were you thinking?"
 dialogtxt       "Bostaph's workshop is nearby."
-dialogtxt       "Don't space out here..."
+dialogtxt       "Don't space out here...!"
 code0309        
 code0479        1, 2, 17
-dialogtxt       "You have to make sure"
-dialogtxt       "you protect Lady Murno!"
+dialogtxt       "You have to protect Lady Murno!"
 code0309        
 call            @Func_2f0c
 code0479        1, 2, 12
 code0479        0, 4, 16
 call            @Func_2e6a
 jumpz           @Cond_2148, ($b002 == 0)
-dialogtxt       "That's true, but..."
-dialogtxt       "Why didn't Murno want to"
-dialogtxt       "run away if it's so dangerous?"
+dialogtxt       "That's true, but... if it's"
+dialogtxt       "so dangerous in Prosban, why"
+dialogtxt       "doesn't Murno want to run away?"
 goto            @Label_21a4
 
 @Cond_2148:
-dialogtxt       "That's true, but..."
-dialogtxt       "Why didn't Murno want to"
-dialogtxt       "run away if it's so dangerous?"
+dialogtxt       "That's true, but... if it's"
+dialogtxt       "so dangerous in Prosban, why"
+dialogtxt       "doesn't Murno want to run away?"
 goto            @Label_21a4
 
 @Label_21a4:
@@ -717,22 +714,21 @@ code0309
 call            @Func_2ea0
 code0479        1, 4, 14
 call            @Func_2ed6
-dialogtxt       "That is..."
-dialogtxt       "it seems she still has"
-dialogtxt       "some business here..."
-code0309        
+dialogtxt       "Well... It seems that she"
+dialogtxt       "still has business here."
+code0309		
 call            @Func_2f0c
 code0479        0, 4, 12
 call            @Func_2e6a
 jumpz           @Cond_2276, ($b002 == 0)
-dialogtxt       "If I just knew what..."
-dialogtxt       "Well, she wants to keep it a secret,"
+dialogtxt       "I just wish I knew what."
+dialogtxt       "But she wants to keep it a secret,"
 dialogtxt       "just like everything else..."
 goto            @Label_22c2
 
 @Cond_2276:
-dialogtxt       "If I just knew what..."
-dialogtxt       "Well, she wants to keep it a secret,"
+dialogtxt       "I just wish I knew what."
+dialogtxt       "But she wants to keep it a secret,"
 dialogtxt       "just like everything else..."
 goto            @Label_22c2
 
@@ -741,19 +737,19 @@ code0309
 call            @Func_2ea0
 code0479        1, 4, 16
 call            @Func_2ed6
-dialogtxt       "Yes..."
+dialogtxt       "Yeah..."
 code0309        
 call            @Func_2f0c
 code0479        0, 4, 17
 call            @Func_2e6a
 jumpz           @Cond_2344, ($b002 == 0)
 dialogtxt       "Sigh..."
-dialogtxt       "So many things I don't know..."
+dialogtxt       "So many things I don't know."
 goto            @Label_2370
 
 @Cond_2344:
 dialogtxt       "Sigh..."
-dialogtxt       "So many things I don't know..."
+dialogtxt       "So many things I don't know."
 goto            @Label_2370
 
 @Label_2370:
@@ -769,7 +765,7 @@ call            @Func_2f0c
 code0479        0, 0, 16
 call            @Func_2e6a
 jumpz           @Cond_24c4, ($b002 == 0)
-dialogtxt       "It's not like that..."
+dialogtxt       "It's not like that."
 dialogtxt       "As Master put it, a Craftknight's"
 dialogtxt       "word is stronger than steel."
 code0309        
@@ -779,8 +775,8 @@ dialogtxt       "I will protect her."
 goto            @Label_2576
 
 @Cond_24c4:
-dialogtxt       "It's not like that..."
-dialogtxt       "As Master put it, a Craftknight's "
+dialogtxt       "It's not like that."
+dialogtxt       "As Master put it, a Craftknight's"
 dialogtxt       "word is stronger than steel."
 code0309        
 code0479        0, 2, 12
@@ -808,20 +804,20 @@ dialogtxt       "I see..."
 dialogtxt       "Well, I suppose that's fine."
 code0309        
 code0479        1, 4, 12
-dialogtxt       "If that happens, I will simply"
-dialogtxt       "resign from being your partner."
+dialogtxt       "If it comes to that, I will simply"
+dialogtxt       "resign from our partnership."
 code0309        
 call            @Func_2f0c
 code0479        0, 5, 17
 call            @Func_2e6a
-dialogtxt       "Wha— !"
-dialogtxt       "Why!?"
+dialogtxt       "What...?"
+dialogtxt       "Why?!"
 code0309        
 call            @Func_2ea0
 code0479        1, 0, 16
 call            @Func_2ed6
-dialogtxt       "If I do that, it has nothing"
-dialogtxt       "to do with you anymore, right?"
+dialogtxt       "If I do that, you'll be under no"
+dialogtxt       "obligation to protect Murno, right?"
 code0309        
 code0479        1, 0, 12
 dialogtxt       "Then you can do whatever you like."
@@ -1075,4 +1071,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-
