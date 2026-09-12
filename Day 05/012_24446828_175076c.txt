@@ -295,14 +295,14 @@ code047d        0, 121
 code047e        0, 1
 dialogtxt       "You can destroy stumps"
 dialogtxt       "with an axe. Watch out for"
-dialogtxt       "earthworms, though."
+dialogtxt       "earthworms, though!"
 code0309        
 jumpz           @Cond_0caa, ($b002 == 0)
-dialogtxt       "Eh? You think that's awesome?"
+dialogtxt       "Huh? You think that's awesome?"
 goto            @Label_0cc2
 
 @Cond_0caa:
-dialogtxt       "Eh? You think that's amazing?"
+dialogtxt       "Huh? You think that's amazing?"
 goto            @Label_0cc2
 
 @Label_0cc2:
@@ -334,4 +334,3 @@ walkto          30, -8, -8, 67
 code0461        30
 code0461        31
 code040b        
-

@@ -267,10 +267,10 @@ ret
 code0301        8, 7
 code047d        0, 119
 code047e        0, 1
-dialogtxt       "It's been lonely around here,"
-dialogtxt       "with both you and V.E"
-dialogtxt       "out of town."
-code0309        
+dialogtxt       "With you and V.E both out"
+dialogtxt       "of town, it's been too"
+dialogtxt       "lonely around here."
+code0309		
 code047e        0, 0
 code0302        7
 code040b        
@@ -279,10 +279,9 @@ code040b
 code0301        8, 7
 code047d        0, 123
 code047e        0, 1
-dialogtxt       "Welcome back."
-dialogtxt       "Come by any time you want."
+dialogtxt       "Welcome back!"
+dialogtxt       "Come by any time you want!"
 code0309        
 code047e        0, 0
 code0302        7
 code040b        
-
