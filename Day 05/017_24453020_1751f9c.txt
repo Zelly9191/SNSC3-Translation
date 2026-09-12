@@ -466,13 +466,13 @@ ret
 code0301        8, 7
 code047d        0, 120
 code047e        0, 1
-dialogtxt       "Hah~ I'm so tired~"
+dialogtxt       "Haaaaah~ I'm so tired!"
 dialogtxt       "Walking the Summon Beasts"
-dialogtxt       "is so much work~"
+dialogtxt       "is so much work!"
 code0309        
-dialogtxt       "Of course when there's this"
-dialogtxt       "many, it'd be a problem."
-dialogtxt       "I shouldn't have taken that bet."
+dialogtxt       "Of course, it's only a problem"
+dialogtxt       "because I took all of them at once."
+dialogtxt       "Why did I take that stupid bet?!"
 code0309        
 code047e        0, 0
 code0302        7
@@ -496,8 +496,8 @@ code040b
 @Event_140e:
 code0301        8, 7
 dialogtxt       "The Gold Faction looks forward"
-dialogtxt       "to finding a solution"
-dialogtxt       "for the rampaging Strays."
+dialogtxt       "to finding a solution for the"
+dialogtxt       "rampaging Strays."
 code0309        
 code0302        7
 code040b        
@@ -506,17 +506,15 @@ code040b
 code0301        8, 7
 dialogtxt       "Care to try our Lucky Draw?"
 dialogtxt       "It's available all day, everyday!"
-dialogtxt       "Guaranteed no losing tickets!"
+dialogtxt       "No losing tickets, guaranteed!"
 code0309        
 code0302        7
 code040b        
 
 @Event_14e0:
 code0301        8, 7
-dialogtxt       "If you hear the alarm,"
-dialogtxt       "please find shelter"
-dialogtxt       "and avoid going outside."
+dialogtxt       "If you hear the alarm, please"
+dialogtxt       "find shelter and stay inside."
 code0309        
 code0302        7
 code040b        
-

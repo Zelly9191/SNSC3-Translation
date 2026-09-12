@@ -123,8 +123,8 @@ code040b
 @Event_0576:
 code0301        8, 7
 dialogtxt       "We sell Shapestones!"
-dialogtxt       "Of course, we also have ores"
-dialogtxt       "and stuff for smithing in stock!"
+dialogtxt       "Of course, we also carry ores"
+dialogtxt       "other crafting materials!"
 code0309        
 code0302        7
 code040b        
@@ -334,13 +334,13 @@ ret
 code0301        8, 7
 code047d        0, 148
 code047e        0, 1
-dialogtxt       "Oh, that hammer..."
-dialogtxt       "You must be a Craftknight. I've"
-dialogtxt       "been looking for people like you."
+dialogtxt       "Oh, that hammer! You must be a"
+dialogtxt       "Craftknight. I've been looking"
+dialogtxt       "for people like you."
 code0309        
 dialogtxt       "I'm traveling with my daughter."
-dialogtxt       "She's not here now though;"
-dialogtxt       "probably out playing somewhere."
+dialogtxt       "She's not here now though."
+dialogtxt       "Probably out playing somewhere."
 code0309        
 dialogtxt       "I know a lot about smithing,"
 dialogtxt       "so feel free to ask anything."
@@ -353,32 +353,30 @@ choicewait
 
 @Choice_0f52:
 code047e        0, 1
-dialogtxt       "Pay attention, this is important."
-dialogtxt       "Upgrading can add special"
-dialogtxt       "moves and effects to your weapon."
+dialogtxt       "This is important, so listen carefully!"
+dialogtxt       "Upgrading can add special moves and"
+dialogtxt       "effects to your weapon."
 code0309        
-dialogtxt       "Some items are categorized"
-dialogtxt       "specifically as upgrade"
-dialogtxt       "materials."
+dialogtxt       "Some items are categorized specifically"
+dialogtxt       "as upgrade materials."
 code0309        
-dialogtxt       "But if it isn't compatible,"
-dialogtxt       "nothing will happen,"
-dialogtxt       "so be careful."
+dialogtxt       "But if it the material isn't compatible,"
+dialogtxt       "nothing will happen! So be careful."
 code0309        
 goto            @Label_11ce
 
 @Choice_1098:
 code047e        0, 1
-dialogtxt       "About refining then."
-dialogtxt       "You might know it as Toughening,"
-dialogtxt       "pay attention to that."
+dialogtxt       "You want to learn about refining?"
+dialogtxt       "Some people call it \"strengthening,\""
+dialogtxt       "if you've heard of that."
 code0309        
-dialogtxt       "You're able to refine any"
-dialogtxt       "weapon with max TEC and"
-dialogtxt       "increase its effectiveness."
+dialogtxt       "You're able to refine any weapon with"
+dialogtxt       "maxed-out TEC. Doing so will increase"
+dialogtxt       "its effectiveness."
 code0309        
-dialogtxt       "Note that doing so will"
-dialogtxt       "reset it's TEC to zero."
+dialogtxt       "Be aware that this will also set its"
+dialogtxt       "TEC back to zero."
 code0309        
 goto            @Label_11ce
 
@@ -390,4 +388,3 @@ code0309
 code047e        0, 0
 code0302        7
 code040b        
-
