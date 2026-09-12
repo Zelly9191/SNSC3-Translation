@@ -93,7 +93,7 @@ dialogtxt       "Nothing to do here..."
 goto            @Label_0454
 
 @Cond_042e:
-dialogtxt       "I shouldn't wander off..."
+dialogtxt       "I shouldn't wander off."
 goto            @Label_0454
 
 @Label_0454:
@@ -134,9 +134,9 @@ code0301        8, 7
 code047d        0, 118
 code047e        0, 1
 dialogtxt       "You'd best not go any further."
-dialogtxt       "Theres a Stray called Red Wing"
-dialogtxt       "that lives in there."
-code0309        
+dialogtxt       "Red Wing lives there. It's an"
+dialogtxt       "especially dangerous Stray."
+code0309		
 code047e        0, 0
 code0302        7
 code040b        
@@ -389,12 +389,12 @@ ret
 code0301        8, 7
 code047d        0, 120
 code047e        0, 1
-dialogtxt       "South of Prosban is"
-dialogtxt       "Beleet Forest, and past"
-dialogtxt       "that is Flard Grotto."
+dialogtxt       "South of Prosban is Beleet"
+dialogtxt       "Forest, and past that is"
+dialogtxt       "Flard Grotto."
 code0309        
 dialogtxt       "I heard there's an underground"
-dialogtxt       "river flowing in Flard Grotto."
+dialogtxt       "river flowing through Flard Grotto."
 code0309        
 code047e        0, 0
 code0302        7
@@ -429,9 +429,9 @@ code0301        8, 7
 dialogtxt       "　"
 dialogtxt       "　　　　　　∞Searching∞"
 code0309        
-dialogtxt       "I'm looking for a black"
-dialogtxt       "and white cat."
-dialogtxt       "Let me know if you find it."
+dialogtxt       "I'm looking for a cat with"
+dialogtxt       "black and white fur. Let me"
+dialogtxt       "know if you find it."
 code0309        
 code0302        7
 code040b        
@@ -440,7 +440,7 @@ code040b
 code0301        8, 7
 dialogtxt       "Look down ↓"
 code0309        
-dialogtxt       "... And you actually did it."
+dialogtxt       "... You actually did it, huh?"
 code0309        
 code0302        7
 code040b        
