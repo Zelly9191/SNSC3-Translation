@@ -344,11 +344,11 @@ code040b
 code0301        8, 7
 code047d        0, 123
 code047e        0, 1
-dialogtxt       "Hey, let's pretend we're fighting."
-dialogtxt       "Don't treat me like an idiot~"
-dialogtxt       "I'll roundhouse kick you."
+dialogtxt       "Let's play fight!"
+dialogtxt       "Hey, don't laugh at me!"
+dialogtxt       "I'll roundhouse kick you!"
 code0309        
-dialogtxt       "Apologize!"
+dialogtxt       "Say you're sorry!"
 code0309        
 code047e        0, 0
 code0302        7
@@ -358,13 +358,13 @@ code040b
 code0301        8, 7
 code047d        0, 120
 code047e        0, 1
-dialogtxt       "Can you do something about this?"
-dialogtxt       "Earlier that kid hit,"
-dialogtxt       "er, no, kicked me."
+dialogtxt       "Can you do something about"
+dialogtxt       "this kid? A minute ago he hit—"
+dialogtxt       "I mean, he kicked me!"
 code0309        
 dialogtxt       "He feinted with his knuckles"
-dialogtxt       "before roundhouse kicking me."
-code0309        
+dialogtxt       "before roundhouse kicking me!"
+code0309        	
 code047e        0, 0
 code0302        7
 code040b        
@@ -372,8 +372,8 @@ code040b
 @Event_0fa6:
 code0301        8, 7
 dialogtxt       "You too can protect Prosban!"
-dialogtxt       "The Prosban militia"
-dialogtxt       "is now accepting applications."
+dialogtxt       "The Prosban militia is now"
+dialogtxt       "accepting applications."
 code0309        
 code0302        7
 code040b        
@@ -393,8 +393,8 @@ dialogtxt       "　"
 dialogtxt       "　　　　　 Looking for help!"
 code0309        
 dialogtxt       "I always seem to run face-first"
-dialogtxt       "into walls."
-dialogtxt       "Is there a way to avoid that?"
+dialogtxt       "into walls. Is there any way to"
+dialogtxt       "prevent that?"
 code0309        
 code0302        7
 code040b        

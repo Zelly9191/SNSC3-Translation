@@ -301,9 +301,9 @@ code040b
 code0301        8, 7
 code047d        0, 120
 code047e        0, 1
-dialogtxt       "Mr. Velvoren?"
-dialogtxt       "Hrmm, if I have to be honest..."
-dialogtxt       "I think he's unreliable."
+dialogtxt       "What do I think about Mr. Velvoren?"
+dialogtxt       "Hrmm... I'm being honest, I think"
+dialogtxt       "he's a bit unreliable."
 code0309        
 code047e        0, 0
 code0302        7
@@ -313,4 +313,3 @@ code040b
 code0445        19, 7
 code0446        19
 code040b        
-

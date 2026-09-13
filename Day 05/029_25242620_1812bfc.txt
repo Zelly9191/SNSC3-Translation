@@ -14,7 +14,7 @@ code047d        0, 0
 code047d        1, 124
 call            @Func_1a3e
 call            @Func_1966
-dialogtxt       "Good day!"
+dialogtxt       "Good morning!"
 dialogtxt       "I have a delivery from"
 dialogtxt       "Benson's Workshop."
 code0309        
@@ -37,7 +37,7 @@ code0446        2
 code040d        15
 code0301        8, 5
 code047e        1, 1
-dialogtxt       "You rushed this, didn't you..."
+dialogtxt       "You rushed with this, didn't you...?"
 code0309        
 code047e        1, 0
 code0302        7
@@ -45,7 +45,7 @@ code0479        0, 5, 15
 call            @Func_1a3e
 call            @Func_1984
 dialogtxt       "What!?"
-dialogtxt       "H—How..."
+dialogtxt       "H-How can you tell...?"
 code047b        
 code0309        
 call            @Func_1a94
@@ -54,7 +54,7 @@ code047b
 code0301        8, 7
 code047e        1, 1
 dialogtxt       "I can tell from looking at it!"
-dialogtxt       "You're very lucky it didn't break!"
+dialogtxt       "You're lucky it didn't break!"
 code0309        
 code047e        1, 0
 code0302        7
@@ -70,7 +70,8 @@ code047b
 code0301        8, 7
 code047e        1, 1
 dialogtxt       "Aren't you a Craftknight?"
-dialogtxt       "You should know better than this!"
+dialogtxt       "You should know better than to"
+dialogtxt       "rough up the merchandise!"
 code0309        
 code047e        1, 0
 code0302        5
@@ -169,7 +170,7 @@ goto            @Label_13b2
 jumpz           @Cond_0a72, (($bv048 & 0x000F) == 2)
 code0301        8, 5
 code047e        1, 1
-dialogtxt       "You're late..."
+dialogtxt       "You're late!"
 dialogtxt       "Let's see here..."
 code0309        
 code047e        1, 0
@@ -180,23 +181,22 @@ code0446        2
 code040d        15
 code0301        8, 5
 code047e        1, 1
-dialogtxt       "Okay!"
-dialogtxt       "This looks decent."
-dialogtxt       "You did a good job."
+dialogtxt       "Okay! This looks good."
+dialogtxt       "Thanks for your hard work!"
 code0309        
 dialogtxt       "You're a little late, but"
-dialogtxt       "But you handled it with care."
+dialogtxt       "you handled it with care."
 jumpz           @Cond_0778, ($b002 == 0)
 dialogtxt       "You've got potential, lad."
 goto            @Label_0794
 
 @Cond_0778:
-dialogtxt       "You've got potential, girl."
+dialogtxt       "You've got potential, lass."
 goto            @Label_0794
 
 @Label_0794:
 code0309        
-dialogtxt       "Here, you can have this."
+dialogtxt       "Here, take this as payment."
 code0309        
 code047e        1, 0
 code0302        7
@@ -292,8 +292,8 @@ goto            @Label_13b2
 jumpz           @Cond_0f7a, (($bv048 & 0x000F) == 3)
 code0301        8, 5
 code047e        1, 1
-dialogtxt       "You're late..."
-dialogtxt       "Let's see."
+dialogtxt       "You're late!"
+dialogtxt       "Let's see..."
 code0309        
 code047e        1, 0
 code0302        5
@@ -303,7 +303,7 @@ code0446        2
 code040d        15
 code0301        8, 5
 code047e        1, 1
-dialogtxt       "You rushed this, didn't you..."
+dialogtxt       "You rushed with this, didn't you...?"
 code0309        
 code047e        1, 0
 code0302        7
@@ -311,7 +311,7 @@ code0479        0, 5, 15
 call            @Func_1a3e
 call            @Func_1984
 dialogtxt       "What!?"
-dialogtxt       "H—How..."
+dialogtxt       "H-How can you tell...?"
 code047b        
 code0309        
 call            @Func_1a94
@@ -336,8 +336,8 @@ code047b
 code0301        8, 7
 code047e        1, 1
 dialogtxt       "Aren't you a Crafknight?"
-dialogtxt       "You're slow, and sloppy."
-dialogtxt       "You'd better try harder next time!"
+dialogtxt       "You're slow AND you're sloppy!"
+dialogtxt       "Try harder next time!"
 code0309        
 code047e        1, 0
 code0302        7
@@ -443,9 +443,8 @@ code0446        2
 code040d        15
 code0301        8, 5
 code047e        1, 1
-dialogtxt       "Okay!"
-dialogtxt       "This looks decent."
-dialogtxt       "You did a good job."
+dialogtxt       "Okay! This looks good."
+dialogtxt       "Thanks for your hard work!"
 code0309        
 dialogtxt       "You handled it with care. A good"
 dialogtxt       "Craftknight cares for their wares."
@@ -459,7 +458,7 @@ goto            @Label_10d0
 
 @Label_10d0:
 code0309        
-dialogtxt       "Here, you can have this."
+dialogtxt       "Here, take this as payment."
 code0309        
 code047e        1, 0
 code0302        5
@@ -773,4 +772,3 @@ ret
 code047a        0, 0, 1
 code047a        1, 0, 1
 ret             
-

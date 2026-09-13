@@ -271,12 +271,11 @@ code047d        0, 121
 code047e        0, 1
 dialogtxt       "Mr. Velvoren?"
 dialogtxt       "He's even more useless"
-dialogtxt       "than my husband."
+dialogtxt       "than my husband!"
 code0309        
-dialogtxt       "He has no money,"
-dialogtxt       "and no one listens to him."
+dialogtxt       "He has no money, and no"
+dialogtxt       "one listens to him."
 code0309        
 code047e        0, 0
 code0302        7
 code040b        
-

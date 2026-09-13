@@ -390,8 +390,8 @@ code040b
 code0301        8, 7
 code047d        0, 120
 code047e        0, 1
-dialogtxt       "Lately I've been hearing that"
-dialogtxt       "a group of children are"
+dialogtxt       "Lately, people have been saying"
+dialogtxt       "that a group of children are"
 dialogtxt       "behind the rampaging Summons."
 code0309        
 code047e        0, 0
@@ -416,8 +416,8 @@ code047e        0, 1
 dialogtxt       "Sorry, but only VIPs can"
 dialogtxt       "pass through here."
 code0309        
-dialogtxt       "But, if you have a Membership"
-dialogtxt       "Card, we might let you in."
+dialogtxt       "If you get a Membership Card,"
+dialogtxt       "maybe we'll let you in."
 code0309        
 code047e        0, 0
 code0302        7
@@ -440,4 +440,3 @@ walkto          30, -8, -8, 67
 code0461        30
 code0461        31
 code040b        
-
