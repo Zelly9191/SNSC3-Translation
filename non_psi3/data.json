@@ -20706,7 +20706,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "とても大きく大味な武器が作れそう\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Makes very huge and refined weapons\u0000",
+              "translation": "Makes very huge and unrefined weapons\u0000",
               "type": "SJIS string"
             },
             "offset": 44,
