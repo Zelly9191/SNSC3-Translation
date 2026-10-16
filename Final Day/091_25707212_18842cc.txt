@@ -1004,7 +1004,7 @@ goto            @Label_3508
 
 @Cond_3220:
 jumpz           @Cond_339c, ($b003 == 3)
-dialogbig       255, 116, 0, 8, 0, "[NAME 2]!"
+dialogbig       255, 116, 0, 8, 0, "[NAME 1]!"
 goto            @Label_3508
 
 @Cond_339c:
