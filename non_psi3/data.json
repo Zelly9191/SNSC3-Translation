@@ -18343,7 +18343,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "柔らか半熟卵\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Hardboiled Eggs\u0000",
+              "translation": "Softboiled Egg\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -19493,7 +19493,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "柔らかい皮\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Soft Leather\u0000",
+              "translation": "Soft Pelt\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -19510,7 +19510,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "柔らかく加工しやすい毛皮\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Soft, easy to work with\u0000",
+              "translation": "Its softness makes it easy to work with\u0000",
               "type": "SJIS string"
             },
             "offset": 44,
@@ -19539,7 +19539,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "丈夫な皮\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Durable Leather\u0000",
+              "translation": "Durable Pelt\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -19556,7 +19556,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "少し硬めで加工は困難だが丈夫な毛皮\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Tough, difficult to work with\u0000",
+              "translation": "Durable, but stiff & tricky to work with\u0000",
               "type": "SJIS string"
             },
             "offset": 44,
@@ -19585,7 +19585,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "上等な皮\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Quality Leather\u0000",
+              "translation": "Premium Pelt\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -19602,7 +19602,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "色つやも良くとても上等な毛皮\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Brilliant piece of quality fur\u0000",
+              "translation": "Quality fur, with a rich glossy color\u0000",
               "type": "SJIS string"
             },
             "offset": 44,
@@ -19953,7 +19953,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "干しエビ\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Red Shrimp\u0000",
+              "translation": "Dried Shrimp\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -20597,7 +20597,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "カティン鉱石\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Cutting Ore\u0000",
+              "translation": "Katink Ore\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -20827,7 +20827,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "斬鉄鉱\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Iron-cutting Ore\u0000",
+              "translation": "Zantetsu Ore\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -21488,7 +21488,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "柔軟性があり割れにくいのが特徴\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Flexibility yet extremely durable\u0000",
+              "translation": "Flexible yet extremely durable\u0000",
               "type": "SJIS string"
             },
             "offset": 44,
@@ -21609,7 +21609,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "スプレンド鉱石\u0000\u0000\u0000\u0000",
-              "translation": "Splendid Ore\u0000",
+              "translation": "Splendium Ore\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -21655,7 +21655,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "エクセル鉱石\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Excellent Ore\u0000",
+              "translation": "Excellium Ore\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -21701,7 +21701,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "良質な木の化石\u0000\u0000\u0000\u0000",
-              "translation": "Wood Fossil\u0000",
+              "translation": "Fine Wood Fossil\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -21793,7 +21793,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "ユウビス鉱石\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Graceful Ore\u0000",
+              "translation": "Gracinite Ore\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -46497,7 +46497,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "ラスボス攻撃\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Last Boss Attack\u0000",
+              "translation": "Final Boss Atack\u0000",
               "type": "SJIS string"
             },
             "offset": 0,

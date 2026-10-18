@@ -66,7 +66,7 @@ dialogtxt       " Second Place: Old Rubstone"
 dialogtxt       " Third Place: Healthy Sandals"
 code0309        
 dialogtxt       " Fourth Place: Poison Powder"
-dialogtxt       " Fifth Place: Red Shrimp"
+dialogtxt       " Fifth Place: Dried Shrimp"
 dialogtxt       " And that's all."
 goto            @Label_059e
 
@@ -142,7 +142,7 @@ dialogtxt       " First Place: Med Kit"
 dialogtxt       " Second Place: Spicy Curry"
 dialogtxt       " Third Place: Egg-fried Rice"
 code0309        
-dialogtxt       " Fourth Place: Hardboiled Eggs"
+dialogtxt       " Fourth Place: Softboiled Egg"
 dialogtxt       " Fifth Place: Heartleaf Potion"
 dialogtxt       " And that's all!"
 goto            @Label_0afa
@@ -187,7 +187,7 @@ dialogtxt       " Today's prizes are..."
 code0309        
 dialogtxt       " First Place: Friendship Ring"
 dialogtxt       " Second Place: Splendid Mineral"
-dialogtxt       " Third Place: Excellent Ore"
+dialogtxt       " Third Place: Excellium Ore"
 code0309        
 dialogtxt       " Fourth Place: Banish Material"
 dialogtxt       " Fifth Place: Sashite"
@@ -203,7 +203,7 @@ dialogtxt       " First Place: Ultimate Motor"
 dialogtxt       " Second Place: Steelfang Crystal"
 dialogtxt       " Third Place: Mad Ghost Ore"
 code0309        
-dialogtxt       " Fourth Place: Graceful Ore"
+dialogtxt       " Fourth Place: Gracinite Ore"
 dialogtxt       " Fifth Place: Resistor Crystal"
 dialogtxt       " Nuooooooooh!"
 goto            @Label_0afa
