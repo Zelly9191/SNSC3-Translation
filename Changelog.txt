@@ -36,6 +36,9 @@ v1.0.5.f
 === Minor Changes ===
 
 Next Release
+    Changed Last Boss Attack to Final Boss Attack
+    Changed Red Shrimp to Dried Shrimp
+    Changed Hardboiled Eggs to Softboiled Egg
     Changed Soft Leather name and description to "Soft Pelt: Its softness makes it easy to work with"
     Changed Durable Leather name and description to "Durable Pelt: Durable, but stiff & tricky to work with"
     Changed Quality Leather name and description to "Premium Pelt: Quality fur, with a rich glossy color"
