@@ -257,8 +257,7 @@ code0479        1, 0, 14
 code047d        1, 111
 call            @Func_4bcc
 call            @Func_4b4a
-dialogtxt       "What in the world is going?"
-dialogtxt       "on here?"
+dialogtxt       "What in the world is going on here?"
 code047b        
 code0309        
 call            @Func_4b9e

@@ -460,7 +460,7 @@ dialogtxt       "Ah... Father!"
 code047b        
 code0309        
 code0479        1, 4, 16
-dialogtxt       "Um... I'm sorry."
+dialogtxt       "Um... I'm sorry, please excuse me."
 code0309        
 call            @Func_1f1a
 call            @Func_1e7e

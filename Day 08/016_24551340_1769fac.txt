@@ -438,7 +438,8 @@ code040b
 @Event_12ba:
 code0301        8, 7
 dialogtxt       "　"
-dialogtxt       "　 Fishing Friends Newspaper Volume 2"
+dialogtxt       "　Fishing Friends Newspaper　　 "
+dialogtxt       "　　　　　　　　 —Volume 2"
 code0309        
 dialogtxt       "If you keep fishing for a while,"
 dialogtxt       "you may randomly find a fish that"
