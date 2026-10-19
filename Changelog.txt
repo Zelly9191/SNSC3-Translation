@@ -73,6 +73,7 @@ v1.1.0.f
     Standardized descriptions for the music-themed weapons.
     Corrected Bee Beat being described as "poisonous" when it's actually venomous.
     Corrected mistake where Bostaph's Workshop grunts incorrectly claim VE hurt their master.
+    Fixed two instances of "Craftnight" instead of "Craftknight". (Seriously how'd we mess this one up)
     Fixed typo in opening scene (whoops...).
     Fixed Rufeel claiming to be "more stronger".
     Fixed Chief using inconsistent pronouns for Rufeel.

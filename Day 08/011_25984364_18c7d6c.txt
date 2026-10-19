@@ -247,7 +247,7 @@ code0309
 code0479        1, 1, 12
 dialogtxt       "Lady Ianna told me this item"
 dialogtxt       "is worth it's weight in gold"
-dialogtxt       "to any Craftnight!"
+dialogtxt       "to any Craftknight!"
 code0309        
 call            @Func_29b6
 code0479        0, 4, 12

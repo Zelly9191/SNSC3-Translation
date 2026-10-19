@@ -592,7 +592,7 @@ code047b
 code0309        
 code0479        0, 4, 16
 code0479        1, 2, 12
-dialogtxt       "\"We Craftnights make weapons as a"
+dialogtxt       "\"We Craftknights make weapons as a"
 dialogtxt       "means to an end, not as an end"
 dialogtxt       "in itself.\""
 code0309        
