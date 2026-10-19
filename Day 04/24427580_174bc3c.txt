@@ -662,7 +662,7 @@ call            @Func_3e72
 code0479        1, 5, 17
 call            @Func_3ea8
 dialogtxt       "N-No, I'm fine!"
-dialogtxt       "I'm not scare of Benson at all!"
+dialogtxt       "I'm not scared of Benson at all!"
 code0309        
 call            @Func_3ede
 code0479        0, 1, 16

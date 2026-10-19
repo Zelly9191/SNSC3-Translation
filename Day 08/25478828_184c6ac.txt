@@ -28,7 +28,7 @@ goto            @Label_0226
 @Label_0226:
 code030a        6, 1
 dialogtxt       "　　　We've cleared Murno's name."
-dialogtxt       "　Now, to protect Govan's Magic Stone"
+dialogtxt       "　Now, to protect Govan's Demon Stone"
 dialogtxt       "　　　　we need to catch Anise."
 code030a        6, 1
 jumpz           @Cond_0346, ($b002 == 0)

@@ -565,7 +565,8 @@ code040b
 @Event_17a2:
 code0301        8, 7
 dialogtxt       "　"
-dialogtxt       "　Fishing Friends Newspaper　Volume 1"
+dialogtxt       "　Fishing Friends Newspaper　　 "
+dialogtxt       "　　　　　　　　 —Volume: 1"
 code0309        
 dialogtxt       "It's said the Deckell Village Pond"
 dialogtxt       "contains a fish whose cuteness"

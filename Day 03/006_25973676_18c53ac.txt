@@ -725,7 +725,7 @@ setvar          $bv018, ($bv018 | 0x0001)
 code0301        8, 7
 code047e        0, 1
 dialogtxt       "Are you about to go out? Could you find"
-dialogtxt       "a Vampire Pump for me?"
+dialogtxt       "a Vampiric Pump for me?"
 code0309        
 dialogtxt       "In exchange, I'll give you something"
 dialogtxt       "really nice! I won't say what it is,"
@@ -779,7 +779,7 @@ code0301        8, 7
 code047e        0, 1
 dialogtxt       "No worries if it's too much of"
 dialogtxt       "a hassle, but could you find me"
-dialogtxt       "a Vampire Pump, please?"
+dialogtxt       "a Vampiric Pump, please?"
 code0309        
 code047e        0, 0
 code0302        7

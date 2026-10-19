@@ -518,7 +518,7 @@
       }
     ],
     "raw": "良い武器ができた！\u0000\u0000",
-    "translation": "Good weapon made!\u0000",
+    "translation": "Made a great weapon!\u0000",
     "type": "SJIS string"
   },
   "0x80bffd8": {
@@ -23650,7 +23650,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "赤い液体を吸い上げる為の物らしい\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Seemingly effective to suck red liquid\u0000",
+              "translation": "Seemingly made for sucking up red liquid\u0000",
               "type": "SJIS string"
             },
             "offset": 44,
@@ -24185,7 +24185,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "しびれ鉄粉\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Paralysis Powder\u0000",
+              "translation": "Numbing Iron Grit\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -24202,7 +24202,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "触るとマヒしてしまう危険な鉄の粉\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Numbs your body on touch\u0000",
+              "translation": "Hazardous grit; contact numbs your body\u0000",
               "type": "SJIS string"
             },
             "offset": 44,
@@ -24231,7 +24231,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "猛毒の鉄くず\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Poison Powder\u0000",
+              "translation": "Toxic Iron Scraps\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -24248,7 +24248,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "どうして出来たのか猛毒を含んだ鉄くず\u0000\u0000\u0000\u0000",
-              "translation": "Contains a deadly poison\u0000",
+              "translation": "Scrap iron somehow full of deadly toxins\u0000",
               "type": "SJIS string"
             },
             "offset": 44,
@@ -24277,7 +24277,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "ネムリ鉄粉\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Sleeping Powder\u0000",
+              "translation": "Sedative Iron Sand\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -24323,7 +24323,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "赤サビの粉\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Rust Powder\u0000",
+              "translation": "Red Rust Dust\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -24340,7 +24340,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "武器がサビる厄介な代物だが…\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Dangerous dust that corrodes weapons\u0000",
+              "translation": "Rusty weapons are usually a pain, but…\u0000",
               "type": "SJIS string"
             },
             "offset": 44,
@@ -27836,7 +27836,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "ハードモーターを作って下さい\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Craft a Hard Motor for me, please!\u0000",
+              "translation": "Craft a Hard Rotor for me, please!\u0000",
               "type": "SJIS string"
             },
             "offset": 44,
@@ -27882,7 +27882,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "アイアンアロウを作って下さい\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Craft an Iron Arrow for me, please!\u0000",
+              "translation": "Craft an Iron Bow for me, please!\u0000",
               "type": "SJIS string"
             },
             "offset": 44,
@@ -27928,7 +27928,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "スライスナックルを作って下さい\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Craft a Slice Knuckles for me, please!\u0000",
+              "translation": "Craft Slice Knuckles for me, please!\u0000",
               "type": "SJIS string"
             },
             "offset": 44,
@@ -29153,7 +29153,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "ジェイドの荷物\u0000\u0000\u0000\u0000",
-              "translation": "Jade's Luggage\u0000",
+              "translation": "Jade's Delivery\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -29170,7 +29170,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "ジェイドにお使いでたのまれた荷物\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Luggage Jade requested to be delivered\u0000",
+              "translation": "A package that Jade wants delivered\u0000",
               "type": "SJIS string"
             },
             "offset": 44,
@@ -30779,7 +30779,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "裁きの短剣\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Judgement Knife\u0000",
+              "translation": "Judgement Dagger\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -31101,7 +31101,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "スプレンドソード\u0000\u0000",
-              "translation": "Splendid Sword\u0000",
+              "translation": "Splendium Sword\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -32941,7 +32941,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "スプレンドアクス\u0000\u0000",
-              "translation": "Splendid Axe\u0000",
+              "translation": "Splendium Axe\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -34781,7 +34781,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "スプレンドパイク\u0000\u0000",
-              "translation": "Splendid Pike\u0000",
+              "translation": "Splendium Pike\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -36621,7 +36621,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "スプレンドブロウ\u0000\u0000",
-              "translation": "Splendid Blow\u0000",
+              "translation": "Splendium Blow\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -37403,7 +37403,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "ニードルモーター\u0000\u0000",
-              "translation": "Needle Motor\u0000",
+              "translation": "Needle Rotor\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -37449,7 +37449,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "ハードモーター\u0000\u0000\u0000\u0000",
-              "translation": "Hard Motor\u0000",
+              "translation": "Hard Rotor\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -37495,7 +37495,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "グレイブモーター\u0000\u0000",
-              "translation": "Grave Motor\u0000",
+              "translation": "Grave Rotor\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -38047,7 +38047,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "バニティモーター\u0000\u0000",
-              "translation": "Vanity Motor\u0000",
+              "translation": "Vanity Rotor\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -38185,7 +38185,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "サッシュモーター\u0000\u0000",
-              "translation": "Sash Motor\u0000",
+              "translation": "Sash Rotor\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -38369,7 +38369,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "セレブモーター\u0000\u0000\u0000\u0000",
-              "translation": "Ornate Motor\u0000",
+              "translation": "Ornate Rotor\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -38461,7 +38461,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "スプレンドドリル\u0000\u0000",
-              "translation": "Splendid Drill\u0000",
+              "translation": "Splendium Drill\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -38507,7 +38507,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "エクセルモーター\u0000\u0000",
-              "translation": "Excellium Motor\u0000",
+              "translation": "Excellium Rotor\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -38921,7 +38921,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "忍動機\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Ninja Motor\u0000",
+              "translation": "Ninja Rotor\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -39335,7 +39335,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "グレイブアロウ\u0000\u0000\u0000\u0000",
-              "translation": "Grave Arrow\u0000",
+              "translation": "Grave Bow\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -39381,7 +39381,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "アイアンアロウ\u0000\u0000\u0000\u0000",
-              "translation": "Iron Arrow\u0000",
+              "translation": "Iron Bow\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -39427,7 +39427,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "リードアロウ\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Lead Arrow\u0000",
+              "translation": "Lead Bow\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -39519,7 +39519,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "スライスアロウ\u0000\u0000\u0000\u0000",
-              "translation": "Slice Arrow\u0000",
+              "translation": "Slice Bow\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -39703,7 +39703,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "エレガントアロウ\u0000\u0000",
-              "translation": "Elegant Arrow\u0000",
+              "translation": "Elegant Bow\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -39749,7 +39749,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "リボンアロウ\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Ribbon Arrow\u0000",
+              "translation": "Ribbon Bow\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -39887,7 +39887,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "バニティアロウ\u0000\u0000\u0000\u0000",
-              "translation": "Vanity Arrow\u0000",
+              "translation": "Vanity Bow\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -39933,7 +39933,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "コモンアロウ\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Common Arrow\u0000",
+              "translation": "Common Bow\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -40117,7 +40117,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "スプーンアロウ\u0000\u0000\u0000\u0000",
-              "translation": "Spoon Arrow\u0000",
+              "translation": "Spoon Bow\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -40209,7 +40209,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "セレブアロウ\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Ornate Arrow\u0000",
+              "translation": "Ornate Bow\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -40301,7 +40301,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "スプレンドボウ\u0000\u0000\u0000\u0000",
-              "translation": "Splendid Bow\u0000",
+              "translation": "Splendium Bow\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -40347,7 +40347,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "エクセルアロウ\u0000\u0000\u0000\u0000",
-              "translation": "Excellium Arrow\u0000",
+              "translation": "Excellium Bow\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -40393,7 +40393,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "ハイアロウ\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "High Arrow\u0000",
+              "translation": "High Bow\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -40439,7 +40439,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "レジストアロウ\u0000\u0000\u0000\u0000",
-              "translation": "Resistor Arrow\u0000",
+              "translation": "Resistor Bow\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -40669,7 +40669,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "ファングアロウ\u0000\u0000\u0000\u0000",
-              "translation": "Fang Arrow\u0000",
+              "translation": "Fang Bow\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -40853,7 +40853,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "クロックアロウ\u0000\u0000\u0000\u0000",
-              "translation": "Clock Arrow\u0000",
+              "translation": "Clock Bow\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -40991,7 +40991,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "アストラルアロウ\u0000\u0000",
-              "translation": "Astral Arrow\u0000",
+              "translation": "Astral Bow\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
