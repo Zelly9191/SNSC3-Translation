@@ -7,6 +7,7 @@ Next Release
     Changed ore #08 name from Iron-cutting Ore to Zantetsu Ore
     Changed ore #25 name from Splendid Ore to Splendium Ore
     Changed ore #26 name from Excellent Ore to Excellium Ore
+    Changed Weapon #26 names from Excellent/Excel Weapons to Excellium Weapons
     Changed ore #27 name from Wood Fossil to Fine Wood Fossil
     Changed ore #29 name again from Graceful Ore to Gracinite Ore
 
