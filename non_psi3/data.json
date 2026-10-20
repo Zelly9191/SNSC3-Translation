@@ -18389,7 +18389,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "卵かけ飯\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Egg-fried Rice\u0000",
+              "translation": "Egg on Rice\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -19723,7 +19723,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "極上な天然の水\u0000\u0000\u0000\u0000",
-              "translation": "Clean Water Vial\u0000",
+              "translation": "Pure Spring Water\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -20551,7 +20551,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "スレンド原石\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Slender Crystal\u0000",
+              "translation": "Slendite Crystal\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
