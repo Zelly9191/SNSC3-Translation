@@ -49,20 +49,33 @@ Next Release
     Changed "Last Boss Attack" to "Final Boss Attack"
     Changed "Red Shrimp" to "Dried Shrimp"
     Changed "Hardboiled Eggs" to "Softboiled Egg"
+    Changed "Excellium Knuckles" to "Excellium Fists"
     Changed "Soft Leather" name and description to "Soft Pelt: Its softness makes it easy to work with"
-    Changed "Durable Leather" name and description to "Durable Pelt : Durable, but stiff & tricky to work with"
+    Changed "Durable Leather" name and description to "Tough Pelt : Durable, but stiff & tricky to work with"
     Changed "Quality Leather" name and description to "Premium Pelt : Quality fur, with a rich glossy color"
     Changed "Jade's Luggage" name and description to "Jade's Delivery : A package that Jade wants delivered"
-    Reword support menu's popup message "Can't equip this right now".
-    Reword cutscene text saying "Contact the village"
-    Reword Murno saying "i'm sorry" when leaving the room
+    Changed "Super Battle Attack" to "Super Battle Attack"
+    Changed "Place" and "First Place" regarding lottery to "Prize" and "Grand Prize"
+    Changed lotto system messages to be more clear
+    Reworded support menu's popup message "Can't equip this right now".
+    Reworded cutscene text saying "Contact the village"
+    Reworded late game puzzle description.
+    Reworded some diolog from rufeel saying "huge success" + some gendered text in the same file.
+    Reworded Murno saying "i'm sorry" when leaving the room
     Shorten "Equipment" to "Equip" to avoid text overflow in shop menu.
     Cleaned up dialogue for breaking every object in a dungeon.
     Clarified guard saying "the other girl," referring to Murno.
     Clarified Murno saying "I'm glad to see that you are also safe" when she can't see you.
-    fixed various lotto prize text mistakes.
+    Fixed various lotto prize text mistakes. (x2)
+    Fixed the attract text related to the lotto
+    Fixed a sign that said something different on a later day dispite not changing.
+    Fixed an instance of man saying "Observation Ticket" instead of "Spectator Ticket"
+    Fixed missing "'s" "Spectator Ticket" description
+    Fixed missing "'" in "Red Pincher" description
+    Fixed capital "T" in post game Rufeel text
+    Fixed "Wow!" now "Wow?"
     Fixed two instances of "Craftnight" instead of "Craftknight". (Seriously, how'd we mess this one up?)
-    Fixed the incorrect usage of they.
+    Fixed the incorrect usage of "they" when "she" should have been used.
     Fixed player saying "Yeah! Of course!" when asked if they'd lose to Jade.
     Fixed Iron-Blade Stone description "Flexibility" now "Flexible"
     Fixed Killfith calling you "Tak."
