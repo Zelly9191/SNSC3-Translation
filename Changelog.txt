@@ -67,6 +67,7 @@ Next Release
     Clarified guard saying "the other girl," referring to Murno.
     Clarified Murno saying "I'm glad to see that you are also safe" when she can't see you.
     Fixed various lotto prize text mistakes. (x2)
+    Fixed Mr. Benson turning himself into Premium Paper
     Fixed the attract text related to the lotto
     Fixed a sign that said something different on a later day dispite not changing.
     Fixed an instance of man saying "Observation Ticket" instead of "Spectator Ticket"
