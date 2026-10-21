@@ -3,14 +3,15 @@
 Next Release
     Fix hardlock when viewing text log.
     Fix text log shows duplicated lines.
-    Changed ore #03 name from Cutting Ore to Katink Ore
-    Changed ore #08 name from Iron-cutting Ore to Zantetsu Ore
-    Changed ore #25 name from Splendid Ore to Splendium Ore
-    Changed Weapon #25 names from Splendid Weapons to Splendium Weapons
-    Changed ore #26 name from Excellent Ore to Excellium Ore
-    Changed Weapon #26 names from Excellent/Excel Weapons to Excellium Weapons
-    Changed ore #27 name from Wood Fossil to Fine Wood Fossil
-    Changed ore #29 name again from Graceful Ore to Gracinite Ore
+    Changed ore #02 name from "Slender Crystal" to "Slendite Crystal"
+    Changed ore #03 name from "Cutting Ore" to "Katink Ore"
+    Changed ore #08 name from "Iron-cutting" Ore to "Zantetsu Ore"
+    Changed ore #25 name from "Splendid Ore" to "Splendium Ore"
+    Changed Weapon #25 names from "Splendid" Weapons to "Splendium" Weapons
+    Changed ore #26 name from "Excellent Ore" to "Excellium Ore"
+    Changed Weapon #26 names from "Excellent"/"Excel" Weapons to "Excellium" Weapons
+    Changed ore #27 name from "Wood Fossil" to "Fine Wood Fossil"
+    Changed ore #29 name again from "Graceful Ore" to "Gracinite Ore"
     Changed the names and descriptions of the powders
     All weapons with the term "Arrow" have had it changed to "Bow"
     All weapons with the term "Motor" have had it changed to "Rotor"
@@ -41,11 +42,13 @@ v1.0.5.f
 === Minor Changes ===
 
 Next Release
+    Changed "Egg-fried Rice" to "Egg on Rice"
+    Changed "Clean Water Vial" to "Pure Spring Water"
     Changed "Good Weapon Made!" to "Made a great weapon!"
     Changed "Judgment Knife" to "Judgment Dagger"
-    Changed Last Boss Attack to Final Boss Attack
-    Changed Red Shrimp to Dried Shrimp
-    Changed Hardboiled Eggs to Softboiled Egg
+    Changed "Last Boss Attack" to "Final Boss Attack"
+    Changed "Red Shrimp" to "Dried Shrimp"
+    Changed "Hardboiled Eggs" to "Softboiled Egg"
     Changed "Soft Leather" name and description to "Soft Pelt: Its softness makes it easy to work with"
     Changed "Durable Leather" name and description to "Durable Pelt : Durable, but stiff & tricky to work with"
     Changed "Quality Leather" name and description to "Premium Pelt : Quality fur, with a rich glossy color"
