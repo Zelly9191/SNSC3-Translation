@@ -61,7 +61,7 @@ Next Release
     Cleaned up dialogue for breaking every object in a dungeon.
     Clarified guard saying "the other girl," referring to Murno.
     Clarified Murno saying "I'm glad to see that you are also safe" when she can't see you.
-    fixed various lotto prize text mistakes.
+    Fixed various lotto prize text mistakes.
     Fixed two instances of "Craftnight" instead of "Craftknight". (Seriously, how'd we mess this one up?)
     Fixed the incorrect usage of they.
     Fixed player saying "Yeah! Of course!" when asked if they'd lose to Jade.
@@ -87,6 +87,7 @@ Next Release
     Fixed accidental double space when discussing strategy before Magdrad fight.
     Fixed extra punctuation in day 6 conversation with partner.
     Fixed player saying "it's not our ault" in post-credits
+    Typo fixes and slight edit when Zakk asks for help with an order.
 
 v1.1.0.f
     Standardized name of "craft rank" and fixed associated typo.
