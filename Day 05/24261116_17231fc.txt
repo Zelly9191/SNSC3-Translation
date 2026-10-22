@@ -153,7 +153,7 @@ goto            @Label_0afa
 @Cond_0800:
 jumpz           @Cond_0962, ($h311 == 11)
 jumpz           @Cond_083e, ($b003 == 0)
-dialogtxt       "These prizes Are Unbelievable!"
+dialogtxt       "These Prizes Are Unbelievable!"
 goto            @Label_08cc
 
 @Cond_083e:

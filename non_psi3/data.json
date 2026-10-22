@@ -620,7 +620,7 @@
       }
     ],
     "raw": "　今日は、これで営業終了です　\u0000\u0000",
-    "translation": "…and we're done for today.\u0000",
+    "translation": "… and we're done for today.\u0000",
     "type": "SJIS string"
   },
   "0x8b72234": {
@@ -6596,7 +6596,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "大きなハサミで　勢いよく突進する　力任せなヤツ\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Fearless, and 　fully reliant 　in it's pincers\u0000",
+              "translation": "Fearless, and 　fully reliant 　in its pincers\u0000",
               "type": "SJIS string"
             },
             "offset": 64,

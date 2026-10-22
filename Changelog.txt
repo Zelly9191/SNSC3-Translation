@@ -54,7 +54,7 @@ Next Release
     Changed "Durable Leather" name and description to "Tough Pelt : Durable, but stiff & tricky to work with"
     Changed "Quality Leather" name and description to "Premium Pelt : Quality fur, with a rich glossy color"
     Changed "Jade's Luggage" name and description to "Jade's Delivery : A package that Jade wants delivered"
-    Changed "Super Battle Attack" to "Super Battle Attack"
+    Changed "Super Battle Rush" to "Super Battle Attack"
     Changed "Place" and "First Place" regarding lottery to "Prize" and "Grand Prize"
     Changed lotto system messages to be more clear
     Reworded support menu's popup message "Can't equip this right now".
@@ -72,7 +72,6 @@ Next Release
     Fixed a sign that said something different on a later day dispite not changing.
     Fixed an instance of man saying "Observation Ticket" instead of "Spectator Ticket"
     Fixed missing "'s" "Spectator Ticket" description
-    Fixed missing "'" in "Red Pincher" description
     Fixed capital "T" in post game Rufeel text
     Fixed "Wow!" now "Wow?"
     Fixed two instances of "Craftnight" instead of "Craftknight". (Seriously, how'd we mess this one up?)
