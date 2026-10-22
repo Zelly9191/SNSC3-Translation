@@ -53,6 +53,7 @@ Next Release
     Changed "Durable Leather" name and description to "Durable Pelt : Durable, but stiff & tricky to work with"
     Changed "Quality Leather" name and description to "Premium Pelt : Quality fur, with a rich glossy color"
     Changed "Jade's Luggage" name and description to "Jade's Delivery : A package that Jade wants delivered"
+    Changed "Healthy Sandals" to "Health Sandals" and clarified description to make it clear they're accupressure sandals
     Reword support menu's popup message "Can't equip this right now".
     Reword cutscene text saying "Contact the village"
     Reword Murno saying "i'm sorry" when leaving the room

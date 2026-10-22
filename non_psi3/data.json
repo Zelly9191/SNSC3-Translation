@@ -24691,7 +24691,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "健康サンダル\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Healthy Sandals\u0000",
+              "translation": "Health Sandals\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -24708,7 +24708,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "足つぼを刺激してとても気持ちが良い\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Stimulates your feet and feels great\u0000",
+              "translation": "They stimulate your pressure points\u0000",
               "type": "SJIS string"
             },
             "offset": 44,
