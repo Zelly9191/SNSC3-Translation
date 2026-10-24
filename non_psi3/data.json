@@ -24691,7 +24691,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "健康サンダル\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Healthy Sandals\u0000",
+              "translation": "Health Sandals\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -24708,7 +24708,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "足つぼを刺激してとても気持ちが良い\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Stimulates your feet and feels great\u0000",
+              "translation": "They stimulate your pressure points\u0000",
               "type": "SJIS string"
             },
             "offset": 44,
@@ -24737,7 +24737,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "伝説の青竹\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Fabled Bamboo\u0000",
+              "translation": "Legendary Bamboo\u0000",
               "type": "SJIS string"
             },
             "offset": 0,
@@ -24754,7 +24754,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "踏めば踏むほどに健康が満ちてくる\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Stepping on it makes you feel healthier\u0000",
+              "translation": "Roll it under your foot to feel healthier\u0000",
               "type": "SJIS string"
             },
             "offset": 44,
@@ -24892,7 +24892,7 @@
               "new address": null,
               "pointer address": null,
               "raw": "何でも突き通す伝説級の鉄串\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-              "translation": "Can pierce anything\u0000",
+              "translation": "A fabled needle that pierces anything\u0000",
               "type": "SJIS string"
             },
             "offset": 44,

@@ -241,9 +241,9 @@ code0309
 call            @Func_1f8a
 code0479        1, 0, 16
 call            @Func_1fc0
-dialogtxt       "Someone I know requested an order"
-dialogtxt       "for me, and I wanted Lemmy to"
-dialogtxt       "help me, but he's busy..."
+dialogtxt       "Someone I know had an order for me,"
+dialogtxt       "and I asked Lemmy to help, but he's"
+dialogtxt       "too busy..."
 code0309        
 code0479        0, 0, 16
 code0479        1, 4, 12
@@ -255,13 +255,11 @@ call            @Func_1ff6
 code0479        0, 2, 14
 call            @Func_1f54
 jumpz           @Cond_0a4c, ($b002 == 0)
-dialogtxt       "Lemmy this, Lemmy that..."
-dialogtxt       "Why even come to me, then?!"
+dialogtxt       "Geez! Why is it always Lemmy with you?"
 goto            @Label_0a74
 
 @Cond_0a4c:
-dialogtxt       "Lemmy this, Lemmy that..."
-dialogtxt       "Why even come to me, then?!"
+dialogtxt       "Geez! Why is it always Lemmy with you?"
 goto            @Label_0a74
 
 @Label_0a74:
@@ -281,8 +279,8 @@ code0479        0, 0, 12
 code0479        1, 0, 12
 call            @Func_203a
 call            @Func_1fa2
-dialogtxt       "The weapon details for order are listed"
-dialogtxt       "on this form. It's easy as pie!"
+dialogtxt       "The weapon details for the order are"
+dialogtxt       "listed on the form. It's easy as pie!"
 code0309        
 call            @Func_2090
 call            @Func_1fde
@@ -308,8 +306,8 @@ code0479        0, 0, 12
 code0479        1, 0, 12
 call            @Func_203a
 call            @Func_1fa2
-dialogtxt       "The weapon details for order are listed"
-dialogtxt       "on this form. It's easy as pie!"
+dialogtxt       "The weapon details for the order are"
+dialogtxt       "listed on the form. It's easy as pie!"
 code047b        
 code0309        
 call            @Func_2090
