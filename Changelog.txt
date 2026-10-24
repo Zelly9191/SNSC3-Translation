@@ -57,6 +57,8 @@ Next Release
     Changed "Super Battle Rush" to "Super Battle Attack"
     Changed "Place" and "First Place" regarding lottery to "Prize" and "Grand Prize"
     Changed lotto system messages to be more clear
+    Changed "Healthy Sandals" to "Health Sandals" and clarified description to make it clear they're accupressure sandals
+    Changed "Fabled Bamboo" and "Fabled Skewer" to "Legendary," and clarified descriptions
     Reworded support menu's popup message "Can't equip this right now".
     Reworded cutscene text saying "Contact the village"
     Reworded late game puzzle description.
@@ -99,6 +101,9 @@ Next Release
     Fixed accidental double space when discussing strategy before Magdrad fight.
     Fixed extra punctuation in day 6 conversation with partner.
     Fixed player saying "it's not our ault" in post-credits
+    Fixed mine scene where kilfith says "I'm going on ahead" then he doesn't
+    Typo fixes and slight edit when Zakk asks for help with an order.
+
 
 v1.1.0.f
     Standardized name of "craft rank" and fixed associated typo.
