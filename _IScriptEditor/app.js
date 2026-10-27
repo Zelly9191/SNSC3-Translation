@@ -2085,7 +2085,7 @@ function readJsonFile() {
         reader.onload = function(e){
             jsonText = e.target.result;
             document.getElementById('json-content').innerHTML = '';
-            jsonData = JSON.parse(jsonText.replaceAll('\\', '\\\\'));
+            jsonData = JSON.parse(jsonText.replaceAll('\\', '\\\\').replaceAll('\\\\"', '\\"'));
             PAGES = Array();
             PAGE_MAX = 0;
             CURRENT_PAGE = 0;
